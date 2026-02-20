@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a = 5, b = 10;\n    printf(\"%d\", a+b);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int a = 5, b = 10;<br>    printf(\"%d\", a+b);<br>    return 0;<br>}",
     "options": {
       "a": "510",
       "b": "15",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x = 7;\n    if(x%2==0)\n        printf(\"Even\");\n    else\n        printf(\"Odd\");\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটির আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int x = 7;<br>    if(x%2==0)<br>        printf(\"Even\");<br>    else<br>        printf(\"Odd\");<br>    return 0;<br>}<br>উদ্দীপকের প্রোগ্রামটির আউটপুট কী?",
     "options": {
       "a": "Even",
       "b": "Odd",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "question": "নিচের কোডের আউটপুট কী?\nint i;\nfor(i=1; i<=3; i++)\n    printf(\"%d \", i);",
+    "question": "নিচের কোডের আউটপুট কী?<br>int i;<br>for(i=1; i<=3; i++)<br>    printf(\"%d \", i);",
     "options": {
       "a": "1 2 3",
       "b": "1 2 3 4",
@@ -145,7 +145,7 @@
   },
   {
     "id": 13,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=5, b=3, c;\n    c = a>b ? a : b;\n    printf(\"%d\", c);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int a=5, b=3, c;<br>    c = a>b ? a : b;<br>    printf(\"%d\", c);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "5",
       "b": "3",
@@ -157,7 +157,7 @@
   },
   {
     "id": 14,
-    "question": "নিচের কোডে ত্রুটি (error) কোথায়?\n#include <stdio.h>\nint main() {\n    int num;\n    printf(\"Enter a number\");\n    scanf(\"%d\", num);\n    return 0;\n}",
+    "question": "নিচের কোডে ত্রুটি (error) কোথায়?<br>#include <stdio.h><br>int main() {<br>    int num;<br>    printf(\"Enter a number\");<br>    scanf(\"%d\", num);<br>    return 0;<br>}",
     "options": {
       "a": "printf এ সেমিকোলন নেই",
       "b": "scanf এ & চিহ্ন নেই",
@@ -169,7 +169,7 @@
   },
   {
     "id": 15,
-    "question": "নিচের লুপটি কতবার চলবে?\nint i=5;\nwhile(i<10) {\n    printf(\"Hello\");\n    i++;\n}",
+    "question": "নিচের লুপটি কতবার চলবে?<br>int i=5;<br>while(i<10) {<br>    printf(\"Hello\");<br>    i++;<br>}",
     "options": {
       "a": "4 বার",
       "b": "5 বার",
@@ -193,7 +193,7 @@
   },
   {
     "id": 17,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=10, y=20;\n    x = x+y;\n    y = x-y;\n    x = x-y;\n    printf(\"x=%d, y=%d\", x, y);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int x=10, y=20;<br>    x = x+y;<br>    y = x-y;<br>    x = x-y;<br>    printf(\"x=%d, y=%d\", x, y);<br>    return 0;<br>}",
     "options": {
       "a": "x=10, y=20",
       "b": "x=20, y=10",
@@ -205,7 +205,7 @@
   },
   {
     "id": 18,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=0; i<5; i+=2)\n        printf(\"%d \", i);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int i;<br>    for(i=0; i<5; i+=2)<br>        printf(\"%d \", i);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "0 1 2 3 4",
       "b": "0 2 4",
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5;\n    a++;\n    printf(\"%d\", a);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int a=5;<br>    a++;<br>    printf(\"%d\", a);<br>    return 0;<br>}",
     "options": {
       "a": "5",
       "b": "6",
@@ -253,7 +253,7 @@
   },
   {
     "id": 22,
-    "question": "নিচের কোডে ত্রুটি শনাক্ত করুন।\n#include <stdio.h>\nint main() {\n    int i=0;\n    while(i<5) {\n        printf(\"%d\\n\", i);\n    }\n    return 0;\n}",
+    "question": "নিচের কোডে ত্রুটি শনাক্ত করুন।<br>#include <stdio.h><br>int main() {<br>    int i=0;<br>    while(i<5) {<br>        printf(\"%d\\n\", i);<br>    }<br>    return 0;<br>}",
     "options": {
       "a": "printf এ ফরম্যাট ঠিক নেই",
       "b": "লুপটি অসীম (infinite)",
@@ -265,7 +265,7 @@
   },
   {
     "id": 23,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int num=5;\n    switch(num) {\n        case 1: printf(\"One\"); break;\n        case 5: printf(\"Five\"); break;\n        default: printf(\"Other\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int num=5;<br>    switch(num) {<br>        case 1: printf(\"One\"); break;<br>        case 5: printf(\"Five\"); break;<br>        default: printf(\"Other\");<br>    }<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "One",
       "b": "Five",
@@ -289,7 +289,7 @@
   },
   {
     "id": 25,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int arr[3] = {10, 20, 30};\n    printf(\"%d\", arr[1]);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int arr[3] = {10, 20, 30};<br>    printf(\"%d\", arr[1]);<br>    return 0;<br>}",
     "options": {
       "a": "10",
       "b": "20",
@@ -301,7 +301,7 @@
   },
   {
     "id": 26,
-    "question": "নিচের লুপটি কতবার চলবে?\nint i=1;\ndo {\n    printf(\"Hi\");\n    i++;\n} while(i<=0);",
+    "question": "নিচের লুপটি কতবার চলবে?<br>int i=1;<br>do {<br>    printf(\"Hi\");<br>    i++;<br>} while(i<=0);",
     "options": {
       "a": "0 বার",
       "b": "1 বার",
@@ -325,7 +325,7 @@
   },
   {
     "id": 28,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x=10;\n    if(x>5)\n        if(x<15)\n            printf(\"Inside\");\n        else\n            printf(\"Outside\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int x=10;<br>    if(x>5)<br>        if(x<15)<br>            printf(\"Inside\");<br>        else<br>            printf(\"Outside\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "Inside",
       "b": "Outside",
@@ -337,7 +337,7 @@
   },
   {
     "id": 29,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5, b=5;\n    printf(\"%d\", a==b);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int a=5, b=5;<br>    printf(\"%d\", a==b);<br>    return 0;<br>}",
     "options": {
       "a": "5",
       "b": "1",
@@ -361,7 +361,7 @@
   },
   {
     "id": 31,
-    "question": "নিচের অ্যারের সাইজ কত?\nint arr[] = {2,4,6,8};",
+    "question": "নিচের অ্যারের সাইজ কত?<br>int arr[] = {2,4,6,8};",
     "options": {
       "a": "3",
       "b": "4",
@@ -373,7 +373,7 @@
   },
   {
     "id": 32,
-    "question": "নিচের কোডের আউটপুট কী?\nint a=10, b=3;\nfloat c = a/b;\nprintf(\"%.2f\", c);",
+    "question": "নিচের কোডের আউটপুট কী?<br>int a=10, b=3;<br>float c = a/b;<br>printf(\"%.2f\", c);",
     "options": {
       "a": "3.00",
       "b": "3.33",
@@ -385,7 +385,7 @@
   },
   {
     "id": 33,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=1; i<=5; i++) {\n        if(i==3)\n            continue;\n        printf(\"%d \", i);\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int i;<br>    for(i=1; i<=5; i++) {<br>        if(i==3)<br>            continue;<br>        printf(\"%d \", i);<br>    }<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "1 2 3 4 5",
       "b": "1 2 4 5",
@@ -409,7 +409,7 @@
   },
   {
     "id": 35,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=0;\n    while(x++ < 3)\n        printf(\"%d \", x);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int x=0;<br>    while(x++ < 3)<br>        printf(\"%d \", x);<br>    return 0;<br>}",
     "options": {
       "a": "1 2 3",
       "b": "0 1 2",
@@ -433,7 +433,7 @@
   },
   {
     "id": 37,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[5] = {10,20,30,40,50};\n    int sum=0, i;\n    for(i=0; i<5; i+=2)\n        sum = sum + a[i];\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int a[5] = {10,20,30,40,50};<br>    int sum=0, i;<br>    for(i=0; i<5; i+=2)<br>        sum = sum + a[i];<br>    printf(\"%d\", sum);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "60",
       "b": "90",
@@ -445,7 +445,7 @@
   },
   {
     "id": 38,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=1; i<=3; i++);\n        printf(\"%d \", i);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int i;<br>    for(i=1; i<=3; i++);<br>        printf(\"%d \", i);<br>    return 0;<br>}",
     "options": {
       "a": "1 2 3",
       "b": "4",
@@ -453,7 +453,7 @@
       "d": "কিছুই না"
     },
     "correct_answer": "b",
-    "explanation": "for লুপের পর সেমিকোলন (;) দেওয়ায় লুপটি খালি body নিয়ে i=4 পর্যন্ত চলে। তারপর printf(\"%d \", i); একবারই 실행 হয় i=4 প্রিন্ট করে। তাই আউটপুট 4।"
+    "explanation": "for লুপের পর সেমিকোলন (;) দেওয়ায় লুপটি খালি body নিয়ে i=4 পর্যন্ত চলে। তারপর printf("%d ", i); একবারই 실행 হয় i=4 প্রিন্ট করে। তাই আউটপুট 4।"
   },
   {
     "id": 39,
@@ -469,7 +469,7 @@
   },
   {
     "id": 40,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    float f = 5.5;\n    int i = f;\n    printf(\"%d\", i);\n    return 0;\n}",
+    "question": "নিচের কোডে ত্রুটি কী?<br>#include <stdio.h><br>int main() {<br>    float f = 5.5;<br>    int i = f;<br>    printf(\"%d\", i);<br>    return 0;<br>}",
     "options": {
       "a": "float to int conversion সম্ভব নয়",
       "b": "কোন ত্রুটি নেই",
@@ -481,7 +481,7 @@
   },
   {
     "id": 41,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=5, fact=1, i;\n    for(i=1; i<=n; i++)\n        fact = fact * i;\n    printf(\"%d\", fact);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী গণনা করে?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int n=5, fact=1, i;<br>    for(i=1; i<=n; i++)<br>        fact = fact * i;<br>    printf(\"%d\", fact);<br>    return 0;<br>}<br>উদ্দীপকের প্রোগ্রামটি কী গণনা করে?",
     "options": {
       "a": "n এর গুণিতক",
       "b": "n এর ফ্যাক্টোরিয়াল",
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=5;\n    printf(\"%d %d %d\", x, x++, ++x);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int x=5;<br>    printf(\"%d %d %d\", x, x++, ++x);<br>    return 0;<br>}",
     "options": {
       "a": "5 5 6",
       "b": "6 5 7",
@@ -517,7 +517,7 @@
   },
   {
     "id": 44,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[3] = {5,10,15};\n    int *p = a;\n    printf(\"%d\", *(p+1));\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int a[3] = {5,10,15};<br>    int *p = a;<br>    printf(\"%d\", *(p+1));<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
     "options": {
       "a": "5",
       "b": "10",
@@ -529,7 +529,7 @@
   },
   {
     "id": 45,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i=0;\n    for(; i<3; i++);\n    printf(\"%d\", i);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int i=0;<br>    for(; i<3; i++);<br>    printf(\"%d\", i);<br>    return 0;<br>}",
     "options": {
       "a": "0",
       "b": "3",
@@ -553,7 +553,7 @@
   },
   {
     "id": 47,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=1234, rev=0, rem;\n    while(n!=0) {\n        rem = n%10;\n        rev = rev*10 + rem;\n        n = n/10;\n    }\n    printf(\"%d\", rev);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী করে?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int n=1234, rev=0, rem;<br>    while(n!=0) {<br>        rem = n%10;<br>        rev = rev*10 + rem;<br>        n = n/10;<br>    }<br>    printf(\"%d\", rev);<br>    return 0;<br>}<br>উদ্দীপকের প্রোগ্রামটি কী করে?",
     "options": {
       "a": "n এর অঙ্কগুলোর যোগফল",
       "b": "n এর বিপরীত সংখ্যা",
@@ -565,7 +565,7 @@
   },
   {
     "id": 48,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=0; i<5; i++)\n        int x = i;\n    printf(\"%d\", x);\n    return 0;\n}",
+    "question": "নিচের কোডে ত্রুটি কী?<br>#include <stdio.h><br>int main() {<br>    int i;<br>    for(i=0; i<5; i++)<br>        int x = i;<br>    printf(\"%d\", x);<br>    return 0;<br>}",
     "options": {
       "a": "x ডিক্লেয়ার করা হয়নি",
       "b": "printf এ %d ভুল",
@@ -577,7 +577,7 @@
   },
   {
     "id": 49,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5, b=10, c=15;\n    if(a>b && a>c)\n        printf(\"%d\", a);\n    else if(b>a && b>c)\n        printf(\"%d\", b);\n    else\n        printf(\"%d\", c);\n    return 0;\n}",
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int a=5, b=10, c=15;<br>    if(a>b && a>c)<br>        printf(\"%d\", a);<br>    else if(b>a && b>c)<br>        printf(\"%d\", b);<br>    else<br>        printf(\"%d\", c);<br>    return 0;<br>}",
     "options": {
       "a": "5",
       "b": "10",
@@ -589,7 +589,7 @@
   },
   {
     "id": 50,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=i; j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কেমন হবে?",
+    "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int i, j;<br>    for(i=1; i<=3; i++) {<br>        for(j=1; j<=i; j++)<br>            printf(\"*\");<br>        printf(\"\\n\");<br>    }<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কেমন হবে?",
     "options": {
       "a": "***\n***\n***",
       "b": "*\n**\n***",
@@ -598,1810 +598,5 @@
     },
     "correct_answer": "b",
     "explanation": "বাইরের লুপ i=1,2,3 এর জন্য ভিতরের লুপ j=1 থেকে i পর্যন্ত * প্রিন্ট করে, তাই i=1 এ ১টি, i=2 তে ২টি, i=3 এ ৩টি তারা প্রিন্ট হবে।"
-  },
-  {
-    "id": 51,
-    "question": "C প্রোগ্রামিং ভাষায় 'printf' ফাংশনের কাজ কী?",
-    "options": {
-      "a": "কীবোর্ড থেকে ইনপুট নেওয়া",
-      "b": "স্ক্রিনে আউটপুট দেখানো",
-      "c": "ফাইল ওপেন করা",
-      "d": "মেমরি এলোকেট করা"
-    },
-    "correct_answer": "b",
-    "explanation": "printf ফাংশন ব্যবহারকারীর কাছে কনসোল বা স্ক্রিনে আউটপুট প্রদর্শনের জন্য ব্যবহৃত হয়।"
-  },
-  {
-    "id": 52,
-    "question": "নিচের কোনটি C তে কীওয়ার্ড (reserved word)?",
-    "options": {
-      "a": "main",
-      "b": "printf",
-      "c": "int",
-      "d": "scanf"
-    },
-    "correct_answer": "c",
-    "explanation": "int একটি ডেটা টাইপ কীওয়ার্ড। main, printf, scanf ফাংশনের নাম, কীওয়ার্ড নয়।"
-  },
-  {
-    "id": 53,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a = 10, b = 3;\n    float c;\n    c = a / b;\n    printf(\"%.2f\", c);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "3.33",
-      "b": "3.00",
-      "c": "3.333",
-      "d": "3.3"
-    },
-    "correct_answer": "b",
-    "explanation": "a ও b উভয়েই int, তাই a/b পূর্ণসংখ্যা division (10/3=3) হয়। তারপর float-এ রূপান্তরিত হয়ে 3.00 প্রিন্ট হয়।"
-  },
-  {
-    "id": 54,
-    "question": "নিচের কোনটি অ্যাসাইনমেন্ট অপারেটর?",
-    "options": {
-      "a": "==",
-      "b": "=",
-      "c": "!=",
-      "d": "<="
-    },
-    "correct_answer": "b",
-    "explanation": "= হল অ্যাসাইনমেন্ট অপারেটর (মান বসানো)। == সমতা পরীক্ষা করে।"
-  },
-  {
-    "id": 55,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i = 1;\n    while(i <= 5) {\n        if(i == 3)\n            break;\n        printf(\"%d \", i);\n        i++;\n    }\n    return 0;\n}",
-    "options": {
-      "a": "1 2 3 4 5",
-      "b": "1 2",
-      "c": "1 2 3",
-      "d": "1 2 3 4"
-    },
-    "correct_answer": "b",
-    "explanation": "i=1,2 প্রিন্ট হয়। i=3 হলে break লুপ থেকে বেরিয়ে যায়, তাই 3 প্রিন্ট হয় না।"
-  },
-  {
-    "id": 56,
-    "question": "C প্রোগ্রামে '&' অপারেটর কী কাজ করে?",
-    "options": {
-      "a": "অ্যাড্রেস অব অপারেটর",
-      "b": "লজিক্যাল AND",
-      "c": "বিটওয়াইজ AND",
-      "d": "পয়েন্টার ডিক্লেয়ার"
-    },
-    "correct_answer": "a",
-    "explanation": "scanf-এ & ব্যবহার করা হয় ভেরিয়েবলের অ্যাড্রেস পাস করার জন্য। এটি 'অ্যাড্রেস অব' অপারেটর। (বিকল্প c বিটওয়াইজ AND, কিন্তু সাধারণ প্রসঙ্গে & এর কাজ অ্যাড্রেস) - HSC পর্যায়ে scanf-এর &-কেই প্রধানত শেখানো হয়।"
-  },
-  {
-    "id": 57,
-    "question": "নিচের কোনটি do-while লুপের বৈশিষ্ট্য?",
-    "options": {
-      "a": "শর্ত সত্য না হলে একবারও চলবে না",
-      "b": "শর্ত পরীক্ষা আগে হয়",
-      "c": "অন্তত একবার চলবেই",
-      "d": "শুধু সংখ্যার জন্য কাজ করে"
-    },
-    "correct_answer": "c",
-    "explanation": "do-while লুপ প্রথমে body 실행 করে তারপর শর্ত পরীক্ষা করে, তাই অন্তত একবার চলবেই।"
-  },
-  {
-    "id": 58,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int arr[4] = {1, 2, 3};\n    printf(\"%d\", arr[3]);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "3",
-      "b": "0",
-      "c": "অনির্ধারিত (garbage value)",
-      "d": "কম্পাইল এরর"
-    },
-    "correct_answer": "b",
-    "explanation": "অ্যারেতে ৪টি স্থান আছে, প্রথম তিনটি 1,2,3 এবং চতুর্থটি (arr[3]) ইনিশিয়ালাইজ করা হয়নি। C তে global না হলে local array-র মান garbage থাকে, তবে static বা partial initialization-এ বাকিগুলো 0 হয়? এখানে partial initialization, তাই arr[3]=0 হবে (C স্ট্যান্ডার্ড অনুযায়ী partial initialization-এ বাকি element 0 পায়)।"
-  },
-  {
-    "id": 59,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int x = 5;\n    if(x = 10)\n        printf(\"Equal\");\n    return 0;\n}",
-    "options": {
-      "a": "if-এ শর্ত ভুল, সবসময় সত্য হবে",
-      "b": "printf এ ফরম্যাট নেই",
-      "c": "x ডিক্লেয়ার করা হয়নি",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "a",
-    "explanation": "if(x = 10) এ অ্যাসাইনমেন্ট (=) ব্যবহার করা হয়েছে, তুলনা (==) নয়। এটি x-এ 10 বসাবে, যা non-zero (সত্য), তাই সবসময় True হবে। লজিক্যাল ত্রুটি।"
-  },
-  {
-    "id": 60,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=0; i<5; i++);\n        printf(\"Hello\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "Hello 5 বার",
-      "b": "Hello 1 বার",
-      "c": "Hello 4 বার",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "b",
-    "explanation": "for লুপের পর সেমিকোলন (;) থাকায় লুপটি খালি body নিয়ে 5 বার ঘোরে। তারপর printf একবার 실행 হয়ে Hello প্রিন্ট হয়।"
-  },
-  {
-    "id": 61,
-    "question": "নিচের কোনটি ফ্লোচার্টে সিদ্ধান্ত নেওয়ার জন্য ব্যবহৃত প্রতীক?",
-    "options": {
-      "a": "আয়তক্ষেত্র",
-      "b": "ডিম্বাকৃতি",
-      "c": "রম্বস",
-      "d": "সমান্তরিক"
-    },
-    "correct_answer": "c",
-    "explanation": "ফ্লোচার্টে সিদ্ধান্ত (Decision) রম্বস আকৃতি দিয়ে দেখানো হয়।"
-  },
-  {
-    "id": 62,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=5, b=5, c=10;\n    if(a==b || a==c)\n        printf(\"True\");\n    else\n        printf(\"False\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "True",
-      "b": "False",
-      "c": "TrueFalse",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "a",
-    "explanation": "a==b সত্য (5==5), তাই OR অপারেটরের কারণে শর্ত সত্য। 'True' প্রিন্ট হবে।"
-  },
-  {
-    "id": 63,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, count=0;\n    for(i=2; i<=10; i++) {\n        if(i%2==0)\n            count++;\n    }\n    printf(\"%d\", count);\n    return 0;\n}",
-    "options": {
-      "a": "4",
-      "b": "5",
-      "c": "9",
-      "d": "10"
-    },
-    "correct_answer": "b",
-    "explanation": "লুপটি 2 থেকে 10 পর্যন্ত চলে। i%2==0 (জোড় সংখ্যা) গুলো: 2,4,6,8,10 → মোট ৫টি। তাই count=5।"
-  },
-  {
-    "id": 64,
-    "question": "নিচের কোনটি C তে স্ট্রিং এর শেষ নির্দেশ করে?",
-    "options": {
-      "a": "\\0",
-      "b": "\\n",
-      "c": "\\t",
-      "d": "\\r"
-    },
-    "correct_answer": "a",
-    "explanation": "C তে স্ট্রিং শেষ হয় null character '\\0' দিয়ে।"
-  },
-  {
-    "id": 65,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=10;\n    x+=5;\n    printf(\"%d\", x);\n    return 0;\n}",
-    "options": {
-      "a": "10",
-      "b": "15",
-      "c": "5",
-      "d": "105"
-    },
-    "correct_answer": "b",
-    "explanation": "x+=5 মানে x = x+5, তাই x=10+5=15।"
-  },
-  {
-    "id": 66,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i=0;\n    for( ; ; ) {\n        if(i==3)\n            break;\n        i++;\n    }\n    printf(\"%d\", i);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "0",
-      "b": "3",
-      "c": "2",
-      "d": "অসীম লুপ"
-    },
-    "correct_answer": "b",
-    "explanation": "for(;;) অসীম লুপ, কিন্তু i=3 হলে break লুপ থেকে বেরিয়ে আসে। i প্রথমে 0, তারপর 1,2,3 হয় এবং break হয়। প্রিন্ট i=3।"
-  },
-  {
-    "id": 67,
-    "question": "নিচের কোনটি সঠিক switch-case স্টেটমেন্ট?",
-    "options": {
-      "a": "switch(x) { case 1: printf(\"One\"); }",
-      "b": "switch(x) { case 1: printf(\"One\"); break; }",
-      "c": "উভয়ই সঠিক",
-      "d": "কোনটিই নয়"
-    },
-    "correct_answer": "b",
-    "explanation": "switch-case এ সাধারণত break ব্যবহার করা ভাল, না হলে পরবর্তী case-ও 실행 হবে (fall-through)। তাই b অধিকতর সঠিক ও প্রচলিত।"
-  },
-  {
-    "id": 68,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=3, b=2;\n    float result = a/b;\n    printf(\"%.1f\", result);\n    return 0;\n}",
-    "options": {
-      "a": "1.5",
-      "b": "1.0",
-      "c": "1.5",
-      "d": "1"
-    },
-    "correct_answer": "b",
-    "explanation": "a ও b integer, তাই a/b = 1 (integer division), তারপর float এ রূপান্তর হয়ে 1.0 হয়।"
-  },
-  {
-    "id": 69,
-    "question": "নিচের কোনটি ইনক্রিমেন্ট অপারেটর?",
-    "options": {
-      "a": "+=",
-      "b": "++",
-      "c": "--",
-      "d": "=+"
-    },
-    "correct_answer": "b",
-    "explanation": "++ হলো ইনক্রিমেন্ট অপারেটর। -- ডিক্রিমেন্ট।"
-  },
-  {
-    "id": 70,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n, sum=0;\n    for(n=1; n<=5; n++)\n        sum = sum + n;\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী নির্ণয় করে?",
-    "options": {
-      "a": "1 থেকে 5 পর্যন্ত গুণফল",
-      "b": "1 থেকে 5 পর্যন্ত যোগফল",
-      "c": "1 থেকে 5 পর্যন্ত জোড় সংখ্যার যোগফল",
-      "d": "5 এর ফ্যাক্টোরিয়াল"
-    },
-    "correct_answer": "b",
-    "explanation": "এটি 1+2+3+4+5 = 15 নির্ণয় করে, যা 1 থেকে 5 পর্যন্ত যোগফল।"
-  },
-  {
-    "id": 71,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int a[2] = {1,2,3};\n    printf(\"%d\", a[1]);\n    return 0;\n}",
-    "options": {
-      "a": "printf ভুল",
-      "b": "অ্যারে সাইজ ও মানের সংখ্যা mismatch",
-      "c": "a[1] অ্যাক্সেস ভুল",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "b",
-    "explanation": "অ্যারে সাইজ 2 হলেও ৩টি মান দেওয়া হয়েছে, যা সি-তে ত্রুটি (অতিরিক্ত ইনিশিয়ালাইজার)।"
-  },
-  {
-    "id": 72,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=2; j++)\n            printf(\"%d\", i+j);\n        printf(\"\\n\");\n    }\n    return 0;\n}",
-    "options": {
-      "a": "23\n34\n45",
-      "b": "23\n34\n45",
-      "c": "12\n23\n34",
-      "d": "34\n45\n56"
-    },
-    "correct_answer": "a",
-    "explanation": "i=1: j=1 → 2, j=2 → 3 → 23; i=2: j=1→3, j=2→4 → 34; i=3: j=1→4, j=2→5 → 45।"
-  },
-  {
-    "id": 73,
-    "question": "নিচের কোনটি লজিক্যাল NOT অপারেটর?",
-    "options": {
-      "a": "&&",
-      "b": "||",
-      "c": "!",
-      "d": "~"
-    },
-    "correct_answer": "c",
-    "explanation": "! হলো লজিক্যাল NOT। ~ বিটওয়াইজ NOT।"
-  },
-  {
-    "id": 74,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x=0;\n    if(x)\n        printf(\"True\");\n    else\n        printf(\"False\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "True",
-      "b": "False",
-      "c": "কিছুই না",
-      "d": "TrueFalse"
-    },
-    "correct_answer": "b",
-    "explanation": "C তে 0 মানে মিথ্যা (False), non-zero মানে সত্য। x=0, তাই শর্ত মিথ্যা, else অংশ 실행 হয়ে 'False' প্রিন্ট হয়।"
-  },
-  {
-    "id": 75,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int arr[5] = {5,10,15,20,25};\n    int *ptr = arr;\n    ptr = ptr + 2;\n    printf(\"%d\", *ptr);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "5",
-      "b": "10",
-      "c": "15",
-      "d": "20"
-    },
-    "correct_answer": "c",
-    "explanation": "ptr প্রথমে arr[0]-এর অ্যাড্রেস ধরে। ptr+2 মানে ২য় ইনডেক্স (arr[2])-এর অ্যাড্রেস। *ptr arr[2]-এর মান 15।"
-  },
-  {
-    "id": 76,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5, b=10;\n    a = a ^ b;\n    b = a ^ b;\n    a = a ^ b;\n    printf(\"a=%d b=%d\", a, b);\n    return 0;\n}",
-    "options": {
-      "a": "a=5 b=10",
-      "b": "a=10 b=5",
-      "c": "a=15 b=5",
-      "d": "a=5 b=15"
-    },
-    "correct_answer": "b",
-    "explanation": "এটি XOR ব্যবহার করে swapping। a এবং b এর মান অদলবদল হয়।"
-  },
-  {
-    "id": 77,
-    "question": "নিচের কোনটি ফ্লোচার্টের জন্য সঠিক নয়?",
-    "options": {
-      "a": "শুরু/শেষ নির্দেশ করতে ডিম্বাকৃতি",
-      "b": "প্রক্রিয়া নির্দেশ করতে আয়তক্ষেত্র",
-      "c": "ইনপুট/আউটপুট নির্দেশ করতে বৃত্ত",
-      "d": "সিদ্ধান্ত নির্দেশ করতে রম্বস"
-    },
-    "correct_answer": "c",
-    "explanation": "ইনপুট/আউটপুটের জন্য সমান্তরিক (parallelogram) ব্যবহার হয়, বৃত্ত নয়।"
-  },
-  {
-    "id": 78,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=5, i;\n    for(i=1; i<=10; i++)\n        printf(\"%d x %d = %d\\n\", n, i, n*i);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী তৈরি করে?",
-    "options": {
-      "a": "৫ এর নামতা",
-      "b": "১ থেকে ৫ পর্যন্ত যোগফল",
-      "c": "৫ এর ফ্যাক্টোরিয়াল",
-      "d": "৫ এর বর্গ"
-    },
-    "correct_answer": "a",
-    "explanation": "এটি 5 এর নামতা (multiplication table) 1 থেকে 10 পর্যন্ত প্রিন্ট করে।"
-  },
-  {
-    "id": 79,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=0; i<3; i++);\n    printf(\"%d\", i);\n    return 0;\n}",
-    "options": {
-      "a": "0",
-      "b": "3",
-      "c": "2",
-      "d": "কম্পাইল এরর"
-    },
-    "correct_answer": "b",
-    "explanation": "for লুপের পর সেমিকোলন থাকায় লুপটি খালি body নিয়ে i=3 পর্যন্ত চলে, তারপর printf i=3 প্রিন্ট করে।"
-  },
-  {
-    "id": 80,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint add(int a, int b) {\n    return a+b;\n}\nint main() {\n    int x=5, y=7;\n    int z = add(x,y);\n    printf(\"%d\", z);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "5",
-      "b": "7",
-      "c": "12",
-      "d": "57"
-    },
-    "correct_answer": "c",
-    "explanation": "add ফাংশন দুটি সংখ্যার যোগফল return করে। 5+7=12।"
-  },
-  {
-    "id": 81,
-    "question": "নিচের কোনটি বৈধ অ্যারে ডিক্লেয়ারেশন?",
-    "options": {
-      "a": "int arr[];",
-      "b": "int arr[5];",
-      "c": "arr int[5];",
-      "d": "int arr(5);"
-    },
-    "correct_answer": "b",
-    "explanation": "int arr[5]; সঠিক। int arr[]; সাইজ ছাড়া ডিক্লেয়ার করা যায় না (শুধু ইনিশিয়ালাইজেশন সহ)।"
-  },
-  {
-    "id": 82,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=5, b=10;\n    if(a>b)\n        printf(\"A\");\n    else if(a<b)\n        printf(\"B\");\n    else\n        printf(\"C\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "b",
-    "explanation": "a=5, b=10, a<b সত্য, তাই else if অংশ 실행 হয়ে 'B' প্রিন্ট হয়।"
-  },
-  {
-    "id": 83,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=10;\n    x = x<<1;\n    printf(\"%d\", x);\n    return 0;\n}",
-    "options": {
-      "a": "5",
-      "b": "10",
-      "c": "20",
-      "d": "100"
-    },
-    "correct_answer": "c",
-    "explanation": "x<<1 মানে x-কে 1 bit left shift করা, যা 2 দিয়ে গুণ করার সমতুল্য। 10*2=20।"
-  },
-  {
-    "id": 84,
-    "question": "C প্রোগ্রামে main() ফাংশন সাধারণত কী রিটার্ন করে?",
-    "options": {
-      "a": "int",
-      "b": "float",
-      "c": "void",
-      "d": "char"
-    },
-    "correct_answer": "a",
-    "explanation": "প্রচলিতভাবে main() int রিটার্ন করে (অপারেটিং সিস্টেমকে status জানাতে)। void main() অনানুষ্ঠানিক।"
-  },
-  {
-    "id": 85,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    float f = 5.5;\n    int i = f;\n    printf(\"%f\", i);\n    return 0;\n}",
-    "options": {
-      "a": "float to int conversion সম্ভব নয়",
-      "b": "printf এ %f এর জন্য int পাস করা হয়েছে",
-      "c": "কোন ত্রুটি নেই",
-      "d": "f ডিক্লেয়ার ভুল"
-    },
-    "correct_answer": "b",
-    "explanation": "printf(\"%f\", i); এ i int হলেও %f float চায়, তাই undefined behavior (ভুল আউটপুট)।"
-  },
-  {
-    "id": 86,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, sum=0;\n    for(i=1; i<=5; i++)\n        if(i%2!=0)\n            sum = sum + i;\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "6",
-      "b": "9",
-      "c": "15",
-      "d": "5"
-    },
-    "correct_answer": "b",
-    "explanation": "বিজোড় সংখ্যা 1,3,5 এর যোগফল = 9।"
-  },
-  {
-    "id": 87,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5;\n    printf(\"%d %d %d\", a, ++a, a++);\n    return 0;\n}",
-    "options": {
-      "a": "5 6 6",
-      "b": "5 5 5",
-      "c": "6 6 5",
-      "d": "অনির্ধারিত (undefined behavior)"
-    },
-    "correct_answer": "d",
-    "explanation": "একই statement-এ variable-কে বারবার modify করা এবং ব্যবহার করা undefined behavior। আউটপুট কম্পাইলারভেদে ভিন্ন।"
-  },
-  {
-    "id": 88,
-    "question": "নিচের কোনটি সঠিক ভেরিয়েবল নাম নয়?",
-    "options": {
-      "a": "_count",
-      "b": "num1",
-      "c": "2nd_num",
-      "d": "number"
-    },
-    "correct_answer": "c",
-    "explanation": "ভেরিয়েবল নাম সংখ্যা দিয়ে শুরু করা যায় না। 2nd_num অবৈধ।"
-  },
-  {
-    "id": 89,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[5] = {10,20,30,40,50};\n    int i;\n    for(i=4; i>=0; i--)\n        printf(\"%d \", a[i]);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "10 20 30 40 50",
-      "b": "50 40 30 20 10",
-      "c": "50 40 30 20",
-      "d": "10 20 30 40"
-    },
-    "correct_answer": "b",
-    "explanation": "লুপটি i=4 থেকে শুরু করে 0 পর্যন্ত descending order-এ array এলিমেন্ট প্রিন্ট করে। তাই 50 40 30 20 10।"
-  },
-  {
-    "id": 90,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i=1;\n    while(i<=5) {\n        if(i==3) {\n            i++;\n            continue;\n        }\n        printf(\"%d \", i);\n        i++;\n    }\n    return 0;\n}",
-    "options": {
-      "a": "1 2 4 5",
-      "b": "1 2 3 4 5",
-      "c": "1 2 4 5 6",
-      "d": "1 2 3"
-    },
-    "correct_answer": "a",
-    "explanation": "i=3 হলে i++ (i=4) এবং continue-এর কারণে পরবর্তী iteration চলে যায়, 3 প্রিন্ট হয় না। তাই আউটপুট 1 2 4 5।"
-  },
-  {
-    "id": 91,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=123, rev=0;\n    while(n>0) {\n        rev = rev*10 + n%10;\n        n = n/10;\n    }\n    printf(\"%d\", rev);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "123",
-      "b": "321",
-      "c": "6",
-      "d": "0"
-    },
-    "correct_answer": "b",
-    "explanation": "এটি সংখ্যাটির অঙ্ক উল্টায়। 123 → 321।"
-  },
-  {
-    "id": 92,
-    "question": "নিচের কোনটি preprocessor directive?",
-    "options": {
-      "a": "int",
-      "b": "#include",
-      "c": "printf",
-      "d": "return"
-    },
-    "correct_answer": "b",
-    "explanation": "#include একটি preprocessor directive, যা কম্পাইল করার আগে প্রসেস হয়।"
-  },
-  {
-    "id": 93,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x=10;\n    x>5 ? printf(\"Yes\") : printf(\"No\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "Yes",
-      "b": "No",
-      "c": "YesNo",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "a",
-    "explanation": "x>5 সত্য, তাই ternary operator-এর প্রথম অংশ printf(\"Yes\") 실행 হয়।"
-  },
-  {
-    "id": 94,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=3; j++) {\n            if(i==j)\n                printf(\"1 \");\n            else\n                printf(\"0 \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}",
-    "options": {
-      "a": "1 0 0\n0 1 0\n0 0 1",
-      "b": "1 1 1\n1 1 1\n1 1 1",
-      "c": "0 0 0\n0 0 0\n0 0 0",
-      "d": "1 0 1\n0 1 0\n1 0 1"
-    },
-    "correct_answer": "a",
-    "explanation": "এটি একটি identity matrix তৈরি করে, যেখানে i=j হলে 1, অন্যথায় 0।"
-  },
-  {
-    "id": 95,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int a[3] = {1,2,3};\n    int i;\n    for(i=0; i<=3; i++)\n        printf(\"%d \", a[i]);\n    return 0;\n}",
-    "options": {
-      "a": "printf ভুল",
-      "b": "লুপ সীমা অতিক্রম করেছে (array out of bound)",
-      "c": "a ডিক্লেয়ার ভুল",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "b",
-    "explanation": "অ্যারে সাইজ 3, ইনডেক্স 0-2 পর্যন্ত বৈধ। i<=3 পর্যন্ত লুপ চালালে a[3] ইনভ্যালিড অ্যাক্সেস।"
-  },
-  {
-    "id": 96,
-    "question": "নিচের কোনটি ডিক্রিমেন্ট অপারেটর?",
-    "options": {
-      "a": "++",
-      "b": "--",
-      "c": "-=",
-      "d": "=-"
-    },
-    "correct_answer": "b",
-    "explanation": "-- হলো ডিক্রিমেন্ট অপারেটর (মান ১ কমানো)।"
-  },
-  {
-    "id": 97,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=10, b=20, c=30;\n    if(a>b && a>c)\n        printf(\"%d\", a);\n    else if(b>a && b>c)\n        printf(\"%d\", b);\n    else\n        printf(\"%d\", c);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "10",
-      "b": "20",
-      "c": "30",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "c",
-    "explanation": "তিনটি সংখ্যার মধ্যে c=30 সবচেয়ে বড়, তাই else অংশ 실행 হয়ে 30 প্রিন্ট হয়।"
-  },
-  {
-    "id": 98,
-    "question": "C তে নিচের কোনটি একই সাথে ইনিশিয়ালাইজেশন ও ডিক্লেয়ারেশনের উদাহরণ?",
-    "options": {
-      "a": "int x;",
-      "b": "x=5;",
-      "c": "int x=5;",
-      "d": "int x,y;"
-    },
-    "correct_answer": "c",
-    "explanation": "int x=5; একই সাথে ডিক্লেয়ারেশন ও ইনিশিয়ালাইজেশন।"
-  },
-  {
-    "id": 99,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i=5;\n    do {\n        printf(\"%d \", i);\n        i--;\n    } while(i>0);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "5 4 3 2 1",
-      "b": "5 4 3 2",
-      "c": "4 3 2 1 0",
-      "d": "5 4 3 2 1 0"
-    },
-    "correct_answer": "a",
-    "explanation": "i=5 থেকে শুরু, i>0 পর্যন্ত i-- করে প্রিন্ট করে। i=5,4,3,2,1 প্রিন্ট হবে। i=0 হলে শর্ত মিথ্যা।"
-  },
-  {
-    "id": 100,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=0;\n    if(++x)\n        printf(\"%d\", x);\n    else\n        printf(\"%d\", x+1);\n    return 0;\n}",
-    "options": {
-      "a": "0",
-      "b": "1",
-      "c": "2",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "b",
-    "explanation": "++x প্রথমে x-এর মান 1 করে, তারপর if(1) সত্য, তাই printf(\"%d\", x) 실행 হয়ে 1 প্রিন্ট হয়।"
-  },
-  {
-    "id": 101,
-    "question": "কম্পিউটার মানুষের ভাষা কীভাবে বুঝতে পারে?",
-    "options": {
-      "a": "সরাসরি বুঝতে পারে",
-      "b": "আংশিক বুঝতে পারে",
-      "c": "কখনো বুঝতে পারে না",
-      "d": "যান্ত্রিক ভাষায় রূপান্তরিত হলে বুঝতে পারে"
-    },
-    "correct_answer": "d",
-    "explanation": "কম্পিউটার সরাসরি মানুষের ভাষা (উচ্চস্তরের ভাষা) বুঝতে পারে না। কম্পাইলার বা ইন্টারপ্রেটারের সাহায্যে এটি যান্ত্রিক ভাষা বা বাইনারি কোডে (0 এবং 1) রূপান্তরিত হলেই কেবল বুঝতে পারে। [citation:3]"
-  },
-  {
-    "id": 102,
-    "question": "দ্বিতীয় প্রজন্মের ভাষা কোনটি?",
-    "options": {
-      "a": "যান্ত্রিক ভাষা",
-      "b": "অ্যাসেম্বলি ভাষা",
-      "c": "উচ্চস্তরের ভাষা",
-      "d": "কোয়ারি ভাষা"
-    },
-    "correct_answer": "b",
-    "explanation": "দ্বিতীয় প্রজন্মের ভাষা (2GL) হলো অ্যাসেম্বলি ভাষা, যা যান্ত্রিক ভাষার বাইনারি কোডের পরিবর্তে সাংকেতিক নির্দেশ বা মেমোনিক (যেমন ADD, MOV) ব্যবহার করে। [citation:3]"
-  },
-  {
-    "id": 103,
-    "question": "Fortran-এর পূর্ণরূপ কোনটি?",
-    "options": {
-      "a": "For Termination",
-      "b": "Formulare Translation",
-      "c": "Formula Transition",
-      "d": "Formula Trends"
-    },
-    "correct_answer": "b",
-    "explanation": "ফরট্রান (FORTRAN) এর পূর্ণরূপ হলো Formula Translation। এটি বৈজ্ঞানিক ও গাণিতিক গণনার জন্য প্রথম দিকের উচ্চস্তরের ভাষা। [citation:3]"
-  },
-  {
-    "id": 104,
-    "question": "যান্ত্রিক ভাষার প্রধান উপকরণ কোনটি?",
-    "options": {
-      "a": "A-Z বর্ণমালা",
-      "b": "0-9 সংখ্যা",
-      "c": "0 এবং 1",
-      "d": "চিহ্নসমূহ"
-    },
-    "correct_answer": "c",
-    "explanation": "যান্ত্রিক ভাষা (Machine Language) শুধুমাত্র বাইনারি অঙ্ক 0 (অফ) এবং 1 (অন) ব্যবহার করে গঠিত হয়। [citation:3]"
-  },
-  {
-    "id": 105,
-    "question": "কিউবেসিক (QBASIC) উদ্ভাবন করেছেন কে?",
-    "options": {
-      "a": "আইবিএম (IBM)",
-      "b": "অ্যাপল (Apple)",
-      "c": "মাইক্রোসফট (Microsoft)",
-      "d": "ইন্টেল (Intel)"
-    },
-    "correct_answer": "c",
-    "explanation": "কিউবেসিক (QBASIC) হলো BASIC ভাষার একটি সংস্করণ, যা মাইক্রোসফট কর্পোরেশন উদ্ভাবন ও বাজারজাত করে। [citation:3]"
-  },
-  {
-    "id": 106,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, sum=0;\n    for(i=1; i<=10; i++) {\n        if(i%3==0)\n            sum = sum + i;\n    }\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটির আউটপুট কী?",
-    "options": {
-      "a": "12",
-      "b": "18",
-      "c": "27",
-      "d": "30"
-    },
-    "correct_answer": "b",
-    "explanation": "1 থেকে 10 পর্যন্ত 3 দিয়ে বিভাজ্য সংখ্যাগুলো: 3, 6, 9। এদের যোগফল = 3+6+9 = 18।"
-  },
-  {
-    "id": 107,
-    "question": "অ্যাসেম্বলি ভাষায় লিখিত প্রোগ্রাম কম্পিউটার-",
-    "options": {
-      "a": "সরাসরি বুঝতে পারে",
-      "b": "সরাসরি বুঝতে পারে না",
-      "c": "আংশিক বুঝতে পারে",
-      "d": "কখনো বুঝতে পারে না"
-    },
-    "correct_answer": "b",
-    "explanation": "অ্যাসেম্বলি ভাষা সাংকেতিক নির্দেশ ব্যবহার করে, যা বাইনারি কোড নয়। তাই অ্যাসেম্বলার নামক অনুবাদক প্রোগ্রামের মাধ্যমে যান্ত্রিক ভাষায় রূপান্তরিত করার পরই কম্পিউটার বুঝতে পারে। [citation:3]"
-  },
-  {
-    "id": 108,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5, b=10, c=15;\n    int result = a<b ? (b<c ? b : c) : a;\n    printf(\"%d\", result);\n    return 0;\n}",
-    "options": {
-      "a": "5",
-      "b": "10",
-      "c": "15",
-      "d": "0"
-    },
-    "correct_answer": "b",
-    "explanation": "a<b সত্য, তাই (b<c ? b : c) এক্সিকিউট হবে। b<c (10<15) সত্য, তাই b-এর মান 10 রিটার্ন হয়।"
-  },
-  {
-    "id": 109,
-    "question": "প্রথম প্রজন্মের ভাষা কখন চালু হয়?",
-    "options": {
-      "a": "১৯৪০ সালে",
-      "b": "১৯৪৫ সালে",
-      "c": "১৯৫০ সালে",
-      "d": "১৯৬০ সালে"
-    },
-    "correct_answer": "b",
-    "explanation": "মেশিন ভাষা বা যান্ত্রিক ভাষা প্রথম প্রজন্মের ভাষা, যা প্রথম ইলেকট্রনিক কম্পিউটার উদ্ভাবনের সময় (১৯৪০-এর দশকের মাঝামাঝি, যেমন ENIAC - ১৯৪৫) থেকে চালু হয়। [citation:3]"
-  },
-  {
-    "id": 110,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int arr[4] = {2,4,6};\n    arr[3] = arr[0] + arr[2];\n    printf(\"%d\", arr[3]);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "2",
-      "b": "6",
-      "c": "8",
-      "d": "10"
-    },
-    "correct_answer": "c",
-    "explanation": "arr[0]=2, arr[2]=6, arr[3]=2+6=8।"
-  },
-  {
-    "id": 111,
-    "question": "গঠন বিচারে ও বৈশিষ্ট্য অনুযায়ী প্রোগ্রামের ভাষাকে কয় ভাগে ভাগ করা যায়?",
-    "options": {
-      "a": "২ ভাগে",
-      "b": "৩ ভাগে",
-      "c": "৪ ভাগে",
-      "d": "৫ ভাগে"
-    },
-    "correct_answer": "d",
-    "explanation": "প্রোগ্রামের ভাষাকে তাদের বৈশিষ্ট্য ও প্রজন্মের ভিত্তিতে পাঁচটি ভাগে ভাগ করা হয়: প্রথম প্রজন্ম (মেশিন ভাষা), দ্বিতীয় প্রজন্ম (অ্যাসেম্বলি ভাষা), তৃতীয় প্রজন্ম (উচ্চস্তরের ভাষা), চতুর্থ প্রজন্ম (4GL), ও পঞ্চম প্রজন্ম (5GL)। [citation:3]"
-  },
-  {
-    "id": 112,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=0; i<5; i++) {\n        int x = i*i;\n    }\n    printf(\"%d\", x);\n    return 0;\n}",
-    "options": {
-      "a": "লুপ সিনট্যাক্স ভুল",
-      "b": "x ডিক্লেয়ার করা হয়নি",
-      "c": "printf এ %d ভুল",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "b",
-    "explanation": "x লুপের ভিতরে ডিক্লেয়ার করা হয়েছে, যা লোকাল ভেরিয়েবল এবং লুপের বাইরে দৃশ্যমান নয়। তাই printf এ x অজানা।"
-  },
-  {
-    "id": 113,
-    "question": "ইউরোপের বাইরে কোন প্রোগ্রামিং ভাষার বিস্তার নেই?",
-    "options": {
-      "a": "ফরট্রান (FORTRAN)",
-      "b": "কিউবেসিক (QBASIC)",
-      "c": "এলগল (ALGOL)",
-      "d": "কোবল (COBOL)"
-    },
-    "correct_answer": "c",
-    "explanation": "অ্যালগল (ALGOL) একটি প্রথমদিকের উচ্চস্তরের ভাষা যা ইউরোপের শিক্ষাবিদ ও গবেষকদের মধ্যে জনপ্রিয় ছিল, কিন্তু ইউরোপের বাইরে এর বিস্তার তুলনামূলকভাবে কম ছিল। [citation:3]"
-  },
-  {
-    "id": 114,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=7, b=2;\n    float c;\n    c = (float)a / b;\n    printf(\"%.2f\", c);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "3.00",
-      "b": "3.50",
-      "c": "3.5",
-      "d": "3"
-    },
-    "correct_answer": "b",
-    "explanation": "(float)a টাইপ কাস্টিং-এর মাধ্যমে a কে float-এ রূপান্তরিত করে, ফলে ভাগফল float হয়। 7.0/2 = 3.5, তাই আউটপুট 3.50।"
-  },
-  {
-    "id": 115,
-    "question": "কোন কোম্পানি Fortran ভাষা চালু করে?",
-    "options": {
-      "a": "মাইক্রোসফট",
-      "b": "অ্যাপল",
-      "c": "আইবিএম",
-      "d": "গুগল"
-    },
-    "correct_answer": "c",
-    "explanation": "FORTRAN ভাষাটি ১৯৫০-এর দশকে আইবিএম (IBM) এর একটি টিম দ্বারা বিকশিত হয়। [citation:3]"
-  },
-  {
-    "id": 116,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=10, y=3;\n    x = x / y;\n    y = x * y;\n    printf(\"%d %d\", x, y);\n    return 0;\n}",
-    "options": {
-      "a": "3 9",
-      "b": "3 10",
-      "c": "3 3",
-      "d": "3 30"
-    },
-    "correct_answer": "a",
-    "explanation": "x = 10/3 = 3 (integer division); y = 3 * 3 = 9। তাই আউটপুট 3 9।"
-  },
-  {
-    "id": 117,
-    "question": "নিচের কোনটি মধ্যম স্তরের ভাষার উদাহরণ?",
-    "options": {
-      "a": "ফরট্রান",
-      "b": "কোবল",
-      "c": "সি (C)",
-      "d": "পাইথন"
-    },
-    "correct_answer": "c",
-    "explanation": "সি (C) ভাষাকে মধ্যম স্তরের ভাষা বলা হয় কারণ এটি উচ্চস্তরের ভাষার বৈশিষ্ট্য এবং নিম্নস্তরের ভাষার বৈশিষ্ট্য (মেমরি ম্যানেজমেন্ট) উভয়ই ধারণ করে।"
-  },
-  {
-    "id": 118,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=1; i<=5; i++) {\n        if(i==4)\n            continue;\n        printf(\"%d \", i);\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "1 2 3 4 5",
-      "b": "1 2 3 5",
-      "c": "1 2 3 4",
-      "d": "4"
-    },
-    "correct_answer": "b",
-    "explanation": "continue স্টেটমেন্ট i==4 হলে পরবর্তী iteration-এ চলে যায়, তাই 4 প্রিন্ট হয় না। আউটপুট 1 2 3 5।"
-  },
-  {
-    "id": 119,
-    "question": "কখন মধ্যম স্তরের ভাষার প্রচলন হয়?",
-    "options": {
-      "a": "১৯৫০ সালে",
-      "b": "১৯৬০ সালে",
-      "c": "১৯৭০ সালে",
-      "d": "১৯৮০ সালে"
-    },
-    "correct_answer": "b",
-    "explanation": "মধ্যম স্তরের ভাষা বা তৃতীয় প্রজন্মের উচ্চস্তরের ভাষাগুলো (যেমন: C) সাধারণত ১৯৬০-এর দশকের শেষের দিকে এবং ১৯৭০-এর দশকের শুরুতে বিকশিত হয়। ১৯৬০ সাল সময়কালের কাছাকাছি। [citation:3]"
-  },
-  {
-    "id": 120,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5, b=5, c=5;\n    a = ++b;\n    c = a++;\n    printf(\"%d %d %d\", a, b, c);\n    return 0;\n}",
-    "options": {
-      "a": "6 6 6",
-      "b": "7 6 6",
-      "c": "6 6 5",
-      "d": "7 6 5"
-    },
-    "correct_answer": "b",
-    "explanation": "++b প্রথমে b-এর মান 6 করে, a=6 হয়। তারপর c = a++ (c = 6, তারপর a বেড়ে 7 হয়)। সুতরাং a=7, b=6, c=6।"
-  },
-  {
-    "id": 121,
-    "question": "অ্যাসেম্বলি ভাষাকে কী বলা হয়?",
-    "options": {
-      "a": "প্রথম প্রজন্মের ভাষা",
-      "b": "দ্বিতীয় প্রজন্মের ভাষা",
-      "c": "তৃতীয় প্রজন্মের ভাষা",
-      "d": "চতুর্থ প্রজন্মের ভাষা"
-    },
-    "correct_answer": "b",
-    "explanation": "অ্যাসেম্বলি ভাষাকে দ্বিতীয় প্রজন্মের ভাষা (2GL) বলা হয়। [citation:3]"
-  },
-  {
-    "id": 122,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=5, fact=1;\n    while(n>0) {\n        fact = fact * n;\n        n--;\n    }\n    printf(\"%d\", fact);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "15",
-      "b": "24",
-      "c": "120",
-      "d": "720"
-    },
-    "correct_answer": "c",
-    "explanation": "while লুপটি 5×4×3×2×1 = 120 গণনা করে, যা 5-এর ফ্যাক্টোরিয়াল।"
-  },
-  {
-    "id": 123,
-    "question": "নিচের কোনটি চতুর্থ প্রজন্মের ভাষার বৈশিষ্ট্য?",
-    "options": {
-      "a": "মেশিন নির্ভর",
-      "b": "সহজে শেখা যায় না",
-      "c": "কোয়েরি ভিত্তিক",
-      "d": "অ্যাসেম্বলি নির্ভর"
-    },
-    "correct_answer": "c",
-    "explanation": "চতুর্থ প্রজন্মের ভাষা (4GL) সাধারণত কোয়েরি ভিত্তিক এবং ডাটাবেস ম্যানেজমেন্টের জন্য ব্যবহৃত হয় (যেমন SQL)।"
-  },
-  {
-    "id": 124,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=i; j++)\n            printf(\"%d\", j);\n        printf(\" \");\n    }\n    return 0;\n}",
-    "options": {
-      "a": "1 12 123",
-      "b": "1 12 123",
-      "c": "1 2 3",
-      "d": "1 22 333"
-    },
-    "correct_answer": "b",
-    "explanation": "i=1: j=1→1; i=2: j=1,2→12; i=3: j=1,2,3→123। তাই আউটপুট \"1 12 123\"।"
-  },
-  {
-    "id": 125,
-    "question": "কম্পিউটার প্রোগ্রামিং ভাষাকে কয়টি ভাগে ভাগ করা হয়?",
-    "options": {
-      "a": "২ ভাগে",
-      "b": "৩ ভাগে",
-      "c": "৪ ভাগে",
-      "d": "৫ ভাগে"
-    },
-    "correct_answer": "d",
-    "explanation": "কম্পিউটার প্রোগ্রামিং ভাষাকে প্রজন্মের ভিত্তিতে পাঁচটি ভাগে ভাগ করা হয়। [citation:3]"
-  },
-  {
-    "id": 126,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[5] = {1,2,3,4,5};\n    int i, sum=0;\n    for(i=0; i<5; i=i+2)\n        sum = sum + a[i];\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "6",
-      "b": "9",
-      "c": "12",
-      "d": "15"
-    },
-    "correct_answer": "b",
-    "explanation": "i=0,2,4 ইনডেক্সের মান: a[0]=1, a[2]=3, a[4]=5। যোগফল = 1+3+5=9।"
-  },
-  {
-    "id": 127,
-    "question": "প্রোগ্রামের ভাষার বিবর্তনে কোন ভাষা প্রথমে আসে?",
-    "options": {
-      "a": "অ্যাসেম্বলি ভাষা",
-      "b": "যান্ত্রিক ভাষা",
-      "c": "উচ্চস্তরের ভাষা",
-      "d": "কোয়েরি ভাষা"
-    },
-    "correct_answer": "b",
-    "explanation": "প্রথম প্রজন্মের ভাষা হলো যান্ত্রিক ভাষা (Machine Language), যা কম্পিউটারের সরাসরি বোধগম্য ভাষা।"
-  },
-  {
-    "id": 128,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int a[3] = {1,2,3};\n    printf(\"%d\", a[3]);\n    return 0;\n}",
-    "options": {
-      "a": "কোন ত্রুটি নেই",
-      "b": "printf ভুল",
-      "c": "অ্যারে ইনডেক্স সীমা অতিক্রম",
-      "d": "a ডিক্লেয়ার ভুল"
-    },
-    "correct_answer": "c",
-    "explanation": "অ্যারের ইনডেক্স 0-2 পর্যন্ত বৈধ, a[3] ইনডেক্স সীমা অতিক্রম করেছে।"
-  },
-  {
-    "id": 129,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=0;\n    if(x=1)\n        printf(\"True\");\n    else\n        printf(\"False\");\n    return 0;\n}",
-    "options": {
-      "a": "True",
-      "b": "False",
-      "c": "কিছুই না",
-      "d": "কম্পাইল এরর"
-    },
-    "correct_answer": "a",
-    "explanation": "if(x=1) এ অ্যাসাইনমেন্ট অপারেটর ব্যবহার করা হয়েছে, তুলনা নয়। x-এ 1 বসে, যা non-zero, তাই শর্ত সত্য। 'True' প্রিন্ট হবে।"
-  },
-  {
-    "id": 130,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=12345, count=0;\n    while(n>0) {\n        n = n/10;\n        count++;\n    }\n    printf(\"%d\", count);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী গণনা করে?",
-    "options": {
-      "a": "অঙ্কগুলোর যোগফল",
-      "b": "অঙ্কগুলোর গুণফল",
-      "c": "অঙ্কের সংখ্যা",
-      "d": "উল্টো সংখ্যা"
-    },
-    "correct_answer": "c",
-    "explanation": "প্রোগ্রামটি সংখ্যাটিকে 10 দিয়ে ভাগ করতে করতে count বাড়ায়, যা সংখ্যাটির অঙ্কের সংখ্যা নির্ণয় করে। 12345-এ ৫টি অঙ্ক, তাই count=5।"
-  },
-  {
-    "id": 131,
-    "question": "নিচের কোনটি উচ্চস্তরের ভাষার উদাহরণ?",
-    "options": {
-      "a": "মেশিন ভাষা",
-      "b": "অ্যাসেম্বলি ভাষা",
-      "c": "পাইথন",
-      "d": "বাইনারি কোড"
-    },
-    "correct_answer": "c",
-    "explanation": "পাইথন একটি উচ্চস্তরের প্রোগ্রামিং ভাষা। মেশিন ভাষা ও অ্যাসেম্বলি নিম্নস্তরের ভাষা।"
-  },
-  {
-    "id": 132,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=3, b=4, c;\n    c = a>b ? a++ : b++;\n    printf(\"%d %d %d\", a, b, c);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "3 4 3",
-      "b": "3 5 4",
-      "c": "4 4 4",
-      "d": "4 5 4"
-    },
-    "correct_answer": "b",
-    "explanation": "a>b (3>4) মিথ্যা, তাই b++ এক্সিকিউট হয়। c=4 (b-এর পুরনো মান), তারপর b=5 হয়। a অপরিবর্তিত 3 থাকে। তাই আউটপুট 3 5 4।"
-  },
-  {
-    "id": 133,
-    "question": "প্রোগ্রামের ভিত্তি কোনটি?",
-    "options": {
-      "a": "প্রবাহ চিত্র",
-      "b": "সুডোকোড",
-      "c": "কোডিং",
-      "d": "অ্যালগরিদম"
-    },
-    "correct_answer": "d",
-    "explanation": "প্রোগ্রাম লেখার মূল ভিত্তি হলো অ্যালগরিদম। প্রবাহ চিত্র ও সুডোকোড অ্যালগরিদম প্রকাশের মাধ্যম এবং কোডিং হলো সেই অ্যালগরিদমকে বাস্তবায়নের প্রক্রিয়া। [citation:3]"
-  },
-  {
-    "id": 134,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=1; i<=3; printf(\"%d \", i++));\n    return 0;\n}",
-    "options": {
-      "a": "1 2 3",
-      "b": "2 3 4",
-      "c": "1 2 3 4",
-      "d": "কম্পাইল এরর"
-    },
-    "correct_answer": "a",
-    "explanation": "লুপের increment অংশে printf ব্যবহার করা হয়েছে, যা i++ সহ i-এর মান প্রিন্ট করে। i=1,2,3 প্রিন্ট হবে।"
-  },
-  {
-    "id": 135,
-    "question": "কোন প্রজন্মের ভাষায় মেমোনিক কোড ব্যবহার করা হয়?",
-    "options": {
-      "a": "প্রথম প্রজন্ম",
-      "b": "দ্বিতীয় প্রজন্ম",
-      "c": "তৃতীয় প্রজন্ম",
-      "d": "চতুর্থ প্রজন্ম"
-    },
-    "correct_answer": "b",
-    "explanation": "দ্বিতীয় প্রজন্মের ভাষা (অ্যাসেম্বলি ভাষা) মেমোনিক কোড (যেমন ADD, SUB) ব্যবহার করে।"
-  },
-  {
-    "id": 136,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=3; j++) {\n            if(i==j)\n                printf(\"* \");\n            else\n                printf(\"  \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কেমন হবে?",
-    "options": {
-      "a": "একটি পূর্ণ বর্গ",
-      "b": "একটি ত্রিভুজ",
-      "c": "একটি কর্ণ (Diagonal)",
-      "d": "একটি খালি বর্গ"
-    },
-    "correct_answer": "c",
-    "explanation": "i=j হলে * প্রিন্ট হয়, অর্থাৎ মূল কর্ণ বরাবর * প্রিন্ট হবে।"
-  },
-  {
-    "id": 137,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=5;\n    x = x << 2;\n    printf(\"%d\", x);\n    return 0;\n}",
-    "options": {
-      "a": "10",
-      "b": "15",
-      "c": "20",
-      "d": "25"
-    },
-    "correct_answer": "c",
-    "explanation": "x << 2 মানে x-কে 2 bit left shift করা, যা 4 দিয়ে গুণ করার সমতুল্য। 5×4=20।"
-  },
-  {
-    "id": 138,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[3][2] = {{1,2},{3,4},{5,6}};\n    printf(\"%d\", a[1][1]);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "2",
-      "b": "3",
-      "c": "4",
-      "d": "5"
-    },
-    "correct_answer": "c",
-    "explanation": "a[1][1] দ্বিতীয় সারি, দ্বিতীয় কলামের উপাদান নির্দেশ করে, যা 4।"
-  },
-  {
-    "id": 139,
-    "question": "নিচের কোনটি লো-লেভেল ভাষার বৈশিষ্ট্য?",
-    "options": {
-      "a": "মানুষের ভাষার কাছাকাছি",
-      "b": "পোর্টেবল",
-      "c": "মেশিন নির্ভর",
-      "d": "সহজে ডিবাগ করা যায়"
-    },
-    "correct_answer": "c",
-    "explanation": "লো-লেভেল ভাষা (যান্ত্রিক ও অ্যাসেম্বলি) মেশিন নির্ভর, অর্থাৎ একটি মেশিনের জন্য লেখা প্রোগ্রাম অন্য মেশিনে চলে না।"
-  },
-  {
-    "id": 140,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=10;\n    a += a++ + ++a;\n    printf(\"%d\", a);\n    return 0;\n}",
-    "options": {
-      "a": "32",
-      "b": "33",
-      "c": "34",
-      "d": "অনির্ধারিত (undefined behavior)"
-    },
-    "correct_answer": "d",
-    "explanation": "একই statement-এ variable-কে বারবার modify করা undefined behavior। আউটপুট কম্পাইলারভেদে ভিন্ন হতে পারে।"
-  },
-  {
-    "id": 141,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, a[5] = {10,20,30,40,50};\n    int *p = a;\n    for(i=0; i<3; i++)\n        printf(\"%d \", *(p+i));\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "10 20 30",
-      "b": "10 20 30 40",
-      "c": "20 30 40",
-      "d": "30 40 50"
-    },
-    "correct_answer": "a",
-    "explanation": "p অ্যারের প্রথম উপাদানের অ্যাড্রেস ধরে। *(p+i) = a[i]। i=0,1,2 এর জন্য a[0],a[1],a[2] অর্থাৎ 10,20,30 প্রিন্ট হবে।"
-  },
-  {
-    "id": 142,
-    "question": "প্রোগ্রামের ভাষার প্রজন্ম বলতে কী বোঝায়?",
-    "options": {
-      "a": "ভাষার বয়স",
-      "b": "ভাষার বিবর্তন ধারা",
-      "c": "ভাষার জনপ্রিয়তা",
-      "d": "ভাষার ব্যবহারকারী সংখ্যা"
-    },
-    "correct_answer": "b",
-    "explanation": "প্রোগ্রামিং ভাষার প্রজন্ম বলতে ভাষার বিবর্তনের ধারা ও বৈশিষ্ট্যের ভিত্তিতে শ্রেণিবিন্যাস বোঝায়।"
-  },
-  {
-    "id": 143,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i=0;\n    while(i<3) {\n        int j=0;\n        while(j<=i) {\n            printf(\"*\");\n            j++;\n        }\n        printf(\"\\n\");\n        i++;\n    }\n    return 0;\n}",
-    "options": {
-      "a": "*\n**\n***",
-      "b": "***\n**\n*",
-      "c": "*\n*\n*",
-      "d": "***\n***\n***"
-    },
-    "correct_answer": "a",
-    "explanation": "i=0: j<=0 → 1টি *, i=1: j<=1 → 2টি *, i=2: j<=2 → 3টি * প্রিন্ট হবে।"
-  },
-  {
-    "id": 144,
-    "question": "অ্যাসেম্বলি ভাষাকে ইংরেজি কোন শব্দ দিয়ে নির্দেশ করা হয়?",
-    "options": {
-      "a": "Machine Language",
-      "b": "High Level Language",
-      "c": "Assembly Language",
-      "d": "Query Language"
-    },
-    "correct_answer": "c",
-    "explanation": "অ্যাসেম্বলি ভাষাকে ইংরেজিতে Assembly Language বলা হয়।"
-  },
-  {
-    "id": 145,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=5, i;\n    for(i=1; i<=10; i++)\n        printf(\"%d x %d = %d\\n\", n, i, n*i);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটির আউটপুট কী হবে?",
-    "options": {
-      "a": "5 এর নামতা",
-      "b": "10 এর নামতা",
-      "c": "5 এর যোগফল",
-      "d": "5 এর বর্গ"
-    },
-    "correct_answer": "a",
-    "explanation": "প্রোগ্রামটি 5 এর নামতা (multiplication table) 1 থেকে 10 পর্যন্ত প্রিন্ট করে।"
-  },
-  {
-    "id": 146,
-    "question": "নিচের কোনটি কম্পাইলারের কাজ?",
-    "options": {
-      "a": "প্রোগ্রাম এডিট করা",
-      "b": "উচ্চস্তরের ভাষাকে যান্ত্রিক ভাষায় রূপান্তর করা",
-      "c": "প্রোগ্রাম রান করা",
-      "d": "ইনপুট নেওয়া"
-    },
-    "correct_answer": "b",
-    "explanation": "কম্পাইলার উচ্চস্তরের ভাষায় লেখা প্রোগ্রামকে যান্ত্রিক ভাষায় (machine code) রূপান্তর করে।"
-  },
-  {
-    "id": 147,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=5, b=10;\n    printf(\"%d\", a & b);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "15",
-      "b": "0",
-      "c": "5",
-      "d": "10"
-    },
-    "correct_answer": "b",
-    "explanation": "& এখানে বিটওয়াইজ AND অপারেটর। 5 (0101) ও 10 (1010)-এর বিটওয়াইজ AND = 0000 = 0।"
-  },
-  {
-    "id": 148,
-    "question": "প্রথম প্রজন্মের ভাষার প্রধান বৈশিষ্ট্য কী?",
-    "options": {
-      "a": "সহজবোধ্য",
-      "b": "পোর্টেবল",
-      "c": "বাইনারি কোড ব্যবহার",
-      "d": "সাংকেতিক চিহ্ন ব্যবহার"
-    },
-    "correct_answer": "c",
-    "explanation": "প্রথম প্রজন্মের ভাষা (যান্ত্রিক ভাষা) শুধুমাত্র 0 এবং 1-এর বাইনারি কোড ব্যবহার করে।"
-  },
-  {
-    "id": 149,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=3; j++)\n            printf(\"%d\", i);\n        printf(\"\\n\");\n    }\n    return 0;\n}",
-    "options": {
-      "a": "111\n222\n333",
-      "b": "123\n123\n123",
-      "c": "111\n111\n111",
-      "d": "123\n456\n789"
-    },
-    "correct_answer": "a",
-    "explanation": "বাইরের লুপ i-এর মান 1,2,3-এর জন্য ভিতরের লুপ i-কে 3 বার প্রিন্ট করে। তাই 111, 222, 333।"
-  },
-  {
-    "id": 150,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x=10, y=20, z=30;\n    int max = x;\n    if(y > max) max = y;\n    if(z > max) max = z;\n    printf(\"%d\", max);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী করে?",
-    "options": {
-      "a": "তিনটি সংখ্যার যোগফল নির্ণয়",
-      "b": "তিনটি সংখ্যার গড় নির্ণয়",
-      "c": "তিনটি সংখ্যার বৃহত্তম নির্ণয়",
-      "d": "তিনটি সংখ্যার ক্ষুদ্রতম নির্ণয়"
-    },
-    "correct_answer": "c",
-    "explanation": "প্রথমে max = x ধরে, তারপর y ও z-এর সাথে তুলনা করে বড় মান max-এ রাখে, যা তিনটি সংখ্যার বৃহত্তম।"
-  },
-  {
-    "id": 151,
-    "question": "C প্রোগ্রামিং ভাষায় 'stdlib.h' হেডার ফাইলের কাজ কী?",
-    "options": {
-      "a": "ইনপুট/আউটপুট ফাংশন",
-      "b": "স্ট্রিং সম্পর্কিত ফাংশন",
-      "c": "মেমরি এলোকেশন ও অন্যান্য স্ট্যান্ডার্ড ফাংশন",
-      "d": "গাণিতিক ফাংশন"
-    },
-    "correct_answer": "c",
-    "explanation": "stdlib.h হেডার ফাইলে malloc(), calloc(), free(), rand() ইত্যাদি ফাংশন থাকে, যা মেমরি এলোকেশন ও অন্যান্য স্ট্যান্ডার্ড কাজে ব্যবহৃত হয়।"
-  },
-  {
-    "id": 152,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x = 5, y = 10;\n    x = x + y;\n    y = x - y;\n    x = x - y;\n    printf(\"x=%d, y=%d\", x, y);\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটির আউটপুট কী?",
-    "options": {
-      "a": "x=5, y=10",
-      "b": "x=10, y=5",
-      "c": "x=15, y=5",
-      "d": "x=10, y=15"
-    },
-    "correct_answer": "b",
-    "explanation": "এটি swapping এর একটি পদ্ধতি। প্রথমে x=15, y=10; তারপর y=15-10=5; তারপর x=15-5=10। ফলে x=10, y=5।"
-  },
-  {
-    "id": 153,
-    "question": "নিচের কোনটি C তে বৈধ ধ্রুবক (constant)?",
-    "options": {
-      "a": "const int x = 5;",
-      "b": "int const x = 5;",
-      "c": "#define PI 3.1416",
-      "d": "উপরের সবগুলো"
-    },
-    "correct_answer": "d",
-    "explanation": "const int x = 5; এবং int const x = 5; উভয়ই ধ্রুবক ভেরিয়েবল ডিক্লেয়ার করে। #define PI 3.1416 একটি প্রিপ্রসেসর ম্যাক্রো যা PI-কে ধ্রুবক হিসেবে সংজ্ঞায়িত করে। সবগুলোই বৈধ পদ্ধতি।"
-  },
-  {
-    "id": 154,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, n=5, sum=0;\n    for(i=1; i<=n; i++) {\n        if(i%2==0)\n            continue;\n        sum = sum + i;\n    }\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "6",
-      "b": "9",
-      "c": "15",
-      "d": "12"
-    },
-    "correct_answer": "b",
-    "explanation": "continue-এর কারণে জোড় সংখ্যা (2,4) বাদ পড়ে। শুধু বিজোড় সংখ্যা 1,3,5 যোগ হয় = 9।"
-  },
-  {
-    "id": 155,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a[3][3] = {{1,2,3},{4,5,6},{7,8,9}};\n    printf(\"%d\", a[2][1]);\n    return 0;\n}",
-    "options": {
-      "a": "6",
-      "b": "7",
-      "c": "8",
-      "d": "9"
-    },
-    "correct_answer": "c",
-    "explanation": "a[2][1] তৃতীয় সারি (ইনডেক্স 2) ও দ্বিতীয় কলাম (ইনডেক্স 1) নির্দেশ করে, যার মান 8।"
-  },
-  {
-    "id": 156,
-    "question": "অ্যালগরিদম লেখার সময় কোন বিষয়টি সবচেয়ে গুরুত্বপূর্ণ?",
-    "options": {
-      "a": "ধাপগুলোর ক্রমিক বিন্যাস",
-      "b": "ধাপের সংখ্যা কম হওয়া",
-      "c": "ধাপগুলো জটিল হওয়া",
-      "d": "কম্পিউটার ভাষায় লেখা"
-    },
-    "correct_answer": "a",
-    "explanation": "অ্যালগরিদমের ধাপগুলো সঠিক ক্রমে সাজানো থাকতে হবে, তবেই সঠিক ফলাফল পাওয়া যাবে।"
-  },
-  {
-    "id": 157,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=3; j++) {\n            if(i==j)\n                continue;\n            printf(\"%d \", i*10 + j);\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কেমন হবে?",
-    "options": {
-      "a": "12 13 \n21 23 \n31 32",
-      "b": "11 12 13 \n21 22 23 \n31 32 33",
-      "c": "12 13\n21 23\n31 32",
-      "d": "13 12\n23 21\n32 31"
-    },
-    "correct_answer": "c",
-    "explanation": "i=j হলে continue হওয়ায় কর্ণের উপাদানগুলো প্রিন্ট হয় না। i=1: 12,13; i=2: 21,23; i=3: 31,32 প্রিন্ট হবে।"
-  },
-  {
-    "id": 158,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int i=0;\n    while(i<5) {\n        printf(\"%d\\n\", i);\n        i++;\n    return 0;\n}",
-    "options": {
-      "a": "printf এ সেমিকোলন নেই",
-      "b": "while লুপের বন্ধনী ভুল",
-      "c": "return স্টেটমেন্ট ভুল জায়গায়",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "c",
-    "explanation": "return 0; স্টেটমেন্ট while লুপের ভিতরে থাকায় লুপ প্রথমবার শেষ হওয়ার আগেই প্রোগ্রাম শেষ হয়ে যাবে। return main ফাংশনের শেষে থাকা উচিত।"
-  },
-  {
-    "id": 159,
-    "question": "নিচের কোনটি রিকার্সিভ ফাংশনের উদাহরণ?",
-    "options": {
-      "a": "যে ফাংশন নিজেকে কল করে",
-      "b": "যে ফাংশন অপর ফাংশনকে কল করে",
-      "c": "যে ফাংশন কোনো মান রিটার্ন করে না",
-      "d": "যে ফাংশন প্যারামিটার নেয় না"
-    },
-    "correct_answer": "a",
-    "explanation": "রিকার্সিভ ফাংশন হলো সেই ফাংশন যা নিজেই নিজেকে কল করে।"
-  },
-  {
-    "id": 160,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int arr[5] = {5,10,15,20,25};\n    int *p = &arr[2];\n    printf(\"%d \", *p);\n    p = p - 1;\n    printf(\"%d\", *p);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "15 10",
-      "b": "15 20",
-      "c": "10 15",
-      "d": "15 5"
-    },
-    "correct_answer": "a",
-    "explanation": "p প্রথমে arr[2]-এর অ্যাড্রেস ধরে, *p = 15। তারপর p = p-1 arr[1]-এর অ্যাড্রেস হয়, *p = 10।"
-  },
-  {
-    "id": 161,
-    "question": "ফ্লোচার্টে 'প্রসেস' বা 'কাজ' নির্দেশ করতে কোন আকৃতি ব্যবহার করা হয়?",
-    "options": {
-      "a": "ডিম্বাকৃতি",
-      "b": "আয়তক্ষেত্র",
-      "c": "রম্বস",
-      "d": "সমান্তরিক"
-    },
-    "correct_answer": "b",
-    "explanation": "ফ্লোচার্টে সাধারণ কাজ বা প্রক্রিয়া নির্দেশ করতে আয়তক্ষেত্র ব্যবহার করা হয়।"
-  },
-  {
-    "id": 162,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=0;\n    printf(\"%d \", x++);\n    printf(\"%d \", ++x);\n    printf(\"%d\", x);\n    return 0;\n}",
-    "options": {
-      "a": "0 1 1",
-      "b": "0 2 2",
-      "c": "1 1 1",
-      "d": "0 1 2"
-    },
-    "correct_answer": "b",
-    "explanation": "প্রথম printf: x++ (0 প্রিন্ট, তারপর x=1)। দ্বিতীয় printf: ++x (x=2, তারপর 2 প্রিন্ট)। তৃতীয় printf: x=2 প্রিন্ট। তাই আউটপুট 0 2 2।"
-  },
-  {
-    "id": 163,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int n=6, i, flag=0;\n    for(i=2; i<=n/2; i++) {\n        if(n%i==0) {\n            flag=1;\n            break;\n        }\n    }\n    if(flag==0)\n        printf(\"Prime\");\n    else\n        printf(\"Not Prime\");\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী নির্ধারণ করে?",
-    "options": {
-      "a": "n জোড় না বিজোড়",
-      "b": "n মৌলিক সংখ্যা কিনা",
-      "c": "n পূর্ণবর্গ কিনা",
-      "d": "n এর গুণনীয়ক সংখ্যা"
-    },
-    "correct_answer": "b",
-    "explanation": "এটি n কে 2 থেকে n/2 পর্যন্ত সংখ্যা দিয়ে ভাগ করে ভাগ করা যায় কিনা পরীক্ষা করে। ভাগ গেলে flag=1, যা নির্দেশ করে n মৌলিক নয়।"
-  },
-  {
-    "id": 164,
-    "question": "C প্রোগ্রামে 'getchar()' ফাংশনের কাজ কী?",
-    "options": {
-      "a": "একটি ক্যারেক্টার ইনপুট নেওয়া",
-      "b": "একটি স্ট্রিং ইনপুট নেওয়া",
-      "c": "একটি ক্যারেক্টার আউটপুট দেওয়া",
-      "d": "একটি পূর্ণসংখ্যা ইনপুট নেওয়া"
-    },
-    "correct_answer": "a",
-    "explanation": "getchar() ফাংশন স্ট্যান্ডার্ড ইনপুট থেকে একটি ক্যারেক্টার পড়ে।"
-  },
-  {
-    "id": 165,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, j, count=0;\n    for(i=1; i<=3; i++) {\n        for(j=1; j<=3; j++) {\n            count++;\n        }\n    }\n    printf(\"%d\", count);\n    return 0;\n}",
-    "options": {
-      "a": "3",
-      "b": "6",
-      "c": "9",
-      "d": "12"
-    },
-    "correct_answer": "c",
-    "explanation": "বাইরের লুপ ৩ বার, ভিতরের লুপ প্রতিবার ৩ বার ঘুরে, মোট ৩×৩=৯ বার count++ হয়, তাই count=9।"
-  },
-  {
-    "id": 166,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=10, b=20, c=30;\n    if(a>b)\n        if(a>c)\n            printf(\"%d\", a);\n        else\n            printf(\"%d\", c);\n    else\n        if(b>c)\n            printf(\"%d\", b);\n        else\n            printf(\"%d\", c);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "10",
-      "b": "20",
-      "c": "30",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "c",
-    "explanation": "a>b মিথ্যা, তাই else অংশে যায়। b>c (20>30) মিথ্যা, তাই else অংশে গিয়ে c প্রিন্ট হয় = 30।"
-  },
-  {
-    "id": 167,
-    "question": "নিচের কোনটি ইউজার ডিফাইন্ড ডেটা টাইপ?",
-    "options": {
-      "a": "int",
-      "b": "float",
-      "c": "struct",
-      "d": "char"
-    },
-    "correct_answer": "c",
-    "explanation": "struct ব্যবহার করে ইউজার নিজের প্রয়োজনমতো ডেটা টাইপ তৈরি করতে পারে, যা ইউজার ডিফাইন্ড ডেটা টাইপ।"
-  },
-  {
-    "id": 168,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, n=5, a=0, b=1, c;\n    for(i=1; i<=n; i++) {\n        printf(\"%d \", a);\n        c = a + b;\n        a = b;\n        b = c;\n    }\n    return 0;\n}\nউদ্দীপকের প্রোগ্রামটি কী তৈরি করে?",
-    "options": {
-      "a": "মৌলিক সংখ্যা",
-      "b": "ফিবোনাচ্চি সিরিজ",
-      "c": "ফ্যাক্টোরিয়াল",
-      "d": "গুণোত্তর ধারা"
-    },
-    "correct_answer": "b",
-    "explanation": "এটি ফিবোনাচ্চি সিরিজ তৈরি করে: 0, 1, 1, 2, 3, ...।"
-  },
-  {
-    "id": 169,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    char str[10];\n    str = \"Hello\";\n    printf(\"%s\", str);\n    return 0;\n}",
-    "options": {
-      "a": "printf ভুল",
-      "b": "str ডিক্লেয়ার ভুল",
-      "c": "অ্যারেতে সরাসরি স্ট্রিং অ্যাসাইন করা যায় না",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "c",
-    "explanation": "অ্যারের নামে সরাসরি স্ট্রিং অ্যাসাইন করা যায় না (str = \"Hello\"; ভুল)। strcpy() ফাংশন ব্যবহার করতে হবে।"
-  },
-  {
-    "id": 170,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=3, y=4, z;\n    z = x>y ? x : y;\n    printf(\"%d\", z);\n    return 0;\n}",
-    "options": {
-      "a": "3",
-      "b": "4",
-      "c": "7",
-      "d": "0"
-    },
-    "correct_answer": "b",
-    "explanation": "x>y (3>4) মিথ্যা, তাই y-এর মান 4 z-এ অ্যাসাইন হয়।"
-  },
-  {
-    "id": 171,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[3][3] = {1,2,3,4,5,6,7,8,9};\n    int i, j, sum=0;\n    for(i=0; i<3; i++)\n        sum = sum + a[i][i];\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "12",
-      "b": "15",
-      "c": "18",
-      "d": "45"
-    },
-    "correct_answer": "b",
-    "explanation": "a[i][i] কর্ণের উপাদান: a[0][0]=1, a[1][1]=5, a[2][2]=9, যোগফল = 1+5+9=15।"
-  },
-  {
-    "id": 172,
-    "question": "ফ্লোচার্টে 'সংযোগ' নির্দেশ করতে কোন প্রতীক ব্যবহার করা হয়?",
-    "options": {
-      "a": "বৃত্ত",
-      "b": "পঞ্চভুজ",
-      "c": "ষড়ভুজ",
-      "d": "ত্রিভুজ"
-    },
-    "correct_answer": "a",
-    "explanation": "ফ্লোচার্টের বিভিন্ন অংশ সংযোগ করতে ছোট বৃত্ত (Connector) ব্যবহার করা হয়।"
-  },
-  {
-    "id": 173,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=1; i<=5; i++) {\n        if(i==3)\n            break;\n        printf(\"%d \", i);\n    }\n    printf(\"%d\", i);\n    return 0;\n}",
-    "options": {
-      "a": "1 2 3 3",
-      "b": "1 2 3",
-      "c": "1 2 3",
-      "d": "1 2 3 3"
-    },
-    "correct_answer": "d",
-    "explanation": "i=1,2 প্রিন্ট হয়। i=3 হলে break, লুপ থেকে বেরিয়ে পরে printf(\"%d\", i) 실행, i=3 প্রিন্ট। তাই আউটপুট \"1 2 3\" (প্রথমে 1 2 স্পেস সহ, তারপর নতুন লাইনে 3?) প্রোগ্রাম অনুযায়ী প্রথম printf 1 2 প্রিন্ট করে, তারপর লুপ শেষে দ্বিতীয় printf 3 প্রিন্ট করে। তাই আউটপুট: 1 2 3"
-  },
-  {
-    "id": 174,
-    "question": "সি প্রোগ্রামে 'strlen()' ফাংশনের কাজ কী?",
-    "options": {
-      "a": "দুটি স্ট্রিং যোগ করা",
-      "b": "স্ট্রিং তুলনা করা",
-      "c": "স্ট্রিং-এর দৈর্ঘ্য বের করা",
-      "d": "স্ট্রিং কপি করা"
-    },
-    "correct_answer": "c",
-    "explanation": "strlen() ফাংশন একটি স্ট্রিং-এর ক্যারেক্টারের সংখ্যা (দৈর্ঘ্য) রিটার্ন করে।"
-  },
-  {
-    "id": 175,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, n=6, fact=1;\n    for(i=1; i<=n; i++)\n        fact = fact * i;\n    printf(\"%d\", fact);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "120",
-      "b": "720",
-      "c": "5040",
-      "d": "24"
-    },
-    "correct_answer": "b",
-    "explanation": "6! = 6×5×4×3×2×1 = 720।"
-  },
-  {
-    "id": 176,
-    "question": "নিচের কোনটি বিটওয়াইজ অপারেটর?",
-    "options": {
-      "a": "&&",
-      "b": "||",
-      "c": "&",
-      "d": "!"
-    },
-    "correct_answer": "c",
-    "explanation": "& হলো বিটওয়াইজ AND অপারেটর। &&, ||, ! হলো লজিক্যাল অপারেটর।"
-  },
-  {
-    "id": 177,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int a=5, b=2;\n    float c;\n    c = a/b;\n    printf(\"%.2f\", c);\n    return 0;\n}",
-    "options": {
-      "a": "2.50",
-      "b": "2.00",
-      "c": "2.5",
-      "d": "2"
-    },
-    "correct_answer": "b",
-    "explanation": "a ও b integer, তাই a/b = 2 (integer division), তারপর float-এ রূপান্তরিত হয়ে 2.00 হয়।"
-  },
-  {
-    "id": 178,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int x=5, y=10, z=15;\n    if(x>y || x>z)\n        printf(\"1\");\n    else if(y>x || y>z)\n        printf(\"2\");\n    else\n        printf(\"3\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "1",
-      "b": "2",
-      "c": "3",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "b",
-    "explanation": "x>y মিথ্যা, x>z মিথ্যা, তাই প্রথম শর্ত মিথ্যা। y>x (10>5) সত্য, তাই OR-এর কারণে দ্বিতীয় শর্ত সত্য, \"2\" প্রিন্ট হয়।"
-  },
-  {
-    "id": 179,
-    "question": "C প্রোগ্রামে ফাংশন ডিফাইন করার সঠিক সিনট্যাক্স কোনটি?",
-    "options": {
-      "a": "function_name() { }",
-      "b": "return_type function_name() { }",
-      "c": "function_name(return_type) { }",
-      "d": "def function_name():"
-    },
-    "correct_answer": "b",
-    "explanation": "C তে ফাংশন ডিফাইন করতে হয় return_type function_name(parameters) { body } আকারে।"
-  },
-  {
-    "id": 180,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, j;\n    for(i=1; i<=5; i+=2) {\n        for(j=1; j<=i; j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কেমন হবে?",
-    "options": {
-      "a": "*\n***\n*****",
-      "b": "**\n****\n******",
-      "c": "*\n**\n***",
-      "d": "*****\n***\n*"
-    },
-    "correct_answer": "a",
-    "explanation": "i=1,3,5 এর জন্য ভিতরের লুপ যথাক্রমে 1,3,5 বার * প্রিন্ট করে। তাই *\n***\n*****।"
-  },
-  {
-    "id": 181,
-    "question": "নিচের কোনটি লজিক্যাল অপারেটর?",
-    "options": {
-      "a": "&",
-      "b": "|",
-      "c": "&&",
-      "d": "<<"
-    },
-    "correct_answer": "c",
-    "explanation": "&& হলো লজিক্যাল AND। &, |, << বিটওয়াইজ অপারেটর।"
-  },
-  {
-    "id": 182,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=10, b=20, c=5;\n    int result = a<b ? (a<c ? a : c) : (b<c ? b : c);\n    printf(\"%d\", result);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "5",
-      "b": "10",
-      "c": "20",
-      "d": "15"
-    },
-    "correct_answer": "a",
-    "explanation": "a<b সত্য, তাই (a<c ? a : c) এক্সিকিউট হয়। a<c (10<5) মিথ্যা, তাই c-এর মান 5 রিটার্ন হয়। এটি তিনটি সংখ্যার মধ্যে সর্বনিম্ন মান নির্ণয় করে।"
-  },
-  {
-    "id": 183,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i;\n    for(i=0; i<10; i++) {\n        if(i%3 == 0)\n            continue;\n        printf(\"%d \", i);\n        if(i==5)\n            break;\n    }\n    return 0;\n}",
-    "options": {
-      "a": "1 2 4 5",
-      "b": "1 2 4",
-      "c": "1 2 3 4 5",
-      "d": "1 2 4 5 6"
-    },
-    "correct_answer": "b",
-    "explanation": "i=0: continue; i=1: প্রিন্ট 1; i=2: প্রিন্ট 2; i=3: continue; i=4: প্রিন্ট 4; i=5: প্রিন্ট 5; i=5 প্রিন্টের পর break, তাই লুপ শেষ। আউটপুট 1 2 4 5? কিন্তু i=5 প্রিন্ট হয়েছে? i=5 প্রিন্ট হয়েছে, তাই 1 2 4 5। অপশনে 1 2 4 5 আছে (a)।"
-  },
-  {
-    "id": 184,
-    "question": "অ্যালগরিদমের জটিলতা বলতে কী বোঝায়?",
-    "options": {
-      "a": "অ্যালগরিদম কত বড়",
-      "b": "অ্যালগরিদম চালাতে কত সময় ও মেমরি লাগে",
-      "c": "অ্যালগরিদম কত সহজ",
-      "d": "অ্যালগরিদমের ধাপ সংখ্যা"
-    },
-    "correct_answer": "b",
-    "explanation": "অ্যালগরিদমের জটিলতা বলতে সময় (Time Complexity) ও মেমরি (Space Complexity) এর পরিমাণ বোঝায়।"
-  },
-  {
-    "id": 185,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a[6] = {2,4,6,8,10,12};\n    int i, sum=0;\n    for(i=0; i<6; i=i+2)\n        sum = sum + a[i];\n    printf(\"%d\", sum);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "18",
-      "b": "20",
-      "c": "30",
-      "d": "42"
-    },
-    "correct_answer": "b",
-    "explanation": "i=0,2,4 ইনডেক্সের মান: 2,6,10; যোগফল = 2+6+10=18? (2+6=8, 8+10=18)। অপশনে 18 আছে।"
-  },
-  {
-    "id": 186,
-    "question": "C প্রোগ্রামে 'pow()' ফাংশন ব্যবহার করতে কোন হেডার ফাইল প্রয়োজন?",
-    "options": {
-      "a": "stdio.h",
-      "b": "stdlib.h",
-      "c": "math.h",
-      "d": "string.h"
-    },
-    "correct_answer": "c",
-    "explanation": "pow() ফাংশন গাণিতিক ফাংশন, যা math.h হেডার ফাইলে ডিফাইন করা আছে।"
-  },
-  {
-    "id": 187,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=0;\n    if(x==0)\n        printf(\"Zero \");\n    else if(x>0)\n        printf(\"Positive \");\n    else\n        printf(\"Negative \");\n    return 0;\n}",
-    "options": {
-      "a": "Zero",
-      "b": "Positive",
-      "c": "Negative",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "a",
-    "explanation": "x==0 সত্য, তাই 'Zero' প্রিন্ট হয়।"
-  },
-  {
-    "id": 188,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, j, n=4;\n    for(i=1; i<=n; i++) {\n        for(j=1; j<=n; j++) {\n            if(i==1 || i==n || j==1 || j==n)\n                printf(\"* \");\n            else\n                printf(\"  \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কেমন হবে?",
-    "options": {
-      "a": "একটি পূর্ণ বর্গ",
-      "b": "একটি ফাঁপা বর্গ",
-      "c": "একটি ত্রিভুজ",
-      "d": "একটি রম্বস"
-    },
-    "correct_answer": "b",
-    "explanation": "শর্তানুসারে প্রথম ও শেষ সারি এবং প্রথম ও শেষ কলামে * প্রিন্ট হবে, বাকি জায়গা ফাঁকা থাকবে, যা একটি ফাঁপা বর্গ তৈরি করে।"
-  },
-  {
-    "id": 189,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int a[2][2] = {1,2,3,4};\n    printf(\"%d\", a[2][2]);\n    return 0;\n}",
-    "options": {
-      "a": "printf ভুল",
-      "b": "অ্যারে ইনডেক্স সীমা অতিক্রম",
-      "c": "অ্যারে ডিক্লেয়ার ভুল",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "b",
-    "explanation": "a[2][2] 2×2 অ্যারের জন্য ইনডেক্স 0-1 পর্যন্ত বৈধ। a[2][2] সীমা অতিক্রম করেছে।"
-  },
-  {
-    "id": 190,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int x=5;\n    x = x >> 1;\n    printf(\"%d\", x);\n    return 0;\n}",
-    "options": {
-      "a": "2",
-      "b": "5",
-      "c": "10",
-      "d": "2.5"
-    },
-    "correct_answer": "a",
-    "explanation": "x >> 1 মানে x-কে 1 bit right shift করা, যা 2 দিয়ে ভাগ করার সমতুল্য (পূর্ণসংখ্যা)। 5/2 = 2 (integer division)।"
-  },
-  {
-    "id": 191,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, j, count=0;\n    for(i=0; i<3; i++) {\n        for(j=0; j<2; j++) {\n            if(i==j)\n                count++;\n        }\n    }\n    printf(\"%d\", count);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "2",
-      "b": "3",
-      "c": "4",
-      "d": "6"
-    },
-    "correct_answer": "a",
-    "explanation": "i==j শর্ত সত্য হবে যখন i=0,j=0 এবং i=1,j=1। i=2,j=2 নেই কারণ j<2। তাই count=2।"
-  },
-  {
-    "id": 192,
-    "question": "C প্রোগ্রামে 'static' ভেরিয়েবলের বৈশিষ্ট্য কী?",
-    "options": {
-      "a": "ফাংশন কল শেষে মান হারিয়ে যায়",
-      "b": "প্রোগ্রাম শেষ না হওয়া পর্যন্ত মান সংরক্ষণ করে",
-      "c": "শুধু লোকাল স্কোপে কাজ করে",
-      "d": "গ্লোবাল ভেরিয়েবল"
-    },
-    "correct_answer": "b",
-    "explanation": "static ভেরিয়েবল তার মান ধরে রাখে ফাংশন কল শেষ হওয়ার পরও, প্রোগ্রাম চলাকালে।"
-  },
-  {
-    "id": 193,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i=0;\n    while(i<3) {\n        int j=0;\n        while(j<2) {\n            printf(\"%d%d \", i, j);\n            j++;\n        }\n        i++;\n    }\n    return 0;\n}",
-    "options": {
-      "a": "00 01 10 11 20 21",
-      "b": "01 01 01 01 01 01",
-      "c": "00 01 10 11",
-      "d": "00 01 10 11 20 21"
-    },
-    "correct_answer": "a",
-    "explanation": "i=0: j=0→00, j=1→01; i=1: j=0→10, j=1→11; i=2: j=0→20, j=1→21।"
-  },
-  {
-    "id": 194,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=5, b=10;\n    a = a * b;\n    b = a / b;\n    a = a / b;\n    printf(\"a=%d b=%d\", a, b);\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "a=5 b=10",
-      "b": "a=10 b=5",
-      "c": "a=50 b=5",
-      "d": "a=10 b=50"
-    },
-    "correct_answer": "b",
-    "explanation": "a=5×10=50; b=50/10=5; a=50/5=10। তাই a=10, b=5।"
-  },
-  {
-    "id": 195,
-    "question": "নিচের কোনটি C তে ডাইনামিক মেমরি এলোকেশনের ফাংশন?",
-    "options": {
-      "a": "malloc()",
-      "b": "calloc()",
-      "c": "realloc()",
-      "d": "উপরের সবগুলো"
-    },
-    "correct_answer": "d",
-    "explanation": "malloc(), calloc(), realloc() এবং free() ডাইনামিক মেমরি ম্যানেজমেন্টের ফাংশন।"
-  },
-  {
-    "id": 196,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int i, n=5;\n    for(i=1; i<=n; i++) {\n        if(i%2==1)\n            printf(\"%d \", i*i);\n        else\n            printf(\"%d \", i*i*i);\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "1 8 9 64 25",
-      "b": "1 8 9 64 25",
-      "c": "1 4 9 16 25",
-      "d": "1 8 27 64 125"
-    },
-    "correct_answer": "b",
-    "explanation": "বিজোড় i-এর জন্য বর্গ (1,9,25), জোড় i-এর জন্য ঘন (8,64)। তাই আউটপুট 1 8 9 64 25।"
-  },
-  {
-    "id": 197,
-    "question": "C প্রোগ্রামে 'fgets()' ফাংশনের কাজ কী?",
-    "options": {
-      "a": "ফাইল থেকে স্ট্রিং পড়া",
-      "b": "ফাইলে স্ট্রিং লেখা",
-      "c": "কনসোল থেকে স্ট্রিং পড়া",
-      "d": "স্ট্রিং তুলনা করা"
-    },
-    "correct_answer": "c",
-    "explanation": "fgets() সাধারণত stdin থেকে (কনসোল) বা ফাইল থেকে স্ট্রিং পড়তে ব্যবহৃত হয়।"
-  },
-  {
-    "id": 198,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?\n#include <stdio.h>\nint main() {\n    int i, j, n=5;\n    for(i=1; i<=n; i++) {\n        for(j=1; j<=n-i; j++)\n            printf(\" \");\n        for(j=1; j<=i; j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}\nউদ্দীপকের আউটপুট কেমন হবে?",
-    "options": {
-      "a": "সমকোণী ত্রিভুজ",
-      "b": "সমবাহু ত্রিভুজ",
-      "c": "উল্টো ত্রিভুজ",
-      "d": "বর্গ"
-    },
-    "correct_answer": "b",
-    "explanation": "একটি সমকোণী ত্রিভুজ? না, এটি ডান দিকে সাজানো সমকোণী ত্রিভুজ (right-angled triangle)। প্রথমে স্পেস প্রিন্ট করে * প্রিন্ট করায় এটি ডান দিকে সারিবদ্ধ হয়।"
-  },
-  {
-    "id": 199,
-    "question": "নিচের কোডে ত্রুটি কী?\n#include <stdio.h>\nint main() {\n    int x=5;\n    printf(\"%d\", x);\n    return 0;",
-    "options": {
-      "a": "printf এ ফরম্যাট ভুল",
-      "b": "main ফাংশনের শেষে } নেই",
-      "c": "x ডিক্লেয়ার করা হয়নি",
-      "d": "কোন ত্রুটি নেই"
-    },
-    "correct_answer": "b",
-    "explanation": "main ফাংশনের শেষ কার্লি ব্র্যাকেট } নেই, যা সিনট্যাক্স ত্রুটি।"
-  },
-  {
-    "id": 200,
-    "question": "উদ্দীপক:\n#include <stdio.h>\nint main() {\n    int a=5, b=5, c=10;\n    if(a==b && a==c)\n        printf(\"All Equal\");\n    else if(a==b || a==c || b==c)\n        printf(\"Two Equal\");\n    else\n        printf(\"All Different\");\n    return 0;\n}\nউদ্দীপকের আউটপুট কী?",
-    "options": {
-      "a": "All Equal",
-      "b": "Two Equal",
-      "c": "All Different",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "b",
-    "explanation": "a==b সত্য, a==c মিথ্যা, b==c মিথ্যা, কিন্তু OR অপারেটরের কারণে a==b সত্য হওয়ায় দ্বিতীয় শর্ত সত্য, 'Two Equal' প্রিন্ট হয়।"
   }
-
-
-
-
 ]
-

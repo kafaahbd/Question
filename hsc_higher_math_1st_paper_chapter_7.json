@@ -178,5 +178,428 @@
     },
     "correct_answer": "a",
     "explanation": "B=\\frac{\\pi}{2}-A"
+  },
+  {
+    "id": 16,
+    "question": "x = \\tan\\theta হলে \\cos 2\\theta = ?",
+    "options": {
+      "a": "\\frac{1-x^2}{1+x^2}",
+      "b": "\\frac{1+x^2}{1-x^2}",
+      "c": "\\frac{2x}{1+x^2}",
+      "d": "\\frac{2}{1+x^2}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\cos2\\theta = \\frac{1-\\tan^2\\theta}{1+\\tan^2\\theta}"
+  },
+  {
+    "id": 17,
+    "question": "\\sin^2\\theta+\\cos^2\\theta = ?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "-1"
+    },
+    "correct_answer": "b",
+    "explanation": "Basic identity"
+  },
+  {
+    "id": 18,
+    "question": "\\sec^2\\theta-\\tan^2\\theta = ?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "-1"
+    },
+    "correct_answer": "b",
+    "explanation": "Identity"
+  },
+  {
+    "id": 19,
+    "question": "\\csc^2\\theta-1 = ?",
+    "options": {
+      "a": "\\cot^2\\theta",
+      "b": "\\tan^2\\theta",
+      "c": "\\sec^2\\theta",
+      "d": "1"
+    },
+    "correct_answer": "a",
+    "explanation": "Identity"
+  },
+  {
+    "id": 20,
+    "question": "\\sin 2\\theta = ?",
+    "options": {
+      "a": "2\\sin\\theta\\cos\\theta",
+      "b": "\\sin^2\\theta-\\cos^2\\theta",
+      "c": "\\cos^2\\theta-\\sin^2\\theta",
+      "d": "2\\tan\\theta"
+    },
+    "correct_answer": "a",
+    "explanation": "Double angle"
+  },
+  {
+    "id": 21,
+    "question": "\\cos 2\\theta = ?",
+    "options": {
+      "a": "\\cos^2\\theta-\\sin^2\\theta",
+      "b": "2\\sin\\theta\\cos\\theta",
+      "c": "\\tan^2\\theta",
+      "d": "\\cot^2\\theta"
+    },
+    "correct_answer": "a",
+    "explanation": "Double angle"
+  },
+  {
+    "id": 22,
+    "question": "\\tan 2\\theta = ?",
+    "options": {
+      "a": "\\frac{2\\tan\\theta}{1-\\tan^2\\theta}",
+      "b": "\\frac{1-\\tan^2\\theta}{2\\tan\\theta}",
+      "c": "2\\tan\\theta",
+      "d": "\\tan^2\\theta"
+    },
+    "correct_answer": "a",
+    "explanation": "Formula"
+  },
+  {
+    "id": 23,
+    "question": "\\sin 30^\\circ = ?",
+    "options": {
+      "a": "\\frac{1}{2}",
+      "b": "\\frac{\\sqrt{3}}{2}",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard value"
+  },
+  {
+    "id": 24,
+    "question": "\\cos 60^\\circ = ?",
+    "options": {
+      "a": "\\frac{1}{2}",
+      "b": "\\frac{\\sqrt{3}}{2}",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard"
+  },
+  {
+    "id": 25,
+    "question": "\\tan 45^\\circ = ?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "\\sqrt{3}",
+      "d": "\\frac{1}{\\sqrt{3}}"
+    },
+    "correct_answer": "b",
+    "explanation": "Standard"
+  },
+  {
+    "id": 26,
+    "question": "\\sin 50^\\circ + \\sin 70^\\circ = ?",
+    "options": {
+      "a": "2\\sin60^\\circ\\cos10^\\circ",
+      "b": "\\sqrt{3}",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "Sum formula"
+  },
+  {
+    "id": 27,
+    "question": "\\cos 50^\\circ + \\cos 70^\\circ = ?",
+    "options": {
+      "a": "2\\cos60^\\circ\\cos10^\\circ",
+      "b": "2\\sin60^\\circ\\sin10^\\circ",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "Formula"
+  },
+  {
+    "id": 28,
+    "question": "\\sin A + \\sin B = ?",
+    "options": {
+      "a": "2\\sin\\frac{A+B}{2}\\cos\\frac{A-B}{2}",
+      "b": "2\\cos\\frac{A+B}{2}\\sin\\frac{A-B}{2}",
+      "c": "\\sin(A+B)",
+      "d": "\\cos(A+B)"
+    },
+    "correct_answer": "a",
+    "explanation": "Formula"
+  },
+  {
+    "id": 29,
+    "question": "\\cos A + \\cos B = ?",
+    "options": {
+      "a": "2\\cos\\frac{A+B}{2}\\cos\\frac{A-B}{2}",
+      "b": "2\\sin\\frac{A+B}{2}\\sin\\frac{A-B}{2}",
+      "c": "\\sin(A+B)",
+      "d": "\\cos(A+B)"
+    },
+    "correct_answer": "a",
+    "explanation": "Formula"
+  },
+  {
+    "id": 30,
+    "question": "\\sin A \\sin B = ?",
+    "options": {
+      "a": "\\frac{1}{2}[\\cos(A-B)-\\cos(A+B)]",
+      "b": "\\cos(A+B)",
+      "c": "\\sin(A+B)",
+      "d": "1"
+    },
+    "correct_answer": "a",
+    "explanation": "Product formula"
+  },
+  {
+    "id": 31,
+    "question": "\\cos A \\cos B = ?",
+    "options": {
+      "a": "\\frac{1}{2}[\\cos(A-B)+\\cos(A+B)]",
+      "b": "\\cos(A+B)",
+      "c": "\\sin(A+B)",
+      "d": "1"
+    },
+    "correct_answer": "a",
+    "explanation": "Formula"
+  },
+  {
+    "id": 32,
+    "question": "\\sin A \\cos B = ?",
+    "options": {
+      "a": "\\frac{1}{2}[\\sin(A+B)+\\sin(A-B)]",
+      "b": "\\cos(A+B)",
+      "c": "\\sin(A+B)",
+      "d": "1"
+    },
+    "correct_answer": "a",
+    "explanation": "Formula"
+  },
+  {
+    "id": 33,
+    "question": "\\sin 90^\\circ = ?",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "-1",
+      "d": "\\frac{1}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard"
+  },
+  {
+    "id": 34,
+    "question": "\\cos 90^\\circ = ?",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "-1",
+      "d": "\\frac{1}{2}"
+    },
+    "correct_answer": "b",
+    "explanation": "Standard"
+  },
+  {
+    "id": 35,
+    "question": "\\tan 0^\\circ = ?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "\\infty",
+      "d": "-1"
+    },
+    "correct_answer": "a",
+    "explanation": "Standard"
+  },
+  {
+    "id": 36,
+    "question": "\\tan 75^\\circ = ?",
+    "options": {
+      "a": "2 + \\sqrt{3}",
+      "b": "2 - \\sqrt{3}",
+      "c": "\\sqrt{3} - 2",
+      "d": "\\frac{1}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\tan(75^\\circ) = \\tan(45^\\circ + 30^\\circ) = \\frac{\\tan45^\\circ + \\tan30^\\circ}{1 - \\tan45^\\circ \\tan30^\\circ} = 2 + \\sqrt{3}"
+  },
+  {
+    "id": 37,
+    "question": "\\sin 105^\\circ = ?",
+    "options": {
+      "a": "\\frac{\\sqrt{6} + \\sqrt{2}}{4}",
+      "b": "\\frac{\\sqrt{6} - \\sqrt{2}}{4}",
+      "c": "\\frac{1}{2}",
+      "d": "1"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sin(105^\\circ) = \\sin(60^\\circ + 45^\\circ) = \\sin60\\cos45 + \\cos60\\sin45 = \\frac{\\sqrt{6}+\\sqrt{2}}{4}"
+  },
+  {
+    "id": 38,
+    "question": "\\cos 120^\\circ = ?",
+    "options": {
+      "a": "-\\frac{1}{2}",
+      "b": "\\frac{1}{2}",
+      "c": "0",
+      "d": "\\frac{\\sqrt{3}}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "Cosine of obtuse angle in 2nd quadrant is negative"
+  },
+  {
+    "id": 39,
+    "question": "\\tan(-45^\\circ) = ?",
+    "options": {
+      "a": "-1",
+      "b": "1",
+      "c": "0",
+      "d": "\\infty"
+    },
+    "correct_answer": "a",
+    "explanation": "Tangent is odd function: \\tan(-\\theta) = -\\tan\\theta"
+  },
+  {
+    "id": 40,
+    "question": "\\sin^2 30^\\circ + \\cos^2 30^\\circ = ?",
+    "options": {
+      "a": "1",
+      "b": "\\frac{1}{2}",
+      "c": "\\frac{3}{4}",
+      "d": "2"
+    },
+    "correct_answer": "a",
+    "explanation": "Identity \\sin^2\\theta + \\cos^2\\theta = 1"
+  },
+  {
+    "id": 41,
+    "question": "\\csc 60^\\circ = ?",
+    "options": {
+      "a": "\\frac{2}{\\sqrt{3}}",
+      "b": "\\frac{\\sqrt{3}}{2}",
+      "c": "2",
+      "d": "1"
+    },
+    "correct_answer": "a",
+    "explanation": "\\csc\\theta = 1/\\sin\\theta"
+  },
+  {
+    "id": 42,
+    "question": "\\sec 45^\\circ = ?",
+    "options": {
+      "a": "\\sqrt{2}",
+      "b": "1",
+      "c": "2",
+      "d": "\\frac{1}{\\sqrt{2}}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sec\\theta = 1/\\cos\\theta = \\sqrt{2}"
+  },
+  {
+    "id": 43,
+    "question": "\\cot 30^\\circ = ?",
+    "options": {
+      "a": "\\sqrt{3}",
+      "b": "1",
+      "c": "\\frac{1}{\\sqrt{3}}",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "Cotangent is reciprocal of tangent"
+  },
+  {
+    "id": 44,
+    "question": "\\sin 2\\times30^\\circ = ?",
+    "options": {
+      "a": "\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}",
+      "b": "\\sin 60^\\circ = \\frac{1}{2}",
+      "c": "\\sin 30^\\circ = \\frac{1}{2}",
+      "d": "\\sin 30^\\circ = 1"
+    },
+    "correct_answer": "a",
+    "explanation": "Double angle: \\sin2\\theta = 2\\sin\\theta\\cos\\theta"
+  },
+  {
+    "id": 45,
+    "question": "\\cos 2\\times45^\\circ = ?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "\\frac{1}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\cos 2\\theta = \\cos^2\\theta - \\sin^2\\theta = 0"
+  },
+  {
+    "id": 46,
+    "question": "\\tan 2\\times30^\\circ = ?",
+    "options": {
+      "a": "\\sqrt{3}",
+      "b": "\\frac{1}{\\sqrt{3}}",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "\\tan 2\\theta = \\frac{2\\tan\\theta}{1-\\tan^2\\theta}"
+  },
+  {
+    "id": 47,
+    "question": "\\sin 15^\\circ = ?",
+    "options": {
+      "a": "\\frac{\\sqrt{6}-\\sqrt{2}}{4}",
+      "b": "\\frac{\\sqrt{6}+\\sqrt{2}}{4}",
+      "c": "\\frac{1}{2}",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "Using \\sin(45^\\circ-30^\\circ) formula"
+  },
+  {
+    "id": 48,
+    "question": "\\cos 15^\\circ = ?",
+    "options": {
+      "a": "\\frac{\\sqrt{6}+\\sqrt{2}}{4}",
+      "b": "\\frac{\\sqrt{6}-\\sqrt{2}}{4}",
+      "c": "\\frac{1}{2}",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "\\cos(45^\\circ-30^\\circ) = \\cos45\\cos30 + \\sin45\\sin30"
+  },
+  {
+    "id": 49,
+    "question": "\\tan 15^\\circ = ?",
+    "options": {
+      "a": "2 - \\sqrt{3}",
+      "b": "2 + \\sqrt{3}",
+      "c": "\\frac{1}{2}",
+      "d": "\\sqrt{3}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\tan(45-30) = \\frac{\\tan45-\\tan30}{1+\\tan45\\tan30} = 2 - \\sqrt{3}"
+  },
+  {
+    "id": 50,
+    "question": "\\sin 75^\\circ \\cos 15^\\circ + \\cos 75^\\circ \\sin 15^\\circ = ?",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "\\frac{1}{2}",
+      "d": "\\frac{\\sqrt{2}}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "Using \\sin(A+B) formula: \\sin 75\\cos15 + \\cos75\\sin15 = \\sin90 = 1"
   }
+
+
 ]
+

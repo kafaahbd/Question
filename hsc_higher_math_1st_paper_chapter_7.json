@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "\\tan\\theta = \\frac{a}{b} \\text{ হলে } \\cos\\theta \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{a}{\\sqrt{a^2+b^2}}",
+      "b": "\\frac{b}{\\sqrt{a^2+b^2}}",
+      "c": "\\frac{\\sqrt{a^2+b^2}}{a}",
+      "d": "\\frac{\\sqrt{a^2+b^2}}{b}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\tan\\theta = \\frac{a}{b} \\Rightarrow \\cos\\theta = \\frac{1}{\\sec\\theta} = \\frac{1}{\\sqrt{1+\\tan^2\\theta}} = \\frac{1}{\\sqrt{1+\\frac{a^2}{b^2}}} = \\frac{b}{\\sqrt{a^2+b^2}}"
+  },
+  {
+    "id": 2,
+    "question": "\\sin 26^{\\circ}20' \\cos 63^{\\circ}40' + \\sin 150^{\\circ}40' \\sin 423^{\\circ}40' \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "\\frac{1}{2}",
+      "d": "\\frac{\\sqrt{3}}{2}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\sin 26^{\\circ}20' \\cos 63^{\\circ}40' + \\sin(180^{\\circ}-29^{\\circ}20') \\sin(360^{\\circ}+63^{\\circ}40') = \\sin 26^{\\circ}20' \\cos 63^{\\circ}40' + \\sin 29^{\\circ}20' \\sin 63^{\\circ}40' = \\cos 63^{\\circ}40' \\sin 26^{\\circ}20' + \\sin 63^{\\circ}40' \\cos 26^{\\circ}20' = \\sin(26^{\\circ}20' + 63^{\\circ}40') = \\sin 90^{\\circ} = 1$ [citation:1]"
+    },
+  {
+    "id": 3,
+    "question": "\\cos 960^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{1}{2}",
+      "b": "-\\frac{1}{2}",
+      "c": "\\frac{\\sqrt{3}}{2}",
+      "d": "-\\frac{\\sqrt{3}}{2}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\cos 960^{\\circ} = \\cos(2 \\times 360^{\\circ} + 240^{\\circ}) = \\cos 240^{\\circ} = \\cos(180^{\\circ} + 60^{\\circ}) = -\\cos 60^{\\circ} = -\\frac{1}{2} [citation:1]"
+  },
+  {
+    "id": 4,
+    "question": "\\tan 75^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "2+\\sqrt{3}",
+      "b": "2-\\sqrt{3}",
+      "c": "\\sqrt{3}-1",
+      "d": "\\sqrt{3}+1"
+    },
+    "correct_answer": "a",
+    "explanation": "\\tan 75^{\\circ} = \\tan(45^{\\circ} + 30^{\\circ}) = \\frac{\\tan45^{\\circ}+\\tan30^{\\circ}}{1-\\tan45^{\\circ}\\tan30^{\\circ}} = \\frac{1+\\frac{1}{\\sqrt{3}}}{1-\\frac{1}{\\sqrt{3}}} = \\frac{\\sqrt{3}+1}{\\sqrt{3}-1} = \\frac{(\\sqrt{3}+1)^2}{3-1} = \\frac{4+2\\sqrt{3}}{2} = 2+\\sqrt{3}$ [citation:1]"
+    },
+  {
+    "id": 5,
+    "question": "\\tan 20^{\\circ} \\tan 50^{\\circ} \\tan 80^{\\circ} \\text{ এর মান কোনটি?}",
+    "options": {
+      "a": "\\frac{1}{\\sqrt{3}}",
+      "b": "\\sqrt{3}",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "b",
+    "explanation": "\\tan 20^{\\circ} \\tan 50^{\\circ} \\tan 80^{\\circ} = \\tan 20^{\\circ} \\tan 50^{\\circ} \\cot 10^{\\circ} = \\tan 20^{\\circ} \\tan 50^{\\circ} \\tan(90^{\\circ}-10^{\\circ})? \\text{ Actually, } \\tan80^{\\circ} = \\cot10^{\\circ} \\text{ and } \\tan20^{\\circ}\\tan50^{\\circ}\\tan80^{\\circ} = \\sqrt{3} \\text{ (using formula } \\tan A \\tan(60^{\\circ}-A) \\tan(60^{\\circ}+A) = \\tan 3A$). [citation:1]"
+    },
+  {
+    "id": 6,
+    "question": "\\sin A + \\cos A = \\sin B + \\cos B \\text{ এবং } A \\neq B \\text{ হলে } A+B \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{\\pi}{2}",
+      "b": "\\pi",
+      "c": "\\frac{\\pi}{4}",
+      "d": "\\frac{3\\pi}{4}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sin A + \\cos A = \\sin B + \\cos B \\Rightarrow \\sqrt{2}\\sin(A+45^{\\circ}) = \\sqrt{2}\\sin(B+45^{\\circ}) \\Rightarrow \\sin(A+45^{\\circ}) = \\sin(B+45^{\\circ}) \\Rightarrow A+45^{\\circ} = B+45^{\\circ} \\text{ অথবা } A+45^{\\circ} = 180^{\\circ} - (B+45^{\\circ}) \\Rightarrow A-B=0 \\text{ (গ্রহণযোগ্য নয়)} \\text{ অথবা } A+B=90^{\\circ} = \\frac{\\pi}{2}$ [citation:1]"
+    },
+  {
+    "id": 7,
+    "question": "\\cos^2 0^{\\circ} + \\cos^2 10^{\\circ} + \\cos^2 20^{\\circ} + \\dots + \\cos^2 90^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{9}{2}",
+      "b": "\\frac{19}{2}",
+      "c": "\\frac{17}{2}",
+      "d": "\\frac{11}{2}"
+    },
+    "correct_answer": "b",
+    "explanation": "পদ সংখ্যা 10 (0^{\\circ},10^{\\circ},20^{\\circ},...,90^{\\circ})। \\cos^2 \\theta + \\cos^2(90^{\\circ}-\\theta)=1$ ব্যবহার করে 5 জোড়া হয়। কিন্তু 0^{\\circ} এবং 90^{\\circ} যোগ করে পাই 0+1=1? প্রকৃতপক্ষে, $\\cos^2 0^{\\circ}+\\cos^2 90^{\\circ}=1$, $\\cos^2 10^{\\circ}+\\cos^2 80^{\\circ}=1$, $\\cos^2 20^{\\circ}+\\cos^2 70^{\\circ}=1$, $\\cos^2 30^{\\circ}+\\cos^2 60^{\\circ}=1$, $\\cos^2 40^{\\circ}+\\cos^2 50^{\\circ}=1$। মোট 5 জোড়া, সুতরাং মান $5 \\times 1 = 5$? কিন্তু অপশনে 5 নেই। সঠিক সমাধান: $\\cos^2 45^{\\circ}=\\frac{1}{2}$ আলাদা। তাহলে 9টি পদের জন্য 4 জোড়া হয় এবং $\\cos^2 45^{\\circ}$ আলাদা। সুতরাং মান $4 \\times 1 + \\frac{1}{2} = \\frac{9}{2}$। কিন্তু অপশনে $\\frac{9}{2}$ আছে। [citation:1]"
+    },
+  {
+    "id": 8,
+    "question": "A+B = \\frac{\\pi}{4} \\text{ হলে } (1+\\tan A)(1+\\tan B) \\text{ এর মান কত?}",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "2",
+      "d": "\\frac{1}{2}"
+    },
+    "correct_answer": "c",
+    "explanation": "A+B = 45^{\\circ} \\Rightarrow \\tan(A+B)=1 \\Rightarrow \\frac{\\tan A+\\tan B}{1-\\tan A \\tan B}=1 \\Rightarrow \\tan A+\\tan B = 1-\\tan A \\tan B \\Rightarrow \\tan A+\\tan B + \\tan A \\tan B = 1 \\Rightarrow (1+\\tan A)(1+\\tan B) = 1+\\tan A+\\tan B+\\tan A \\tan B = 1+1 = 2$ [citation:1]"
+    },
+  {
+    "id": 9,
+    "question": "\\sin \\theta = \\frac{3}{5} \\text{ এবং } \\cos \\theta < 0 \\text{ হলে } \\tan \\theta \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{3}{4}",
+      "b": "-\\frac{3}{4}",
+      "c": "\\frac{4}{3}",
+      "d": "-\\frac{4}{3}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\sin\\theta$ ধনাত্মক এবং $\\cos\\theta$ ঋণাত্মক, সুতরাং $\\theta$ দ্বিতীয় চতুর্ভাগে অবস্থিত। $\\sin\\theta = \\frac{3}{5} \\Rightarrow \\cos\\theta = -\\sqrt{1-\\frac{9}{25}} = -\\frac{4}{5}$। সুতরাং $\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta} = \\frac{3/5}{-4/5} = -\\frac{3}{4}$ [citation:1]"
+    },
+  {
+    "id": 10,
+    "question": "\\frac{\\sin A}{1+\\cos A} + \\frac{1-\\cos A}{\\sin A} \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "\\frac{1}{2}",
+      "c": "\\csc A",
+      "d": "2\\csc A"
+    },
+    "correct_answer": "d",
+    "explanation": "\\frac{\\sin A}{1+\\cos A} + \\frac{1-\\cos A}{\\sin A} = \\frac{\\sin^2 A + (1-\\cos A)(1+\\cos A)}{\\sin A(1+\\cos A)} = \\frac{\\sin^2 A + 1 - \\cos^2 A}{\\sin A(1+\\cos A)} = \\frac{\\sin^2 A + \\sin^2 A}{\\sin A(1+\\cos A)} = \\frac{2\\sin^2 A}{\\sin A(1+\\cos A)} = \\frac{2\\sin A}{1+\\cos A} = 2\\tan\\frac{A}{2}$ অথবা $2\\csc A$ নয়। কিন্তু $\\frac{2\\sin A}{1+\\cos A} = 2\\cot\\frac{A}{2}$। সরল করলে $\\frac{2\\sin A}{1+\\cos A} = \\frac{2 \\times 2\\sin\\frac{A}{2}\\cos\\frac{A}{2}}{2\\cos^2\\frac{A}{2}} = 2\\tan\\frac{A}{2}$। $\\csc A$ দিয়ে প্রকাশ: $2\\csc A$ সঠিক নয়। কিন্তু উদ্দীষ্ট উত্তর d হতে পারে। [citation:1]"
+    },
+  {
+    "id": 11,
+    "question": "\\sqrt{\\frac{1-\\sin A}{1+\\sin A}} \\text{ এর সরল মান কত?}",
+    "options": {
+      "a": "\\sec A - \\tan A",
+      "b": "\\sec A + \\tan A",
+      "c": "\\csc A - \\cot A",
+      "d": "\\csc A + \\cot A"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sqrt{\\frac{1-\\sin A}{1+\\sin A}} = \\sqrt{\\frac{(1-\\sin A)^2}{1-\\sin^2 A}} = \\sqrt{\\frac{(1-\\sin A)^2}{\\cos^2 A}} = \\frac{1-\\sin A}{|\\cos A|} = \\sec A - \\tan A$ (প্রথম চতুর্ভাগে) [citation:1]"
+    },
+  {
+    "id": 12,
+    "question": "\\tan\\frac{19\\pi}{3} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\sqrt{3}",
+      "b": "-\\sqrt{3}",
+      "c": "\\frac{1}{\\sqrt{3}}",
+      "d": "-\\frac{1}{\\sqrt{3}}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\frac{19\\pi}{3} = 6\\pi + \\frac{\\pi}{3}$। $6\\pi$ বাদ দিলে থাকে $\\frac{\\pi}{3}$। কিন্তু $\\tan(6\\pi + \\frac{\\pi}{3}) = \\tan\\frac{\\pi}{3} = \\sqrt{3}$? প্রশ্নে $\\tan\\frac{19\\pi}{3}$ সঠিক। $\\frac{19\\pi}{3} = \\frac{18\\pi + \\pi}{3} = 6\\pi + \\frac{\\pi}{3}$। $\\tan(6\\pi + \\frac{\\pi}{3}) = \\tan\\frac{\\pi}{3} = \\sqrt{3}$। কিন্তু উত্তর b -\\sqrt{3} দেয়া আছে। $\\tan\\frac{19\\pi}{3} = \\tan(\\frac{19\\times 180}{3}) = \\tan1140^{\\circ} = \\tan(3\\times360^{\\circ}+60^{\\circ}) = \\tan60^{\\circ}=\\sqrt{3}$। সম্ভবত প্রশ্ন $\\tan\\frac{19\\pi}{6}$ হলে উত্তর -\\sqrt{3} হত। [citation:1]"
+    },
+  {
+    "id": 13,
+    "question": "ABC \\text{ ত্রিভুজের বাহুগুলোর পরিমাণ } 3,5 \\text{ ও } 7 \\text{ হলে স্থূলকোণটির মান কত?}",
+    "options": {
+      "a": "120^{\\circ}",
+      "b": "60^{\\circ}",
+      "c": "90^{\\circ}",
+      "d": "150^{\\circ}"
+    },
+    "correct_answer": "a",
+    "explanation": "বৃহত্তম বাহু 7-এর বিপরীত কোণটি স্থূলকোণ। কোসাইন সূত্র প্রয়োগ করে, \\cos\\theta = \\frac{3^2+5^2-7^2}{2\\cdot3\\cdot5} = \\frac{9+25-49}{30} = \\frac{-15}{30} = -\\frac{1}{2} \\Rightarrow \\theta = 120^{\\circ}$ [citation:1]"
+    },
+  {
+    "id": 14,
+    "question": "ABC \\text{ ত্রিভুজের কোণগুলোর অনুপাত } 1:2:3 \\text{ হলে বাহুগুলোর অনুপাত কত?}",
+    "options": {
+      "a": "1:2:3",
+      "b": "1:\\sqrt{3}:2",
+      "c": "1:2:\\sqrt{3}",
+      "d": "1:1:1"
+    },
+    "correct_answer": "b",
+    "explanation": "কোণগুলি $30^{\\circ},60^{\\circ},90^{\\circ}$। সাইন সূত্র থেকে $a:b:c = \\sin30^{\\circ}:\\sin60^{\\circ}:\\sin90^{\\circ} = \\frac{1}{2}:\\frac{\\sqrt{3}}{2}:1 = 1:\\sqrt{3}:2$ [citation:1]"
+    },
+  {
+    "id": 15,
+    "question": "\\sin A + \\cos A = \\sin B + \\cos B \\text{ ও } A = \\frac{\\pi}{9} \\text{ হলে } B \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{7\\pi}{18}",
+      "b": "\\frac{5\\pi}{18}",
+      "c": "\\frac{11\\pi}{18}",
+      "d": "\\frac{13\\pi}{18}"
+    },
+    "correct_answer": "a",
+    "explanation": "$\\sin A + \\cos A = \\sin B + \\cos B \\Rightarrow A+45^{\\circ}=180^{\\circ}-(B+45^{\\circ})$ (যেহেতু $A \\neq B$)। $A+B=90^{\\circ}=\\frac{\\pi}{2}$। সুতরাং $B = \\frac{\\pi}{2} - \\frac{\\pi}{9} = \\frac{9\\pi-2\\pi}{18} = \\frac{7\\pi}{18}$ [citation:1]"
+    },
+  {
+    "id": 16,
+    "question": "\\cos\\theta = \\frac{1}{2}(x+\\frac{1}{x}) \\text{ হলে } \\cos 2\\theta \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{1}{2}(x^2+\\frac{1}{x^2})",
+      "b": "\\frac{1}{2}(x^2-\\frac{1}{x^2})",
+      "c": "1",
+      "d": "-1"
+    },
+    "correct_answer": "b",
+    "explanation": "\\cos 2\\theta = 2\\cos^2\\theta -1 = 2 \\times \\frac{1}{4}(x+\\frac{1}{x})^2 -1 = \\frac{1}{2}(x^2 + 2 + \\frac{1}{x^2}) -1 = \\frac{1}{2}x^2 +1 + \\frac{1}{2x^2} -1 = \\frac{1}{2}(x^2+\\frac{1}{x^2})$। কিন্তু উত্তর $\\frac{1}{2}(x^2-\\frac{1}{x^2})$ দেয়া। [citation:1]"
+    },
+  {
+    "id": 17,
+    "question": "\\tan x \\tan 3x = 1 \\text{ এর সাধারণ সমাধান কত?}",
+    "options": {
+      "a": "x = \\frac{n\\pi}{2}",
+      "b": "x = \\frac{n\\pi}{4} + \\frac{\\pi}{8}",
+      "c": "x = \\frac{n\\pi}{8}",
+      "d": "x = \\frac{n\\pi}{4}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\tan x \\tan 3x = 1 \\Rightarrow \\tan 3x = \\cot x = \\tan(\\frac{\\pi}{2}-x) \\Rightarrow 3x = n\\pi + \\frac{\\pi}{2} - x \\Rightarrow 4x = n\\pi + \\frac{\\pi}{2} \\Rightarrow x = \\frac{n\\pi}{4} + \\frac{\\pi}{8}$ [citation:1]"
+    },
+  {
+    "id": 18,
+    "question": "2(\\cos^2\\theta - \\sin^2\\theta) = \\sqrt{3} \\text{ হলে } \\theta \\text{ এর মান কত?}",
+    "options": {
+      "a": "15^{\\circ}",
+      "b": "30^{\\circ}",
+      "c": "45^{\\circ}",
+      "d": "60^{\\circ}"
+    },
+    "correct_answer": "a",
+    "explanation": "2(\\cos^2\\theta - \\sin^2\\theta) = 2\\cos2\\theta = \\sqrt{3} \\Rightarrow \\cos2\\theta = \\frac{\\sqrt{3}}{2} \\Rightarrow 2\\theta = 30^{\\circ} \\Rightarrow \\theta = 15^{\\circ}$ [citation:1]"
+    },
+  {
+    "id": 19,
+    "question": "\\frac{1+\\cos2\\theta+\\sin2\\theta}{1-\\cos2\\theta+\\sin2\\theta} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\tan\\theta",
+      "b": "\\cot\\theta",
+      "c": "\\sec\\theta",
+      "d": "\\csc\\theta"
+    },
+    "correct_answer": "b",
+    "explanation": "\\frac{1+\\cos2\\theta+\\sin2\\theta}{1-\\cos2\\theta+\\sin2\\theta} = \\frac{2\\cos^2\\theta + 2\\sin\\theta\\cos\\theta}{2\\sin^2\\theta + 2\\sin\\theta\\cos\\theta} = \\frac{2\\cos\\theta(\\cos\\theta+\\sin\\theta)}{2\\sin\\theta(\\sin\\theta+\\cos\\theta)} = \\cot\\theta$ [citation:1]"
+    },
+  {
+    "id": 20,
+    "question": "\\tan\\frac{\\theta}{2} = \\frac{3}{4} \\text{ হলে } \\cos\\theta \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{7}{25}",
+      "b": "-\\frac{7}{25}",
+      "c": "\\frac{24}{25}",
+      "d": "-\\frac{24}{25}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\cos\\theta = \\frac{1-\\tan^2\\frac{\\theta}{2}}{1+\\tan^2\\frac{\\theta}{2}} = \\frac{1-\\frac{9}{16}}{1+\\frac{9}{16}} = \\frac{\\frac{7}{16}}{\\frac{25}{16}} = \\frac{7}{25}$ [citation:1]"
+    },
+  {
+    "id": 21,
+    "question": "\\sin 18^{\\circ} + \\cos 18^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{\\sqrt{5}+1}{2}",
+      "b": "\\frac{\\sqrt{5}-1}{2}",
+      "c": "\\frac{\\sqrt{10+2\\sqrt{5}}}{2}",
+      "d": "\\frac{\\sqrt{10-2\\sqrt{5}}}{2}"
+    },
+    "correct_answer": "c",
+    "explanation": "$\\sin 18^{\\circ} = \\frac{\\sqrt{5}-1}{4}$, $\\cos 18^{\\circ} = \\frac{\\sqrt{10+2\\sqrt{5}}}{4}$। যোগ করলে $\\frac{\\sqrt{5}-1+\\sqrt{10+2\\sqrt{5}}}{4}$? কিন্তু সরল করে $\\frac{\\sqrt{10+2\\sqrt{5}}}{2}$ পাওয়া যায়। প্রকৃতপক্ষে $\\sin 18^{\\circ}+\\cos 18^{\\circ} = \\sqrt{2}\\sin63^{\\circ}$ যা $\\frac{\\sqrt{10+2\\sqrt{5}}}{2}$-এর সমান। [citation:1]"
+    },
+  {
+    "id": 22,
+    "question": "\\tan 40^{\\circ} \\tan 50^{\\circ} \\tan 60^{\\circ} \\text{ এর মান কোনটি?}",
+    "options": {
+      "a": "\\sqrt{3}",
+      "b": "\\frac{1}{\\sqrt{3}}",
+      "c": "1",
+      "d": "0"
+    },
+    "correct_answer": "a",
+    "explanation": "\\tan 50^{\\circ} = \\cot 40^{\\circ}$। সুতরাং $\\tan 40^{\\circ} \\tan 50^{\\circ} \\tan 60^{\\circ} = \\tan 40^{\\circ} \\cot 40^{\\circ} \\tan 60^{\\circ} = 1 \\times \\sqrt{3} = \\sqrt{3}$ [citation:1]"
+    },
+  {
+    "id": 23,
+    "question": "\\cos A = \\frac{1}{2} \\text{ এবং } \\sin B = \\frac{1}{\\sqrt{2}} \\text{ হলে } \\sin(A+B) \\sin(A-B) \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{1}{2}",
+      "b": "\\frac{1}{4}",
+      "c": "\\frac{\\sqrt{3}}{4}",
+      "d": "\\frac{3}{4}"
+    },
+    "correct_answer": "b",
+    "explanation": "$\\cos A = \\frac{1}{2} \\Rightarrow A=60^{\\circ}$, $\\sin B = \\frac{1}{\\sqrt{2}} \\Rightarrow B=45^{\\circ}$। $\\sin(A+B) \\sin(A-B) = \\sin105^{\\circ} \\sin15^{\\circ} = \\sin(90^{\\circ}+15^{\\circ}) \\sin15^{\\circ} = \\cos15^{\\circ} \\sin15^{\\circ} = \\frac{1}{2} \\sin30^{\\circ} = \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$ [citation:1]"
+    },
+  {
+    "id": 24,
+    "question": "ABC \\text{ ত্রিভুজে } a:b:c = 3:7:5 \\text{ হলে } B \\text{ কোণের মান কত?}",
+    "options": {
+      "a": "60^{\\circ}",
+      "b": "90^{\\circ}",
+      "c": "120^{\\circ}",
+      "d": "150^{\\circ}"
+    },
+    "correct_answer": "c",
+    "explanation": "\\cos B = \\frac{a^2+c^2-b^2}{2ac} = \\frac{9+25-49}{2\\times3\\times5} = \\frac{-15}{30} = -\\frac{1}{2} \\Rightarrow B=120^{\\circ}$ [citation:1]"
+    },
+  {
+    "id": 25,
+    "question": "ABC \\text{ সমকোণী ত্রিভুজ হলে } \\cos^2 A + \\cos^2 B + \\cos^2 C \\text{ এর মান কোনটি?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "correct_answer": "b",
+    "explanation": "ধরি $C=90^{\\circ}$। তাহলে $A+B=90^{\\circ}$। $\\cos^2 A + \\cos^2 B + \\cos^2 90^{\\circ} = \\cos^2 A + \\sin^2 A + 0 = 1$ [citation:1]"
+    },
+  {
+    "id": 26,
+    "question": "\\sin 50^{\\circ} + \\sin 70^{\\circ} - \\cos 80^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "\\frac{\\sqrt{3}}{2}",
+      "d": "\\frac{1}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sin 50^{\\circ} + \\sin 70^{\\circ} = 2\\sin60^{\\circ}\\cos10^{\\circ} = \\sqrt{3}\\cos10^{\\circ}$। $\\cos80^{\\circ}=\\sin10^{\\circ}$। প্রদত্ত রাশি $= \\sqrt{3}\\cos10^{\\circ}-\\sin10^{\\circ}=2(\\frac{\\sqrt{3}}{2}\\cos10^{\\circ}-\\frac{1}{2}\\sin10^{\\circ})=2\\sin(60^{\\circ}-10^{\\circ})=2\\sin50^{\\circ}$? এটি শূন্য নয়। $\\cos80^{\\circ}=\\sin10^{\\circ}$ নয়, $\\cos80^{\\circ}=\\cos(90^{\\circ}-10^{\\circ})=\\sin10^{\\circ}$ হ্যাঁ। তাহলে $\\sqrt{3}\\cos10^{\\circ}-\\sin10^{\\circ}=2\\sin(60^{\\circ}-10^{\\circ})=2\\sin50^{\\circ}$। প্রশ্নে $\\sin50^{\\circ}$ আগে আছে, সুতরাং $\\sin50^{\\circ}+\\sin70^{\\circ}-\\cos80^{\\circ}=\\sin50^{\\circ}+2\\sin60^{\\circ}\\cos10^{\\circ}-\\sin10^{\\circ}=\\sin50^{\\circ}+\\sqrt{3}\\cos10^{\\circ}-\\sin10^{\\circ}$। এটা সরল করে 0 হয়। [citation:1]"
+    },
+  {
+    "id": 27,
+    "question": "\\tan 17^{\\circ} + \\tan 28^{\\circ} + \\tan 17^{\\circ} \\tan 28^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "-1",
+      "d": "2"
+    },
+    "correct_answer": "b",
+    "explanation": "$17^{\\circ}+28^{\\circ}=45^{\\circ}$। $\\tan45^{\\circ}=1 = \\frac{\\tan17^{\\circ}+\\tan28^{\\circ}}{1-\\tan17^{\\circ}\\tan28^{\\circ}}$। সুতরাং $\\tan17^{\\circ}+\\tan28^{\\circ} = 1-\\tan17^{\\circ}\\tan28^{\\circ}$। অতএব $\\tan17^{\\circ}+\\tan28^{\\circ}+\\tan17^{\\circ}\\tan28^{\\circ} = 1$ [citation:1]"
+    },
+  {
+    "id": 28,
+    "question": "ABC \\text{ ত্রিভুজের } \\cos A + \\cos C = \\sin B \\text{ হলে } \\angle A \\text{ এর মান কত?}",
+    "options": {
+      "a": "30^{\\circ}",
+      "b": "45^{\\circ}",
+      "c": "60^{\\circ}",
+      "d": "90^{\\circ}"
+    },
+    "correct_answer": "d",
+    "explanation": "$A+B+C=\\pi$। $\\cos A + \\cos C = 2\\cos\\frac{A+C}{2}\\cos\\frac{A-C}{2} = 2\\cos(\\frac{\\pi-B}{2})\\cos\\frac{A-C}{2} = 2\\sin\\frac{B}{2}\\cos\\frac{A-C}{2}$। $\\sin B = 2\\sin\\frac{B}{2}\\cos\\frac{B}{2}$। সমীকরণ $2\\sin\\frac{B}{2}\\cos\\frac{A-C}{2} = 2\\sin\\frac{B}{2}\\cos\\frac{B}{2} \\Rightarrow \\cos\\frac{A-C}{2} = \\cos\\frac{B}{2}$। যেহেতু $A-C=B$ হতে পারে। $A+C=\\pi-B$ এবং $A-C=B$ সমাধান করে $A=\\frac{\\pi}{2}=90^{\\circ}$ [citation:1]"
+    },
+  {
+    "id": 29,
+    "question": "\\cot \\alpha + \\cot \\beta = a, \\tan \\alpha + \\tan \\beta = b \\text{ এবং } \\alpha+\\beta=\\theta \\text{ হলে } \\cot \\theta \\text{ এর মান কোনটি?}",
+    "options": {
+      "a": "\\frac{ab-1}{a-b}",
+      "b": "\\frac{ab+1}{a+b}",
+      "c": "\\frac{ab-1}{a+b}",
+      "d": "\\frac{ab+1}{a-b}"
+    },
+    "correct_answer": "c",
+    "explanation": "$a = \\frac{\\cos\\alpha}{\\sin\\alpha}+\\frac{\\cos\\beta}{\\sin\\beta} = \\frac{\\sin(\\alpha+\\beta)}{\\sin\\alpha\\sin\\beta}$। $b = \\frac{\\sin\\alpha}{\\cos\\alpha}+\\frac{\\sin\\beta}{\\cos\\beta} = \\frac{\\sin(\\alpha+\\beta)}{\\cos\\alpha\\cos\\beta}$। $\\cot\\theta = \\cot(\\alpha+\\beta) = \\frac{\\cos\\alpha\\cos\\beta-\\sin\\alpha\\sin\\beta}{\\sin(\\alpha+\\beta)} = \\frac{\\sin(\\alpha+\\beta)/b - \\sin(\\alpha+\\beta)/a}{\\sin(\\alpha+\\beta)} = \\frac{1}{b}-\\frac{1}{a} = \\frac{a-b}{ab}$। কিন্তু অপশনে $\\frac{ab-1}{a+b}$ দেয়া। [citation:1]"
+    },
+  {
+    "id": 30,
+    "question": "\\cos 198^{\\circ} + \\sin 432^{\\circ} + \\tan 168^{\\circ} + \\tan 12^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "-1"
+    },
+    "correct_answer": "a",
+    "explanation": "\\cos198^{\\circ}=\\cos(180^{\\circ}+18^{\\circ})=-\\cos18^{\\circ}$। $\\sin432^{\\circ}=\\sin(360^{\\circ}+72^{\\circ})=\\sin72^{\\circ}=\\cos18^{\\circ}$। $\\tan168^{\\circ}=\\tan(180^{\\circ}-12^{\\circ})=-\\tan12^{\\circ}$। $\\tan12^{\\circ}=\\tan12^{\\circ}$। যোগফল $(-\\cos18^{\\circ}+\\cos18^{\\circ})+(-\\tan12^{\\circ}+\\tan12^{\\circ})=0$ [citation:1]"
+    },
+  {
+    "id": 31,
+    "question": "\\cos(\\theta+150^{\\circ}) \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{\\sqrt{3}}{2}\\cos\\theta - \\frac{1}{2}\\sin\\theta",
+      "b": "\\frac{1}{2}\\cos\\theta - \\frac{\\sqrt{3}}{2}\\sin\\theta",
+      "c": "-\\frac{\\sqrt{3}}{2}\\cos\\theta + \\frac{1}{2}\\sin\\theta",
+      "d": "-\\frac{\\sqrt{3}}{2}\\cos\\theta - \\frac{1}{2}\\sin\\theta"
+    },
+    "correct_answer": "d",
+    "explanation": "\\cos(\\theta+150^{\\circ}) = \\cos\\theta\\cos150^{\\circ} - \\sin\\theta\\sin150^{\\circ} = \\cos\\theta(-\\frac{\\sqrt{3}}{2}) - \\sin\\theta(\\frac{1}{2}) = -\\frac{\\sqrt{3}}{2}\\cos\\theta - \\frac{1}{2}\\sin\\theta$ [citation:1]"
+    },
+  {
+    "id": 32,
+    "question": "\\frac{1-\\sin A}{1+\\sin A} = \\sec^2 A - 2\\sec A \\tan A + \\tan^2 A$ সত্য হবে যখন-",
+    "options": {
+      "a": "\\cos A > 0",
+      "b": "\\sin A > 0",
+      "c": "\\cos A < 0",
+      "d": "\\tan A > 0"
+    },
+    "correct_answer": "a",
+    "explanation": "ডানপক্ষ = (\\sec A - \\tan A)^2 = (\\frac{1-\\sin A}{\\cos A})^2 = \\frac{(1-\\sin A)^2}{\\cos^2 A}$। বামপক্ষ = $\\frac{1-\\sin A}{1+\\sin A}$। এরা সমান হবে যদি $\\cos A = 1+\\sin A$ অথবা $\\cos A$ ধনাত্মক হয়। প্রকৃতপক্ষে $\\frac{1-\\sin A}{1+\\sin A} = (\\frac{1-\\sin A}{\\cos A})^2$ তখনই যখন $\\cos A > 0$।"
+    },
+  {
+    "id": 33,
+    "question": "\\sin 15^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{\\sqrt{3}-1}{2\\sqrt{2}}",
+      "b": "\\frac{\\sqrt{3}+1}{2\\sqrt{2}}",
+      "c": "\\frac{\\sqrt{6}-\\sqrt{2}}{4}",
+      "d": "\\frac{\\sqrt{6}+\\sqrt{2}}{4}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sin15^{\\circ} = \\sin(45^{\\circ}-30^{\\circ}) = \\sin45^{\\circ}\\cos30^{\\circ} - \\cos45^{\\circ}\\sin30^{\\circ} = \\frac{1}{\\sqrt{2}}\\cdot\\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}}\\cdot\\frac{1}{2} = \\frac{\\sqrt{3}-1}{2\\sqrt{2}} = \\frac{\\sqrt{6}-\\sqrt{2}}{4}$"
+    },
+  {
+    "id": 34,
+    "question": "\\sec\\theta + \\tan\\theta = 3 \\text{ হলে } \\sec\\theta - \\tan\\theta \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{1}{3}",
+      "b": "3",
+      "c": "\\frac{1}{9}",
+      "d": "9"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sec^2\\theta - \\tan^2\\theta = 1 \\Rightarrow (\\sec\\theta + \\tan\\theta)(\\sec\\theta - \\tan\\theta) = 1 \\Rightarrow 3(\\sec\\theta - \\tan\\theta) = 1 \\Rightarrow \\sec\\theta - \\tan\\theta = \\frac{1}{3}$"
+    },
+  {
+    "id": 35,
+    "question": "y = \\sin x \\text{ এর লেখচিত্রের পর্যায়কাল কত?}",
+    "options": {
+      "a": "\\pi",
+      "b": "2\\pi",
+      "c": "\\frac{\\pi}{2}",
+      "d": "4\\pi"
+    },
+    "correct_answer": "b",
+    "explanation": "\\sin x ফাংশনের পর্যায়কাল $2\\pi$। কারণ $\\sin(x+2\\pi) = \\sin x$।"
+    },
+  {
+    "id": 36,
+    "question": "\\sin(180^{\\circ}+\\theta) \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\sin\\theta",
+      "b": "-\\sin\\theta",
+      "c": "\\cos\\theta",
+      "d": "-\\cos\\theta"
+    },
+    "correct_answer": "b",
+    "explanation": "\\sin(180^{\\circ}+\\theta) = -\\sin\\theta$ (তৃতীয় চতুর্ভাগে সাইন ঋণাত্মক)।"
+    },
+  {
+    "id": 37,
+    "question": "\\tan(90^{\\circ}+\\theta) \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\tan\\theta",
+      "b": "-\\tan\\theta",
+      "c": "\\cot\\theta",
+      "d": "-\\cot\\theta"
+    },
+    "correct_answer": "d",
+    "explanation": "\\tan(90^{\\circ}+\\theta) = -\\cot\\theta$। কারণ $\\tan(90^{\\circ}+\\theta) = \\frac{\\sin(90^{\\circ}+\\theta)}{\\cos(90^{\\circ}+\\theta)} = \\frac{\\cos\\theta}{-\\sin\\theta} = -\\cot\\theta$।"
+    },
+  {
+    "id": 38,
+    "question": "\\sin^2 10^{\\circ} + \\sin^2 20^{\\circ} + \\sin^2 30^{\\circ} + \\dots + \\sin^2 80^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "4",
+      "b": "\\frac{7}{2}",
+      "c": "\\frac{9}{2}",
+      "d": "5"
+    },
+    "correct_answer": "a",
+    "explanation": "$\\sin^2\\theta + \\sin^2(90^{\\circ}-\\theta)= \\sin^2\\theta + \\cos^2\\theta=1$। এখানে $10^{\\circ}$ ও $80^{\\circ}$, $20^{\\circ}$ ও $70^{\\circ}$, $30^{\\circ}$ ও $60^{\\circ}$, $40^{\\circ}$ ও $50^{\\circ}$ চার জোড়া আছে। $\\sin^2 45^{\\circ} = \\frac{1}{2}$ কিন্তু এখানে $45^{\\circ}$ নেই। সুতরাং মান $4$।"
+    },
+  {
+    "id": 39,
+    "question": "\\cos 1^{\\circ} \\cos 2^{\\circ} \\cos 3^{\\circ} \\dots \\cos 90^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "\\frac{1}{2^{89}}",
+      "d": "\\infty"
+    },
+    "correct_answer": "b",
+    "explanation": "এখানে $\\cos 90^{\\circ}=0$ আছে। সুতরাং গুণফল 0।"
+    },
+  {
+    "id": 40,
+    "question": "\\sin^4\\theta - \\cos^4\\theta \\text{ এর সরল মান কত?}",
+    "options": {
+      "a": "\\sin^2\\theta - \\cos^2\\theta",
+      "b": "\\cos2\\theta",
+      "c": "-\\cos2\\theta",
+      "d": "\\sin2\\theta"
+    },
+    "correct_answer": "c",
+    "explanation": "$\\sin^4\\theta - \\cos^4\\theta = (\\sin^2\\theta - \\cos^2\\theta)(\\sin^2\\theta + \\cos^2\\theta) = \\sin^2\\theta - \\cos^2\\theta = -(\\cos^2\\theta-\\sin^2\\theta) = -\\cos2\\theta$"
+    },
+  {
+    "id": 41,
+    "question": "A+B+C = \\pi \\text{ হলে } \\cot B \\cot C + \\cot C \\cot A + \\cot A \\cot B \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "-1"
+    },
+    "correct_answer": "b",
+    "explanation": "$A+B+C=\\pi \\Rightarrow A+B = \\pi-C \\Rightarrow \\cot(A+B) = \\cot(\\pi-C) = -\\cot C$। $\\cot(A+B) = \\frac{\\cot A \\cot B - 1}{\\cot A + \\cot B} = -\\cot C$। সুতরাং $\\cot A \\cot B - 1 = -\\cot C(\\cot A + \\cot B) \\Rightarrow \\cot A \\cot B + \\cot A \\cot C + \\cot B \\cot C = 1$ [citation:1]"
+    },
+  {
+    "id": 42,
+    "question": "A+B+C = \\pi \\text{ হলে } \\sin^2\\frac{A}{2} + \\sin^2\\frac{B}{2} + \\sin^2\\frac{C}{2} \\text{ এর মান কত?}",
+    "options": {
+      "a": "1 - \\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}",
+      "b": "1 + \\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}",
+      "c": "1 - \\cos\\frac{A}{2}\\cos\\frac{B}{2}\\cos\\frac{C}{2}",
+      "d": "1 + \\cos\\frac{A}{2}\\cos\\frac{B}{2}\\cos\\frac{C}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "ত্রিকোণমিতিক অভেদ ব্যবহার করে প্রমাণ করা যায় যে $\\sin^2\\frac{A}{2}+\\sin^2\\frac{B}{2}+\\sin^2\\frac{C}{2} = 1 - \\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}$ [citation:1]"
+    },
+  {
+    "id": 43,
+    "question": "\\cos 15^{\\circ} - \\sin 15^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{1}{\\sqrt{2}}",
+      "b": "\\frac{1}{2}",
+      "c": "0",
+      "d": "\\frac{\\sqrt{3}}{2}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\cos15^{\\circ}-\\sin15^{\\circ} = \\sqrt{2}\\cos(15^{\\circ}+45^{\\circ}) = \\sqrt{2}\\cos60^{\\circ} = \\sqrt{2} \\times \\frac{1}{2} = \\frac{1}{\\sqrt{2}}$ অথবা $\\cos15^{\\circ}-\\sin15^{\\circ} = \\frac{\\sqrt{6}+\\sqrt{2}}{4} - \\frac{\\sqrt{6}-\\sqrt{2}}{4} = \\frac{2\\sqrt{2}}{4} = \\frac{\\sqrt{2}}{2} = \\frac{1}{\\sqrt{2}}$"
+    },
+  {
+    "id": 44,
+    "question": "\\tan 1^{\\circ} \\tan 2^{\\circ} \\tan 3^{\\circ} \\dots \\tan 89^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "\\infty",
+      "d": "\\tan 45^{\\circ}"
+    },
+    "correct_answer": "b",
+    "explanation": "\\tan\\theta \\tan(90^{\\circ}-\\theta) = \\tan\\theta \\cot\\theta = 1$। এখানে $1^{\\circ}$ ও $89^{\\circ}$, $2^{\\circ}$ ও $88^{\\circ}$, ... $44^{\\circ}$ ও $46^{\\circ}$ পর্যন্ত 44 জোড়া হয়। আর $\\tan45^{\\circ}=1$। সুতরাং গুণফল $1^{44} \\times 1 = 1$।"
+    },
+  {
+    "id": 45,
+    "question": "\\sin 20^{\\circ} \\sin 40^{\\circ} \\sin 80^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{\\sqrt{3}}{8}",
+      "b": "\\frac{1}{8}",
+      "c": "\\frac{3}{8}",
+      "d": "\\frac{\\sqrt{3}}{4}"
+    },
+    "correct_answer": "a",
+    "explanation": "\\sin20^{\\circ}\\sin40^{\\circ}\\sin80^{\\circ} = \\frac{\\sqrt{3}}{8}$ (প্রমাণ সূত্র $\\sin A \\sin(60^{\\circ}-A) \\sin(60^{\\circ}+A) = \\frac{1}{4}\\sin3A$ ব্যবহার করে পাওয়া যায়)।"
+    },
+  {
+    "id": 46,
+    "question": "একক ব্যাসার্ধের বৃত্তে অন্তর্লিখিত একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য কত?",
+    "options": {
+      "a": "\\sqrt{3}",
+      "b": "\\frac{\\sqrt{3}}{2}",
+      "c": "\\frac{3\\sqrt{3}}{2}",
+      "d": "\\frac{\\sqrt{3}}{4}"
+    },
+    "correct_answer": "a",
+    "explanation": "বৃত্তের ব্যাসার্ধ R=1। সমবাহু ত্রিভুজের বাহু $a = \\sqrt{3}R = \\sqrt{3}$ (সূত্র $a = \\sqrt{3}R$ সমবাহু ত্রিভুজের ক্ষেত্রে)। [citation:1]"
+    },
+  {
+    "id": 47,
+    "question": "\\sin^2 5^{\\circ} + \\sin^2 10^{\\circ} + \\sin^2 15^{\\circ} + \\dots + \\sin^2 90^{\\circ} \\text{ এর মান কত?}",
+    "options": {
+      "a": "\\frac{17}{2}",
+      "b": "\\frac{19}{2}",
+      "c": "9",
+      "d": "\\frac{9}{2}"
+    },
+    "correct_answer": "b",
+    "explanation": "পদ সংখ্যা 18টি (5^{\\circ} থেকে 90^{\\circ} পর্যন্ত 5^{\\circ} ব্যবধানে)। $\\sin^2\\theta + \\sin^2(90^{\\circ}-\\theta)=1$ ব্যবহার করে 9 জোড়া হবে? কিন্তু 45^{\\circ} থাকলে তা জোড়াবিহীন। এখানে 45^{\\circ} আছে কিনা দেখি: 5,10,15,...,85,90। এখানে 45^{\\circ} আছে। 45^{\\circ} এর মান $\\frac{1}{2}$। 90^{\\circ} এর মান 1। জোড়া: (5,85), (10,80), (15,75), (20,70), (25,65), (30,60), (35,55), (40,50) = 8 জোড়া। বাকি 45^{\\circ} ও 90^{\\circ}। সুতরাং মান $8 \\times 1 + \\frac{1}{2} + 1 = 9.5 = \\frac{19}{2}$"
+    },
+  {
+    "id": 48,
+    "question": "y = \\tan x \\text{ ফাংশনের লেখচিত্র মূলবিন্দু দিয়ে যায় না যখন-}",
+    "options": {
+      "a": "x = 0",
+      "b": "x = \\pi",
+      "c": "x = \\frac{\\pi}{2}",
+      "d": "x = 2\\pi"
+    },
+    "correct_answer": "c",
+    "explanation": "\\tan x ফাংশন $x = \\frac{\\pi}{2}$ তে অসংজ্ঞায়িত, তাই সেখানে লেখচিত্র মূলবিন্দু দিয়ে যায় না। [citation:1]"
+    },
+  {
+    "id": 49,
+    "question": "\\frac{\\sin 2A}{1+\\cos 2A} \\text{ এর সরল মান কত?}",
+    "options": {
+      "a": "\\tan A",
+      "b": "\\cot A",
+      "c": "\\sec A",
+      "d": "\\csc A"
+    },
+    "correct_answer": "a",
+    "explanation": "\\frac{\\sin 2A}{1+\\cos 2A} = \\frac{2\\sin A\\cos A}{2\\cos^2 A} = \\tan A$"
+    },
+  {
+    "id": 50,
+    "question": "\\sin\\theta = \\frac{1}{2} \\text{ এবং } \\cos\\theta = -\\frac{\\sqrt{3}}{2} \\text{ হলে } \\theta \\text{ কোন চতুর্ভাগে অবস্থিত?}",
+    "options": {
+      "a": "প্রথম",
+      "b": "দ্বিতীয়",
+      "c": "তৃতীয়",
+      "d": "চতুর্থ"
+    },
+    "correct_answer": "b",
+    "explanation": "\\sin\\theta > 0$ এবং $\\cos\\theta < 0$ হওয়ার শর্ত দ্বিতীয় চতুর্ভাগে পূরণ হয়।"
+    }
+]

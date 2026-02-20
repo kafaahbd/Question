@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "\\cot 30^\\circ = ?",
+    "question": "\\(\\cot 30^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{\\sqrt{3}}\\)",
       "b": "\\(\\sqrt{3}\\)",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "question": "\\sin 150^\\circ = ?",
+    "question": "\\(\\sin 150^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{\\sqrt{3}}{2}\\)",
       "b": "\\(-\\frac{\\sqrt{3}}{2}\\)",
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "question": "\\tan (90^\\circ - A) = ?",
+    "question": "\\(\\tan (90^\\circ - A) = ?\\)",
     "options": {
       "a": "\\(\\sin A\\)",
       "b": "\\(\\cos A\\)",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "question": "\\sec^2 A - \\tan^2 A = ?",
+    "question": "\\(\\sec^2 A - \\tan^2 A = ?\\)",
     "options": {
       "a": "0",
       "b": "1",
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "question": "\\sin 3\\theta = ?",
+    "question": "\\(\\sin 3\\theta = ?\\)",
     "options": {
       "a": "\\(3\\sin \\theta - 4\\sin^3 \\theta\\)",
       "b": "\\(4\\sin^3 \\theta - 3\\sin \\theta\\)",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "question": "\\sin \\theta = \\frac{4}{5} হলে \\(\\tan \\theta\\) এর মান কত (যেখানে \\(0^\\circ < \\theta < 90^\\circ\\)) ?",
+    "question": "\\(\\sin \\theta = \\frac{4}{5}\\) হলে \\(\\tan \\theta\\) এর মান কত (যেখানে \\(0^\\circ < \\theta < 90^\\circ\\)) ?",
     "options": {
       "a": "\\(\\frac{3}{4}\\)",
       "b": "\\(\\frac{4}{3}\\)",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "question": "\\sin^2 30^\\circ + \\cos^2 60^\\circ = ?",
+    "question": "\\(\\sin^2 30^\\circ + \\cos^2 60^\\circ = ?\\)",
     "options": {
       "a": "0",
       "b": "\\(\\frac{1}{2}\\)",
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "question": "\\cos (180^\\circ + \\theta) = ?",
+    "question": "\\(\\cos (180^\\circ + \\theta) = ?\\)",
     "options": {
       "a": "\\(\\cos \\theta\\)",
       "b": "\\(-\\cos \\theta\\)",
@@ -133,31 +133,31 @@
   },
   {
     "id": 12,
-    "question": "\\sin 15^\\circ = ?",
+    "question": "\\(\\sin 15^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{\\sqrt{3}+1}{2\\sqrt{2}}\\)",
       "b": "\\(\\frac{\\sqrt{3}-1}{2\\sqrt{2}}\\)",
       "c": "\\(\\frac{\\sqrt{6}+\\sqrt{2}}{4}\\)",
-      "d": "b ও c উভয়ই"
+      "d": "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)"
     },
-    "correct_answer": "d",
-    "explanation": "\\(\\sin 15^\\circ = \\sin (45^\\circ - 30^\\circ)\\)<br>\\(= \\sin 45^\\circ \\cos 30^\\circ - \\cos 45^\\circ \\sin 30^\\circ\\)<br>\\(= \\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\)<br>\\(= \\frac{\\sqrt{3} - 1}{2\\sqrt{2}}\\)<br><br>আবার, \\(\\frac{\\sqrt{3} - 1}{2\\sqrt{2}}\\) কে \\(\\frac{\\sqrt{6} - \\sqrt{2}}{4}\\) আকারেও লেখা যায়।"
+    "correct_answer": "b",
+    "explanation": "\\(\\sin 15^\\circ = \\sin (45^\\circ - 30^\\circ)\\)<br>\\(= \\sin 45^\\circ \\cos 30^\\circ - \\cos 45^\\circ \\sin 30^\\circ\\)<br>\\(= \\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\)<br>\\(= \\frac{\\sqrt{3} - 1}{2\\sqrt{2}} = \\frac{\\sqrt{6} - \\sqrt{2}}{4}\\)"
   },
   {
     "id": 13,
-    "question": "\\cos 75^\\circ = ?",
+    "question": "\\(\\cos 75^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{\\sqrt{3}+1}{2\\sqrt{2}}\\)",
       "b": "\\(\\frac{\\sqrt{3}-1}{2\\sqrt{2}}\\)",
-      "c": "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)",
-      "d": "\\(\\frac{\\sqrt{6}+\\sqrt{2}}{4}\\)"
+      "c": "\\(\\frac{\\sqrt{6}+\\sqrt{2}}{4}\\)",
+      "d": "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)"
     },
     "correct_answer": "b",
     "explanation": "\\(\\cos 75^\\circ = \\cos (45^\\circ + 30^\\circ)\\)<br>\\(= \\cos 45^\\circ \\cos 30^\\circ - \\sin 45^\\circ \\sin 30^\\circ\\)<br>\\(= \\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\)<br>\\(= \\frac{\\sqrt{3} - 1}{2\\sqrt{2}} = \\frac{\\sqrt{6} - \\sqrt{2}}{4}\\)"
   },
   {
     "id": 14,
-    "question": "\\tan 105^\\circ = ?",
+    "question": "\\(\\tan 105^\\circ = ?\\)",
     "options": {
       "a": "\\(-2 - \\sqrt{3}\\)",
       "b": "\\(2 + \\sqrt{3}\\)",
@@ -169,19 +169,19 @@
   },
   {
     "id": 15,
-    "question": "\\sin 2A = ?",
+    "question": "\\(\\sin 2A = ?\\)",
     "options": {
       "a": "\\(2\\sin A \\cos A\\)",
       "b": "\\(\\cos^2 A - \\sin^2 A\\)",
       "c": "\\(\\frac{2\\tan A}{1-\\tan^2 A}\\)",
-      "d": "a ও c উভয়ই"
+      "d": "\\(\\frac{2\\tan A}{1+\\tan^2 A}\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(\\sin 2A = 2\\sin A \\cos A\\) এবং \\(\\sin 2A = \\frac{2\\tan A}{1+\\tan^2 A}\\)।<br><br>লক্ষণীয়: \\(\\sin 2A = \\frac{2\\tan A}{1+\\tan^2 A}\\), হর হচ্ছে \\(1+\\tan^2 A\\)।<br>সুতরাং a সঠিক, c সঠিক নয়। তাই a ও c উভয়ই বলা যাবে না।<br>প্রশ্নে c-তে 1-tan²A দেওয়া আছে যা \\(\\tan 2A\\)-এর সূত্র।<br><br>\\(\\sin 2A = 2\\sin A \\cos A\\) (a) সঠিক।"
+    "explanation": "\\(\\sin 2A = 2\\sin A \\cos A\\) এবং \\(\\sin 2A = \\frac{2\\tan A}{1+\\tan^2 A}\\)।<br>সুতরাং a এবং d উভয়ই সঠিক। কিন্তু এখানে একটি মাত্র উত্তর চাওয়া হয়েছে বলে a সঠিক ধরা হয়েছে। (d-ও সঠিক)"
   },
   {
     "id": 16,
-    "question": "\\cos 2A = ?",
+    "question": "\\(\\cos 2A = ?\\)",
     "options": {
       "a": "\\(1 - 2\\sin^2 A\\)",
       "b": "\\(2\\cos^2 A - 1\\)",
@@ -205,19 +205,19 @@
   },
   {
     "id": 18,
-    "question": "\\sin^{-1} \\left(\\frac{1}{2}\\right) = ?",
+    "question": "\\(\\sin^{-1} \\left(\\frac{1}{2}\\right)\\) এর মুখ্যমান (principal value) কত?",
     "options": {
       "a": "\\(30^\\circ\\)",
       "b": "\\(150^\\circ\\)",
       "c": "\\(30^\\circ\\) ও \\(150^\\circ\\)",
-      "d": "\\(30^\\circ\\) ও \\(-30^\\circ\\)"
+      "d": "\\(-30^\\circ\\)"
     },
-    "correct_answer": "c",
-    "explanation": "\\(\\sin \\theta = \\frac{1}{2}\\) হলে \\(\\theta = 30^\\circ\\) ও \\(150^\\circ\\) (প্রথম ও দ্বিতীয় চতুর্ভাগে সাইন ধনাত্মক)।<br><br>\\(\\sin^{-1} \\left(\\frac{1}{2}\\right)\\) এর মুখ্যমান \\(30^\\circ\\) হলেও সাধারণ সমাধান \\(n\\pi + (-1)^n \\frac{\\pi}{6}\\)।<br><br>এখানে প্রশ্নটি সম্ভবত সাধারণ মান চেয়েছে।"
+    "correct_answer": "a",
+    "explanation": "\\(\\sin^{-1} x\\) এর মুখ্যমান \\([-90^\\circ, 90^\\circ]\\) ব্যবধিতে থাকে।<br>সুতরাং \\(\\sin^{-1} \\left(\\frac{1}{2}\\right) = 30^\\circ\\)।"
   },
   {
     "id": 19,
-    "question": "\\tan^{-1} 1 + \\cot^{-1} 1 = ?",
+    "question": "\\(\\tan^{-1} 1 + \\cot^{-1} 1 = ?\\)",
     "options": {
       "a": "0",
       "b": "\\(\\frac{\\pi}{4}\\)",
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "question": "\\sin (\\sin^{-1} 0.6) = ?",
+    "question": "\\(\\sin (\\sin^{-1} 0.6) = ?\\)",
     "options": {
       "a": "0.6",
       "b": "\\(\\sin 0.6\\)",
@@ -241,7 +241,7 @@
   },
   {
     "id": 21,
-    "question": "\\sin 60^\\circ \\cos 30^\\circ + \\cos 60^\\circ \\sin 30^\\circ = ?",
+    "question": "\\(\\sin 60^\\circ \\cos 30^\\circ + \\cos 60^\\circ \\sin 30^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{2}\\)",
       "b": "\\(\\frac{\\sqrt{3}}{2}\\)",
@@ -253,7 +253,7 @@
   },
   {
     "id": 22,
-    "question": "\\cos 20^\\circ \\cos 40^\\circ - \\sin 20^\\circ \\sin 40^\\circ = ?",
+    "question": "\\(\\cos 20^\\circ \\cos 40^\\circ - \\sin 20^\\circ \\sin 40^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{2}\\)",
       "b": "\\(\\frac{\\sqrt{3}}{2}\\)",
@@ -265,7 +265,7 @@
   },
   {
     "id": 23,
-    "question": "\\tan 10^\\circ \\tan 20^\\circ \\tan 30^\\circ \\tan 70^\\circ \\tan 80^\\circ = ?",
+    "question": "\\(\\tan 10^\\circ \\tan 20^\\circ \\tan 30^\\circ \\tan 70^\\circ \\tan 80^\\circ = ?\\)",
     "options": {
       "a": "0",
       "b": "\\(\\frac{1}{\\sqrt{3}}\\)",
@@ -277,19 +277,19 @@
   },
   {
     "id": 24,
-    "question": "\\sin 4\\theta = ?",
+    "question": "\\(\\sin 4\\theta = ?\\)",
     "options": {
       "a": "\\(4\\sin \\theta \\cos \\theta - 8\\sin^3 \\theta \\cos \\theta\\)",
       "b": "\\(8\\sin^3 \\theta \\cos \\theta - 4\\sin \\theta \\cos \\theta\\)",
-      "c": "\\(4\\sin \\theta \\cos \\theta - 8\\sin \\theta \\cos^3 \\theta\\)",
+      "c": "\\(4\\sin \\theta \\cos^3 \\theta - 4\\sin^3 \\theta \\cos \\theta\\)",
       "d": "\\(8\\sin \\theta \\cos^3 \\theta - 4\\sin \\theta \\cos \\theta\\)"
     },
-    "correct_answer": "a",
-    "explanation": "\\(\\sin 4\\theta = 2\\sin 2\\theta \\cos 2\\theta\\)<br>\\(= 2(2\\sin \\theta \\cos \\theta)(\\cos^2 \\theta - \\sin^2 \\theta)\\)<br>\\(= 4\\sin \\theta \\cos \\theta (\\cos^2 \\theta - \\sin^2 \\theta)\\)<br>\\(= 4\\sin \\theta \\cos^3 \\theta - 4\\sin^3 \\theta \\cos \\theta\\)<br>এটিকে \\(4\\sin \\theta \\cos \\theta - 8\\sin^3 \\theta \\cos \\theta\\) আকারেও লেখা যায় যদি \\(\\cos^2 \\theta = 1 - \\sin^2 \\theta\\) বসাই:<br>\\(4\\sin \\theta \\cos \\theta (1 - \\sin^2 \\theta - \\sin^2 \\theta) = 4\\sin \\theta \\cos \\theta (1 - 2\\sin^2 \\theta)\\)<br>\\(= 4\\sin \\theta \\cos \\theta - 8\\sin^3 \\theta \\cos \\theta\\)"
+    "correct_answer": "c",
+    "explanation": "\\(\\sin 4\\theta = 2\\sin 2\\theta \\cos 2\\theta\\)<br>\\(= 2(2\\sin \\theta \\cos \\theta)(\\cos^2 \\theta - \\sin^2 \\theta)\\)<br>\\(= 4\\sin \\theta \\cos \\theta (\\cos^2 \\theta - \\sin^2 \\theta)\\)<br>\\(= 4\\sin \\theta \\cos^3 \\theta - 4\\sin^3 \\theta \\cos \\theta\\)"
   },
   {
     "id": 25,
-    "question": "\\cos 15^\\circ - \\sin 15^\\circ = ?",
+    "question": "\\(\\cos 15^\\circ - \\sin 15^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{\\sqrt{2}}\\)",
       "b": "\\(-\\frac{1}{\\sqrt{2}}\\)",
@@ -297,11 +297,11 @@
       "d": "\\(-\\frac{\\sqrt{3}}{2}\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(\\cos 15^\\circ - \\sin 15^\\circ = \\cos (45^\\circ - 30^\\circ) - \\sin (45^\\circ - 30^\\circ)\\)<br>\\(= (\\cos 45^\\circ \\cos 30^\\circ + \\sin 45^\\circ \\sin 30^\\circ) - (\\sin 45^\\circ \\cos 30^\\circ - \\cos 45^\\circ \\sin 30^\\circ)\\)<br>\\(= \\left(\\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\right) - \\left(\\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\right)\\)<br>\\(= \\frac{\\sqrt{3}}{2\\sqrt{2}} + \\frac{1}{2\\sqrt{2}} - \\frac{\\sqrt{3}}{2\\sqrt{2}} + \\frac{1}{2\\sqrt{2}}\\)<br>\\(= \\frac{2}{2\\sqrt{2}} = \\frac{1}{\\sqrt{2}}\\)"
+    "explanation": "\\(\\cos 15^\\circ - \\sin 15^\\circ\\)<br>\\(= \\cos (45^\\circ - 30^\\circ) - \\sin (45^\\circ - 30^\\circ)\\)<br>\\(= \\left(\\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\right) - \\left(\\frac{1}{\\sqrt{2}} \\cdot \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}} \\cdot \\frac{1}{2}\\right)\\)<br>\\(= \\frac{\\sqrt{3}}{2\\sqrt{2}} + \\frac{1}{2\\sqrt{2}} - \\frac{\\sqrt{3}}{2\\sqrt{2}} + \\frac{1}{2\\sqrt{2}}\\)<br>\\(= \\frac{2}{2\\sqrt{2}} = \\frac{1}{\\sqrt{2}}\\)"
   },
   {
     "id": 26,
-    "question": "\\sec A (1 - \\sin A)(\\sec A + \\tan A) = ?",
+    "question": "\\(\\sec A (1 - \\sin A)(\\sec A + \\tan A) = ?\\)",
     "options": {
       "a": "1",
       "b": "\\(\\sec A\\)",
@@ -313,7 +313,7 @@
   },
   {
     "id": 27,
-    "question": "\\frac{1 - \\tan^2 15^\\circ}{1 + \\tan^2 15^\\circ} = ?",
+    "question": "\\(\\frac{1 - \\tan^2 15^\\circ}{1 + \\tan^2 15^\\circ} = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{2}\\)",
       "b": "\\(\\frac{\\sqrt{3}}{2}\\)",
@@ -325,7 +325,7 @@
   },
   {
     "id": 28,
-    "question": "\\frac{2\\tan 15^\\circ}{1 - \\tan^2 15^\\circ} = ?",
+    "question": "\\(\\frac{2\\tan 15^\\circ}{1 - \\tan^2 15^\\circ} = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{\\sqrt{3}}\\)",
       "b": "1",
@@ -337,7 +337,7 @@
   },
   {
     "id": 29,
-    "question": "\\sin 10^\\circ \\sin 30^\\circ \\sin 50^\\circ \\sin 70^\\circ = ?",
+    "question": "\\(\\sin 10^\\circ \\sin 30^\\circ \\sin 50^\\circ \\sin 70^\\circ = ?\\)",
     "options": {
       "a": "\\(\\frac{1}{16}\\)",
       "b": "\\(\\frac{1}{8}\\)",

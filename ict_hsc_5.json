@@ -598,7 +598,609 @@
     },
     "correct_answer": "b",
     "explanation": "বাইরের লুপ i=1,2,3 এর জন্য ভিতরের লুপ j=1 থেকে i পর্যন্ত * প্রিন্ট করে, তাই i=1 এ ১টি, i=2 তে ২টি, i=3 এ ৩টি তারা প্রিন্ট হবে।"
+  },
+  {
+    "id": 51,
+    "question": "C প্রোগ্রামিং ভাষায় 'printf' ফাংশনের কাজ কী?",
+    "options": {
+      "a": "কীবোর্ড থেকে ইনপুট নেওয়া",
+      "b": "স্ক্রিনে আউটপুট দেখানো",
+      "c": "ফাইল ওপেন করা",
+      "d": "মেমরি এলোকেট করা"
+    },
+    "correct_answer": "b",
+    "explanation": "printf ফাংশন ব্যবহারকারীর কাছে কনসোল বা স্ক্রিনে আউটপুট প্রদর্শনের জন্য ব্যবহৃত হয়।"
+  },
+  {
+    "id": 52,
+    "question": "নিচের কোনটি C তে কীওয়ার্ড (reserved word)?",
+    "options": {
+      "a": "main",
+      "b": "printf",
+      "c": "int",
+      "d": "scanf"
+    },
+    "correct_answer": "c",
+    "explanation": "int একটি ডেটা টাইপ কীওয়ার্ড। main, printf, scanf ফাংশনের নাম, কীওয়ার্ড নয়।"
+  },
+  {
+    "id": 53,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a = 10, b = 3;<br>    float c;<br>    c = a / b;<br>    printf(\"%.2f\", c);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "3.33",
+      "b": "3.00",
+      "c": "3.333",
+      "d": "3.3"
+    },
+    "correct_answer": "b",
+    "explanation": "a ও b উভয়েই int, তাই a/b পূর্ণসংখ্যা division (10/3=3) হয়। তারপর float-এ রূপান্তরিত হয়ে 3.00 প্রিন্ট হয়।"
+  },
+  {
+    "id": 54,
+    "question": "নিচের কোনটি অ্যাসাইনমেন্ট অপারেটর?",
+    "options": {
+      "a": "==",
+      "b": "=",
+      "c": "!=",
+      "d": "<="
+    },
+    "correct_answer": "b",
+    "explanation": "= হল অ্যাসাইনমেন্ট অপারেটর (মান বসানো)। == সমতা পরীক্ষা করে।"
+  },
+  {
+    "id": 55,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i = 1;<br>    while(i &lt;= 5) {<br>        if(i == 3)<br>            break;<br>        printf(\"%d \", i);<br>        i++;<br>    }<br>    return 0;<br>}",
+    "options": {
+      "a": "1 2 3 4 5",
+      "b": "1 2",
+      "c": "1 2 3",
+      "d": "1 2 3 4"
+    },
+    "correct_answer": "b",
+    "explanation": "i=1,2 প্রিন্ট হয়। i=3 হলে break লুপ থেকে বেরিয়ে যায়, তাই 3 প্রিন্ট হয় না।"
+  },
+  {
+    "id": 56,
+    "question": "C প্রোগ্রামে '&' অপারেটর কী কাজ করে?",
+    "options": {
+      "a": "অ্যাড্রেস অব অপারেটর",
+      "b": "লজিক্যাল AND",
+      "c": "বিটওয়াইজ AND",
+      "d": "পয়েন্টার ডিক্লেয়ার"
+    },
+    "correct_answer": "a",
+    "explanation": "scanf-এ & ব্যবহার করা হয় ভেরিয়েবলের অ্যাড্রেস পাস করার জন্য। এটি 'অ্যাড্রেস অব' অপারেটর।"
+  },
+  {
+    "id": 57,
+    "question": "নিচের কোনটি do-while লুপের বৈশিষ্ট্য?",
+    "options": {
+      "a": "শর্ত সত্য না হলে একবারও চলবে না",
+      "b": "শর্ত পরীক্ষা আগে হয়",
+      "c": "অন্তত একবার চলবেই",
+      "d": "শুধু সংখ্যার জন্য কাজ করে"
+    },
+    "correct_answer": "c",
+    "explanation": "do-while লুপ প্রথমে body 실행 করে তারপর শর্ত পরীক্ষা করে, তাই অন্তত একবার চলবেই।"
+  },
+  {
+    "id": 58,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int arr[4] = {1, 2, 3};<br>    printf(\"%d\", arr[3]);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "3",
+      "b": "0",
+      "c": "অনির্ধারিত (garbage value)",
+      "d": "কম্পাইল এরর"
+    },
+    "correct_answer": "b",
+    "explanation": "অ্যারেতে ৪টি স্থান আছে, প্রথম তিনটি 1,2,3 এবং চতুর্থটি (arr[3]) ইনিশিয়ালাইজ করা হয়নি। C তে partial initialization-এ বাকি element 0 পায়।"
+  },
+  {
+    "id": 59,
+    "question": "নিচের কোডে ত্রুটি কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x = 5;<br>    if(x = 10)<br>        printf(\"Equal\");<br>    return 0;<br>}",
+    "options": {
+      "a": "if-এ শর্ত ভুল, সবসময় সত্য হবে",
+      "b": "printf এ ফরম্যাট নেই",
+      "c": "x ডিক্লেয়ার করা হয়নি",
+      "d": "কোন ত্রুটি নেই"
+    },
+    "correct_answer": "a",
+    "explanation": "if(x = 10) এ অ্যাসাইনমেন্ট (=) ব্যবহার করা হয়েছে, তুলনা (==) নয়। এটি x-এ 10 বসাবে, যা non-zero (সত্য), তাই সবসময় True হবে।"
+  },
+  {
+    "id": 60,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i;<br>    for(i=0; i&lt;5; i++);<br>        printf(\"Hello\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "Hello 5 বার",
+      "b": "Hello 1 বার",
+      "c": "Hello 4 বার",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "b",
+    "explanation": "for লুপের পর সেমিকোলন (;) থাকায় লুপটি খালি body নিয়ে 5 বার ঘোরে। তারপর printf একবার 실행 হয়ে Hello প্রিন্ট হয়।"
+  },
+  {
+    "id": 61,
+    "question": "নিচের কোনটি ফ্লোচার্টে সিদ্ধান্ত নেওয়ার জন্য ব্যবহৃত প্রতীক?",
+    "options": {
+      "a": "আয়তক্ষেত্র",
+      "b": "ডিম্বাকৃতি",
+      "c": "রম্বস",
+      "d": "সমান্তরিক"
+    },
+    "correct_answer": "c",
+    "explanation": "ফ্লোচার্টে সিদ্ধান্ত (Decision) রম্বস আকৃতি দিয়ে দেখানো হয়।"
+  },
+  {
+    "id": 62,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=5, b=5, c=10;<br>    if(a==b || a==c)<br>        printf(\"True\");<br>    else<br>        printf(\"False\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "TrueFalse",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "a",
+    "explanation": "a==b সত্য (5==5), তাই OR অপারেটরের কারণে শর্ত সত্য। 'True' প্রিন্ট হবে।"
+  },
+  {
+    "id": 63,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, count=0;<br>    for(i=2; i&lt;=10; i++) {<br>        if(i%2==0)<br>            count++;<br>    }<br>    printf(\"%d\", count);<br>    return 0;<br>}",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "9",
+      "d": "10"
+    },
+    "correct_answer": "b",
+    "explanation": "লুপটি 2 থেকে 10 পর্যন্ত চলে। i%2==0 (জোড় সংখ্যা) গুলো: 2,4,6,8,10 → মোট ৫টি। তাই count=5।"
+  },
+  {
+    "id": 64,
+    "question": "নিচের কোনটি C তে স্ট্রিং এর শেষ নির্দেশ করে?",
+    "options": {
+      "a": "\\0",
+      "b": "\\n",
+      "c": "\\t",
+      "d": "\\r"
+    },
+    "correct_answer": "a",
+    "explanation": "C তে স্ট্রিং শেষ হয় null character '\\0' দিয়ে।"
+  },
+  {
+    "id": 65,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=10;<br>    x+=5;<br>    printf(\"%d\", x);<br>    return 0;<br>}",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "5",
+      "d": "105"
+    },
+    "correct_answer": "b",
+    "explanation": "x+=5 মানে x = x+5, তাই x=10+5=15।"
+  },
+  {
+    "id": 66,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i=0;<br>    for( ; ; ) {<br>        if(i==3)<br>            break;<br>        i++;<br>    }<br>    printf(\"%d\", i);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "0",
+      "b": "3",
+      "c": "2",
+      "d": "অসীম লুপ"
+    },
+    "correct_answer": "b",
+    "explanation": "for(;;) অসীম লুপ, কিন্তু i=3 হলে break লুপ থেকে বেরিয়ে আসে। i প্রথমে 0, তারপর 1,2,3 হয় এবং break হয়। প্রিন্ট i=3।"
+  },
+  {
+    "id": 67,
+    "question": "নিচের কোনটি সঠিক switch-case স্টেটমেন্ট?",
+    "options": {
+      "a": "switch(x) { case 1: printf(\"One\"); }",
+      "b": "switch(x) { case 1: printf(\"One\"); break; }",
+      "c": "উভয়ই সঠিক",
+      "d": "কোনটিই নয়"
+    },
+    "correct_answer": "b",
+    "explanation": "switch-case এ সাধারণত break ব্যবহার করা ভাল, না হলে পরবর্তী case-ও 실행 হবে (fall-through)। তাই b অধিকতর সঠিক ও প্রচলিত।"
+  },
+  {
+    "id": 68,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=3, b=2;<br>    float result = a/b;<br>    printf(\"%.1f\", result);<br>    return 0;<br>}",
+    "options": {
+      "a": "1.5",
+      "b": "1.0",
+      "c": "1.5",
+      "d": "1"
+    },
+    "correct_answer": "b",
+    "explanation": "a ও b integer, তাই a/b = 1 (integer division), তারপর float এ রূপান্তর হয়ে 1.0 হয়।"
+  },
+  {
+    "id": 69,
+    "question": "নিচের কোনটি ইনক্রিমেন্ট অপারেটর?",
+    "options": {
+      "a": "+=",
+      "b": "++",
+      "c": "--",
+      "d": "=+"
+    },
+    "correct_answer": "b",
+    "explanation": "++ হলো ইনক্রিমেন্ট অপারেটর। -- ডিক্রিমেন্ট।"
+  },
+  {
+    "id": 70,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int n, sum=0;<br>    for(n=1; n&lt;=5; n++)<br>        sum = sum + n;<br>    printf(\"%d\", sum);<br>    return 0;<br>}<br>উদ্দীপকের প্রোগ্রামটি কী নির্ণয় করে?",
+    "options": {
+      "a": "1 থেকে 5 পর্যন্ত গুণফল",
+      "b": "1 থেকে 5 পর্যন্ত যোগফল",
+      "c": "1 থেকে 5 পর্যন্ত জোড় সংখ্যার যোগফল",
+      "d": "5 এর ফ্যাক্টোরিয়াল"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি 1+2+3+4+5 = 15 নির্ণয় করে, যা 1 থেকে 5 পর্যন্ত যোগফল।"
+  },
+  {
+    "id": 71,
+    "question": "নিচের কোডে ত্রুটি কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[2] = {1,2,3};<br>    printf(\"%d\", a[1]);<br>    return 0;<br>}",
+    "options": {
+      "a": "printf ভুল",
+      "b": "অ্যারে সাইজ ও মানের সংখ্যা mismatch",
+      "c": "a[1] অ্যাক্সেস ভুল",
+      "d": "কোন ত্রুটি নেই"
+    },
+    "correct_answer": "b",
+    "explanation": "অ্যারে সাইজ 2 হলেও ৩টি মান দেওয়া হয়েছে, যা সি-তে ত্রুটি (অতিরিক্ত ইনিশিয়ালাইজার)।"
+  },
+  {
+    "id": 72,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, j;<br>    for(i=1; i&lt;=3; i++) {<br>        for(j=1; j&lt;=2; j++)<br>            printf(\"%d\", i+j);<br>        printf(\"\\n\");<br>    }<br>    return 0;<br>}",
+    "options": {
+      "a": "23<br>34<br>45",
+      "b": "23<br>34<br>45",
+      "c": "12<br>23<br>34",
+      "d": "34<br>45<br>56"
+    },
+    "correct_answer": "a",
+    "explanation": "i=1: j=1 → 2, j=2 → 3 → 23; i=2: j=1→3, j=2→4 → 34; i=3: j=1→4, j=2→5 → 45।"
+  },
+  {
+    "id": 73,
+    "question": "নিচের কোনটি লজিক্যাল NOT অপারেটর?",
+    "options": {
+      "a": "&&",
+      "b": "||",
+      "c": "!",
+      "d": "~"
+    },
+    "correct_answer": "c",
+    "explanation": "! হলো লজিক্যাল NOT। ~ বিটওয়াইজ NOT।"
+  },
+  {
+    "id": 74,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=0;<br>    if(x)<br>        printf(\"True\");<br>    else<br>        printf(\"False\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "কিছুই না",
+      "d": "TrueFalse"
+    },
+    "correct_answer": "b",
+    "explanation": "C তে 0 মানে মিথ্যা (False), non-zero মানে সত্য। x=0, তাই শর্ত মিথ্যা, else অংশ 실행 হয়ে 'False' প্রিন্ট হয়।"
+  },
+  {
+    "id": 75,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int arr[5] = {5,10,15,20,25};<br>    int *ptr = arr;<br>    ptr = ptr + 2;<br>    printf(\"%d\", *ptr);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "20"
+    },
+    "correct_answer": "c",
+    "explanation": "ptr প্রথমে arr[0]-এর অ্যাড্রেস ধরে। ptr+2 মানে ২য় ইনডেক্স (arr[2])-এর অ্যাড্রেস। *ptr arr[2]-এর মান 15।"
+  },
+  {
+    "id": 76,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=5, b=10;<br>    a = a ^ b;<br>    b = a ^ b;<br>    a = a ^ b;<br>    printf(\"a=%d b=%d\", a, b);<br>    return 0;<br>}",
+    "options": {
+      "a": "a=5 b=10",
+      "b": "a=10 b=5",
+      "c": "a=15 b=5",
+      "d": "a=5 b=15"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি XOR ব্যবহার করে swapping। a এবং b এর মান অদলবদল হয়।"
+  },
+  {
+    "id": 77,
+    "question": "নিচের কোনটি ফ্লোচার্টের জন্য সঠিক নয়?",
+    "options": {
+      "a": "শুরু/শেষ নির্দেশ করতে ডিম্বাকৃতি",
+      "b": "প্রক্রিয়া নির্দেশ করতে আয়তক্ষেত্র",
+      "c": "ইনপুট/আউটপুট নির্দেশ করতে বৃত্ত",
+      "d": "সিদ্ধান্ত নির্দেশ করতে রম্বস"
+    },
+    "correct_answer": "c",
+    "explanation": "ইনপুট/আউটপুটের জন্য সমান্তরিক (parallelogram) ব্যবহার হয়, বৃত্ত নয়।"
+  },
+  {
+    "id": 78,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int n=5, i;<br>    for(i=1; i&lt;=10; i++)<br>        printf(\"%d x %d = %d\\n\", n, i, n*i);<br>    return 0;<br>}<br>উদ্দীপকের প্রোগ্রামটি কী তৈরি করে?",
+    "options": {
+      "a": "৫ এর নামতা",
+      "b": "১ থেকে ৫ পর্যন্ত যোগফল",
+      "c": "৫ এর ফ্যাক্টোরিয়াল",
+      "d": "৫ এর বর্গ"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি 5 এর নামতা (multiplication table) 1 থেকে 10 পর্যন্ত প্রিন্ট করে।"
+  },
+  {
+    "id": 79,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i;<br>    for(i=0; i&lt;3; i++);<br>    printf(\"%d\", i);<br>    return 0;<br>}",
+    "options": {
+      "a": "0",
+      "b": "3",
+      "c": "2",
+      "d": "কম্পাইল এরর"
+    },
+    "correct_answer": "b",
+    "explanation": "for লুপের পর সেমিকোলন থাকায় লুপটি খালি body নিয়ে i=3 পর্যন্ত চলে, তারপর printf i=3 প্রিন্ট করে।"
+  },
+  {
+    "id": 80,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int add(int a, int b) {<br>    return a+b;<br>}<br>int main() {<br>    int x=5, y=7;<br>    int z = add(x,y);<br>    printf(\"%d\", z);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "12",
+      "d": "57"
+    },
+    "correct_answer": "c",
+    "explanation": "add ফাংশন দুটি সংখ্যার যোগফল return করে। 5+7=12।"
+  },
+  {
+    "id": 81,
+    "question": "নিচের কোনটি বৈধ অ্যারে ডিক্লেয়ারেশন?",
+    "options": {
+      "a": "int arr[];",
+      "b": "int arr[5];",
+      "c": "arr int[5];",
+      "d": "int arr(5);"
+    },
+    "correct_answer": "b",
+    "explanation": "int arr[5]; সঠিক। int arr[]; সাইজ ছাড়া ডিক্লেয়ার করা যায় না (শুধু ইনিশিয়ালাইজেশন সহ)।"
+  },
+  {
+    "id": 82,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=5, b=10;<br>    if(a>b)<br>        printf(\"A\");<br>    else if(a&lt;b)<br>        printf(\"B\");<br>    else<br>        printf(\"C\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "b",
+    "explanation": "a=5, b=10, a&lt;b সত্য, তাই else if অংশ 실행 হয়ে 'B' প্রিন্ট হয়।"
+  },
+  {
+    "id": 83,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=10;<br>    x = x&lt;&lt;1;<br>    printf(\"%d\", x);<br>    return 0;<br>}",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "20",
+      "d": "100"
+    },
+    "correct_answer": "c",
+    "explanation": "x&lt;&lt;1 মানে x-কে 1 bit left shift করা, যা 2 দিয়ে গুণ করার সমতুল্য। 10*2=20।"
+  },
+  {
+    "id": 84,
+    "question": "C প্রোগ্রামে main() ফাংশন সাধারণত কী রিটার্ন করে?",
+    "options": {
+      "a": "int",
+      "b": "float",
+      "c": "void",
+      "d": "char"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রচলিতভাবে main() int রিটার্ন করে (অপারেটিং সিস্টেমকে status জানাতে)। void main() অনানুষ্ঠানিক।"
+  },
+  {
+    "id": 85,
+    "question": "নিচের কোডে ত্রুটি কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    float f = 5.5;<br>    int i = f;<br>    printf(\"%f\", i);<br>    return 0;<br>}",
+    "options": {
+      "a": "float to int conversion সম্ভব নয়",
+      "b": "printf এ %f এর জন্য int পাস করা হয়েছে",
+      "c": "কোন ত্রুটি নেই",
+      "d": "f ডিক্লেয়ার ভুল"
+    },
+    "correct_answer": "b",
+    "explanation": "printf(\"%f\", i); এ i int হলেও %f float চায়, তাই undefined behavior (ভুল আউটপুট)।"
+  },
+  {
+    "id": 86,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, sum=0;<br>    for(i=1; i&lt;=5; i++)<br>        if(i%2!=0)<br>            sum = sum + i;<br>    printf(\"%d\", sum);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "6",
+      "b": "9",
+      "c": "15",
+      "d": "5"
+    },
+    "correct_answer": "b",
+    "explanation": "বিজোড় সংখ্যা 1,3,5 এর যোগফল = 9।"
+  },
+  {
+    "id": 87,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=5;<br>    printf(\"%d %d %d\", a, ++a, a++);<br>    return 0;<br>}",
+    "options": {
+      "a": "5 6 6",
+      "b": "5 5 5",
+      "c": "6 6 5",
+      "d": "অনির্ধারিত (undefined behavior)"
+    },
+    "correct_answer": "d",
+    "explanation": "একই statement-এ variable-কে বারবার modify করা এবং ব্যবহার করা undefined behavior। আউটপুট কম্পাইলারভেদে ভিন্ন।"
+  },
+  {
+    "id": 88,
+    "question": "নিচের কোনটি সঠিক ভেরিয়েবল নাম নয়?",
+    "options": {
+      "a": "_count",
+      "b": "num1",
+      "c": "2nd_num",
+      "d": "number"
+    },
+    "correct_answer": "c",
+    "explanation": "ভেরিয়েবল নাম সংখ্যা দিয়ে শুরু করা যায় না। 2nd_num অবৈধ।"
+  },
+  {
+    "id": 89,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[5] = {10,20,30,40,50};<br>    int i;<br>    for(i=4; i&gt;=0; i--)<br>        printf(\"%d \", a[i]);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "10 20 30 40 50",
+      "b": "50 40 30 20 10",
+      "c": "50 40 30 20",
+      "d": "10 20 30 40"
+    },
+    "correct_answer": "b",
+    "explanation": "লুপটি i=4 থেকে শুরু করে 0 পর্যন্ত descending order-এ array এলিমেন্ট প্রিন্ট করে। তাই 50 40 30 20 10।"
+  },
+  {
+    "id": 90,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i=1;<br>    while(i&lt;=5) {<br>        if(i==3) {<br>            i++;<br>            continue;<br>        }<br>        printf(\"%d \", i);<br>        i++;<br>    }<br>    return 0;<br>}",
+    "options": {
+      "a": "1 2 4 5",
+      "b": "1 2 3 4 5",
+      "c": "1 2 4 5 6",
+      "d": "1 2 3"
+    },
+    "correct_answer": "a",
+    "explanation": "i=3 হলে i++ (i=4) এবং continue-এর কারণে পরবর্তী iteration চলে যায়, 3 প্রিন্ট হয় না। তাই আউটপুট 1 2 4 5।"
+  },
+  {
+    "id": 91,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int n=123, rev=0;<br>    while(n&gt;0) {<br>        rev = rev*10 + n%10;<br>        n = n/10;<br>    }<br>    printf(\"%d\", rev);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "123",
+      "b": "321",
+      "c": "6",
+      "d": "0"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি সংখ্যাটির অঙ্ক উল্টায়। 123 → 321।"
+  },
+  {
+    "id": 92,
+    "question": "নিচের কোনটি preprocessor directive?",
+    "options": {
+      "a": "int",
+      "b": "#include",
+      "c": "printf",
+      "d": "return"
+    },
+    "correct_answer": "b",
+    "explanation": "#include একটি preprocessor directive, যা কম্পাইল করার আগে প্রসেস হয়।"
+  },
+  {
+    "id": 93,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=10;<br>    x&gt;5 ? printf(\"Yes\") : printf(\"No\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "YesNo",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "a",
+    "explanation": "x&gt;5 সত্য, তাই ternary operator-এর প্রথম অংশ printf(\"Yes\") 실행 হয়।"
+  },
+  {
+    "id": 94,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, j;<br>    for(i=1; i&lt;=3; i++) {<br>        for(j=1; j&lt;=3; j++) {<br>            if(i==j)<br>                printf(\"1 \");<br>            else<br>                printf(\"0 \");<br>        }<br>        printf(\"\\n\");<br>    }<br>    return 0;<br>}",
+    "options": {
+      "a": "1 0 0<br>0 1 0<br>0 0 1",
+      "b": "1 1 1<br>1 1 1<br>1 1 1",
+      "c": "0 0 0<br>0 0 0<br>0 0 0",
+      "d": "1 0 1<br>0 1 0<br>1 0 1"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি একটি identity matrix তৈরি করে, যেখানে i=j হলে 1, অন্যথায় 0।"
+  },
+  {
+    "id": 95,
+    "question": "নিচের কোডে ত্রুটি কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[3] = {1,2,3};<br>    int i;<br>    for(i=0; i&lt;=3; i++)<br>        printf(\"%d \", a[i]);<br>    return 0;<br>}",
+    "options": {
+      "a": "printf ভুল",
+      "b": "লুপ সীমা অতিক্রম করেছে (array out of bound)",
+      "c": "a ডিক্লেয়ার ভুল",
+      "d": "কোন ত্রুটি নেই"
+    },
+    "correct_answer": "b",
+    "explanation": "অ্যারে সাইজ 3, ইনডেক্স 0-2 পর্যন্ত বৈধ। i&lt;=3 পর্যন্ত লুপ চালালে a[3] ইনভ্যালিড অ্যাক্সেস।"
+  },
+  {
+    "id": 96,
+    "question": "নিচের কোনটি ডিক্রিমেন্ট অপারেটর?",
+    "options": {
+      "a": "++",
+      "b": "--",
+      "c": "-=",
+      "d": "=-"
+    },
+    "correct_answer": "b",
+    "explanation": "-- হলো ডিক্রিমেন্ট অপারেটর (মান ১ কমানো)।"
+  },
+  {
+    "id": 97,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=10, b=20, c=30;<br>    if(a>b && a>c)<br>        printf(\"%d\", a);<br>    else if(b>a && b>c)<br>        printf(\"%d\", b);<br>    else<br>        printf(\"%d\", c);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "c",
+    "explanation": "তিনটি সংখ্যার মধ্যে c=30 সবচেয়ে বড়, তাই else অংশ 실행 হয়ে 30 প্রিন্ট হয়।"
+  },
+  {
+    "id": 98,
+    "question": "C তে নিচের কোনটি একই সাথে ইনিশিয়ালাইজেশন ও ডিক্লেয়ারেশনের উদাহরণ?",
+    "options": {
+      "a": "int x;",
+      "b": "x=5;",
+      "c": "int x=5;",
+      "d": "int x,y;"
+    },
+    "correct_answer": "c",
+    "explanation": "int x=5; একই সাথে ডিক্লেয়ারেশন ও ইনিশিয়ালাইজেশন।"
+  },
+  {
+    "id": 99,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i=5;<br>    do {<br>        printf(\"%d \", i);<br>        i--;<br>    } while(i>0);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "5 4 3 2 1",
+      "b": "5 4 3 2",
+      "c": "4 3 2 1 0",
+      "d": "5 4 3 2 1 0"
+    },
+    "correct_answer": "a",
+    "explanation": "i=5 থেকে শুরু, i>0 পর্যন্ত i-- করে প্রিন্ট করে। i=5,4,3,2,1 প্রিন্ট হবে। i=0 হলে শর্ত মিথ্যা।"
+  },
+  {
+    "id": 100,
+    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=0;<br>    if(++x)<br>        printf(\"%d\", x);<br>    else<br>        printf(\"%d\", x+1);<br>    return 0;<br>}",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "b",
+    "explanation": "++x প্রথমে x-এর মান 1 করে, তারপর if(1) সত্য, তাই printf(\"%d\", x) 실행 হয়ে 1 প্রিন্ট হয়।"
   }
+
 ]
+
 
 

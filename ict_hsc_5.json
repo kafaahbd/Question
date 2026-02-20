@@ -576,17 +576,17 @@
     "explanation": "x লুপের ভিতরে ডিক্লেয়ার করা হয়েছে, যা লুপের বাইরে দৃশ্যমান নয় (local scope)। printf এ x অজানা।"
   },
   {
-    "id": 49,
-    "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int a=5, b=10, c=15;<br>    if(a>b && a>c)<br>        printf(\"%d\", a);<br>    else if(b>a && b>c)<br>        printf(\"%d\", b);<br>    else<br>        printf(\"%d\", c);<br>    return 0;<br>}",
-    "options": {
-      "a": "5",
-      "b": "10",
-      "c": "15",
-      "d": "কিছুই না"
-    },
-    "correct_answer": "c",
-    "explanation": "এটি তিনটি সংখ্যার মধ্যে বৃহত্তম নির্ণয় করে। এখানে c=15 সবচেয়ে বড়, তাই c প্রিন্ট হয়।"
+  "id": 49,
+  "question": "নিচের প্রোগ্রামটির আউটপুট কী?<br>#include <stdio.h><br>int main() {<br>    int a=5, b=10, c=15;<br>    if(a>b && a>c)<br>        printf(\"%d\", a);<br>    else if(b>a && b>c)<br>        printf(\"%d\", b);<br>    else<br>        printf(\"%d\", c);<br>    return 0;<br>}",
+  "options": {
+    "a": "5",
+    "b": "10",
+    "c": "15",
+    "d": "কম্পাইল এরর"
   },
+  "correct_answer": "c",
+  "explanation": "এখানে a=5, b=10, c=15। প্রথম শর্ত (a>b && a>c) মিথ্যা, দ্বিতীয় শর্ত (b>a && b>c) তাও মিথ্যা, তাই else অংশ 실행 হয় এবং c এর মান 15 প্রিন্ট হয়।"
+},
   {
     "id": 50,
     "question": "উদ্দীপক:<br>#include <stdio.h><br>int main() {<br>    int i, j;<br>    for(i=1; i<=3; i++) {<br>        for(j=1; j<=i; j++)<br>            printf(\"*\");<br>        printf(\"\\n\");<br>    }<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কেমন হবে?",
@@ -600,4 +600,5 @@
     "explanation": "বাইরের লুপ i=1,2,3 এর জন্য ভিতরের লুপ j=1 থেকে i পর্যন্ত * প্রিন্ট করে, তাই i=1 এ ১টি, i=2 তে ২টি, i=3 এ ৩টি তারা প্রিন্ট হবে।"
   }
 ]
+
 

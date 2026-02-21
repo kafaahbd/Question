@@ -2398,10 +2398,612 @@
     },
     "correct_answer": "b",
     "explanation": "a==b সত্য, a==c মিথ্যা, b==c মিথ্যা, কিন্তু OR অপারেটরের কারণে a==b সত্য হওয়ায় দ্বিতীয় শর্ত সত্য, 'Two Equal' প্রিন্ট হয়।"
+  },
+  {
+    "id": 201,
+    "question": "C প্রোগ্রামিং ভাষায় '&' অপারেটর কী হিসেবে ব্যবহৃত হয়?",
+    "options": {
+      "a": "লজিক্যাল AND",
+      "b": "বিটওয়াইজ AND",
+      "c": "অ্যাড্রেস অব অপারেটর",
+      "d": "অ্যাসাইনমেন্ট অপারেটর"
+    },
+    "correct_answer": "c",
+    "explanation": "C তে '&' অপারেটর মূলত 'অ্যাড্রেস অব' অপারেটর হিসেবে ব্যবহৃত হয়, যা একটি ভেরিয়েবলের মেমরি অ্যাড্রেস রিটার্ন করে। এটি scanf-এ ভেরিয়েবলের অ্যাড্রেস পাস করতেও ব্যবহৃত হয়। বিটওয়াইজ AND-এর জন্যও '&' ব্যবহার করা হয়, কিন্তু সাধারণ প্রসঙ্গে (scanf) এটি অ্যাড্রেস অপারেটর হিসেবে পরিচিত।"
+  },
+  {
+    "id": 202,
+    "question": "নিচের কোনটি C তে ভ্যালিড (বৈধ) কন্সট্যান্ট?",
+    "options": {
+      "a": "3.14e-2",
+      "b": "0x1A",
+      "c": "'\\n'",
+      "d": "উপরের সবগুলো"
+    },
+    "correct_answer": "d",
+    "explanation": "3.14e-2 বৈজ্ঞানিক নোটেশনে float, 0x1A হেক্সাডেসিমেল ইন্টিজার, '\\n' escape sequence ক্যারেক্টার—সবগুলোই C তে বৈধ কন্সট্যান্ট।"
+  },
+  {
+    "id": 203,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[5] = {10,20,30,40,50};<br>    int *p = a + 3;<br>    printf(\"%d\", *p);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "30",
+      "b": "40",
+      "c": "50",
+      "d": "কম্পাইল এরর"
+    },
+    "correct_answer": "b",
+    "explanation": "a অ্যারের নাম প্রথম এলিমেন্টের অ্যাড্রেস নির্দেশ করে। a+3 মানে অ্যারের তৃতীয় ইনডেক্স (a[3])-এর অ্যাড্রেস। *p = a[3] = 40।"
+  },
+  {
+    "id": 204,
+    "question": "নিচের ফাংশনটি কী রিটার্ন করবে?<br>int mystery(int n) {<br>    if(n==0) return 1;<br>    else return n * mystery(n-1);<br>}",
+    "options": {
+      "a": "n এর বর্গ",
+      "b": "n এর ফ্যাক্টোরিয়াল",
+      "c": "2^n",
+      "d": "n(n+1)/2"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি একটি রিকার্সিভ ফাংশন যা n! (ফ্যাক্টোরিয়াল) নির্ণয় করে। base case n=0 হলে 1 রিটার্ন করে, যা 0! = 1।"
+  },
+  {
+    "id": 205,
+    "question": "C প্রোগ্রামে 'strcpy(s1, s2)' ফাংশনের কাজ কী?",
+    "options": {
+      "a": "s1 এবং s2-এর দৈর্ঘ্য তুলনা করা",
+      "b": "s2-কে s1-এ কপি করা",
+      "c": "s1-কে s2-এর সাথে যুক্ত করা",
+      "d": "s1-কে s2-এর পরে বসানো"
+    },
+    "correct_answer": "b",
+    "explanation": "strcpy() ফাংশন স্ট্রিং s2-কে স্ট্রিং s1-এ কপি করে (null character সহ)।"
+  },
+  {
+    "id": 206,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=1, y=2, z=3;<br>    int *p, *q, *r;<br>    p = &x;<br>    q = &y;<br>    r = &z;<br>    *p = *q + *r;<br>    printf(\"%d\", x);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "correct_answer": "d",
+    "explanation": "p x-এর অ্যাড্রেস ধরে। *p = *q + *r অর্থাৎ x = y + z = 2+3=5। তাই x-এর নতুন মান 5 প্রিন্ট হয়।"
+  },
+  {
+    "id": 207,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, n=5;<br>    for(i=1; i<=n; i++) {<br>        if(i%2==0)<br>            break;<br>        printf(\"%d \", i);<br>    }<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "1",
+      "b": "1 2",
+      "c": "1 3 5",
+      "d": "কিছুই না"
+    },
+    "correct_answer": "a",
+    "explanation": "i=1: বিজোড়, প্রিন্ট 1। i=2: জোড়, break লুপ থেকে বেরিয়ে যায়। তাই শুধু 1 প্রিন্ট হয়।"
+  },
+  {
+    "id": 208,
+    "question": "নিচের কোনটি C তে 'ফাইল পয়েন্টার' ডিক্লেয়ারের সঠিক উপায়?",
+    "options": {
+      "a": "FILE *fp;",
+      "b": "file *fp;",
+      "c": "FILEPTR fp;",
+      "d": "fstream fp;"
+    },
+    "correct_answer": "a",
+    "explanation": "C তে ফাইল হ্যান্ডলিংয়ের জন্য FILE ডেটা টাইপ ব্যবহার করা হয়, এবং ফাইল পয়েন্টার ঘোষণা করা হয় FILE *fp; দিয়ে।"
+  },
+  {
+    "id": 209,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=10, b=20;<br>    int *pa = &a, *pb = &b;<br>    *pa = *pa + *pb;<br>    *pb = *pa - *pb;<br>    *pa = *pa - *pb;<br>    printf(\"a=%d b=%d\", a, b);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "a=10 b=20",
+      "b": "a=20 b=10",
+      "c": "a=30 b=10",
+      "d": "a=20 b=30"
+    },
+    "correct_answer": "b",
+    "explanation": "পয়েন্টার ব্যবহার করে swapping করা হয়েছে। a=10+20=30, b=30-20=10, a=30-10=20। ফলে a=20, b=10।"
+  },
+  {
+    "id": 210,
+    "question": "নিচের কোনটি C তে একটি স্ট্রিং-এর সঠিক ডিক্লেয়ারেশন?",
+    "options": {
+      "a": "char str[] = \"Hello\";",
+      "b": "char str[6] = \"Hello\";",
+      "c": "char *str = \"Hello\";",
+      "d": "উপরের সবগুলো"
+    },
+    "correct_answer": "d",
+    "explanation": "উপরের সবগুলো পদ্ধতিতেই C তে স্ট্রিং ডিক্লেয়ার করা যায়। a ও b অ্যারে ভিত্তিক, c পয়েন্টার ভিত্তিক।"
+  },
+  {
+    "id": 211,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=5, b=10, c=15;<br>    int *arr[3] = {&a, &b, &c};<br>    printf(\"%d\", *arr[1]);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "15",
+      "d": "অ্যাড্রেস"
+    },
+    "correct_answer": "b",
+    "explanation": "arr পয়েন্টার অ্যারে, যার প্রতিটি উপাদান int পয়েন্টার। arr[1] = &b, তাই *arr[1] = b = 10।"
+  },
+  {
+    "id": 212,
+    "question": "নিচের কোনটি C তে 'ডাইনামিক মেমরি এলোকেশন' ফাংশন নয়?",
+    "options": {
+      "a": "malloc()",
+      "b": "calloc()",
+      "c": "free()",
+      "d": "fopen()"
+    },
+    "correct_answer": "d",
+    "explanation": "fopen() ফাইল ওপেন করার ফাংশন, ডাইনামিক মেমরি এলোকেশনের নয়। malloc, calloc, free ডাইনামিক মেমরি ব্যবস্থাপনার ফাংশন।"
+  },
+  {
+    "id": 213,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, arr[5] = {3,6,9,12,15};<br>    for(i=0; i<5; i++)<br>        if(i%2==1)<br>            printf(\"%d \", arr[i]);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "3 6 9 12 15",
+      "b": "6 12",
+      "c": "9 15",
+      "d": "3 9 15"
+    },
+    "correct_answer": "b",
+    "explanation": "i%2==1 মানে i বিজোড় (1,3) ইনডেক্সের উপাদান: arr[1]=6, arr[3]=12। তাই আউটপুট 6 12।"
+  },
+  {
+    "id": 214,
+    "question": "C প্রোগ্রামে 'typedef' কীওয়ার্ডের কাজ কী?",
+    "options": {
+      "a": "নতুন ডেটা টাইপ তৈরি করা",
+      "b": "বিদ্যমান ডেটা টাইপের জন্য নতুন নাম দেওয়া",
+      "c": "ফাংশন ডিফাইন করা",
+      "d": "ভেরিয়েবল ডিক্লেয়ার করা"
+    },
+    "correct_answer": "b",
+    "explanation": "typedef বিদ্যমান ডেটা টাইপের জন্য একটি বিকল্প নাম (alias) তৈরি করতে ব্যবহৃত হয়। যেমন typedef int integer;"
+  },
+  {
+    "id": 215,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=5, y=10, z=15;<br>    int *ptr = &y;<br>    *ptr = x + z;<br>    printf(\"%d\", y);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "20",
+      "d": "5"
+    },
+    "correct_answer": "c",
+    "explanation": "ptr y-এর অ্যাড্রেস ধরে। *ptr = x+z = 5+15=20, তাই y-এর নতুন মান 20 হয়। প্রিন্ট হবে 20।"
+  },
+  {
+    "id": 216,
+    "question": "নিচের কোনটি 'ইউনিয়ন' (union) এর বৈশিষ্ট্য?",
+    "options": {
+      "a": "সব মেম্বার একই মেমরি শেয়ার করে",
+      "b": "প্রতিটি মেম্বারের নিজস্ব মেমরি থাকে",
+      "c": "একসাথে সব মেম্বার ব্যবহার করা যায়",
+      "d": "শুধু সংখ্যা টাইপের জন্য প্রযোজ্য"
+    },
+    "correct_answer": "a",
+    "explanation": "ইউনিয়নে সব মেম্বার একই মেমরি লোকেশন শেয়ার করে, তাই এক সময়ে শুধু একটি মেম্বার ব্যবহার করা যায়।"
+  },
+  {
+    "id": 217,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a=10, b=20;<br>    a = a ^ b;<br>    b = a ^ b;<br>    a = a ^ b;<br>    printf(\"a=%d b=%d\", a, b);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "a=10 b=20",
+      "b": "a=20 b=10",
+      "c": "a=30 b=10",
+      "d": "a=10 b=30"
+    },
+    "correct_answer": "b",
+    "explanation": "XOR অপারেটর ব্যবহার করে swapping করা হয়েছে। a=10^20=30, b=30^20=10, a=30^10=20। ফলে a=20, b=10।"
+  },
+  {
+    "id": 218,
+    "question": "নিচের কোনটি C তে 'রিকার্সন'-এর উদাহরণ?",
+    "options": {
+      "a": "একটি ফাংশন নিজেকে কল করছে",
+      "b": "একটি ফাংশন অপর ফাংশনকে কল করছে",
+      "c": "একটি লুপ নিজেকে পুনরাবৃত্তি করছে",
+      "d": "একটি ভেরিয়েবল নিজেকে পরিবর্তন করছে"
+    },
+    "correct_answer": "a",
+    "explanation": "রিকার্সন হলো সেই প্রক্রিয়া যেখানে একটি ফাংশন নিজেই নিজেকে কল করে।"
+  },
+  {
+    "id": 219,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, j, n=4;<br>    for(i=1; i<=n; i++) {<br>        for(j=1; j<=i; j++)<br>            printf(\"%d\", i);<br>        printf(\" \");<br>    }<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "1 22 333 4444",
+      "b": "1 12 123 1234",
+      "c": "1 2 3 4",
+      "d": "11 22 33 44"
+    },
+    "correct_answer": "a",
+    "explanation": "i=1: 1 বার 1 → '1'; i=2: 2 বার 2 → '22'; i=3: 3 বার 3 → '333'; i=4: 4 বার 4 → '4444'। স্পেস দ্বারা পৃথক।"
+  },
+  {
+    "id": 220,
+    "question": "C প্রোগ্রামে 'fopen()' ফাংশনের দ্বিতীয় প্যারামিটার \"r\" এর অর্থ কী?",
+    "options": {
+      "a": "পড়ার জন্য (read)",
+      "b": "লেখার জন্য (write)",
+      "c": "যোগ করার জন্য (append)",
+      "d": "রিড ও রাইট"
+    },
+    "correct_answer": "a",
+    "explanation": "\"r\" মানে read mode, ফাইল থেকে পড়ার জন্য খোলে।"
+  },
+  {
+    "id": 221,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=0;<br>    if(x=0)<br>        printf(\"False\");<br>    else<br>        printf(\"True\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "কিছুই না",
+      "d": "কম্পাইল এরর"
+    },
+    "correct_answer": "a",
+    "explanation": "if(x=0) এ অ্যাসাইনমেন্ট, তুলনা নয়। x=0 বসে, যা 0 (মিথ্যা), তাই else অংশ 실행 হয়ে 'True' প্রিন্ট হয়।"
+  },
+  {
+    "id": 222,
+    "question": "নিচের কোনটি 'বিটওয়াইজ' অপারেটর?",
+    "options": {
+      "a": "&&",
+      "b": "||",
+      "c": "!",
+      "d": "~"
+    },
+    "correct_answer": "d",
+    "explanation": "~ বিটওয়াইজ NOT অপারেটর। &&, ||, ! লজিক্যাল অপারেটর।"
+  },
+  {
+    "id": 223,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[3][2] = {{1,2},{3,4},{5,6}};<br>    printf(\"%d\", a[2][0]);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "3",
+      "d": "4"
+    },
+    "correct_answer": "a",
+    "explanation": "a[2][0] তৃতীয় সারি (index 2), প্রথম কলাম (index 0)-এর উপাদান = 5।"
+  },
+  {
+    "id": 224,
+    "question": "C প্রোগ্রামে 'gets()' ফাংশন সম্পর্কে সঠিক তথ্য কোনটি?",
+    "options": {
+      "a": "এটি নিরাপদ এবং ব্যাপক ব্যবহৃত",
+      "b": "এটি স্ট্রিং ইনপুট নেয় এবং বাফার ওভারফ্লোর ঝুঁকি থাকে",
+      "c": "এটি কেবল সংখ্যা ইনপুট নেয়",
+      "d": "এটি ক্যারেক্টার ইনপুট নেয়"
+    },
+    "correct_answer": "b",
+    "explanation": "gets() ফাংশন স্ট্রিং ইনপুট নেয় কিন্তু বাউন্ড চেক করে না, তাই বাফার ওভারফ্লোর ঝুঁকি থাকে। আধুনিক C তে এটি অবচিত (deprecated)।"
+  },
+  {
+    "id": 225,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i=0;<br>    for(; i<5; i++)<br>        if(i==3) continue;<br>        printf(\"%d \", i);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "0 1 2 3 4",
+      "b": "0 1 2 4",
+      "c": "0 1 2 4 5",
+      "d": "0 1 2 3 4 5"
+    },
+    "correct_answer": "b",
+    "explanation": "লুপের ভিতরে if(i==3) continue; i=3 হলে continue-এর কারণে পরবর্তী iteration চলে যায়, printf এ i=3 পৌঁছায় না। তাই i=0,1,2,4 প্রিন্ট হবে।"
+  },
+  {
+    "id": 226,
+    "question": "নিচের কোনটি 'স্ট্রিং' তুলনা করার ফাংশন?",
+    "options": {
+      "a": "strcat()",
+      "b": "strcmp()",
+      "c": "strcpy()",
+      "d": "strlen()"
+    },
+    "correct_answer": "b",
+    "explanation": "strcmp() দুটি স্ট্রিং তুলনা করে, সমতা বা অসমতা নির্ণয় করে।"
+  },
+  {
+    "id": 227,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=10, y=20;<br>    int *p1=&x, *p2=&y;<br>    p1 = p2;<br>    *p1 = 30;<br>    printf(\"%d %d\", x, y);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "10 30",
+      "b": "30 30",
+      "c": "10 20",
+      "d": "30 20"
+    },
+    "correct_answer": "a",
+    "explanation": "p1 = p2; এখন p1 ও p2 উভয়েই y-এর অ্যাড্রেস ধরে। *p1 = 30; অর্থাৎ y=30। x অপরিবর্তিত 10 থাকে। তাই আউটপুট 10 30।"
+  },
+  {
+    "id": 228,
+    "question": "নিচের কোনটি 'অ্যালগরিদম'-এর বৈশিষ্ট্য নয়?",
+    "options": {
+      "a": "ইনপুট থাকতে পারে",
+      "b": "আউটপুট থাকতে হবে",
+      "c": "অসীম সংখ্যক ধাপ",
+      "d": "প্রতিটি ধাপ সুনির্দিষ্ট"
+    },
+    "correct_answer": "c",
+    "explanation": "অ্যালগরিদমের ধাপ সংখ্যা সসীম হতে হবে, অসীম নয়।"
+  },
+  {
+    "id": 229,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, n=6;<br>    for(i=2; i<=n/2; i++)<br>        if(n%i==0) break;<br>    if(i>n/2) printf(\"Prime\");<br>    else printf(\"Not Prime\");<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "Prime",
+      "b": "Not Prime",
+      "c": "কিছুই না",
+      "d": "6"
+    },
+    "correct_answer": "b",
+    "explanation": "n=6, i=2 দিয়ে n%i==0 সত্য, তাই break; i=2, i>n/2? 2>3? মিথ্যা, তাই else অংশ 'Not Prime' প্রিন্ট করে। 6 মৌলিক নয়।"
+  },
+  {
+    "id": 230,
+    "question": "C প্রোগ্রামে 'continue' স্টেটমেন্টের কাজ কী?",
+    "options": {
+      "a": "লুপ থেকে বেরিয়ে যাওয়া",
+      "b": "লুপের বর্তমান iteration শেষ করে পরবর্তী iteration শুরু করা",
+      "c": "প্রোগ্রাম শেষ করা",
+      "d": "ফাংশন থেকে বেরিয়ে যাওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "continue লুপের বাকি অংশ এড়িয়ে গিয়ে পরবর্তী iteration-এ চলে যায়।"
+  },
+  {
+    "id": 231,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[3] = {2,4,6};<br>    int *p = a;<br>    p++;<br>    printf(\"%d\", *p);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "অ্যাড্রেস"
+    },
+    "correct_answer": "b",
+    "explanation": "p প্রথমে a[0]-এর অ্যাড্রেস ধরে। p++ পরবর্তী ইনডেক্স (a[1])-এর অ্যাড্রেস নির্দেশ করে। *p = a[1] = 4।"
+  },
+  {
+    "id": 232,
+    "question": "নিচের কোনটি C তে 'structure' ডিক্লেয়ারের সঠিক সিনট্যাক্স?",
+    "options": {
+      "a": "struct student { char name[20]; int roll; };",
+      "b": "structure student { char name[20]; int roll; };",
+      "c": "struct student { char name[20]; int roll; }",
+      "d": "student struct { char name[20]; int roll; };"
+    },
+    "correct_answer": "a",
+    "explanation": "struct কীওয়ার্ড দিয়ে structure ডিক্লেয়ার করা হয়, এবং শেষে সেমিকোলন দিতে হয়।"
+  },
+  {
+    "id": 233,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i=0;<br>    do {<br>        i++;<br>        if(i==3) continue;<br>        printf(\"%d \", i);<br>    } while(i<5);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "1 2 4 5",
+      "b": "1 2 3 4 5",
+      "c": "1 2 4",
+      "d": "2 3 4 5"
+    },
+    "correct_answer": "a",
+    "explanation": "i=1: প্রিন্ট 1; i=2: প্রিন্ট 2; i=3: i++ (i=3), continue-এর কারণে প্রিন্ট হয় না, লুপ চালু; i=4: প্রিন্ট 4; i=5: প্রিন্ট 5; তারপর i=6? while(i<5) চেক, i=5 হলে i<5 মিথ্যা, লুপ শেষ। তাই আউটপুট 1 2 4 5।"
+  },
+  {
+    "id": 234,
+    "question": "নিচের কোনটি 'রিলেশনাল' অপারেটর?",
+    "options": {
+      "a": "=",
+      "b": "==",
+      "c": "&",
+      "d": "++"
+    },
+    "correct_answer": "b",
+    "explanation": "== সমতা পরীক্ষার রিলেশনাল অপারেটর। = অ্যাসাইনমেন্ট, & বিটওয়াইজ/অ্যাড্রেস, ++ ইনক্রিমেন্ট।"
+  },
+  {
+    "id": 235,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int arr[] = {1,2,3,4,5};<br>    int *ptr = arr + 4;<br>    printf(\"%d\", *ptr);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "1",
+      "d": "কম্পাইল এরর"
+    },
+    "correct_answer": "b",
+    "explanation": "arr+4 অ্যারের পঞ্চম উপাদানের (arr[4]) অ্যাড্রেস। *ptr = 5।"
+  },
+  {
+    "id": 236,
+    "question": "C প্রোগ্রামে 'fclose()' ফাংশনের কাজ কী?",
+    "options": {
+      "a": "ফাইল ওপেন করা",
+      "b": "ফাইল বন্ধ করা",
+      "c": "ফাইল থেকে পড়া",
+      "d": "ফাইলে লেখা"
+    },
+    "correct_answer": "b",
+    "explanation": "fclose() ফাইল বন্ধ করতে ব্যবহৃত হয়, যা ফাইল পয়েন্টার প্যারামিটার হিসেবে নেয়।"
+  },
+  {
+    "id": 237,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=5, y=10;<br>    int *px = &x, *py = &y;<br>    *px = *py;<br>    x = 20;<br>    printf(\"%d %d\", x, y);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "20 10",
+      "b": "10 10",
+      "c": "20 20",
+      "d": "10 20"
+    },
+    "correct_answer": "a",
+    "explanation": "*px = *py; অর্থাৎ x = y = 10। তারপর x = 20; y অপরিবর্তিত 10। তাই আউটপুট 20 10।"
+  },
+  {
+    "id": 238,
+    "question": "নিচের কোনটি 'টারনারি' অপারেটর?",
+    "options": {
+      "a": "?:",
+      "b": "&&",
+      "c": "||",
+      "d": "!"
+    },
+    "correct_answer": "a",
+    "explanation": "?: টারনারি (তিনটি অপারেন্ড) অপারেটর, শর্ত ? মান1 : মান2 আকারে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 239,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, n=4, sum=0;<br>    for(i=1; i<=n; i++)<br>        sum += i*i;<br>    printf(\"%d\", sum);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "30",
+      "b": "20",
+      "c": "55",
+      "d": "16"
+    },
+    "correct_answer": "a",
+    "explanation": "1^2+2^2+3^2+4^2 = 1+4+9+16 = 30।"
+  },
+  {
+    "id": 240,
+    "question": "C প্রোগ্রামে 'enum' কীওয়ার্ডের কাজ কী?",
+    "options": {
+      "a": "নামযুক্ত পূর্ণসংখ্যা ধ্রুবক তৈরি করা",
+      "b": "ফ্লোটিং পয়েন্ট সংখ্যা তৈরি করা",
+      "c": "স্ট্রিং তৈরি করা",
+      "d": "ফাংশন ডিফাইন করা"
+    },
+    "correct_answer": "a",
+    "explanation": "enum (enumerated type) ব্যবহার করে নামযুক্ত পূর্ণসংখ্যা ধ্রুবকের সেট তৈরি করা যায়।"
+  },
+  {
+    "id": 241,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int a[3][3] = {{1,2,3},{4,5,6},{7,8,9}};<br>    printf(\"%d\", *(*(a+1)+2));<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "8"
+    },
+    "correct_answer": "c",
+    "explanation": "*(a+1) দ্বিতীয় সারির অ্যাড্রেস, +2 তৃতীয় কলাম, *(*(a+1)+2) = a[1][2] = 6।"
+  },
+  {
+    "id": 242,
+    "question": "নিচের কোনটি 'প্রিপ্রসেসর ডিরেক্টিভ'?",
+    "options": {
+      "a": "#include",
+      "b": "#define",
+      "c": "#ifdef",
+      "d": "উপরের সবগুলো"
+    },
+    "correct_answer": "d",
+    "explanation": "# দিয়ে শুরু হওয়া সবগুলোই প্রিপ্রসেসর ডিরেক্টিভ।"
+  },
+  {
+    "id": 243,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=10, y=20, z=30;<br>    int *p[3] = {&x, &y, &z};<br>    printf(\"%d\", *p[2]);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "অ্যাড্রেস"
+    },
+    "correct_answer": "c",
+    "explanation": "p পয়েন্টার অ্যারে, p[2] = &z, *p[2] = z = 30।"
+  },
+  {
+    "id": 244,
+    "question": "C প্রোগ্রামে 'main()' ফাংশন সাধারণত কী রিটার্ন করে?",
+    "options": {
+      "a": "int",
+      "b": "float",
+      "c": "void",
+      "d": "char"
+    },
+    "correct_answer": "a",
+    "explanation": "স্ট্যান্ডার্ড C তে main() int রিটার্ন করে, যা প্রোগ্রামের exit status নির্দেশ করে।"
+  },
+  {
+    "id": 245,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int i, j;<br>    for(i=1; i<=3; i++)<br>        for(j=1; j<=3; j++)<br>            if(i==j)<br>                printf(\"%d\", i);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "123",
+      "b": "111",
+      "c": "123",
+      "d": "1 2 3"
+    },
+    "correct_answer": "a",
+    "explanation": "i=j হলে i (বা j) প্রিন্ট হবে: i=1,j=1→1; i=2,j=2→2; i=3,j=3→3। তাই আউটপুট 123 (পাশাপাশি)।"
+  },
+  {
+    "id": 246,
+    "question": "নিচের কোনটি 'অ্যারেটির আকার' (size of array) বের করার সঠিক পদ্ধতি?",
+    "options": {
+      "a": "sizeof(arr)",
+      "b": "sizeof(arr) / sizeof(arr[0])",
+      "c": "length(arr)",
+      "d": "arr.size()"
+    },
+    "correct_answer": "b",
+    "explanation": "C তে অ্যারের উপাদান সংখ্যা বের করতে sizeof(arr)/sizeof(arr[0]) ব্যবহার করা হয়। sizeof(arr) পুরো অ্যারের বাইট সাইজ দেয়।"
+  },
+  {
+    "id": 247,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int x=5;<br>    int y = x++ + ++x;<br>    printf(\"%d\", y);<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "10",
+      "b": "11",
+      "c": "12",
+      "d": "অনির্ধারিত (undefined behavior)"
+    },
+    "correct_answer": "d",
+    "explanation": "একই এক্সপ্রেশনে x-কে একাধিকবার modify করা undefined behavior। কম্পাইলারভেদে ভিন্ন ফল দিতে পারে।"
+  },
+  {
+    "id": 248,
+    "question": "C প্রোগ্রামে 'fread()' ফাংশনের কাজ কী?",
+    "options": {
+      "a": "ফাইল থেকে বাইনারি ডেটা পড়া",
+      "b": "ফাইলে টেক্সট লেখা",
+      "c": "ফাইল ওপেন করা",
+      "d": "ফাইল বন্ধ করা"
+    },
+    "correct_answer": "a",
+    "explanation": "fread() ফাইল থেকে বাইনারি ডেটা পড়ার জন্য ব্যবহৃত হয়।"
+  },
+  {
+    "id": 249,
+    "question": "উদ্দীপক:<br>#include &lt;stdio.h&gt;<br>int main() {<br>    int arr[5] = {10,20,30,40,50};<br>    int i;<br>    for(i=0; i<5; i++)<br>        if(*(arr+i) % 20 == 0)<br>            printf(\"%d \", *(arr+i));<br>    return 0;<br>}<br>উদ্দীপকের আউটপুট কী?",
+    "options": {
+      "a": "20 40",
+      "b": "10 30 50",
+      "c": "20 40",
+      "d": "10 20 30 40 50"
+    },
+    "correct_answer": "a",
+    "explanation": "*(arr+i) = arr[i]। 20 ও 40, 20 দিয়ে বিভাজ্য। তাই আউটপুট 20 40।"
+  },
+  {
+    "id": 250,
+    "question": "নিচের কোনটি C তে 'গ্লোবাল ভেরিয়েবল'-এর বৈশিষ্ট্য?",
+    "options": {
+      "a": "শুধু একটি ফাংশনে অ্যাক্সেসযোগ্য",
+      "b": "প্রোগ্রামের সব ফাংশনে অ্যাক্সেসযোগ্য",
+      "c": "ডিফল্ট মান 0 পায়",
+      "d": "b ও c উভয়ই"
+    },
+    "correct_answer": "d",
+    "explanation": "গ্লোবাল ভেরিয়েবল সব ফাংশনে অ্যাক্সেসযোগ্য এবং ডিফল্ট মান 0 (স্ট্যাটিক স্টোরেজ) পায়।"
   }
 
 
+
 ]
+
 
 
 

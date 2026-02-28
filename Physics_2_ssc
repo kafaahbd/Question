@@ -1,4 +1,4 @@
-```json
+
 [
   {
     "id": 1,
@@ -601,4 +601,3 @@
     "explanation": "$s = ut + \\frac{1}{2}at^2 \\implies 40 = u \\times 4 + \\frac{1}{2} \\times 5 \\times 16$ $\\implies 40 = 4u + 40 \\implies 4u = 0 \\implies u = 0$।"
   }
 ]
-```

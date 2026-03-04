@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "question": "Kazi Nazrul Islam is called the Shelley of Bengali literature. He was a (a) _____ (pre-modify the noun) poet.",
+    "options": {
+      "a": "rebellion",
+      "b": "rebelliously",
+      "c": "rebellious",
+      "d": "rebelled"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'rebellious' because an adjective is needed to pre-modify the noun 'poet'. এখানে noun-এর দোষ-গুণ বোঝাতে adjective হিসেবে 'rebellious' সঠিক।"
+  },
+  {
+    "id": 2,
+    "question": "He wrote (b) _____ (post-modify the verb) in every branch of Bengali literature.",
+    "options": {
+      "a": "almost",
+      "b": "rarely",
+      "c": "never",
+      "d": "slow"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'almost' because an adverb is used to post-modify the verb 'wrote'. এখানে কাজের ব্যাপ্তি বোঝাতে 'almost' (প্রায়) শব্দটি সঠিক ভাবে verb-কে modify করছে।"
+  },
+  {
+    "id": 3,
+    "question": "Nazrul, (c) _____ (use an appositive), won the attention of everyone in the early childhood.",
+    "options": {
+      "a": "is our national poet",
+      "b": "our national poet",
+      "c": "who is a poet",
+      "d": "was a rebel"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'our national poet' because an appositive is a noun phrase that identifies the person. Appositive হিসেবে noun phrase বসে, যার সাথে কোনো auxiliary verb (is/was) থাকে না।"
+  },
+  {
+    "id": 4,
+    "question": "He wrote ceaselessly until the death of (d) _____ (use possessive pronoun) poetic flair.",
+    "options": {
+      "a": "him",
+      "b": "he",
+      "c": "his",
+      "d": "himself"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'his' because a possessive pronoun is required before the noun phrase 'poetic flair'. মালিকানা বোঝাতে noun-এর আগে possessive adjective 'his' বসে।"
+  },
+  {
+    "id": 5,
+    "question": "He composed his songs (e) _____ (use an infinitive phrase to post-modify the verb).",
+    "options": {
+      "a": "to inspire the people",
+      "b": "inspiring the people",
+      "c": "for inspiring the people",
+      "d": "inspired the people"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to inspire the people' because an infinitive phrase starts with 'to + verb'. উদ্দেশ্য বোঝাতে verb-কে post-modify করতে infinitive phrase ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 6,
+    "question": "His songs are (f) _____ (use an intensifier to pre-modify the adjective) melodious.",
+    "options": {
+      "a": "much",
+      "b": "very",
+      "c": "enough",
+      "d": "mostly"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' because an intensifier increases the intensity of an adjective. 'Melodious' adjective-টির মাত্রা বাড়াতে intensifier হিসেবে 'very' বসেছে।"
+  },
+  {
+    "id": 7,
+    "question": "He enriched the Bengali literature (g) _____ (use an adverb to pre-modify the verb).",
+    "options": {
+      "a": "great",
+      "b": "greatest",
+      "c": "greatly",
+      "d": "greatness"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'greatly' because an adverb is needed to modify the verb 'enriched'. Verb-কে modify করার জন্য adjective-এর সাথে 'ly' যুক্ত হয়ে adverb গঠিত হয়েছে।"
+  },
+  {
+    "id": 8,
+    "question": "His literary works have enriched (h) _____ (use a noun adjective) literature.",
+    "options": {
+      "a": "Bengali",
+      "b": "Bengal",
+      "c": "Bengals",
+      "d": "In Bengal"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'Bengali' because it acts as a noun adjective modifying the noun 'literature'. যখন একটি noun অন্য একটি noun-কে modify করে, তাকে noun adjective বলে।"
+  },
+  {
+    "id": 9,
+    "question": "He was (i) _____ (use an article) secular poet.",
+    "options": {
+      "a": "an",
+      "b": "a",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'a' because 'secular' starts with a consonant sound. সাধারণ একজন কবি বোঝাতে এবং 's' consonant হওয়ায় article 'a' বসেছে।"
+  },
+  {
+    "id": 10,
+    "question": "He sang the songs of equality (j) _____ (use an adverbial phrase).",
+    "options": {
+      "a": "in this way",
+      "b": "everywhere",
+      "c": "loudly",
+      "d": "always"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'in this way' because it is an adverbial phrase describing how he sang. একাধিক শব্দের সমন্বয়ে গঠিত phrase যা adverb-এর কাজ করে, তাকে adverbial phrase বলে।"
+  },
+  {
+    "id": 11,
+    "question": "Rabindranath Tagore was a (a) _____ (pre-modify the noun) poet of Bengali literature.",
+    "options": {
+      "a": "renown",
+      "b": "renowndly",
+      "c": "renowned",
+      "d": "renowning"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'renowned' because it is an adjective that pre-modifies 'poet'. প্রখ্যাত বোঝাতে adjective হিসেবে 'renowned' সঠিক।"
+  },
+  {
+    "id": 12,
+    "question": "He was born in a (b) _____ (pre-modify the noun) family at Jorasanko, Kolkata.",
+    "options": {
+      "a": "nobly",
+      "b": "nobleness",
+      "c": "noble",
+      "d": "nobility"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'noble' because it is an adjective modifying the noun 'family'. একটি সম্ভ্রান্ত পরিবার বোঝাতে 'noble' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 13,
+    "question": "He went to school (c) _____ (post-modify the verb).",
+    "options": {
+      "a": "early",
+      "b": "earliness",
+      "c": "earlier",
+      "d": "more early"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'early' because an adverb of time is needed to post-modify the verb 'went'. স্কুলে যাওয়ার সময় বোঝাতে এখানে 'early' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 14,
+    "question": "He wrote his (d) _____ (pre-modify the noun) verse at the age of eight.",
+    "options": {
+      "a": "one",
+      "b": "firstly",
+      "c": "first",
+      "d": "once"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'first' because an ordinal adjective is needed to pre-modify 'verse'. প্রথম কবিতা বোঝাতে 'first' সঠিক।"
+  },
+  {
+    "id": 15,
+    "question": "At the age of seventeen, he went to London (e) _____ (post-modify the verb with an infinitive) school there.",
+    "options": {
+      "a": "attending",
+      "b": "to attend",
+      "c": "attended",
+      "d": "for attending"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'to attend' because an infinitive (to + verb) expresses purpose. লন্ডনে যাওয়ার উদ্দেশ্য বোঝাতে infinitive ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 16,
+    "question": "He was put up in a lodging house under the care of a (f) _____ (pre-modify the noun) coach, Mr. Scott.",
+    "options": {
+      "a": "professionally",
+      "b": "profession",
+      "c": "professional",
+      "d": "professor"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'professional' because it is an adjective modifying 'coach'. কোচের ধরণ বোঝাতে adjective হিসেবে 'professional' সঠিক।"
+  },
+  {
+    "id": 17,
+    "question": "He was lucky (g) _____ (post modify the adjective with an infinitive) an English family of Mr. Scott.",
+    "options": {
+      "a": "to find",
+      "b": "finding",
+      "c": "to be found",
+      "d": "found"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to find' because 'lucky' is followed by an infinitive to complete the meaning. Adjective-এর পরে তার কারণ বা ফল বোঝাতে infinitive বসে।"
+  },
+  {
+    "id": 18,
+    "question": "He also visited the house of Parliament (h) _____ (post-modify the verb with an infinitive) Gladstone and John Bright’s debates.",
+    "options": {
+      "a": "listening",
+      "b": "to listen to",
+      "c": "listened to",
+      "d": "for listening"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'to listen to' because an infinitive post-modifies the verb 'visited' to show purpose. বিতর্ক শোনার উদ্দেশ্যে পার্লামেন্টে গিয়েছিলেন, তাই 'to listen to' সঠিক।"
+  },
+  {
+    "id": 19,
+    "question": "He wrote letters to Kolkata (i) _____ (post-modify the verb with a present participle) English society.",
+    "options": {
+      "a": "admired",
+      "b": "admiration",
+      "c": "admiring",
+      "d": "to admire"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'admiring' because a present participle (verb+ing) describes a simultaneous action. প্রশংসা করতে করতে চিঠি লিখেছিলেন, তাই present participle সঠিক।"
+  },
+  {
+    "id": 20,
+    "question": "At this, his family thought that they might lose their son (j) _____ (post-modify the verb).",
+    "options": {
+      "a": "forever",
+      "b": "shortly",
+      "c": "always",
+      "d": "everyday"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'forever' because an adverb of time is needed. ছেলেকে চিরতরে হারানোর ভয় বোঝাতে 'forever' সঠিক।"
+  },
+  {
+    "id": 21,
+    "question": "It was a hot (a) _____ (use a noun adjective to pre-modify the noun) day.",
+    "options": {
+      "a": "summers",
+      "b": "summerly",
+      "c": "summer",
+      "d": "sun"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'summer' because it is a noun functioning as an adjective to modify 'day'. ঋতুর নাম দিয়ে দিনটিকে নির্দিষ্ট করা হয়েছে।"
+  },
+  {
+    "id": 22,
+    "question": "A (b) _____ (pre-modify the noun) crow flew all over the fields looking for water.",
+    "options": {
+      "a": "thirst",
+      "b": "thirstily",
+      "c": "thirsty",
+      "d": "thirstiness"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'thirsty' because an adjective is needed to describe the state of the crow. কাকটি কেমন ছিল তা বোঝাতে 'thirsty' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 23,
+    "question": "She felt (c) _____ (use an intensifier to pre-modify the adjective) weak.",
+    "options": {
+      "a": "enough",
+      "b": "very",
+      "c": "total",
+      "d": "not"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' because it intensifies the adjective 'weak'. দুর্বলতার মাত্রা বোঝাতে intensifier 'very' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 24,
+    "question": "She flew (d) _____ (post-modify the verb) to see if there was any water inside.",
+    "options": {
+      "a": "quick",
+      "b": "quickly",
+      "c": "quicker",
+      "d": "quickness"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'quickly' because an adverb is needed to modify the verb 'flew'. ওড়ার ধরণ বোঝাতে adverb ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 25,
+    "question": "The crow tried (e) _____ (use an infinitive phrase to post-modify the verb).",
+    "options": {
+      "a": "drinking water",
+      "b": "to drink water",
+      "c": "for drinking water",
+      "d": "to drank water"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'to drink water' because an infinitive phrase (to + verb + object) is used as a post-modifier. কাকটি পানি পান করার চেষ্টা করেছিল।"
+  },
+  {
+    "id": 26,
+    "question": "But she found (f) _____ (use a demonstrative to pre-modify the noun) jug was too heavy.",
+    "options": {
+      "a": "this",
+      "b": "that",
+      "c": "those",
+      "d": "these"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'that' because it is a demonstrative pronoun pointing to a specific distant object (the jug). নির্দিষ্ট কলসটিকে বোঝাতে 'that' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 27,
+    "question": "The crow thought (g) _____ (use a phrase to post-modify the verb) what to do.",
+    "options": {
+      "a": "for a while",
+      "b": "deeply",
+      "c": "quickly",
+      "d": "for time"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'for a while' because it is a prepositional phrase acting as an adverb to post-modify 'thought'. কিছু সময় চিন্তা করা বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 28,
+    "question": "(h) _____ (use a participle to pre-modify the verb), she saw some pebbles nearby.",
+    "options": {
+      "a": "Looking around",
+      "b": "Looked around",
+      "c": "To look around",
+      "d": "By looking around"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'Looking around' because a present participle is used to describe an action happening at the same time as the main verb. চারপাশে তাকিয়ে সে নুড়ি দেখতে পেল।"
+  },
+  {
+    "id": 29,
+    "question": "She (i) _____ (pre-modify the verb) had a good idea.",
+    "options": {
+      "a": "finally",
+      "b": "final",
+      "c": "finality",
+      "d": "last"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'finally' because an adverb is needed to modify the verb 'had'. সবশেষে একটি বুদ্ধি পেল, তাই 'finally' সঠিক।"
+  },
+  {
+    "id": 30,
+    "question": "Soon it was high (j) _____ (post-modify the adjective) for the crow to drink.",
+    "options": {
+      "a": "very",
+      "b": "too",
+      "c": "enough",
+      "d": "much"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'enough' because it is an adverb that post-modifies the adjective 'high'. পানি পান করার জন্য যথেষ্ট উঁচু হয়েছে বোঝাতে adjective-এর পরে 'enough' বসে।"
+  },
+  {
+    "id": 31,
+    "question": "Water is a (a) _____ (pre-modify the noun) substance.",
+    "options": {
+      "a": "liquid",
+      "b": "liquidity",
+      "c": "liquified",
+      "d": "liquids"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'liquid' because it is an adjective describing the noun 'substance'. পানির প্রকৃতি বোঝাতে 'liquid' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 32,
+    "question": "It has no colour of (b) _____ (possessive to pre-modify) own.",
+    "options": {
+      "a": "his",
+      "b": "her",
+      "c": "its",
+      "d": "their"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'its' because it is the possessive form of the pronoun 'it' referring to water. বস্তুবাচক 'water'-এর possessive হিসেবে 'its' বসে।"
+  },
+  {
+    "id": 33,
+    "question": "The (c) _____ (determiner to pre-modify the noun) name of water is life.",
+    "options": {
+      "a": "other",
+      "b": "others",
+      "c": "another",
+      "d": "second"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'other' because it is a determiner modifying 'name'. পানির অপর নাম বোঝাতে 'other' সঠিক।"
+  },
+  {
+    "id": 34,
+    "question": "By drinking water, we can quench (d) _____ (possessive to pre-modify the noun) thirst.",
+    "options": {
+      "a": "ours",
+      "b": "our",
+      "c": "us",
+      "d": "we"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'our' because a possessive adjective is needed before the noun 'thirst'. আমাদের তৃষ্ণা বোঝাতে 'our' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 35,
+    "question": "But (e) _____ (pre-modify the noun) water is life killing.",
+    "options": {
+      "a": "purify",
+      "b": "pure",
+      "c": "contaminated",
+      "d": "clean"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'contaminated' because an adjective is needed to describe which kind of water is harmful. দূষিত পানি বোঝাতে 'contaminated' সঠিক।"
+  },
+  {
+    "id": 36,
+    "question": "We may (f) _____ (pre-modify the verb) face death by drinking such type of water.",
+    "options": {
+      "a": "easy",
+      "b": "easily",
+      "c": "easiness",
+      "d": "easier"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'easily' because an adverb modifies the verb 'face'. সহজেই মৃত্যুর মুখোমুখি হতে পারি বোঝাতে adverb ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 37,
+    "question": "We may face (g) _____ (pre-modify the noun) death by drinking such type of water.",
+    "options": {
+      "a": "pre-mature",
+      "b": "maturing",
+      "c": "pre-maturely",
+      "d": "maturity"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'pre-mature' because an adjective is needed to modify the noun 'death'. অকাল মৃত্যু বোঝাতে adjective 'pre-mature' সঠিক।"
+  },
+  {
+    "id": 38,
+    "question": "We are responsible for (h) _____ (noun adjective to pre-modify the noun) pollution.",
+    "options": {
+      "a": "polluted",
+      "b": "water",
+      "c": "dirty",
+      "d": "air"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'water' because it is a noun functioning as an adjective to modify 'pollution'. পানি দূষণ বোঝাতে noun adjective হিসেবে 'water' বসেছে।"
+  },
+  {
+    "id": 39,
+    "question": "Besides, latrines (i) _____ (participle to post-modify the noun) on ponds and rivers cause water pollution.",
+    "options": {
+      "a": "standing",
+      "b": "stand",
+      "c": "stood",
+      "d": "to stand"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'standing' because a present participle post-modifies the noun 'latrines'. পুকুরের ওপর অবস্থিত বা ঝুলন্ত ল্যাট্রিন বোঝাতে 'standing' সঠিক।"
+  },
+  {
+    "id": 40,
+    "question": "(j) _____ (pre-modify the noun) awareness should be raised to stop water pollution.",
+    "options": {
+      "a": "Public",
+      "b": "Publicly",
+      "c": "People",
+      "d": "Publish"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'Public' because it is an adjective modifying the noun 'awareness'. জনসচেতনতা বোঝাতে 'Public awareness' সঠিক।"
+  },
+  {
+    "id": 41,
+    "question": "Arsenic is a (a) _____ (pre-modify the noun) substance. It is dangerous for health.",
+    "options": {
+      "a": "poison",
+      "b": "poisonous",
+      "c": "poisoning",
+      "d": "poisonously"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'poisonous' because an adjective is needed to pre-modify the noun 'substance'. আর্সেনিক একটি বিষাক্ত পদার্থ, তাই adjective 'poisonous' সঠিক।"
+  },
+  {
+    "id": 42,
+    "question": "People (b) _____ (post-modify the noun with a present participle phrase) contaminated water suffer from arsenicosis.",
+    "options": {
+      "a": "drink",
+      "b": "drank",
+      "c": "drinking",
+      "d": "to drink"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'drinking' because a present participle phrase acts as an adjective to modify 'People'. যারা দূষিত পানি পান করছে তাদের বোঝাতে 'drinking' সঠিক।"
+  },
+  {
+    "id": 43,
+    "question": "This problem is (c) _____ (pre-modify the adjective with an intensifier) found in North Bengal.",
+    "options": {
+      "a": "mostly",
+      "b": "very",
+      "c": "enough",
+      "d": "greatly"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'mostly' because it intensifies the frequency of the problem. উত্তরবঙ্গে এই সমস্যাটি প্রধানত বা বেশি দেখা যায় বোঝাতে 'mostly' সঠিক।"
+  },
+  {
+    "id": 44,
+    "question": "We should take steps (d) _____ (post-modify the verb with an infinitive phrase) this problem.",
+    "options": {
+      "a": "for stopping",
+      "b": "to stop",
+      "c": "stopping",
+      "d": "stopped"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'to stop' because an infinitive phrase expresses the purpose of taking steps. সমস্যাটি বন্ধ করার উদ্দেশ্যে পদক্ষেপ নেওয়া বোঝাতে 'to stop' সঠিক।"
+  },
+  {
+    "id": 45,
+    "question": "Education is the (a) _____ (pre-modify the noun) tool for development.",
+    "options": {
+      "a": "power",
+      "b": "powerful",
+      "c": "powerfully",
+      "d": "powering"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'powerful' because an adjective is required to modify 'tool'. শক্তিশালী হাতিয়ার বোঝাতে adjective 'powerful' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 46,
+    "question": "A (b) _____ (pre-modify the noun) man is an asset to the country.",
+    "options": {
+      "a": "learn",
+      "b": "learned",
+      "c": "learning",
+      "d": "learnedly"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'learned' because the past participle 'learned' acts as an adjective. একজন শিক্ষিত মানুষ দেশের সম্পদ, এখানে 'learned' adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 47,
+    "question": "He can contribute (c) _____ (post-modify the verb with an adverb) to the society.",
+    "options": {
+      "a": "great",
+      "b": "greater",
+      "c": "greatly",
+      "d": "greatness"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'greatly' because an adverb modifies the verb 'contribute'. সমাজে বড় অবদান রাখা বোঝাতে adverb 'greatly' সঠিক।"
+  },
+  {
+    "id": 48,
+    "question": "Knowledge, (d) _____ (use an appositive), is the main goal of education.",
+    "options": {
+      "a": "which is power",
+      "b": "a power",
+      "c": "the power",
+      "d": "is power"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'the power' because an appositive is a noun phrase that gives extra information about 'Knowledge'. জ্ঞানই শক্তি বোঝাতে appositive 'the power' সঠিক।"
+  },
+  {
+    "id": 49,
+    "question": "We must study (e) _____ (post-modify the verb) to gain knowledge.",
+    "options": {
+      "a": "attentively",
+      "b": "attentive",
+      "c": "attention",
+      "d": "more attentive"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'attentively' because an adverb describes how the action of studying should be done. মনোযোগ দিয়ে পড়া বোঝাতে 'attentively' সঠিক।"
+  },
+  {
+    "id": 50,
+    "question": "An (f) _____ (pre-modify the noun) person can distinguish between right and wrong.",
+    "options": {
+      "a": "educate",
+      "b": "education",
+      "c": "educated",
+      "d": "educating"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'educated' because it is a past participle used as an adjective for 'person'. শিক্ষিত ব্যক্তি বোঝাতে 'educated' সঠিক।"
+  },
+  {
+    "id": 51,
+    "question": "Village life is (a) _____ (pre-modify the adjective with an intensifier) peaceful.",
+    "options": {
+      "a": "enough",
+      "b": "very",
+      "c": "much",
+      "d": "so as"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' because an intensifier is used to increase the strength of 'peaceful'. খুব শান্ত বোঝাতে intensifier 'very' সঠিক।"
+  },
+  {
+    "id": 52,
+    "question": "People living in villages are (b) _____ (pre-modify the noun) people.",
+    "options": {
+      "a": "simple",
+      "b": "simply",
+      "c": "simplicity",
+      "d": "simpler"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'simple' because an adjective is needed to describe the noun 'people'. সহজ-সরল মানুষ বোঝাতে adjective 'simple' সঠিক।"
+  },
+  {
+    "id": 53,
+    "question": "They work (c) _____ (post-modify the verb) in the fields.",
+    "options": {
+      "a": "hardly",
+      "b": "hard",
+      "c": "harder",
+      "d": "hardness"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'hard' because it is an adverb (flat adverb) modifying the verb 'work'. তারা কঠোর পরিশ্রম করে, এখানে 'hard' সঠিক।"
+  },
+  {
+    "id": 54,
+    "question": "They lead a (d) _____ (pre-modify the noun with a noun adjective) life.",
+    "options": {
+      "a": "village",
+      "b": "villager",
+      "c": "villages",
+      "d": "rural"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'village' because a noun is being used as an adjective to modify 'life'. গ্রামীণ জীবন বোঝাতে 'village life' সঠিক।"
+  },
+  {
+    "id": 55,
+    "question": "The scenery of a village is (e) _____ (pre-modify the adjective with an intensifier) charming.",
+    "options": {
+      "a": "too",
+      "b": "very",
+      "c": "enough",
+      "d": "not"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' because it intensifies the adjective 'charming'. চমৎকার দৃশ্য বোঝাতে intensifier 'very' সঠিক।"
+  },
+  {
+    "id": 56,
+    "question": "Most of the villagers are (f) _____ (pre-modify the noun) farmers.",
+    "options": {
+      "a": "poor",
+      "b": "poorly",
+      "c": "poverty",
+      "d": "poorer"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'poor' because an adjective is needed to pre-modify the noun 'farmers'. দরিদ্র কৃষক বোঝাতে adjective 'poor' সঠিক।"
+  },
+  {
+    "id": 57,
+    "question": "They do not have (g) _____ (pre-modify the noun with a determiner) land of their own.",
+    "options": {
+      "a": "many",
+      "b": "much",
+      "c": "any",
+      "d": "few"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'much' because 'land' is an uncountable noun. পর্যাপ্ত জমি নেই বোঝাতে 'much' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 58,
+    "question": "A village doctor is a (a) _____ (pre-modify the noun) person in the village.",
+    "options": {
+      "a": "familiar",
+      "b": "familiarly",
+      "c": "familiarity",
+      "d": "familiars"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'familiar' because it is an adjective that pre-modifies 'person'. পরিচিত ব্যক্তি বোঝাতে 'familiar' সঠিক।"
+  },
+  {
+    "id": 59,
+    "question": "He is not a (b) _____ (pre-modify the noun) doctor.",
+    "options": {
+      "a": "qualify",
+      "b": "qualification",
+      "c": "qualified",
+      "d": "qualifying"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'qualified' because it is a past participle adjective. তিনি একজন স্বীকৃত ডাক্তার নন, তাই 'qualified' সঠিক।"
+  },
+  {
+    "id": 60,
+    "question": "He has a (c) _____ (pre-modify the noun with a noun adjective) shop.",
+    "options": {
+      "a": "medicine",
+      "b": "medicinal",
+      "c": "medical",
+      "d": "medicines"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'medicine' because it acts as a noun adjective for 'shop'. ওষুধের দোকান বোঝাতে 'medicine shop' সঠিক।"
+  },
+  {
+    "id": 61,
+    "question": "He sits there (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "daily",
+      "b": "day",
+      "c": "daylight",
+      "d": "every days"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'daily' because an adverb of frequency is needed. প্রতিদিন বসেন বোঝাতে adverb 'daily' সঠিক।"
+  },
+  {
+    "id": 62,
+    "question": "He treats the patients (e) _____ (post-modify the verb with a present participle phrase).",
+    "options": {
+      "a": "to take small fees",
+      "b": "taking small fees",
+      "c": "took small fees",
+      "d": "by small fees"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'taking small fees' because a present participle phrase describes the manner of treatment. অল্প ফি নিয়ে চিকিৎসা করা বোঝাতে 'taking' সঠিক।"
+  },
+  {
+    "id": 63,
+    "question": "His (f) _____ (pre-modify the noun with a possessive) contribution is great.",
+    "options": {
+      "a": "him",
+      "b": "he",
+      "c": "his",
+      "d": "himself"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'his' because a possessive adjective is needed before 'contribution'. তার অবদান বোঝাতে 'his' সঠিক।"
+  },
+  {
+    "id": 64,
+    "question": "A village doctor is (g) _____ (pre-modify the adjective with an intensifier) helpful.",
+    "options": {
+      "a": "very",
+      "b": "too",
+      "c": "enough",
+      "d": "not"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies the adjective 'helpful'. খুব সাহায্যকারী বোঝাতে 'very' সঠিক।"
+  },
+  {
+    "id": 65,
+    "question": "Television is a (a) _____ (pre-modify the noun) source of entertainment.",
+    "options": {
+      "a": "popularly",
+      "b": "popular",
+      "c": "popularity",
+      "d": "popularize"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'popular' because it is an adjective modifying the noun 'source'. জনপ্রিয় উৎস বোঝাতে 'popular' সঠিক।"
+  },
+  {
+    "id": 66,
+    "question": "It broadcasts (b) _____ (pre-modify the noun) programs.",
+    "options": {
+      "a": "various",
+      "b": "variously",
+      "c": "variety",
+      "d": "variations"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'various' because it is an adjective modifying 'programs'. বিভিন্ন ধরণের অনুষ্ঠান বোঝাতে 'various' সঠিক।"
+  },
+  {
+    "id": 67,
+    "question": "People of (c) _____ (pre-modify the noun with a determiner) ages enjoy it.",
+    "options": {
+      "a": "every",
+      "b": "all",
+      "c": "each",
+      "d": "any"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'all' because it is a determiner modifying the plural noun 'ages'. সব বয়সের মানুষ বোঝাতে 'all' সঠিক।"
+  },
+  {
+    "id": 68,
+    "question": "We can learn many things (d) _____ (post-modify the verb with a prepositional phrase).",
+    "options": {
+      "a": "by watching it",
+      "b": "to watch it",
+      "c": "watching it",
+      "d": "from it"
+    },
+    "correct_answer": "d",
+    "explanation": "Correct answer is 'from it' because it is a prepositional phrase showing the source. টেলিভিশন থেকে শেখা বোঝাতে 'from it' সঠিক।"
+  },
+  {
+    "id": 69,
+    "question": "Television, (e) _____ (use an appositive), has made the world smaller.",
+    "options": {
+      "a": "is a wonder of science",
+      "b": "a wonder of science",
+      "c": "which is a wonder",
+      "d": "wonderful science"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'a wonder of science' because it is a noun phrase identifying 'Television'. বিজ্ঞানের এক বিস্ময় বোঝাতে appositive ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 70,
+    "question": "However, watching television (f) _____ (post-modify the verb with an adverb) is harmful.",
+    "options": {
+      "a": "excess",
+      "b": "excessive",
+      "c": "excessively",
+      "d": "excessiveness"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'excessively' because an adverb is needed to modify the gerund/verb 'watching'. অতিরিক্ত দেখা বোঝাতে 'excessively' সঠিক।"
+  },
+  {
+    "id": 71,
+    "question": "Children are (g) _____ (pre-modify the adjective with an intensifier) fond of cartoons.",
+    "options": {
+      "a": "very",
+      "b": "much",
+      "c": "enough",
+      "d": "so"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies the adjective 'fond'. কার্টুনের প্রতি খুব অনুরাগী বোঝাতে 'very' সঠিক।"
+  },
+  {
+    "id": 72,
+    "question": "A balanced diet is (a) _____ (pre-modify the noun) for health.",
+    "options": {
+      "a": "essence",
+      "b": "essential",
+      "c": "essentially",
+      "d": "essentials"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'essential' because an adjective is needed as a complement. সুষম খাবার স্বাস্থ্যের জন্য অপরিহার্য, তাই 'essential' সঠিক।"
+  },
+  {
+    "id": 73,
+    "question": "We should eat (b) _____ (pre-modify the noun with a quantifier) vegetables.",
+    "options": {
+      "a": "many",
+      "b": "much",
+      "c": "a lot",
+      "d": "plenty of"
+    },
+    "correct_answer": "d",
+    "explanation": "Correct answer is 'plenty of' because it acts as a quantifier for countable nouns like vegetables. প্রচুর শাকসবজি বোঝাতে 'plenty of' সঠিক।"
+  },
+  {
+    "id": 74,
+    "question": "Vegetables contain (c) _____ (pre-modify the noun) vitamins.",
+    "options": {
+      "a": "different",
+      "b": "differently",
+      "c": "difference",
+      "d": "differ"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'different' because an adjective modifies the noun 'vitamins'. বিভিন্ন ভিটামিন বোঝাতে adjective 'different' সঠিক।"
+  },
+  {
+    "id": 75,
+    "question": "We need to drink (d) _____ (pre-modify the noun) water.",
+    "options": {
+      "a": "purely",
+      "b": "pure",
+      "c": "purify",
+      "d": "purity"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'pure' because an adjective is needed to modify the noun 'water'. বিশুদ্ধ পানি বোঝাতে 'pure' সঠিক।"
+  },
+  {
+    "id": 76,
+    "question": "Drinking (e) _____ (pre-modify the noun) water is risky.",
+    "options": {
+      "a": "impure",
+      "b": "impurely",
+      "c": "impurity",
+      "d": "impureness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'impure' because an adjective is needed for the noun 'water'. অশুদ্ধ পানি বোঝাতে 'impure' সঠিক।"
+  },
+  {
+    "id": 77,
+    "question": "A (f) _____ (pre-modify the noun with a present participle) child needs more protein.",
+    "options": {
+      "a": "grow",
+      "b": "grown",
+      "c": "growing",
+      "d": "growth"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'growing' because a present participle describes an ongoing state of the noun. বর্ধনশীল শিশু বোঝাতে 'growing' সঠিক।"
+  },
+  {
+    "id": 78,
+    "question": "Health is wealth, (g) _____ (use an appositive), which everyone should remember.",
+    "options": {
+      "a": "a proverb",
+      "b": "is a proverb",
+      "c": "which is a proverb",
+      "d": "proverbial"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a proverb' because an appositive is a noun phrase that explains the previous statement. একটি প্রবাদ বোঝাতে appositive হিসেবে 'a proverb' সঠিক।"
+  },
+  {
+    "id": 79,
+    "question": "The Taj Mahal, (a) _____ (use an appositive), is a beautiful building.",
+    "options": {
+      "a": "one of the wonders",
+      "b": "which is a wonder",
+      "c": "is a wonder",
+      "d": "a wonder of the world"
+    },
+    "correct_answer": "d",
+    "explanation": "Correct answer is 'a wonder of the world' because it is a noun phrase identifying the Taj Mahal. বিশ্বের এক বিস্ময় বোঝাতে appositive সঠিক।"
+  },
+  {
+    "id": 80,
+    "question": "It was built (b) _____ (post-modify the verb with a prepositional phrase) marble.",
+    "options": {
+      "a": "with white",
+      "b": "of white",
+      "c": "by white",
+      "d": "for white"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'of white' (or 'with white') because it shows the material. সাদা মার্বেল পাথর দিয়ে তৈরি বোঝাতে 'of white marble' সঠিক।"
+  },
+  {
+    "id": 81,
+    "question": "Shah Jahan built it (c) _____ (post-modify the verb with an infinitive phrase) his wife.",
+    "options": {
+      "a": "to remember",
+      "b": "remembering",
+      "c": "for remembering",
+      "d": "to remembered"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to remember' because an infinitive shows the purpose of the action. স্ত্রীকে স্মরণ করার জন্য এটি তৈরি করেছিলেন।"
+  },
+  {
+    "id": 82,
+    "question": "It looks (d) _____ (pre-modify the adjective with an intensifier) beautiful on a moonlit night.",
+    "options": {
+      "a": "enough",
+      "b": "very",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' because an intensifier is needed to modify 'beautiful'. খুব সুন্দর দেখায় বোঝাতে 'very' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 83,
+    "question": "Many (e) _____ (pre-modify the noun) tourists visit it every year.",
+    "options": {
+      "a": "foreign",
+      "b": "foreignly",
+      "c": "foreigner",
+      "d": "foreigners"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'foreign' because an adjective is needed to modify 'tourists'. বিদেশী পর্যটক বোঝাতে 'foreign' সঠিক।"
+  },
+  {
+    "id": 84,
+    "question": "It is (f) _____ (use an article) unique monument.",
+    "options": {
+      "a": "an",
+      "b": "a",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'a' because 'unique' starts with a consonant sound (yoo). 'U' এর উচ্চারণ 'ইউ' এর মতো হলে article 'a' বসে।"
+  },
+  {
+    "id": 85,
+    "question": "We should preserve (g) _____ (use a demonstrative to pre-modify the noun) site.",
+    "options": {
+      "a": "this",
+      "b": "that",
+      "c": "those",
+      "d": "these"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'this' because it is a demonstrative pointing to the Taj Mahal. এই স্থানটি বোঝাতে 'this' সঠিক।"
+  },
+  {
+    "id": 86,
+    "question": "Cricket is a (a) _____ (pre-modify the noun) game.",
+    "options": {
+      "a": "popularly",
+      "b": "popular",
+      "c": "popularity",
+      "d": "popularize"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'popular' because an adjective is needed to modify 'game'. জনপ্রিয় খেলা বোঝাতে adjective 'popular' সঠিক।"
+  },
+  {
+    "id": 87,
+    "question": "It is (b) _____ (pre-modify the adjective with an intensifier) exciting.",
+    "options": {
+      "a": "very",
+      "b": "much",
+      "c": "enough",
+      "d": "too"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies the adjective 'exciting'. খুব উত্তেজনাপূর্ণ বোঝাতে 'very' সঠিক।"
+  },
+  {
+    "id": 88,
+    "question": "The (c) _____ (pre-modify the noun with a noun adjective) match was held yesterday.",
+    "options": {
+      "a": "cricket",
+      "b": "cricketer",
+      "c": "cricketing",
+      "d": "crickets"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'cricket' because it is a noun functioning as an adjective for 'match'. ক্রিকেট ম্যাচ বোঝাতে 'cricket match' সঠিক।"
+  },
+  {
+    "id": 89,
+    "question": "The spectators (d) _____ (post-modify the noun with a present participle phrase) in the gallery were happy.",
+    "options": {
+      "a": "sitting",
+      "b": "sat",
+      "c": "sit",
+      "d": "to sit"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'sitting' because a present participle describes the state of the spectators. গ্যালারিতে বসে থাকা দর্শকরা বোঝাতে 'sitting' সঠিক।"
+  },
+  {
+    "id": 90,
+    "question": "They cheered (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "loud",
+      "b": "loudly",
+      "c": "loudness",
+      "d": "loudest"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'loudly' because an adverb modifies the verb 'cheered'. চিৎকার করে আনন্দ করা বোঝাতে adverb 'loudly' সঠিক।"
+  },
+  {
+    "id": 91,
+    "question": "The (f) _____ (pre-modify the noun with a possessive) team won the match.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "ours",
+      "d": "we"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' because a possessive adjective is needed before 'team'. আমাদের দল বোঝাতে 'our' সঠিক।"
+  },
+  {
+    "id": 92,
+    "question": "It was (g) _____ (use an article) interesting match.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'an' because 'interesting' starts with a vowel sound. একটি মজার ম্যাচ বোঝাতে article 'an' সঠিক।"
+  },
+  {
+    "id": 93,
+    "question": "Mobile phone is a (a) _____ (pre-modify the noun) invention.",
+    "options": {
+      "a": "modern",
+      "b": "modernly",
+      "c": "modernize",
+      "d": "modernity"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'modern' because an adjective is needed to modify 'invention'. আধুনিক উদ্ভাবন বোঝাতে adjective 'modern' সঠিক।"
+  },
+  {
+    "id": 94,
+    "question": "It has (b) _____ (pre-modify the noun with a determiner) advantages.",
+    "options": {
+      "a": "much",
+      "b": "many",
+      "c": "any",
+      "d": "little"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'many' because 'advantages' is a plural countable noun. অনেক সুবিধা বোঝাতে 'many' সঠিক।"
+  },
+  {
+    "id": 95,
+    "question": "We can communicate (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "easy",
+      "b": "easily",
+      "c": "easiness",
+      "d": "easier"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'easily' because an adverb modifies 'communicate'. সহজে যোগাযোগ করা বোঝাতে 'easily' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 96,
+    "question": "But it has some (d) _____ (pre-modify the noun) effects too.",
+    "options": {
+      "a": "harmful",
+      "b": "harm",
+      "c": "harmfully",
+      "d": "harmless"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'harmful' because an adjective is needed for 'effects'. ক্ষতিকর প্রভাব বোঝাতে adjective 'harmful' সঠিক।"
+  },
+  {
+    "id": 97,
+    "question": "Children (e) _____ (post-modify the noun with a present participle phrase) mobile phones for long hours may suffer.",
+    "options": {
+      "a": "use",
+      "b": "used",
+      "c": "using",
+      "d": "to use"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'using' because it is a present participle modifying 'Children'. মোবাইল ফোন ব্যবহারকারী শিশুরা বোঝাতে 'using' সঠিক।"
+  },
+  {
+    "id": 98,
+    "question": "It is (f) _____ (pre-modify the adjective with an intensifier) useful in our daily life.",
+    "options": {
+      "a": "very",
+      "b": "much",
+      "c": "enough",
+      "d": "too"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies 'useful'. খুব উপকারী বোঝাতে 'very' সঠিক।"
+  },
+  {
+    "id": 99,
+    "question": "The (g) _____ (pre-modify the noun with a noun adjective) users are increasing.",
+    "options": {
+      "a": "phone",
+      "b": "phones",
+      "c": "phoning",
+      "d": "user"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'phone' because it acts as a noun adjective for 'users'. ফোন ব্যবহারকারী বোঝাতে 'phone users' সঠিক।"
+  },
+  {
+    "id": 100,
+    "question": "We must use it (h) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "proper",
+      "b": "properly",
+      "c": "properness",
+      "d": "properly"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'properly' because an adverb modifies the verb 'use'. সঠিক ভাবে ব্যবহার করা বোঝাতে adverb 'properly' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 101,
+    "question": "A forest is (a) _____ (pre-modify the noun) place where various trees grow together.",
+    "options": {
+      "a": "density",
+      "b": "densely",
+      "c": "dense",
+      "d": "denser"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'dense' because an adjective is needed to modify 'place'. এখানে 'dense' (ঘন) শব্দটি adjective হিসেবে 'place' noun-টিকে modify করছে।"
+  },
+  {
+    "id": 102,
+    "question": "Forests provide (b) _____ (pre-modify the noun with a quantifier) benefits to us.",
+    "options": {
+      "a": "much",
+      "b": "many",
+      "c": "a little",
+      "d": "any"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'many' because 'benefits' is a countable noun. এখানে 'many' (অনেক) শব্দটি quantifier হিসেবে 'benefits' noun-এর সংখ্যা নির্দেশ করছে।"
+  },
+  {
+    "id": 103,
+    "question": "Trees give us oxygen (c) _____ (post-modify the verb with an infinitive phrase).",
+    "options": {
+      "a": "to keep us alive",
+      "b": "for keeping us alive",
+      "c": "keeping us alive",
+      "d": "to kept us alive"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to keep us alive' because an infinitive phrase shows purpose. আমাদের বাঁচিয়ে রাখার উদ্দেশ্যে (purpose) অক্সিজেন দেয়, তাই 'to keep us alive' সঠিক।"
+  },
+  {
+    "id": 104,
+    "question": "We should plant more trees (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "planned",
+      "b": "planning",
+      "c": "plentiful",
+      "d": "wisely"
+    },
+    "correct_answer": "d",
+    "explanation": "Correct answer is 'wisely' because an adverb modifies the verb 'plant'. আমাদের 'wisely' (বুদ্ধিমত্তার সাথে) গাছ লাগানো উচিত, যা 'plant' verb-এর ধরন বোঝাচ্ছে।"
+  },
+  {
+    "id": 105,
+    "question": "Deforestation, (e) _____ (use an appositive), is a threat to the environment.",
+    "options": {
+      "a": "cutting down trees",
+      "b": "the act of cutting down trees",
+      "c": "is cutting trees",
+      "d": "which is cutting trees"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'the act of cutting down trees' because an appositive is a noun phrase. এটি 'Deforestation'-এর অতিরিক্ত পরিচয় (extra information) দিচ্ছে।"
+  },
+  {
+    "id": 106,
+    "question": "The world temperature is (f) _____ (post-modify the verb with a present participle phrase) day by day.",
+    "options": {
+      "a": "rise",
+      "b": "risen",
+      "c": "rising",
+      "d": "to rise"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'rising' because a present participle describes a continuous state. তাপমাত্রা দিন দিন 'rising' (বৃদ্ধি পাচ্ছে) এমন চলমান অবস্থা বোঝাতে এটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 107,
+    "question": "Wild animals live in the (g) _____ (pre-modify the noun) forest.",
+    "options": {
+      "a": "deep",
+      "b": "deeply",
+      "c": "deepen",
+      "d": "deepest"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'deep' because an adjective is needed to describe 'forest'. 'deep' (গভীর) শব্দটি এখানে 'forest' noun-কে modify করছে।"
+  },
+  {
+    "id": 108,
+    "question": "Newspaper is (a) _____ (use an article) storehouse of knowledge.",
+    "options": {
+      "a": "an",
+      "b": "a",
+      "c": "the",
+      "d": "any"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'a' because 'storehouse' starts with a consonant sound. এটি একটি সাধারণ তথ্য বা জ্ঞানভাণ্ডার (storehouse) বোঝাচ্ছে।"
+  },
+  {
+    "id": 109,
+    "question": "We get (b) _____ (pre-modify the noun) news in it.",
+    "options": {
+      "a": "daily",
+      "b": "day",
+      "c": "daylight",
+      "d": "dailies"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'daily' because it is an adjective modifying the noun 'news'. 'daily' (দৈনিক) খবর বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 110,
+    "question": "Modern life (c) _____ (pre-modify the verb with an adverb) depends on newspaper.",
+    "options": {
+      "a": "great",
+      "b": "greatly",
+      "c": "greatness",
+      "d": "greater"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'greatly' because an adverb modifies the verb 'depends'. আধুনিক জীবন সংবাদপত্রের ওপর 'greatly' (ব্যাপকভাবে) নির্ভরশীল।"
+  },
+  {
+    "id": 111,
+    "question": "It carries news (d) _____ (post-modify the verb with a prepositional phrase).",
+    "options": {
+      "a": "all over the world",
+      "b": "to everyone",
+      "c": "from all over the world",
+      "d": "everywhere"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'from all over the world' because it's a phrase showing the source. সারা বিশ্ব থেকে (from all over the world) খবর বয়ে আনে।"
+  },
+  {
+    "id": 112,
+    "question": "Students should read newspaper (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "regularly",
+      "b": "regular",
+      "c": "regulate",
+      "d": "regularity"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'regularly' because an adverb is needed to modify the verb 'read'. নিয়মিতভাবে (regularly) পড়া উচিত বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 113,
+    "question": "One can gain (f) _____ (pre-modify the noun with a possessive) knowledge this way.",
+    "options": {
+      "a": "his",
+      "b": "one's",
+      "c": "their",
+      "d": "our"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'one's' because it is the possessive form of the indefinite pronoun 'one'. কারো ব্যক্তিগত (one's) জ্ঞান অর্জনের ক্ষেত্রে এটি সঠিক possessive।"
+  },
+  {
+    "id": 114,
+    "question": "It helps us (g) _____ (post-modify the verb with an infinitive phrase) our views.",
+    "options": {
+      "a": "to broaden",
+      "b": "broadening",
+      "c": "broaden",
+      "d": "for broadening"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to broaden' because an infinitive phrase expresses purpose. আমাদের দৃষ্টিভঙ্গি 'broaden' (উদার বা প্রশস্ত) করতে সাহায্য করে।"
+  },
+  {
+    "id": 115,
+    "question": "Digital Bangladesh means a (a) _____ (pre-modify the noun) country.",
+    "options": {
+      "a": "technology",
+      "b": "technologically-advanced",
+      "c": "technological",
+      "d": "technical"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'technologically-advanced' which is a compound adjective. প্রযুক্তিতে উন্নত (technologically-advanced) দেশ বোঝাতে এটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 116,
+    "question": "The government is working (b) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "hard",
+      "b": "hardly",
+      "c": "hardness",
+      "d": "harder"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hard' because it is an adverb of manner. সরকার 'hard' (কঠোর) পরিশ্রম করছে, এখানে 'hardly' মানে কদাচিৎ যা নেতিবাচক।"
+  },
+  {
+    "id": 117,
+    "question": "Our (c) _____ (pre-modify the noun with a noun adjective) sector is developing.",
+    "options": {
+      "a": "educate",
+      "b": "education",
+      "c": "educational",
+      "d": "educating"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'education' because it acts as a noun adjective for 'sector'. শিক্ষা খাত (education sector) বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 118,
+    "question": "We use internet (d) _____ (post-modify the verb with an infinitive phrase).",
+    "options": {
+      "a": "to collect information",
+      "b": "for collecting information",
+      "c": "collecting information",
+      "d": "to collected information"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to collect information' which is an infinitive phrase of purpose. তথ্য সংগ্রহের উদ্দেশ্যে (collect) ইন্টারনেট ব্যবহার করি।"
+  },
+  {
+    "id": 119,
+    "question": "Internet makes our life (e) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "easily",
+      "b": "easy",
+      "c": "easiness",
+      "d": "ease"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'easy' because it functions as an object complement. ইন্টারনেট জীবনকে 'easy' (সহজ) করে তোলে।"
+  },
+  {
+    "id": 120,
+    "question": "However, (f) _____ (pre-modify the noun with a possessive) misuse can be harmful.",
+    "options": {
+      "a": "his",
+      "b": "its",
+      "c": "it's",
+      "d": "their"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'its' (possessive of it). ইন্টারনেটের অপব্যবহার (misuse) বোঝাতে 'its' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 121,
+    "question": "We should use it (g) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "careful",
+      "b": "carefully",
+      "c": "carefulness",
+      "d": "caring"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'carefully' because an adverb modifies the verb 'use'. সাবধানতার সাথে (carefully) ব্যবহার করা উচিত।"
+  },
+  {
+    "id": 122,
+    "question": "A (a) _____ (pre-modify the noun) student is always attentive to his studies.",
+    "options": {
+      "a": "good",
+      "b": "well",
+      "c": "better",
+      "d": "goodly"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'good' because it is an adjective modifying the noun 'student'. একজন 'good' (ভালো) ছাত্র সবসময় মনোযোগী হয়।"
+  },
+  {
+    "id": 123,
+    "question": "He follows the (b) _____ (pre-modify the noun) advice of his teachers.",
+    "options": {
+      "a": "value",
+      "b": "valuable",
+      "c": "valuably",
+      "d": "valuation"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'valuable' because it is an adjective for 'advice'. 'valuable' (মূল্যবান) উপদেশ বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 124,
+    "question": "He makes (c) _____ (pre-modify the noun with a determiner) notes himself.",
+    "options": {
+      "a": "any",
+      "b": "many",
+      "c": "each",
+      "d": "all"
+    },
+    "correct_answer": "d",
+    "explanation": "Correct answer is 'all' because it acts as a determiner for the plural noun 'notes'. সে 'all' (সব) নোট নিজেই তৈরি করে।"
+  },
+  {
+    "id": 125,
+    "question": "He works (d) _____ (post-modify the verb with an adverb) to score well.",
+    "options": {
+      "a": "hard",
+      "b": "hardly",
+      "c": "hardness",
+      "d": "harder"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hard' because an adverb of manner is needed. ভালো রেজাল্ট করার জন্য সে 'hard' (কঠোর) পরিশ্রম করে।"
+  },
+  {
+    "id": 126,
+    "question": "Reading books, (e) _____ (use an appositive), is his hobby.",
+    "options": {
+      "a": "a good habit",
+      "b": "is a good habit",
+      "c": "which is a habit",
+      "d": "habitually"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a good habit' because an appositive is a noun phrase explaining 'Reading books' (বই পড়া)।"
+  },
+  {
+    "id": 127,
+    "question": "He goes to the library (f) _____ (post-modify the verb with an infinitive phrase).",
+    "options": {
+      "a": "reading books",
+      "b": "to read books",
+      "c": "for reading books",
+      "d": "to readed books"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'to read books' because an infinitive phrase shows purpose. বই পড়ার উদ্দেশ্যে (purpose) সে লাইব্রেরিতে যায়।"
+  },
+  {
+    "id": 128,
+    "question": "He is (g) _____ (pre-modify the adjective with an intensifier) polite.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "so",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies the adjective 'polite'. সে 'very' (খুবই) নম্র বা ভদ্র (polite)।"
+  },
+  {
+    "id": 129,
+    "question": "A (a) _____ (pre-modify the noun) morning is very beautiful.",
+    "options": {
+      "a": "spring",
+      "b": "springly",
+      "c": "springs",
+      "d": "of spring"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'spring' because it is a noun adjective. বসন্তের সকাল (spring morning) বোঝাতে এটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 130,
+    "question": "Nature looks (b) _____ (post-modify the verb with an adjective).",
+    "options": {
+      "a": "greenly",
+      "b": "green",
+      "c": "greenness",
+      "d": "greened"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'green' because 'look' is a linking verb that takes an adjective. প্রকৃতি 'green' (সবুজ) দেখায়, এখানে adjective সঠিক।"
+  },
+  {
+    "id": 131,
+    "question": "Birds sing (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "sweet",
+      "b": "sweetly",
+      "c": "sweetness",
+      "d": "sweeter"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'sweetly' because an adverb modifies 'sing'. পাখিরা 'sweetly' (মিষ্টি করে) গান গায়।"
+  },
+  {
+    "id": 132,
+    "question": "People go out (d) _____ (post-modify the verb with an infinitive phrase).",
+    "options": {
+      "a": "to enjoy nature",
+      "b": "enjoying nature",
+      "c": "for enjoying nature",
+      "d": "to enjoyed nature"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to enjoy nature' because it shows the purpose of going out. প্রকৃতি উপভোগ করার (enjoy) উদ্দেশ্যে মানুষ বাইরে যায়।"
+  },
+  {
+    "id": 133,
+    "question": "The flowers are (e) _____ (pre-modify the adjective with an intensifier) colorful.",
+    "options": {
+      "a": "enough",
+      "b": "very",
+      "c": "so as",
+      "d": "too"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' because it intensifies 'colorful'. ফুলগুলো 'very' (খুবই) রঙিন (colorful)।"
+  },
+  {
+    "id": 134,
+    "question": "Bees collect honey (f) _____ (post-modify the verb with a prepositional phrase).",
+    "options": {
+      "a": "to the hives",
+      "b": "from flowers",
+      "c": "by flowers",
+      "d": "at flowers"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'from flowers' because it shows the source. মৌমাছিরা ফুল থেকে (from flowers) মধু সংগ্রহ করে।"
+  },
+  {
+    "id": 135,
+    "question": "It is (g) _____ (use an article) enjoyable season.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "any"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'an' because 'enjoyable' starts with a vowel sound (e). একটি উপভোগ্য (enjoyable) ঋতু বোঝাতে article 'an' সঠিক।"
+  },
+  {
+    "id": 136,
+    "question": "Health is (a) _____ (use an article) greatest wealth.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'the' because 'greatest' is a superlative adjective. Superlative degree-এর আগে 'the' বসে।"
+  },
+  {
+    "id": 137,
+    "question": "A (b) _____ (pre-modify the noun) man cannot enjoy life.",
+    "options": {
+      "a": "sickly",
+      "b": "sick",
+      "c": "sickness",
+      "d": "sickened"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'sick' because it is an adjective for 'man'. একজন 'sick' (অসুস্থ) মানুষ জীবন উপভোগ করতে পারে না।"
+  },
+  {
+    "id": 138,
+    "question": "He leads (c) _____ (use an article) unhappy life.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "any"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'an' because 'unhappy' starts with a vowel sound. একটি অসুখী (unhappy) জীবন বোঝাতে 'an' সঠিক।"
+  },
+  {
+    "id": 139,
+    "question": "We should follow (d) _____ (pre-modify the noun) rules.",
+    "options": {
+      "a": "health",
+      "b": "healthy",
+      "c": "healthiness",
+      "d": "heal"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'health' because it acts as a noun adjective for 'rules'. স্বাস্থ্য বিধি (health rules) বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 140,
+    "question": "Physical exercise is (e) _____ (pre-modify the adjective with an intensifier) necessary.",
+    "options": {
+      "a": "very",
+      "b": "too",
+      "c": "enough",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies 'necessary'. শারীরিক ব্যায়াম 'very' (খুবই) প্রয়োজনীয় (necessary)।"
+  },
+  {
+    "id": 141,
+    "question": "It makes us (f) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "strong",
+      "b": "strongly",
+      "c": "strength",
+      "d": "stronger"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'strong' because it is an object complement. এটি আমাদের 'strong' (শক্তিশালী) করে তোলে।"
+  },
+  {
+    "id": 142,
+    "question": "We must eat (g) _____ (pre-modify the noun) food.",
+    "options": {
+      "a": "balance",
+      "b": "balanced",
+      "c": "balancing",
+      "d": "balancely"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'balanced' because the past participle acts as an adjective. 'balanced' (সুষম) খাবার বোঝাতে এটি সঠিক।"
+  },
+  {
+    "id": 143,
+    "question": "Corruption is a (a) _____ (pre-modify the noun) curse.",
+    "options": {
+      "a": "societal",
+      "b": "social",
+      "c": "socially",
+      "d": "society"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'social' because it is an adjective for 'curse'. দুর্নীতি একটি 'social' (সামাজিক) অভিশাপ (curse)।"
+  },
+  {
+    "id": 144,
+    "question": "It prevails (b) _____ (post-modify the verb with an adverb) in every sector.",
+    "options": {
+      "a": "alarmed",
+      "b": "alarming",
+      "c": "alarmingly",
+      "d": "alarm"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'alarmingly' because an adverb modifies 'prevails'. এটি 'alarmingly' (উদ্বেগজনকভাবে) সব খাতে বিরাজ করছে।"
+  },
+  {
+    "id": 145,
+    "question": "Strict laws (c) _____ (post-modify the noun with a present participle phrase) corruption are needed.",
+    "options": {
+      "a": "prohibiting",
+      "b": "prohibit",
+      "c": "to prohibit",
+      "d": "prohibited"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'prohibiting' because a present participle modifies 'laws'. দুর্নীতি প্রতিরোধকারী (prohibiting) কঠোর আইন প্রয়োজন।"
+  },
+  {
+    "id": 146,
+    "question": "We must raise (d) _____ (pre-modify the noun) awareness.",
+    "options": {
+      "a": "publicly",
+      "b": "public",
+      "c": "people",
+      "d": "publish"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'public' because an adjective modifies 'awareness'. 'public' (জন) সচেতনতা (awareness) বৃদ্ধি করতে হবে।"
+  },
+  {
+    "id": 147,
+    "question": "The government should act (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "sincere",
+      "b": "sincerely",
+      "c": "sincerity",
+      "d": "more sincere"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'sincerely' because an adverb modifies the verb 'act'. সরকারের 'sincerely' (আন্তরিকভাবে) কাজ করা উচিত।"
+  },
+  {
+    "id": 148,
+    "question": "Corruption, (f) _____ (use an appositive), must be stopped.",
+    "options": {
+      "a": "a great sin",
+      "b": "is a great sin",
+      "c": "which is a sin",
+      "d": "sinful act"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a great sin' because an appositive is a noun phrase. দুর্নীতি, যা একটি 'great sin' (মহাপাপ), তা বন্ধ করতে হবে।"
+  },
+  {
+    "id": 149,
+    "question": "Otherwise, development will be (g) _____ (pre-modify the adjective with an intensifier) slow.",
+    "options": {
+      "a": "very",
+      "b": "too",
+      "c": "enough",
+      "d": "so"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' because it intensifies 'slow'. অন্যথায় উন্নয়ন 'very' (খুবই) ধীর (slow) হয়ে যাবে।"
+  },
+  {
+    "id": 150,
+    "question": "Honesty is (a) _____ (use an article) noble virtue.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "any"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' because 'noble' starts with a consonant sound. সততা একটি 'noble' (মহৎ) গুণ (virtue)।"
+  },
+  {
+    "id": 151,
+    "question": "An honest man is respected by (b) _____ (pre-modify the noun with a determiner) people.",
+    "options": {
+      "a": "much",
+      "b": "all",
+      "c": "every",
+      "d": "each"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'all' because it is a determiner for plural nouns. সৎ ব্যক্তিকে 'all' (সকল) মানুষ শ্রদ্ধা করে।"
+  },
+  {
+    "id": 152,
+    "question": "He never tells (c) _____ (use an article) lie.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' as part of the phrase 'tell a lie'. তিনি কখনো 'lie' (মিথ্যা) বলেন না।"
+  },
+  {
+    "id": 153,
+    "question": "He leads a (d) _____ (pre-modify the noun) life.",
+    "options": {
+      "a": "peacefully",
+      "b": "peace",
+      "c": "peaceful",
+      "d": "peaceless"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'peaceful' because an adjective is needed for 'life'. তিনি একটি 'peaceful' (শান্তিময়) জীবন যাপন করেন।"
+  },
+  {
+    "id": 154,
+    "question": "He works (e) _____ (post-modify the verb with an adverb) for the welfare of others.",
+    "options": {
+      "a": "sincere",
+      "b": "sincerely",
+      "c": "sincerity",
+      "d": "more sincere"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'sincerely' which modifies the verb 'works'. অন্যদের 'welfare' (কল্যাণ)-এর জন্য তিনি আন্তরিকভাবে কাজ করেন।"
+  },
+  {
+    "id": 155,
+    "question": "Honesty, (f) _____ (use an appositive), should be practiced by all.",
+    "options": {
+      "a": "the best policy",
+      "b": "is the best policy",
+      "c": "which is a policy",
+      "d": "policy"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'the best policy' because it is a famous appositive for Honesty. 'policy' মানে নীতি।"
+  },
+  {
+    "id": 156,
+    "question": "We should be (g) _____ (pre-modify the adjective with an intensifier) careful about our character.",
+    "options": {
+      "a": "enough",
+      "b": "very",
+      "c": "too",
+      "d": "so"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'very' which intensifies 'careful'. আমাদের চরিত্রের ব্যাপারে 'very' (খুবই) 'careful' (সতর্ক) হওয়া উচিত।"
+  },
+  {
+    "id": 157,
+    "question": "Student life is the (a) _____ (pre-modify the noun) time for preparation.",
+    "options": {
+      "a": "better",
+      "b": "best",
+      "c": "good",
+      "d": "well"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'best' because the superlative adjective is needed after 'the'. ছাত্রজীবন প্রস্তুতির (preparation) জন্য 'best' (সর্বোত্তম) সময়।"
+  },
+  {
+    "id": 158,
+    "question": "A student should use (b) _____ (pre-modify the noun with a possessive) time properly.",
+    "options": {
+      "a": "him",
+      "b": "his",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'his' because a possessive is required. একজন ছাত্রের উচিত 'his' (তার) সময়ের সঠিক ব্যবহার করা।"
+  },
+  {
+    "id": 159,
+    "question": "He should study (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "attentive",
+      "b": "attentively",
+      "c": "attention",
+      "d": "attentiveness"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'attentively' as it modifies 'study'. তার 'attentively' (মনোযোগ সহকারে) পড়া উচিত।"
+  },
+  {
+    "id": 160,
+    "question": "He must avoid (d) _____ (pre-modify the noun) habits.",
+    "options": {
+      "a": "bad",
+      "b": "badly",
+      "c": "badness",
+      "d": "worse"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'bad' because an adjective is needed for 'habits'. তাকে 'bad' (খারাপ) 'habits' (অভ্যাস) এড়িয়ে চলতে হবে।"
+  },
+  {
+    "id": 161,
+    "question": "A (e) _____ (pre-modify the noun) student follows his teachers.",
+    "options": {
+      "a": "discipline",
+      "b": "disciplined",
+      "c": "disciplining",
+      "d": "disciplinarian"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'disciplined' which is a past participle used as an adjective. একজন 'disciplined' (শৃঙ্খলিত/সুবিন্যস্ত) ছাত্র শিক্ষকদের অনুসরণ করে।"
+  },
+  {
+    "id": 162,
+    "question": "He goes to school (f) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "regularly",
+      "b": "regular",
+      "c": "regularity",
+      "d": "regulate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'regularly' which shows the frequency. সে 'regularly' (নিয়মিত) স্কুলে যায়।"
+  },
+  {
+    "id": 163,
+    "question": "Preparation (g) _____ (post-modify the noun with a prepositional phrase) is essential.",
+    "options": {
+      "a": "to the exam",
+      "b": "for the exam",
+      "c": "in the exam",
+      "d": "by the exam"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'for the exam'. পরীক্ষার জন্য (for the exam) প্রস্তুতি 'essential' (অপরিহার্য)।"
+  },
+  {
+    "id": 164,
+    "question": "Trees are our (a) _____ (pre-modify the noun) friends.",
+    "options": {
+      "a": "better",
+      "b": "best",
+      "c": "good",
+      "d": "well"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'best' because it's a common expression. গাছ আমাদের 'best' (সেরা) বন্ধু।"
+  },
+  {
+    "id": 165,
+    "question": "They give us (b) _____ (pre-modify the noun) oxygen.",
+    "options": {
+      "a": "fresh",
+      "b": "freshly",
+      "c": "freshen",
+      "d": "freshness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fresh' as an adjective for 'oxygen'. গাছ আমাদের 'fresh' (নিৰ্মল/তাজা) অক্সিজেন দেয়।"
+  },
+  {
+    "id": 166,
+    "question": "We get (c) _____ (pre-modify the noun with a noun adjective) food from trees.",
+    "options": {
+      "a": "fruit",
+      "b": "fruity",
+      "c": "fruits",
+      "d": "fruited"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fruit' because it's a noun used as an adjective for 'food'. আমরা গাছ থেকে 'fruit food' (ফলমূল জাতীয় খাদ্য) পাই।"
+  },
+  {
+    "id": 167,
+    "question": "Trees prevent (d) _____ (pre-modify the noun with a noun adjective) erosion.",
+    "options": {
+      "a": "soil",
+      "b": "soily",
+      "c": "soils",
+      "d": "soiled"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'soil' which modifies 'erosion'. গাছ 'soil erosion' (ভূমি ক্ষয়) রোধ করে।"
+  },
+  {
+    "id": 168,
+    "question": "We should not cut trees (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "thoughtless",
+      "b": "thoughtlessly",
+      "c": "thought",
+      "d": "thinking"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'thoughtlessly' which modifies the verb 'cut'. আমাদের 'thoughtlessly' (চিন্তাহীনভাবে/নির্বিচারে) গাছ কাটা উচিত নয়।"
+  },
+  {
+    "id": 169,
+    "question": "People (f) _____ (post-modify the noun with a present participle phrase) trees are doing harm.",
+    "options": {
+      "a": "cut",
+      "b": "cutting",
+      "c": "to cut",
+      "d": "cutted"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'cutting' because it modifies 'People'. যারা গাছ 'cutting' (কাটছে) তারা পরিবেশের ক্ষতি করছে।"
+  },
+  {
+    "id": 170,
+    "question": "Tree plantation, (g) _____ (use an appositive), should be a national movement.",
+    "options": {
+      "a": "a vital task",
+      "b": "is a task",
+      "c": "which is vital",
+      "d": "vitally task"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a vital task' because an appositive is a noun phrase. 'vital' মানে অত্যন্ত গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 171,
+    "question": "A winter morning is (a) _____ (pre-modify the adjective with an intensifier) cold.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "so as",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' which intensifies 'cold'. শীতের সকাল 'very' (খুবই) ঠান্ডা হয়।"
+  },
+  {
+    "id": 172,
+    "question": "There is (b) _____ (pre-modify the noun) mist everywhere.",
+    "options": {
+      "a": "dense",
+      "b": "densely",
+      "c": "density",
+      "d": "denseness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'dense' as an adjective for 'mist'. সর্বত্র 'dense' (ঘন) 'mist' (কুয়াশা) থাকে।"
+  },
+  {
+    "id": 173,
+    "question": "Nature looks (c) _____ (post-modify the verb with an adjective) in the morning.",
+    "options": {
+      "a": "hazy",
+      "b": "hazily",
+      "c": "haze",
+      "d": "haziness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hazy' because 'look' is a linking verb. প্রকৃতি সকালে 'hazy' (ঝাপসা) দেখায়।"
+  },
+  {
+    "id": 174,
+    "question": "The sun rises (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "late",
+      "b": "lately",
+      "c": "lateness",
+      "d": "later"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'late' as an adverb of time. সূর্য 'late' (দেরিতে) ওঠে।"
+  },
+  {
+    "id": 175,
+    "question": "People enjoy (e) _____ (pre-modify the noun with a noun adjective) juice in winter.",
+    "options": {
+      "a": "date",
+      "b": "dated",
+      "c": "dates",
+      "d": "dating"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'date' which modifies 'juice'. মানুষ শীতকালে 'date juice' (খেজুরে রস) উপভোগ করে।"
+  },
+  {
+    "id": 176,
+    "question": "Children like (f) _____ (post-modify the verb with an infinitive phrase).",
+    "options": {
+      "a": "to play in the sun",
+      "b": "playing in the sun",
+      "c": "for playing in the sun",
+      "d": "to played in the sun"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to play in the sun'. বাচ্চারা রোদে 'play' (খেলা) করতে পছন্দ করে।"
+  },
+  {
+    "id": 177,
+    "question": "A winter morning is (g) _____ (post-modify the adjective with an adverbial phrase).",
+    "options": {
+      "a": "short-lived",
+      "b": "very short",
+      "c": "in a sense",
+      "d": "to some extent"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'short-lived' (অল্পক্ষণস্থায়ী)। কুয়াশা কেটে গেলে সকালের আমেজ বেশিক্ষণ থাকে না।"
+  },
+  {
+    "id": 178,
+    "question": "Industry is the (a) _____ (pre-modify the noun) key to success.",
+    "options": {
+      "a": "main",
+      "b": "mainly",
+      "c": "mainness",
+      "d": "more main"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'main' which is an adjective for 'key'. পরিশ্রমই সফলতার 'main' (প্রধান) চাবিকাঠি।"
+  },
+  {
+    "id": 179,
+    "question": "An (b) _____ (pre-modify the noun) man can prosper in life.",
+    "options": {
+      "a": "industriously",
+      "b": "industrious",
+      "c": "industry",
+      "d": "industrial"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'industrious' (পরিশ্রমী)। একজন পরিশ্রমী মানুষ জীবনে উন্নতি (prosper) করতে পারে।"
+  },
+  {
+    "id": 180,
+    "question": "He works (c) _____ (post-modify the verb with an adverb) to reach his goal.",
+    "options": {
+      "a": "hard",
+      "b": "hardly",
+      "c": "hardness",
+      "d": "hardest"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hard' (কঠোর)। লক্ষ্য বা 'goal'-এ পৌঁছাতে সে কঠোর পরিশ্রম করে।"
+  },
+  {
+    "id": 181,
+    "question": "Nobody likes (d) _____ (use an article) idle person.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'an' because 'idle' starts with a vowel sound. অলস (idle) ব্যক্তিকে কেউ পছন্দ করে না।"
+  },
+  {
+    "id": 182,
+    "question": "An idle man (e) _____ (pre-modify the verb with an adverb) suffers in the long run.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। অলস ব্যক্তি 'always' পরিণামে (in the long run) কষ্ট পায়।"
+  },
+  {
+    "id": 183,
+    "question": "We must utilize (f) _____ (pre-modify the noun with a possessive) time.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' which is a possessive adjective. আমাদের উচিত 'our' (আমাদের) সময়ের সঠিক ব্যবহার করা।"
+  },
+  {
+    "id": 184,
+    "question": "Idleness, (g) _____ (use an appositive), leads to failure.",
+    "options": {
+      "a": "a bad habit",
+      "b": "is a bad habit",
+      "c": "which is bad",
+      "d": "badly"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a bad habit' as it defines 'Idleness'. অলসতা একটি 'bad habit' (খারাপ অভ্যাস)।"
+  },
+  {
+    "id": 185,
+    "question": "Internet is the (a) _____ (pre-modify the noun) wonder of science.",
+    "options": {
+      "a": "latest",
+      "b": "late",
+      "c": "lately",
+      "d": "later"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'latest' (সর্বশেষ)। বিজ্ঞানর এক বিস্ময় (wonder) হলো ইন্টারনেট।"
+  },
+  {
+    "id": 186,
+    "question": "It has (b) _____ (post-modify the verb with a past participle phrase) the whole world together.",
+    "options": {
+      "a": "connect",
+      "b": "connected",
+      "c": "connecting",
+      "d": "to connect"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'connected' (যুক্ত করা)। এটি পুরো বিশ্বকে কাছাকাছি নিয়ে এসেছে।"
+  },
+  {
+    "id": 187,
+    "question": "We can send messages (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "instant",
+      "b": "instantly",
+      "c": "instance",
+      "d": "instants"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'instantly' (তৎক্ষণাৎ)। আমরা পলকের মধ্যে বার্তা পাঠাতে পারি।"
+  },
+  {
+    "id": 188,
+    "question": "However, (d) _____ (pre-modify the noun with a noun adjective) crime is increasing.",
+    "options": {
+      "a": "cyber",
+      "b": "internet",
+      "c": "computer",
+      "d": "net"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'cyber' which refers to technology-related crime. 'cyber crime' (তথ্যপ্রযুক্তি সংক্রান্ত অপরাধ) বাড়ছে।"
+  },
+  {
+    "id": 189,
+    "question": "Students should use it (e) _____ (post-modify the verb with an infinitive phrase).",
+    "options": {
+      "a": "to learn things",
+      "b": "learning things",
+      "c": "for learning things",
+      "d": "to learned things"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to learn things'. শিক্ষার্থীদের নতুন কিছু 'learn' (শেখা)-এর জন্য এটি ব্যবহার করা উচিত।"
+  },
+  {
+    "id": 190,
+    "question": "It is (f) _____ (pre-modify the adjective with an intensifier) helpful for research.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "so as",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। গবেষণার (research) জন্য ইন্টারনেট খুবই সহায়ক।"
+  },
+  {
+    "id": 191,
+    "question": "We must be (g) _____ (post-modify the noun with an adjective) while using it.",
+    "options": {
+      "a": "careful",
+      "b": "carefully",
+      "c": "carefulness",
+      "d": "caring"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'careful' (সতর্ক)। ব্যবহারের সময় আমাদের 'careful' থাকা জরুরি।"
+  },
+  {
+    "id": 192,
+    "question": "Unity is (a) _____ (use an article) great strength.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a'. একতা একটি বড় 'strength' (শক্তি)।"
+  },
+  {
+    "id": 193,
+    "question": "A (b) _____ (pre-modify the noun) family can solve problems easily.",
+    "options": {
+      "a": "unite",
+      "b": "united",
+      "c": "uniting",
+      "d": "unity"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'united' (একতাবদ্ধ)। একটি একতাবদ্ধ পরিবার সহজে সমস্যা সমাধান করতে পারে।"
+  },
+  {
+    "id": 194,
+    "question": "They live (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "happy",
+      "b": "happily",
+      "c": "happiness",
+      "d": "happier"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'happily' (সুখে)। তারা সুখে বসবাস করে।"
+  },
+  {
+    "id": 195,
+    "question": "Unity, (d) _____ (use an appositive), helps a nation to grow.",
+    "options": {
+      "a": "a key to progress",
+      "b": "is a key",
+      "c": "which is key",
+      "d": "progress"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a key to progress'. উন্নতির চাবিকাঠি (key to progress) হলো একতা।"
+  },
+  {
+    "id": 196,
+    "question": "We should work (e) _____ (post-modify the verb with an infinitive phrase) the nation.",
+    "options": {
+      "a": "to build",
+      "b": "building",
+      "c": "for building",
+      "d": "to built"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to build'. জাতি গঠনের (build) উদ্দেশ্যে আমাদের কাজ করা উচিত।"
+  },
+  {
+    "id": 197,
+    "question": "Divided families (f) _____ (pre-modify the verb with an adverb) suffer.",
+    "options": {
+      "a": "often",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'often' (প্রায়ই)। বিচ্ছিন্ন পরিবারগুলো প্রায়ই ভোগান্তির (suffer) শিকার হয়।"
+  },
+  {
+    "id": 198,
+    "question": "It is (g) _____ (pre-modify the adjective with an intensifier) important for us.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। একতা আমাদের জন্য খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 199,
+    "question": "A balanced diet contains (a) _____ (pre-modify the noun) nutrients.",
+    "options": {
+      "a": "various",
+      "b": "variously",
+      "c": "variety",
+      "d": "variation"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'various' (বিভিন্ন)। সুষম খাদ্যে বিভিন্ন পুষ্টি উপাদান (nutrients) থাকে।"
+  },
+  {
+    "id": 200,
+    "question": "We must eat it (b) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "regularly",
+      "b": "regular",
+      "c": "regularity",
+      "d": "regulate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'regularly' (নিয়মিত)। আমাদের নিয়মিত এটি খাওয়া উচিত।"
+  },
+  {
+    "id": 251,
+    "question": "A (a) _____ (pre-modify the noun) teacher is an architect of a nation.",
+    "options": {
+      "a": "good",
+      "b": "well",
+      "c": "better",
+      "d": "best"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'good' (ভালো)। এটি একটি adjective যা 'teacher' noun-কে modify করছে। Architect মানে স্থপতি।"
+  },
+  {
+    "id": 252,
+    "question": "He teaches his students (b) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "careful",
+      "b": "carefully",
+      "c": "carefulness",
+      "d": "care"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'carefully' (যত্নসহকারে)। Adverb 'carefully' এখানে 'teaches' verb-টির ধরন বোঝাচ্ছে।"
+  },
+  {
+    "id": 253,
+    "question": "He is (c) _____ (pre-modify the adjective with an intensifier) helpful to his students.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "so"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। Intensifier 'very' এখানে 'helpful' (সহায়ক) adjective-এর মাত্রা বাড়াচ্ছে।"
+  },
+  {
+    "id": 254,
+    "question": "He identifies the (d) _____ (pre-modify the noun) talent of a student.",
+    "options": {
+      "a": "hide",
+      "b": "hidden",
+      "c": "hiding",
+      "d": "hides"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'hidden' (লুকানো)। Past participle 'hidden' এখানে adjective হিসেবে 'talent' noun-কে modify করছে।"
+  },
+  {
+    "id": 255,
+    "question": "A teacher, (e) _____ (use an appositive), should be honored.",
+    "options": {
+      "a": "a nation builder",
+      "b": "is a builder",
+      "c": "who builds",
+      "d": "building nation"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a nation builder' (জাতি নির্মাতা)। এটি 'teacher'-এর অতিরিক্ত তথ্য দানকারী appositive।"
+  },
+  {
+    "id": 256,
+    "question": "He leads (f) _____ (use an article) simple life.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। 'simple' consonant sound দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 257,
+    "question": "We should follow (g) _____ (use a possessive to pre-modify the noun) instructions.",
+    "options": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'his' (তার)। Possessive adjective 'his' এখানে 'instructions' (নির্দেশনা) এর মালিকানা বোঝাচ্ছে।"
+  },
+  {
+    "id": 258,
+    "question": "Air is (a) _____ (pre-modify the adjective with an intensifier) important for us.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। বাতাস আমাদের জন্য 'very' (খুবই) 'important' (গুরুত্বপূর্ণ)।"
+  },
+  {
+    "id": 259,
+    "question": "We cannot live (b) _____ (post-modify the verb with a prepositional phrase) air.",
+    "options": {
+      "a": "without clean",
+      "b": "without it",
+      "c": "by it",
+      "d": "for it"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'without it' (এটি ছাড়া)। এটি একটি prepositional phrase যা বাতাসের প্রয়োজনীয়তা বোঝাচ্ছে।"
+  },
+  {
+    "id": 260,
+    "question": "But (c) _____ (pre-modify the noun) air is a threat to life.",
+    "options": {
+      "a": "pollute",
+      "b": "polluted",
+      "c": "polluting",
+      "d": "pollution"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'polluted' (দূষিত)। 'polluted' এখানে adjective হিসেবে 'air' noun-কে modify করছে।"
+  },
+  {
+    "id": 261,
+    "question": "Smoke (d) _____ (post-modify the noun with a present participle phrase) from mills pollutes air.",
+    "options": {
+      "a": "coming",
+      "b": "come",
+      "c": "to come",
+      "d": "came"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'coming' (আসা)। Present participle phrase 'coming from mills' (কলকারখানা থেকে আসা ধোঁয়া) air-কে দূষিত করে।"
+  },
+  {
+    "id": 262,
+    "question": "We should plant trees (e) _____ (post-modify the verb with an infinitive phrase) air pollution.",
+    "options": {
+      "a": "to prevent",
+      "b": "preventing",
+      "c": "for preventing",
+      "d": "to prevented"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to prevent' (রোধ করতে)। বায়ু দূষণ রোধের উদ্দেশ্যে গাছ লাগানো উচিত।"
+  },
+  {
+    "id": 263,
+    "question": "Pure air is (f) _____ (pre-modify the adjective with an intensifier) refreshing.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "so as"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। 'refreshing' মানে সতেজকারী।"
+  },
+  {
+    "id": 264,
+    "question": "We must breathe in (g) _____ (pre-modify the noun) air.",
+    "options": {
+      "a": "fresh",
+      "b": "freshly",
+      "c": "freshness",
+      "d": "freshen"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fresh' (তাজা/নির্মল)। আমাদের নির্মল বাতাসে শ্বাস (breathe) নেওয়া উচিত।"
+  },
+  {
+    "id": 265,
+    "question": "Library is (a) _____ (use an article) ocean of knowledge.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'an' (একটি)। 'ocean' vowel sound দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 266,
+    "question": "It is the (b) _____ (pre-modify the noun) place for readers.",
+    "options": {
+      "a": "best",
+      "b": "better",
+      "c": "good",
+      "d": "well"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'best' (সেরা)। পাঠকদের (readers) জন্য এটি সর্বোত্তম জায়গা।"
+  },
+  {
+    "id": 267,
+    "question": "One can read books (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "silent",
+      "b": "silently",
+      "c": "silence",
+      "d": "silentness"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'silently' (নীরবে)। লাইব্রেরিতে নীরবে বই পড়া যায়।"
+  },
+  {
+    "id": 268,
+    "question": "Many (d) _____ (pre-modify the noun) books are available there.",
+    "options": {
+      "a": "rare",
+      "b": "rarely",
+      "c": "rareness",
+      "d": "rarity"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'rare' (দুর্লভ)। সেখানে অনেক 'rare' বা দুর্লভ বই পাওয়া যায়।"
+  },
+  {
+    "id": 269,
+    "question": "Library, (e) _____ (use an appositive), helps us to grow mentally.",
+    "options": {
+      "a": "a temple of learning",
+      "b": "is a temple",
+      "c": "which is a temple",
+      "d": "temple"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a temple of learning' (শিক্ষার মন্দির)। এটি লাইব্রেরির appositive।"
+  },
+  {
+    "id": 270,
+    "question": "We should visit it (f) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "often",
+      "b": "never",
+      "c": "seldom",
+      "d": "rarely"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'often' (প্রায়ই)। আমাদের প্রায়ই লাইব্রেরিতে যাওয়া উচিত।"
+  },
+  {
+    "id": 271,
+    "question": "A library is (g) _____ (pre-modify the adjective with an intensifier) useful.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। লাইব্রেরি খুবই উপকারী (useful)।"
+  },
+  {
+    "id": 272,
+    "question": "Computer is a (a) _____ (pre-modify the noun) machine.",
+    "options": {
+      "a": "wonderful",
+      "b": "wonderfully",
+      "c": "wonder",
+      "d": "wondering"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'wonderful' (বিস্ময়কর)। 'wonderful' একটি adjective যা 'machine' noun-টিকে modify করছে।"
+  },
+  {
+    "id": 273,
+    "question": "It can perform (b) _____ (pre-modify the noun) tasks.",
+    "options": {
+      "a": "complex",
+      "b": "complexly",
+      "c": "complexity",
+      "d": "complexed"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'complex' (জটিল)। এটি জটিল কাজ (tasks) সম্পন্ন করতে পারে।"
+  },
+  {
+    "id": 274,
+    "question": "We use it (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "widely",
+      "b": "wide",
+      "c": "widen",
+      "d": "wideness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'widely' (ব্যাপকভাবে)। আমরা ব্যাপকভাবে কম্পিউটার ব্যবহার করি।"
+  },
+  {
+    "id": 275,
+    "question": "It saves (d) _____ (use a possessive to pre-modify the noun) time.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। এটি আমাদের সময় সাশ্রয় (saves) করে।"
+  },
+  {
+    "id": 276,
+    "question": "Computer, (e) _____ (use an appositive), is a gift of science.",
+    "options": {
+      "a": "a modern invention",
+      "b": "is an invention",
+      "c": "which is an invention",
+      "d": "inventing machine"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a modern invention' (একটি আধুনিক আবিষ্কার)। এটি কম্পিউটারের appositive।"
+  },
+  {
+    "id": 277,
+    "question": "However, it has (f) _____ (pre-modify the noun with a determiner) disadvantages.",
+    "options": {
+      "a": "some",
+      "b": "any",
+      "c": "much",
+      "d": "little"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'some' (কিছু)। কম্পিউটারের কিছু 'disadvantages' বা অসুবিধা রয়েছে।"
+  },
+  {
+    "id": 278,
+    "question": "Students should not use it (g) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "excessively",
+      "b": "excessive",
+      "c": "excess",
+      "d": "excessiveness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'excessively' (অতিরিক্তভাবে)। শিক্ষার্থীদের এটি অতিরিক্ত ব্যবহার করা উচিত নয়।"
+  },
+  {
+    "id": 279,
+    "question": "A rainy day is (a) _____ (pre-modify the adjective with an intensifier) gloomy.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "so as",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। বৃষ্টির দিন খুবই 'gloomy' বা বিষণ্ণ/অন্ধকারাচ্ছন্ন হয়।"
+  },
+  {
+    "id": 280,
+    "question": "It rains (b) _____ (post-modify the verb with an adverb) all day long.",
+    "options": {
+      "a": "continuously",
+      "b": "continuous",
+      "c": "continuity",
+      "d": "continued"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'continuously' (টানা/অবিরাম)। সারাদিন অবিরাম বৃষ্টি হয়।"
+  },
+  {
+    "id": 281,
+    "question": "People cannot go out (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "easily",
+      "b": "easy",
+      "c": "easiness",
+      "d": "easier"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'easily' (সহজে)। বৃষ্টির দিনে মানুষ সহজে বাইরে যেতে পারে না।"
+  },
+  {
+    "id": 282,
+    "question": "The roads become (d) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "muddy",
+      "b": "muddily",
+      "c": "mud",
+      "d": "muddiness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'muddy' (কর্দমাক্ত)। রাস্তাঘাট কর্দমাক্ত হয়ে যায়।"
+  },
+  {
+    "id": 283,
+    "question": "Children (e) _____ (post-modify the noun with a present participle phrase) in the rain feel happy.",
+    "options": {
+      "a": "playing",
+      "b": "play",
+      "c": "to play",
+      "d": "played"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'playing' (খেলছে এমন)। বৃষ্টিতে খেলাধুলা করা শিশুরা আনন্দিত বোধ করে।"
+  },
+  {
+    "id": 284,
+    "question": "A (f) _____ (pre-modify the noun) worker cannot work on this day.",
+    "options": {
+      "a": "daily",
+      "b": "day",
+      "c": "daylight",
+      "d": "daying"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'daily' (দৈনিক)। একজন দিনমজুর (daily worker) এই দিনে কাজ করতে পারে না।"
+  },
+  {
+    "id": 285,
+    "question": "They suffer (g) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "greatly",
+      "b": "great",
+      "c": "greatness",
+      "d": "greater"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'greatly' (ব্যাপকভাবে)। তারা অনেক কষ্টে ভোগে (suffer)।"
+  },
+  {
+    "id": 286,
+    "question": "Punctuality is (a) _____ (use an article) important habit.",
+    "options": {
+      "a": "an",
+      "b": "a",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'an' (একটি)। 'important' vowel sound দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 287,
+    "question": "A (b) _____ (pre-modify the noun) person is never late.",
+    "options": {
+      "a": "punctual",
+      "b": "punctually",
+      "c": "punctuality",
+      "d": "punctualize"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'punctual' (সময়নিষ্ঠ)। সময়নিষ্ঠ ব্যক্তি কখনোই দেরি করেন না।"
+  },
+  {
+    "id": 288,
+    "question": "He does his work (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "timely",
+      "b": "time",
+      "c": "timing",
+      "d": "times"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'timely' (সময়মতো)। তিনি তার কাজ সময়মতো করেন।"
+  },
+  {
+    "id": 289,
+    "question": "Punctuality, (d) _____ (use an appositive), leads to success.",
+    "options": {
+      "a": "a key to success",
+      "b": "is a key",
+      "c": "which is a key",
+      "d": "key"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a key to success' (সফলতার চাবিকাঠি)। এটি 'Punctuality'-র appositive।"
+  },
+  {
+    "id": 290,
+    "question": "We should (e) _____ (pre-modify the verb) be punctual.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। আমাদের সর্বদা সময়নিষ্ঠ হওয়া উচিত।"
+  },
+  {
+    "id": 291,
+    "question": "Time (f) _____ (post-modify the noun with a past participle) once is lost forever.",
+    "options": {
+      "a": "lost",
+      "b": "lose",
+      "c": "losing",
+      "d": "to lose"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'lost' (হারিয়ে যাওয়া)। একবার হারিয়ে যাওয়া সময় আর ফিরে আসে না।"
+  },
+  {
+    "id": 292,
+    "question": "It is (g) _____ (pre-modify the adjective with an intensifier) necessary for students.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। শিক্ষার্থীদের জন্য সময়নিষ্ঠা খুবই প্রয়োজনীয় (necessary)।"
+  },
+  {
+    "id": 293,
+    "question": "Health is the (a) _____ (pre-modify the noun) asset.",
+    "options": {
+      "a": "valuable",
+      "b": "most valuable",
+      "c": "more valuable",
+      "d": "value"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'most valuable' (সবচেয়ে মূল্যবান)। 'the'-এর পর superlative degree বসে।"
+  },
+  {
+    "id": 294,
+    "question": "We must follow the rules (b) _____ (post-modify the verb with a prepositional phrase).",
+    "options": {
+      "a": "of health",
+      "b": "to health",
+      "c": "for health",
+      "d": "by health"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'of health' (স্বাস্থ্যের)। আমাদের স্বাস্থ্যবিধি (rules of health) মেনে চলা উচিত।"
+  },
+  {
+    "id": 295,
+    "question": "A (c) _____ (pre-modify the noun) body contains a sound mind.",
+    "options": {
+      "a": "sound",
+      "b": "soundly",
+      "c": "soundness",
+      "d": "sounder"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'sound' (সুস্থ)। সুস্থ দেহে সুস্থ মন থাকে (sound mind)।"
+  },
+  {
+    "id": 296,
+    "question": "We should sleep (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "sufficiently",
+      "b": "sufficient",
+      "c": "sufficiency",
+      "d": "sufficed"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'sufficiently' (পর্যাপ্তভাবে)। আমাদের পর্যাপ্ত ঘুমানো উচিত।"
+  },
+  {
+    "id": 297,
+    "question": "Early (e) _____ (pre-modify the noun) is a good habit.",
+    "options": {
+      "a": "rising",
+      "b": "rise",
+      "c": "risen",
+      "d": "rose"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'rising' (ওঠা)। সকালে দ্রুত ঘুম থেকে ওঠা (early rising) একটি ভালো অভ্যাস।"
+  },
+  {
+    "id": 298,
+    "question": "It keeps us (f) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "fresh",
+      "b": "freshly",
+      "c": "freshness",
+      "d": "freshen"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fresh' (সতেজ)। এটি আমাদের সতেজ রাখে।"
+  },
+  {
+    "id": 299,
+    "question": "We must take (g) _____ (pre-modify the noun) exercise.",
+    "options": {
+      "a": "physical",
+      "b": "physically",
+      "c": "physics",
+      "d": "physic"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'physical' (শারীরিক)। আমাদের শারীরিক ব্যায়াম করা উচিত।"
+  },
+  {
+    "id": 300,
+    "question": "Health is (h) _____ (pre-modify the adjective with an intensifier) precious.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "so as"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। স্বাস্থ্য খুবই 'precious' বা দামী/মূল্যবান।"
+  },
+  {
+    "id": 301,
+    "question": "Digital Bangladesh is a (a) _____ (pre-modify the noun) dream of the people.",
+    "options": {
+      "a": "long-cherished",
+      "b": "long-cherishing",
+      "c": "long-cherish",
+      "d": "longly-cherished"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'long-cherished' (দীর্ঘ লালিত)। এটি একটি compound adjective যা 'dream' (স্বপ্ন) noun-টিকে modify করছে।"
+  },
+  {
+    "id": 302,
+    "question": "The government is working (b) _____ (post-modify the verb) to materialize it.",
+    "options": {
+      "a": "relentlessly",
+      "b": "relentless",
+      "c": "relentlessing",
+      "d": "relentlessness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'relentlessly' (অবিরামভাবে)। Adverb 'relentlessly' এখানে 'working' verb-কে modify করছে। 'Materialize' মানে বাস্তবে রূপদান করা।"
+  },
+  {
+    "id": 303,
+    "question": "It aims (c) _____ (post-modify the verb with an infinitive phrase) a technology-based society.",
+    "options": {
+      "a": "to establish",
+      "b": "establishing",
+      "c": "for establishing",
+      "d": "to established"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to establish' (প্রতিষ্ঠা করা)। 'to + verb' (infinitive) এখানে লক্ষ্য বা উদ্দেশ্য প্রকাশ করছে।"
+  },
+  {
+    "id": 304,
+    "question": "Now, we can do (d) _____ (pre-modify the noun with a quantifier) tasks online.",
+    "options": {
+      "a": "many",
+      "b": "much",
+      "c": "any",
+      "d": "little"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'many' (অনেক)। এটি একটি quantifier যা countable plural noun 'tasks' (কাজ)-এর সংখ্যা বোঝাচ্ছে।"
+  },
+  {
+    "id": 305,
+    "question": "Digital Bangladesh, (e) _____ (use an appositive), will change our economy.",
+    "options": {
+      "a": "a modern vision",
+      "b": "is a vision",
+      "c": "which is a vision",
+      "d": "vision"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a modern vision' (একটি আধুনিক রূপকল্প)। এটি 'Digital Bangladesh'-এর অতিরিক্ত তথ্য দানকারী appositive।"
+  },
+  {
+    "id": 306,
+    "question": "Information technology is (f) _____ (pre-modify the adjective with an intensifier) helpful for development.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। Intensifier 'very' এখানে 'helpful' adjective-এর মাত্রা বাড়াচ্ছে।"
+  },
+  {
+    "id": 307,
+    "question": "We should use (g) _____ (use a possessive to pre-modify the noun) resources properly.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। 'our' একটি possessive যা 'resources' (সম্পদ) এর সাথে মালিকানা বোঝাচ্ছে।"
+  },
+  {
+    "id": 308,
+    "question": "Student life is the (a) _____ (pre-modify the noun) period of life.",
+    "options": {
+      "a": "golden",
+      "b": "gold",
+      "c": "goldly",
+      "d": "goldenly"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'golden' (সোনালী)। Adjective 'golden' এখানে 'period' (সময়কাল) noun-কে modify করছে।"
+  },
+  {
+    "id": 309,
+    "question": "A student must be (b) _____ (post-modify the verb with an adjective).",
+    "options": {
+      "a": "obedient",
+      "b": "obediently",
+      "c": "obedience",
+      "d": "obey"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'obedient' (অনুগত/আজ্ঞাবহ)। Linking verb 'be'-এর পর adjective বসেছে যা সাবজেক্টের অবস্থা বোঝাচ্ছে।"
+  },
+  {
+    "id": 310,
+    "question": "He should read (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "regularly",
+      "b": "regular",
+      "c": "regularity",
+      "d": "regulate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'regularly' (নিয়মিতভাবে)। Adverb 'regularly' এখানে 'read' verb-টিকে modify করছে।"
+  },
+  {
+    "id": 311,
+    "question": "He should avoid (d) _____ (pre-modify the noun) company.",
+    "options": {
+      "a": "bad",
+      "b": "badly",
+      "c": "badness",
+      "d": "worse"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'bad' (খারাপ)। 'company' মানে এখানে 'সঙ্গ'। তাকে খারাপ সঙ্গ এড়িয়ে চলতে হবে।"
+  },
+  {
+    "id": 312,
+    "question": "Character, (e) _____ (use an appositive), is the crown of a student.",
+    "options": {
+      "a": "a great asset",
+      "b": "is an asset",
+      "c": "which is asset",
+      "d": "asset"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a great asset' (একটি বড় সম্পদ)। এটি 'Character'-এর appositive হিসেবে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 313,
+    "question": "He must utilize (f) _____ (use a possessive to pre-modify the noun) time.",
+    "options": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'his' (তার)। Possessive 'his' এখানে 'time' noun-এর সাথে সম্বন্ধ বোঝাচ্ছে।"
+  },
+  {
+    "id": 314,
+    "question": "Success is (g) _____ (pre-modify the adjective with an intensifier) certain for him.",
+    "options": {
+      "a": "almost",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'almost' (প্রায়)। 'Almost certain' মানে প্রায় নিশ্চিত। 'Very'-ও হতে পারত, তবে অপশন অনুযায়ী 'almost' সঠিক।"
+  },
+  {
+    "id": 315,
+    "question": "Flower is (a) _____ (use an article) symbol of beauty.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। 'symbol' (প্রতীক) consonant sound দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 316,
+    "question": "It is (b) _____ (pre-modify the adjective with an intensifier) pleasing to look at.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "so as"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। 'Pleasing' মানে আনন্দদায়ক বা মনোমুগ্ধকর।"
+  },
+  {
+    "id": 317,
+    "question": "Rose is called (c) _____ (use an article) queen of flowers.",
+    "options": {
+      "a": "the",
+      "b": "a",
+      "c": "an",
+      "d": "any"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'the' (টি)। নির্দিষ্ট করে বোঝাতে 'queen of flowers' (ফুলের রাণী)-এর আগে 'the' বসে।"
+  },
+  {
+    "id": 318,
+    "question": "Flowers (d) _____ (post-modify the verb with an adverb) bloom in spring.",
+    "options": {
+      "a": "generally",
+      "b": "general",
+      "c": "generalize",
+      "d": "generalness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'generally' (সাধারণত)। Adverb 'generally' এখানে 'bloom' (ফোটা) verb-কে modify করছে।"
+  },
+  {
+    "id": 319,
+    "question": "People use flowers (e) _____ (post-modify the verb with an infinitive phrase) their houses.",
+    "options": {
+      "a": "to decorate",
+      "b": "decorating",
+      "c": "for decorating",
+      "d": "to decorated"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to decorate' (সাজাতে)। 'to + decorate' (infinitive) এখানে ঘর সাজানোর উদ্দেশ্য বোঝাচ্ছে।"
+  },
+  {
+    "id": 320,
+    "question": "Various (f) _____ (pre-modify the noun) festivals require flowers.",
+    "options": {
+      "a": "cultural",
+      "b": "culturally",
+      "c": "culture",
+      "d": "culturing"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'cultural' (সাংস্কৃতিক)। Adjective 'cultural' এখানে 'festivals' (উৎসব) noun-কে modify করছে।"
+  },
+  {
+    "id": 321,
+    "question": "Rose, (g) _____ (use an appositive), is loved by all.",
+    "options": {
+      "a": "a favorite flower",
+      "b": "is a flower",
+      "c": "which is a flower",
+      "d": "flower"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a favorite flower' (একটি প্রিয় ফুল)। এটি 'Rose'-এর অতিরিক্ত পরিচয় দানকারী appositive।"
+  },
+  {
+    "id": 322,
+    "question": "Newspaper is (a) _____ (use an article) mirror of the world.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। সংবাদপত্র হলো বিশ্বের দর্পণ (mirror)।"
+  },
+  {
+    "id": 323,
+    "question": "It gives us (b) _____ (pre-modify the noun) news.",
+    "options": {
+      "a": "current",
+      "b": "currently",
+      "c": "currency",
+      "d": "currentness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'current' (চলতি/সাম্প্রতিক)। এটি 'news' noun-কে modify করছে।"
+  },
+  {
+    "id": 324,
+    "question": "We can know (c) _____ (pre-modify the noun with a determiner) things from it.",
+    "options": {
+      "a": "many",
+      "b": "much",
+      "c": "any",
+      "d": "little"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'many' (অনেক)। 'things' countable plural noun হওয়ায় 'many' বসেছে।"
+  },
+  {
+    "id": 325,
+    "question": "Reading newspaper, (d) _____ (use an appositive), should be a habit.",
+    "options": {
+      "a": "a source of knowledge",
+      "b": "is a source",
+      "c": "which is a source",
+      "d": "source"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a source of knowledge' (জ্ঞানের উৎস)। এটি newspaper পড়ার গুরুত্ব বোঝাতে appositive হিসেবে বসেছে।"
+  },
+  {
+    "id": 326,
+    "question": "It keeps us (e) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "informed",
+      "b": "inform",
+      "c": "informing",
+      "d": "information"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'informed' (অবহিত)। এটি আমাদের বিশ্ব সম্পর্কে অবহিত বা সচেতন (informed) রাখে।"
+  },
+  {
+    "id": 327,
+    "question": "Modern civilization (f) _____ (pre-modify the verb) depends on it.",
+    "options": {
+      "a": "greatly",
+      "b": "great",
+      "c": "greatness",
+      "d": "greater"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'greatly' (ব্যাপকভাবে)। Adverb 'greatly' এখানে 'depends' verb-কে modify করছে।"
+  },
+  {
+    "id": 328,
+    "question": "One can gain (g) _____ (use a possessive to pre-modify the noun) knowledge this way.",
+    "options": {
+      "a": "one's",
+      "b": "his",
+      "c": "our",
+      "d": "their"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'one's' (নিজের/কারো)। সাবজেক্ট 'one' থাকলে তার possessive 'one's' হয়।"
+  },
+  {
+    "id": 329,
+    "question": "Discipline is the (a) _____ (pre-modify the noun) secret of success.",
+    "options": {
+      "a": "key",
+      "b": "open",
+      "c": "main",
+      "d": "mainness"
+    },
+    "correct_answer": "c",
+    "explanation": "Correct answer is 'main' (প্রধান)। শৃঙ্খলাই সফলতার প্রধান রহস্য (secret)।"
+  },
+  {
+    "id": 330,
+    "question": "A (b) _____ (pre-modify the noun) person follows rules.",
+    "options": {
+      "a": "disciplined",
+      "b": "discipline",
+      "c": "disciplining",
+      "d": "disciplinarian"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'disciplined' (শৃঙ্খলিত)। এটি একটি adjective যা ব্যক্তিকে বর্ণনা করছে।"
+  },
+  {
+    "id": 331,
+    "question": "He leads (c) _____ (use an article) orderly life.",
+    "options": {
+      "a": "an",
+      "b": "a",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'an' (একটি)। 'orderly' vowel sound দিয়ে শুরু হওয়ায় 'an' বসেছে।"
+  },
+  {
+    "id": 332,
+    "question": "Nature is (d) _____ (pre-modify the adjective with an intensifier) disciplined.",
+    "options": {
+      "a": "highly",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'highly' (উচ্চমাত্রায়/অত্যন্ত)। প্রকৃতি অত্যন্ত শৃঙ্খলিত। অপশনে 'very' না থাকায় 'highly' সঠিক।"
+  },
+  {
+    "id": 333,
+    "question": "We should (e) _____ (pre-modify the verb) maintain discipline.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। আমাদের সর্বদা শৃঙ্খলা বজায় রাখা উচিত।"
+  },
+  {
+    "id": 334,
+    "question": "Without discipline, (f) _____ (use an appositive), life becomes chaotic.",
+    "options": {
+      "a": "a vital rule",
+      "b": "is a rule",
+      "c": "which is a rule",
+      "d": "rule"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a vital rule' (একটি গুরুত্বপূর্ণ নিয়ম)। এটি 'Discipline'-এর appositive হিসেবে বসেছে। Chaotic মানে বিশৃঙ্খল।"
+  },
+  {
+    "id": 335,
+    "question": "Success is (g) _____ (post-modify the noun with an adjective) without it.",
+    "options": {
+      "a": "impossible",
+      "b": "impossibly",
+      "c": "impossibility",
+      "d": "possible"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'impossible' (অসম্ভব)। শৃঙ্খলা ছাড়া সফলতা অসম্ভব।"
+  },
+  {
+    "id": 336,
+    "question": "Global warming is (a) _____ (pre-modify the noun) threat to the earth.",
+    "options": {
+      "a": "serious",
+      "b": "seriously",
+      "c": "seriousness",
+      "d": "more serious"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'serious' (গুরুতর)। এটি 'threat' (হুমকি) noun-টিকে modify করছে।"
+  },
+  {
+    "id": 337,
+    "question": "The temperature is (b) _____ (post-modify the verb with an adverb) rising.",
+    "options": {
+      "a": "rapidly",
+      "b": "rapid",
+      "c": "rapidity",
+      "d": "rapided"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'rapidly' (দ্রুতগতিতে)। তাপমাত্রা দ্রুত বাড়ছে।"
+  },
+  {
+    "id": 338,
+    "question": "Carbon dioxide is the (c) _____ (pre-modify the noun) cause.",
+    "options": {
+      "a": "main",
+      "b": "mainly",
+      "c": "mainness",
+      "d": "more main"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'main' (প্রধান)। কার্বন ডাই-অক্সাইড হলো এর প্রধান কারণ।"
+  },
+  {
+    "id": 339,
+    "question": "Deforestation, (d) _____ (use an appositive), is increasing the risk.",
+    "options": {
+      "a": "the destruction of forests",
+      "b": "is destruction",
+      "c": "forest cutting",
+      "d": "cutting"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'the destruction of forests' (বন ধ্বংসকরণ)। এটি deforestation-এর appositive হিসেবে বসেছে।"
+  },
+  {
+    "id": 340,
+    "question": "We should plant trees (e) _____ (post-modify the verb with an infinitive phrase) the environment.",
+    "options": {
+      "a": "to save",
+      "b": "saving",
+      "c": "for saving",
+      "d": "to saved"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to save' (রক্ষা করতে)। পরিবেশ রক্ষার উদ্দেশ্যে গাছ লাগানো উচিত।"
+  },
+  {
+    "id": 341,
+    "question": "Pollution is (f) _____ (pre-modify the adjective with an intensifier) alarming.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "so as"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। 'Alarming' মানে উদ্বেগজনক।"
+  },
+  {
+    "id": 342,
+    "question": "We must protect (g) _____ (use a possessive to pre-modify the noun) planet.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। আমাদের উচিত আমাদের গ্রহকে রক্ষা করা।"
+  },
+  {
+    "id": 343,
+    "question": "Honesty is (a) _____ (use an article) rare quality today.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। 'rare' (দুর্লভ) consonant sound দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 344,
+    "question": "An honest man is (b) _____ (post-modify the verb with an adjective).",
+    "options": {
+      "a": "trustworthy",
+      "b": "trustworthily",
+      "c": "trustworthiness",
+      "d": "trust"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'trustworthy' (বিশ্বাসযোগ্য)। সৎ ব্যক্তি সবসময় বিশ্বাসযোগ্য হন।"
+  },
+  {
+    "id": 345,
+    "question": "He earns (c) _____ (pre-modify the noun with a possessive) bread by honest means.",
+    "options": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'his' (তার)। সে তার অন্ন (bread) সৎ পথে উপার্জন করে।"
+  },
+  {
+    "id": 346,
+    "question": "He leads (d) _____ (use an article) peaceful life.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। সৎ ব্যক্তি একটি শান্তিময় জীবন যাপন করেন।"
+  },
+  {
+    "id": 347,
+    "question": "Honesty, (e) _____ (use an appositive), is highly valued.",
+    "options": {
+      "a": "a great virtue",
+      "b": "is a virtue",
+      "c": "which is a virtue",
+      "d": "virtue"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a great virtue' (একটি মহৎ গুণ)। এটি honesty-র appositive হিসেবে বসেছে।"
+  },
+  {
+    "id": 348,
+    "question": "We should (f) _____ (pre-modify the verb) be honest.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। আমাদের সর্বদা সৎ হওয়া উচিত।"
+  },
+  {
+    "id": 349,
+    "question": "Honesty pays (g) _____ (post-modify the verb with an adverbial phrase).",
+    "options": {
+      "a": "in the long run",
+      "b": "long run",
+      "c": "at last",
+      "d": "finally"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'in the long run' (পরিশেষে/দীর্ঘমেয়াদে)। সততা শেষ পর্যন্ত সুফল দেয়।"
+  },
+  {
+    "id": 350,
+    "question": "A dishonest man is (h) _____ (pre-modify the adjective with an intensifier) unhappy.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। একজন অসৎ ব্যক্তি খুবই অসুখী (unhappy) হয়।"
+  },
+  {
+    "id": 351,
+    "question": "Water is (a) _____ (use an article) important element of the environment.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "b",
+    "explanation": "Correct answer is 'an' because 'important' starts with a vowel sound. পানি পরিবেশের 'an' (একটি) গুরুত্বপূর্ণ উপাদান।"
+  },
+  {
+    "id": 352,
+    "question": "Pure water is (b) _____ (pre-modify the adjective with an intensifier) necessary for health.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। বিশুদ্ধ পানি স্বাস্থ্যের জন্য খুবই প্রয়োজনীয়।"
+  },
+  {
+    "id": 353,
+    "question": "We must drink (c) _____ (pre-modify the noun) water.",
+    "options": {
+      "a": "safe",
+      "b": "safely",
+      "c": "safeness",
+      "d": "save"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'safe' (নিরাপদ)। আমাদের নিরাপদ পানি পান করা উচিত।"
+  },
+  {
+    "id": 354,
+    "question": "Dirty water is (d) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "harmful",
+      "b": "harmfully",
+      "c": "harmness",
+      "d": "harmless"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'harmful' (ক্ষতিকর)। ময়লা পানি স্বাস্থ্যের জন্য ক্ষতিকর।"
+  },
+  {
+    "id": 355,
+    "question": "It causes (e) _____ (pre-modify the noun with a determiner) diseases.",
+    "options": {
+      "a": "many",
+      "b": "much",
+      "c": "any",
+      "d": "little"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'many' (অনেক)। এটি অনেক রোগের কারণ হয়ে দাঁড়ায়।"
+  },
+  {
+    "id": 356,
+    "question": "Water, (f) _____ (use an appositive), should be kept clean.",
+    "options": {
+      "a": "life's liquid",
+      "b": "is liquid",
+      "c": "which is liquid",
+      "d": "liquid"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'life's liquid' (জীবনের তরল)। এটি পানির একটি প্রাসঙ্গিক appositive।"
+  },
+  {
+    "id": 357,
+    "question": "We should use water (g) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "wisely",
+      "b": "wise",
+      "c": "wisdom",
+      "d": "wiseness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'wisely' (বিজ্ঞতার সাথে)। আমাদের পানির ব্যবহার বিজ্ঞতার সাথে করা উচিত।"
+  },
+  {
+    "id": 358,
+    "question": "Television is (a) _____ (use an article) popular source of entertainment.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। টেলিভিশন বিনোদনের একটি জনপ্রিয় উৎস।"
+  },
+  {
+    "id": 359,
+    "question": "It telecasts (b) _____ (pre-modify the noun) programs.",
+    "options": {
+      "a": "various",
+      "b": "variously",
+      "c": "variety",
+      "d": "variation"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'various' (বিভিন্ন)। এটি বিভিন্ন অনুষ্ঠান সম্প্রচার করে।"
+  },
+  {
+    "id": 360,
+    "question": "We can see the news (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "instantly",
+      "b": "instant",
+      "c": "instance",
+      "d": "instants"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'instantly' (তৎক্ষণাৎ)। আমরা তৎক্ষণাৎ খবর দেখতে পারি।"
+  },
+  {
+    "id": 361,
+    "question": "Television, (d) _____ (use an appositive), provides knowledge.",
+    "options": {
+      "a": "a powerful medium",
+      "b": "is a medium",
+      "c": "which is medium",
+      "d": "medium"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a powerful medium' (একটি শক্তিশালী মাধ্যম)। এটি টেলিভিশনের appositive।"
+  },
+  {
+    "id": 362,
+    "question": "But it has (e) _____ (pre-modify the noun) effects too.",
+    "options": {
+      "a": "negative",
+      "b": "negatively",
+      "c": "negativity",
+      "d": "negate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'negative' (নেতিবাচক)। এর কিছু নেতিবাচক প্রভাবও রয়েছে।"
+  },
+  {
+    "id": 363,
+    "question": "Students should not watch it (f) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "excessively",
+      "b": "excessive",
+      "c": "excess",
+      "d": "excessiveness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'excessively' (অতিরিক্তভাবে)। শিক্ষার্থীদের অতিরিক্ত টেলিভিশন দেখা উচিত নয়।"
+  },
+  {
+    "id": 364,
+    "question": "It is (g) _____ (pre-modify the adjective with an intensifier) useful for all.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। এটি সবার জন্য খুবই উপকারী।"
+  },
+  {
+    "id": 365,
+    "question": "Morning walk is (a) _____ (use an article) easy exercise.",
+    "options": {
+      "a": "an",
+      "b": "a",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'an' (একটি)। প্রাতঃভ্রমণ একটি সহজ ব্যায়াম।"
+  },
+  {
+    "id": 366,
+    "question": "It is (b) _____ (pre-modify the adjective with an intensifier) beneficial for health.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। এটি স্বাস্থ্যের জন্য খুবই উপকারী।"
+  },
+  {
+    "id": 367,
+    "question": "One can enjoy (c) _____ (pre-modify the noun) air in the morning.",
+    "options": {
+      "a": "fresh",
+      "b": "freshly",
+      "c": "freshness",
+      "d": "freshen"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fresh' (তাজা)। সকালে তাজা বাতাস উপভোগ করা যায়।"
+  },
+  {
+    "id": 368,
+    "question": "It keeps (d) _____ (use a possessive to pre-modify the noun) mind cool.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। এটি আমাদের মন শান্ত রাখে।"
+  },
+  {
+    "id": 369,
+    "question": "Morning walk, (e) _____ (use an appositive), should be a daily habit.",
+    "options": {
+      "a": "a good habit",
+      "b": "is a habit",
+      "c": "which is a habit",
+      "d": "habit"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a good habit' (একটি ভালো অভ্যাস)। এটি morning walk-এর appositive।"
+  },
+  {
+    "id": 370,
+    "question": "We should go for it (f) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "regularly",
+      "b": "regular",
+      "c": "regularity",
+      "d": "regulate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'regularly' (নিয়মিত)। আমাদের নিয়মিত প্রাতঃভ্রমণে যাওয়া উচিত।"
+  },
+  {
+    "id": 371,
+    "question": "It is (g) _____ (post-modify the noun with an adjective) for old people.",
+    "options": {
+      "a": "essential",
+      "b": "essentially",
+      "c": "essence",
+      "d": "essencing"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'essential' (অপরিহার্য)। এটি বয়স্কদের জন্য অপরিহার্য।"
+  },
+  {
+    "id": 372,
+    "question": "Environment is the (a) _____ (pre-modify the noun) surrounding of us.",
+    "options": {
+      "a": "natural",
+      "b": "naturally",
+      "c": "nature",
+      "d": "naturalness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'natural' (প্রাকৃতিক)। আমাদের চারপাশের প্রাকৃতিক অবস্থাই হলো পরিবেশ।"
+  },
+  {
+    "id": 373,
+    "question": "But it is (b) _____ (post-modify the verb with a past participle) day by day.",
+    "options": {
+      "a": "polluted",
+      "b": "pollute",
+      "c": "polluting",
+      "d": "pollution"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'polluted' (দূষিত)। পরিবেশ দিন দিন দূষিত হচ্ছে।"
+  },
+  {
+    "id": 374,
+    "question": "We should protect (c) _____ (use a possessive to pre-modify the noun) environment.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। আমাদের পরিবেশ রক্ষা করা উচিত।"
+  },
+  {
+    "id": 375,
+    "question": "Trees, (d) _____ (use an appositive), maintain balance.",
+    "options": {
+      "a": "our best friends",
+      "b": "is friends",
+      "c": "which is friends",
+      "d": "friends"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our best friends' (আমাদের সেরা বন্ধু)। এটি trees-এর appositive।"
+  },
+  {
+    "id": 376,
+    "question": "We must not cut trees (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "thoughtlessly",
+      "b": "thoughtless",
+      "c": "thought",
+      "d": "thinking"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'thoughtlessly' (নির্বিচারে)। আমাদের নির্বিচারে গাছ কাটা উচিত নয়।"
+  },
+  {
+    "id": 377,
+    "question": "Clean environment is (f) _____ (pre-modify the adjective with an intensifier) important.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। পরিচ্ছন্ন পরিবেশ খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 378,
+    "question": "We should live (g) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "hygienically",
+      "b": "hygienic",
+      "c": "hygiene",
+      "d": "hygienics"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hygienically' (স্বাস্থ্যসম্মতভাবে)। আমাদের স্বাস্থ্যসম্মতভাবে বাস করা উচিত।"
+  },
+  {
+    "id": 379,
+    "question": "Education is (a) _____ (use an article) backbone of a nation.",
+    "options": {
+      "a": "the",
+      "b": "a",
+      "c": "an",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'the' (টি)। শিক্ষা জাতির মেরুদণ্ড।"
+  },
+  {
+    "id": 380,
+    "question": "It removes (b) _____ (pre-modify the noun) darkness.",
+    "options": {
+      "a": "mental",
+      "b": "mentally",
+      "c": "mentality",
+      "d": "mentalness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'mental' (মানসিক)। এটি মানসিক অন্ধকার দূর করে।"
+  },
+  {
+    "id": 381,
+    "question": "A (c) _____ (pre-modify the noun) person is aware of his rights.",
+    "options": {
+      "a": "literate",
+      "b": "literately",
+      "c": "literacy",
+      "d": "literal"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'literate' (শিক্ষিত)। একজন শিক্ষিত ব্যক্তি তার অধিকার সম্পর্কে সচেতন।"
+  },
+  {
+    "id": 382,
+    "question": "Education, (d) _____ (use an appositive), is a fundamental right.",
+    "options": {
+      "a": "a light of life",
+      "b": "is a light",
+      "c": "which is light",
+      "d": "light"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a light of life' (জীবনের আলো)। এটি শিক্ষার appositive।"
+  },
+  {
+    "id": 383,
+    "question": "We should provide education (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "equally",
+      "b": "equal",
+      "c": "equality",
+      "d": "equaling"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'equally' (সমানভাবে)। আমাদের সমানভাবে শিক্ষা প্রদান করা উচিত।"
+  },
+  {
+    "id": 384,
+    "question": "It helps us (f) _____ (post-modify the verb with an infinitive phrase) life better.",
+    "options": {
+      "a": "to lead",
+      "b": "leading",
+      "c": "for leading",
+      "d": "to leaded"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to lead' (পরিচালনা করতে)। এটি জীবনকে সুন্দরভাবে পরিচালনা করতে সাহায্য করে।"
+  },
+  {
+    "id": 385,
+    "question": "It is (g) _____ (pre-modify the adjective with an intensifier) necessary for all.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। এটি সবার জন্য খুবই প্রয়োজনীয়।"
+  },
+  {
+    "id": 386,
+    "question": "Hospitality is (a) _____ (use an article) great virtue.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। আতিথেয়তা একটি মহৎ গুণ।"
+  },
+  {
+    "id": 387,
+    "question": "Bangladeshis are (b) _____ (pre-modify the adjective with an intensifier) hospitable.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। বাংলাদেশিরা খুবই আতিথেয়তাপরায়ণ।"
+  },
+  {
+    "id": 388,
+    "question": "They welcome guests (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "warmly",
+      "b": "warm",
+      "c": "warmness",
+      "d": "warming"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'warmly' (উষ্ণভাবে)। তারা অতিথিদের উষ্ণভাবে স্বাগত জানায়।"
+  },
+  {
+    "id": 389,
+    "question": "Hospitality, (d) _____ (use an appositive), is part of our culture.",
+    "options": {
+      "a": "a noble tradition",
+      "b": "is a tradition",
+      "c": "which is tradition",
+      "d": "tradition"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a noble tradition' (একটি মহৎ ঐতিহ্য)। এটি hospitality-র appositive।"
+  },
+  {
+    "id": 390,
+    "question": "They serve (e) _____ (pre-modify the noun) food to the guests.",
+    "options": {
+      "a": "delicious",
+      "b": "deliciously",
+      "c": "deliciousness",
+      "d": "deliciate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'delicious' (সুস্বাদু)। তারা অতিথিদের সুস্বাদু খাবার পরিবেশন করে।"
+  },
+  {
+    "id": 391,
+    "question": "A guest feels (f) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "happy",
+      "b": "happily",
+      "c": "happiness",
+      "d": "happier"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'happy' (খুশি)। একজন অতিথি খুশি বোধ করেন।"
+  },
+  {
+    "id": 392,
+    "question": "We should (g) _____ (pre-modify the verb) be hospitable.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। আমাদের সর্বদা আতিথেয়তাপরায়ণ হওয়া উচিত।"
+  },
+  {
+    "id": 393,
+    "question": "Time is the (a) _____ (pre-modify the noun) thing.",
+    "options": {
+      "a": "most precious",
+      "b": "more precious",
+      "c": "precious",
+      "d": "preciously"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'most precious' (সবচেয়ে দামী)। সময় সবচেয়ে মূল্যবান জিনিস।"
+  },
+  {
+    "id": 394,
+    "question": "We should not waste it (b) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "idly",
+      "b": "idle",
+      "c": "idleness",
+      "d": "idling"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'idly' (অলসভাবে)। আমাদের অলসভাবে সময় নষ্ট করা উচিত নয়।"
+  },
+  {
+    "id": 395,
+    "question": "Time, (c) _____ (use an appositive), waits for none.",
+    "options": {
+      "a": "a constant flow",
+      "b": "is a flow",
+      "c": "which is flow",
+      "d": "flow"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a constant flow' (এক নিরন্তর প্রবাহ)। এটি সময়ের appositive।"
+  },
+  {
+    "id": 396,
+    "question": "We must do our duties (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "timely",
+      "b": "time",
+      "c": "timing",
+      "d": "times"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'timely' (সময়মতো)। আমাদের সময়মতো দায়িত্ব পালন করা উচিত।"
+  },
+  {
+    "id": 397,
+    "question": "Successful men used time (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "properly",
+      "b": "proper",
+      "c": "property",
+      "d": "propering"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'properly' (সঠিকভাবে)। সফল ব্যক্তিরা সময়ের সঠিক ব্যবহার করেছেন।"
+  },
+  {
+    "id": 398,
+    "question": "A (f) _____ (pre-modify the noun) student is punctual.",
+    "options": {
+      "a": "serious",
+      "b": "seriously",
+      "c": "seriousness",
+      "d": "seriate"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'serious' (গম্ভীর/নিষ্ঠাবান)। একজন নিষ্ঠাবান ছাত্র সময়নিষ্ঠ হয়।"
+  },
+  {
+    "id": 399,
+    "question": "Time management is (g) _____ (pre-modify the adjective with an intensifier) important.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। সময় ব্যবস্থাপনা খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 400,
+    "question": "We should value time (h) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "highly",
+      "b": "high",
+      "c": "height",
+      "d": "highness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'highly' (উচ্চমাত্রায়)। আমাদের সময়ের উচ্চ মূল্য দেওয়া উচিত।"
+  },
+  {
+    "id": 401,
+    "question": "A (a) _____ (pre-modify the noun) student is the asset of a nation.",
+    "options": {
+      "a": "brilliant",
+      "b": "brilliantly",
+      "c": "brilliance",
+      "d": "brilliantness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'brilliant' (মেধাবী)। এটি একটি adjective যা 'student' noun-টিকে মডিফাই করছে।"
+  },
+  {
+    "id": 402,
+    "question": "He works (b) _____ (post-modify the verb with an adverb) to succeed.",
+    "options": {
+      "a": "hard",
+      "b": "hardly",
+      "c": "hardened",
+      "d": "hardness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hard' (কঠোরভাবে)। 'hardly' মানে 'কদাচিৎ', তাই এখানে 'hard' সঠিক।"
+  },
+  {
+    "id": 403,
+    "question": "He follows (c) _____ (use a possessive to pre-modify the noun) teachers' advice.",
+    "options": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'his' (তার)।"
+  },
+  {
+    "id": 404,
+    "question": "Success, (d) _____ (use an appositive), depends on industry.",
+    "options": {
+      "a": "the result of labor",
+      "b": "is result",
+      "c": "which is result",
+      "d": "result"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'the result of labor' (পরিশ্রমের ফল)। এটি Success-এর appositive।"
+  },
+  {
+    "id": 405,
+    "question": "He is (e) _____ (pre-modify the adjective with an intensifier) attentive in class.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)।"
+  },
+  {
+    "id": 406,
+    "question": "He reads books (f) _____ (post-modify the verb with an infinitive phrase) knowledge.",
+    "options": {
+      "a": "to gain",
+      "b": "gaining",
+      "c": "for gaining",
+      "d": "to gained"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to gain' (অর্জন করতে)। এটি উদ্দেশ্য বোঝাচ্ছে।"
+  },
+  {
+    "id": 407,
+    "question": "Knowledge is (g) _____ (post-modify the noun with an adjective) for all.",
+    "options": {
+      "a": "essential",
+      "b": "essentially",
+      "c": "essence",
+      "d": "essencing"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'essential' (অপরিহার্য)।"
+  },
+  {
+    "id": 408,
+    "question": "Adulteration is (a) _____ (use an article) serious problem.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। ভেজাল একটি গুরুতর সমস্যা।"
+  },
+  {
+    "id": 409,
+    "question": "We eat (b) _____ (pre-modify the noun) food.",
+    "options": {
+      "a": "adulterated",
+      "b": "adulterate",
+      "c": "adulterating",
+      "d": "adulteration"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'adulterated' (ভেজালযুক্ত)। এটি একটি past participle যা adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 410,
+    "question": "Dishonest businessmen are (c) _____ (pre-modify the adjective with an intensifier) greedy.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। অসৎ ব্যবসায়ীরা খুবই লোভী।"
+  },
+  {
+    "id": 411,
+    "question": "They mix harmful chemicals (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "secretly",
+      "b": "secret",
+      "c": "secrecy",
+      "d": "secretness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'secretly' (গোপনে)।"
+  },
+  {
+    "id": 412,
+    "question": "Food adulteration, (e) _____ (use an appositive), is a crime.",
+    "options": {
+      "a": "a silent killer",
+      "b": "is a killer",
+      "c": "which is a killer",
+      "d": "killer"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a silent killer' (এক নিঃশব্দ ঘাতক)। এটি একটি যথার্থ appositive।"
+  },
+  {
+    "id": 413,
+    "question": "It affects (f) _____ (use a possessive to pre-modify the noun) health.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। এটি আমাদের স্বাস্থ্যের ক্ষতি করে।"
+  },
+  {
+    "id": 414,
+    "question": "The government should take steps (g) _____ (post-modify the verb with an infinitive phrase) it.",
+    "options": {
+      "a": "to stop",
+      "b": "stopping",
+      "c": "for stopping",
+      "d": "to stopped"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to stop' (বন্ধ করতে)।"
+  },
+  {
+    "id": 415,
+    "question": "A village doctor is a (a) _____ (pre-modify the noun) person.",
+    "options": {
+      "a": "familiar",
+      "b": "familiarly",
+      "c": "familiarity",
+      "d": "familiarize"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'familiar' (পরিচিত)। তিনি গ্রামে একজন পরিচিত ব্যক্তি।"
+  },
+  {
+    "id": 416,
+    "question": "He lives in (b) _____ (use an article) village.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)।"
+  },
+  {
+    "id": 417,
+    "question": "He treats patients (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "kindly",
+      "b": "kind",
+      "c": "kindness",
+      "d": "kindlyness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'kindly' (দয়াপরবশ হয়ে/সদয়ভাবে)।"
+  },
+  {
+    "id": 418,
+    "question": "He is (d) _____ (pre-modify the adjective with an intensifier) popular among the poor.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। তিনি গরিবদের কাছে খুবই জনপ্রিয়।"
+  },
+  {
+    "id": 419,
+    "question": "His dispensary, (e) _____ (use an appositive), is small.",
+    "options": {
+      "a": "a tiny room",
+      "b": "is a room",
+      "c": "which is a room",
+      "d": "room"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a tiny room' (একটি ছোট্ট কামরা)।"
+  },
+  {
+    "id": 420,
+    "question": "He visits (f) _____ (use a possessive to pre-modify the noun) patients at night.",
+    "options": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'his' (তার)।"
+  },
+  {
+    "id": 421,
+    "question": "He is a (g) _____ (pre-modify the noun) friend to the villagers.",
+    "options": {
+      "a": "real",
+      "b": "really",
+      "c": "reality",
+      "d": "realize"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'real' (প্রকৃত)। তিনি গ্রামবাসীদের প্রকৃত বন্ধু।"
+  },
+  {
+    "id": 422,
+    "question": "Youth is the (a) _____ (pre-modify the noun) time of life.",
+    "options": {
+      "a": "best",
+      "b": "better",
+      "c": "good",
+      "d": "well"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'best' (সেরা)। যৌবন জীবনের সেরা সময়।"
+  },
+  {
+    "id": 423,
+    "question": "It is (b) _____ (pre-modify the adjective with an intensifier) important for building career.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)।"
+  },
+  {
+    "id": 424,
+    "question": "The (c) _____ (pre-modify the noun) people are the future of the nation.",
+    "options": {
+      "a": "young",
+      "b": "younger",
+      "c": "youngly",
+      "d": "youngest"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'young' (তরুণ)। তরুণরাই জাতির ভবিষ্যৎ।"
+  },
+  {
+    "id": 425,
+    "question": "They should work (d) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "honestly",
+      "b": "honest",
+      "c": "honesty",
+      "d": "honestness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'honestly' (সততার সাথে)।"
+  },
+  {
+    "id": 426,
+    "question": "Youth, (e) _____ (use an appositive), is full of energy.",
+    "options": {
+      "a": "a period of vigor",
+      "b": "is power",
+      "c": "which is power",
+      "d": "power"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a period of vigor' (উদ্যমের সময়কাল)। Vigor মানে শক্তি বা উদ্যম।"
+  },
+  {
+    "id": 427,
+    "question": "We must guide (f) _____ (use a possessive to pre-modify the noun) youth properly.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। আমাদের যুবসমাজকে সঠিকভাবে পরিচালিত করা উচিত।"
+  },
+  {
+    "id": 428,
+    "question": "They can change the society (g) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "completely",
+      "b": "complete",
+      "c": "completion",
+      "d": "completeness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'completely' (সম্পূর্ণভাবে)।"
+  },
+  {
+    "id": 429,
+    "question": "Forests are (a) _____ (use an article) natural gift.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। বন হলো একটি প্রাকৃতিক উপহার।"
+  },
+  {
+    "id": 430,
+    "question": "They provide (b) _____ (pre-modify the noun) oxygen.",
+    "options": {
+      "a": "valuable",
+      "b": "valuably",
+      "c": "value",
+      "d": "valuation"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'valuable' (মূল্যবান)।"
+  },
+  {
+    "id": 431,
+    "question": "We should not destroy (c) _____ (use a demonstrative to pre-modify the noun) forests.",
+    "options": {
+      "a": "these",
+      "b": "this",
+      "c": "that",
+      "d": "those"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'these' (এই)। Plural 'forests'-এর জন্য 'these' বসেছে।"
+  },
+  {
+    "id": 432,
+    "question": "Deforestation, (d) _____ (use an appositive), causes climate change.",
+    "options": {
+      "a": "the cutting of trees",
+      "b": "is tree cutting",
+      "c": "tree cutting",
+      "d": "cutting"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'the cutting of trees' (গাছ কাটা)।"
+  },
+  {
+    "id": 433,
+    "question": "The weather is (e) _____ (pre-modify the adjective with an intensifier) unpredictable now.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। আবহাওয়া এখন খুবই অপ্রত্যাশিত (unpredictable)।"
+  },
+  {
+    "id": 434,
+    "question": "We should plant trees (f) _____ (post-modify the verb with an infinitive phrase) the world.",
+    "options": {
+      "a": "to save",
+      "b": "saving",
+      "c": "for saving",
+      "d": "to saved"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to save' (রক্ষা করতে)।"
+  },
+  {
+    "id": 435,
+    "question": "Forests keep the world (g) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "green",
+      "b": "greenly",
+      "c": "greenery",
+      "d": "greenness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'green' (সবুজ)।"
+  },
+  {
+    "id": 436,
+    "question": "Sports are (a) _____ (pre-modify the noun) activities.",
+    "options": {
+      "a": "physical",
+      "b": "physically",
+      "c": "physics",
+      "d": "physic"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'physical' (শারীরিক)। খেলাধুলা শারীরিক কর্মকাণ্ড।"
+  },
+  {
+    "id": 437,
+    "question": "They keep us (b) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "fit",
+      "b": "fitly",
+      "c": "fitness",
+      "d": "fitting"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fit' (সুস্থ/উপযুক্ত)।"
+  },
+  {
+    "id": 438,
+    "question": "Cricket is (c) _____ (use an article) popular game.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)।"
+  },
+  {
+    "id": 439,
+    "question": "Football, (d) _____ (use an appositive), is also played here.",
+    "options": {
+      "a": "another exciting game",
+      "b": "is a game",
+      "c": "which is game",
+      "d": "game"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'another exciting game' (অন্য একটি উত্তেজনাপূর্ণ খেলা)। এটি Football-এর appositive।"
+  },
+  {
+    "id": 440,
+    "question": "Students should play (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "daily",
+      "b": "day",
+      "c": "daylight",
+      "d": "daying"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'daily' (প্রতিদিন)।"
+  },
+  {
+    "id": 441,
+    "question": "Sports improve (f) _____ (use a possessive to pre-modify the noun) personality.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)।"
+  },
+  {
+    "id": 442,
+    "question": "They are (g) _____ (pre-modify the adjective with an intensifier) helpful for mental growth.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)।"
+  },
+  {
+    "id": 443,
+    "question": "Industry is the (a) _____ (pre-modify the noun) of success.",
+    "options": {
+      "a": "key",
+      "b": "lock",
+      "c": "door",
+      "d": "road"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'key' (চাবিকাঠি)। পরিশ্রমই সফলতার চাবিকাঠি।"
+  },
+  {
+    "id": 444,
+    "question": "An (b) _____ (pre-modify the noun) man cannot prosper.",
+    "options": {
+      "a": "idle",
+      "b": "idly",
+      "c": "idleness",
+      "d": "idling"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'idle' (অলস)। একজন অলস মানুষ উন্নতি করতে পারে না।"
+  },
+  {
+    "id": 445,
+    "question": "We must work (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "sincerely",
+      "b": "sincere",
+      "c": "sincerity",
+      "d": "sincereness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'sincerely' (আন্তরিকতার সাথে)।"
+  },
+  {
+    "id": 446,
+    "question": "Hard work, (d) _____ (use an appositive), is necessary.",
+    "options": {
+      "a": "a secret to progress",
+      "b": "is progress",
+      "c": "which is progress",
+      "d": "progress"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a secret to progress' (উন্নতির একটি গোপন সূত্র)।"
+  },
+  {
+    "id": 447,
+    "question": "Life is (e) _____ (pre-modify the adjective with an intensifier) short.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। জীবন খুবই সংক্ষিপ্ত।"
+  },
+  {
+    "id": 448,
+    "question": "We should use (f) _____ (use a possessive to pre-modify the noun) time wisely.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)।"
+  },
+  {
+    "id": 449,
+    "question": "Industry brings (g) _____ (pre-modify the noun) change.",
+    "options": {
+      "a": "positive",
+      "b": "positively",
+      "c": "positivity",
+      "d": "positiveness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'positive' (ইতিবাচক)। পরিশ্রম ইতিবাচক পরিবর্তন আনে।"
+  },
+  {
+    "id": 450,
+    "question": "Successful people are (h) _____ (pre-modify the adjective with an intensifier) industrious.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। সফল ব্যক্তিরা সর্বদা পরিশ্রমী (industrious) হন।"
+  },
+  {
+    "id": 451,
+    "question": "A (a) _____ (pre-modify the noun) book is a storehouse of knowledge.",
+    "options": {
+      "a": "good",
+      "b": "well",
+      "c": "better",
+      "d": "best"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'good' (ভালো)। এটি একটি adjective যা 'book' noun-কে বর্ণনা করছে।"
+  },
+  {
+    "id": 452,
+    "question": "It broadens (b) _____ (use a possessive to pre-modify the noun) outlook.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। বই আমাদের দৃষ্টিভঙ্গি (outlook) প্রসারিত করে।"
+  },
+  {
+    "id": 453,
+    "question": "We should read books (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "attentively",
+      "b": "attentive",
+      "c": "attention",
+      "d": "attentiveness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'attentively' (মনোযোগ সহকারে)।"
+  },
+  {
+    "id": 454,
+    "question": "Books, (d) _____ (use an appositive), are our best companions.",
+    "options": {
+      "a": "a source of joy",
+      "b": "is a source",
+      "c": "which is a source",
+      "d": "source"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a source of joy' (আনন্দের উৎস)। এটি 'Books'-এর appositive।"
+  },
+  {
+    "id": 455,
+    "question": "They give us (e) _____ (pre-modify the noun) pleasure.",
+    "options": {
+      "a": "immense",
+      "b": "immensely",
+      "c": "immensity",
+      "d": "immensed"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'immense' (প্রচুর/অপার)। তারা আমাদের অপার আনন্দ দেয়।"
+  },
+  {
+    "id": 456,
+    "question": "One can learn (f) _____ (pre-modify the noun with a determiner) things by reading.",
+    "options": {
+      "a": "many",
+      "b": "much",
+      "c": "any",
+      "d": "little"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'many' (অনেক)। 'things' plural countable noun।"
+  },
+  {
+    "id": 457,
+    "question": "It is (g) _____ (pre-modify the adjective with an intensifier) helpful.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। বই পড়া খুবই সহায়ক।"
+  },
+  {
+    "id": 458,
+    "question": "Patriotism is (a) _____ (use an article) noble virtue.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। দেশপ্রেম একটি মহৎ গুণ।"
+  },
+  {
+    "id": 459,
+    "question": "A (b) _____ (pre-modify the noun) man loves his country.",
+    "options": {
+      "a": "patriotic",
+      "b": "patriotically",
+      "c": "patriotism",
+      "d": "patriot"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'patriotic' (দেশপ্রেমিক)। এটি adjective হিসেবে 'man' noun-কে modify করছে।"
+  },
+  {
+    "id": 460,
+    "question": "He is ready (c) _____ (post-modify the adjective with an infinitive phrase) his life.",
+    "options": {
+      "a": "to sacrifice",
+      "b": "sacrificing",
+      "c": "for sacrificing",
+      "d": "to sacrificed"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to sacrifice' (উৎসর্গ করতে)। তিনি জীবন দিতে প্রস্তুত থাকেন।"
+  },
+  {
+    "id": 461,
+    "question": "Patriotism, (d) _____ (use an appositive), inspires us.",
+    "options": {
+      "a": "a sacred feeling",
+      "b": "is a feeling",
+      "c": "which is a feeling",
+      "d": "feeling"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a sacred feeling' (একটি পবিত্র অনুভূতি)।"
+  },
+  {
+    "id": 462,
+    "question": "It is (e) _____ (pre-modify the adjective with an intensifier) necessary for freedom.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। স্বাধীনতার জন্য এটি খুবই প্রয়োজনীয়।"
+  },
+  {
+    "id": 463,
+    "question": "We should (f) _____ (pre-modify the verb) respect patriots.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)। আমাদের সর্বদা দেশপ্রেমিকদের শ্রদ্ধা করা উচিত।"
+  },
+  {
+    "id": 464,
+    "question": "An (g) _____ (pre-modify the noun) man is hated by all.",
+    "options": {
+      "a": "unpatriotic",
+      "b": "patriotic",
+      "c": "unpatriotism",
+      "d": "unpatriotically"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'unpatriotic' (অদেশপ্রেমিক)। যার মাঝে দেশপ্রেম নেই তাকে সবাই ঘৃণা করে।"
+  },
+  {
+    "id": 465,
+    "question": "Mobile phone is (a) _____ (use an article) useful invention.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। 'Useful' এর আগে 'a' বসে কারণ 'u' এর উচ্চারণ 'yoo' এর মতো।"
+  },
+  {
+    "id": 466,
+    "question": "It makes communication (b) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "easy",
+      "b": "easily",
+      "c": "easiness",
+      "d": "easier"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'easy' (সহজ)। এটি যোগাযোগকে সহজ করে।"
+  },
+  {
+    "id": 467,
+    "question": "We can send messages (c) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "instantly",
+      "b": "instant",
+      "c": "instance",
+      "d": "instants"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'instantly' (তৎক্ষণাৎ)।"
+  },
+  {
+    "id": 468,
+    "question": "Mobile phone, (d) _____ (use an appositive), has some drawbacks.",
+    "options": {
+      "a": "a modern device",
+      "b": "is a device",
+      "c": "which is a device",
+      "d": "device"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a modern device' (একটি আধুনিক যন্ত্র)।"
+  },
+  {
+    "id": 469,
+    "question": "Children should not use it (e) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "excessively",
+      "b": "excessive",
+      "c": "excess",
+      "d": "excessiveness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'excessively' (অতিরিক্তভাবে)।"
+  },
+  {
+    "id": 470,
+    "question": "It can be (f) _____ (pre-modify the adjective with an intensifier) harmful for eyes.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। এটি চোখের জন্য খুবই ক্ষতিকর হতে পারে।"
+  },
+  {
+    "id": 471,
+    "question": "We should use (g) _____ (use a possessive to pre-modify the noun) phones carefully.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)।"
+  },
+  {
+    "id": 472,
+    "question": "Truthfulness is (a) _____ (use an article) great virtue.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। সত্যবাদিতা একটি মহৎ গুণ।"
+  },
+  {
+    "id": 473,
+    "question": "A (b) _____ (pre-modify the noun) man is respected by all.",
+    "options": {
+      "a": "truthful",
+      "b": "truthfully",
+      "c": "truthfulness",
+      "d": "truth"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'truthful' (সত্যবাদী)।"
+  },
+  {
+    "id": 474,
+    "question": "He (c) _____ (pre-modify the verb) speaks the truth.",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "rarely",
+      "d": "seldom"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)।"
+  },
+  {
+    "id": 475,
+    "question": "Truthfulness, (d) _____ (use an appositive), makes one noble.",
+    "options": {
+      "a": "a noble quality",
+      "b": "is a quality",
+      "c": "which is a quality",
+      "d": "quality"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a noble quality' (একটি মহৎ গুণ)।"
+  },
+  {
+    "id": 476,
+    "question": "Nobody believes a (e) _____ (pre-modify the noun) man.",
+    "options": {
+      "a": "liar",
+      "b": "lie",
+      "c": "lying",
+      "d": "lied"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'liar' (মিথ্যাবাদী)। কেউ একজন মিথ্যাবাদীকে বিশ্বাস করে না।"
+  },
+  {
+    "id": 477,
+    "question": "We should be (f) _____ (post-modify the verb with an adjective).",
+    "options": {
+      "a": "honest",
+      "b": "honestly",
+      "c": "honesty",
+      "d": "honestness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'honest' (সৎ)। আমাদের সৎ হওয়া উচিত।"
+  },
+  {
+    "id": 478,
+    "question": "Truthfulness is (g) _____ (pre-modify the adjective with an intensifier) essential.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)।"
+  },
+  {
+    "id": 479,
+    "question": "Rivers are (a) _____ (pre-modify the noun) sources of water.",
+    "options": {
+      "a": "natural",
+      "b": "naturally",
+      "c": "nature",
+      "d": "naturalness"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'natural' (প্রাকৃতিক)। নদী পানির প্রাকৃতিক উৎস।"
+  },
+  {
+    "id": 480,
+    "question": "They provide (b) _____ (pre-modify the noun) fish.",
+    "options": {
+      "a": "fresh",
+      "b": "freshly",
+      "c": "freshness",
+      "d": "freshen"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'fresh' (তাজা)।"
+  },
+  {
+    "id": 481,
+    "question": "But they are (c) _____ (post-modify the verb with a past participle).",
+    "options": {
+      "a": "polluted",
+      "b": "pollute",
+      "c": "polluting",
+      "d": "pollution"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'polluted' (দূষিত)। কিন্তু নদীগুলো দূষিত হচ্ছে।"
+  },
+  {
+    "id": 482,
+    "question": "The Buriganga, (d) _____ (use an appositive), is in danger.",
+    "options": {
+      "a": "a famous river",
+      "b": "is a river",
+      "c": "which is a river",
+      "d": "river"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a famous river' (একটি বিখ্যাত নদী)।"
+  },
+  {
+    "id": 483,
+    "question": "We should protect (e) _____ (use a possessive to pre-modify the noun) rivers.",
+    "options": {
+      "a": "our",
+      "b": "us",
+      "c": "we",
+      "d": "ours"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'our' (আমাদের)। আমাদের উচিত আমাদের নদীগুলো রক্ষা করা।"
+  },
+  {
+    "id": 484,
+    "question": "Waste materials are (f) _____ (post-modify the verb with an adverb) thrown into them.",
+    "options": {
+      "a": "continuously",
+      "b": "continuous",
+      "c": "continuity",
+      "d": "continued"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'continuously' (অবিরাম/ক্রমাগত)।"
+  },
+  {
+    "id": 485,
+    "question": "River pollution is (g) _____ (pre-modify the adjective with an intensifier) alarming.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। নদী দূষণ খুবই উদ্বেগজনক (alarming)।"
+  },
+  {
+    "id": 486,
+    "question": "A (a) _____ (pre-modify the noun) worker earns little.",
+    "options": {
+      "a": "poor",
+      "b": "poorly",
+      "c": "poorness",
+      "d": "poorest"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'poor' (গরিব)। একজন গরিব শ্রমিক অল্প আয় করেন।"
+  },
+  {
+    "id": 487,
+    "question": "He works (b) _____ (post-modify the verb with an adverb) from morning to dusk.",
+    "options": {
+      "a": "hard",
+      "b": "hardly",
+      "c": "hardness",
+      "d": "harding"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'hard' (কঠোরভাবে)। সকাল থেকে সন্ধ্যা পর্যন্ত তিনি কঠোর পরিশ্রম করেন।"
+  },
+  {
+    "id": 488,
+    "question": "He lives (c) _____ (post-modify the verb with an adverbial phrase) a hand to mouth life.",
+    "options": {
+      "a": "almost",
+      "b": "enough",
+      "c": "very",
+      "d": "so as"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'almost' (প্রায়)। তিনি দিন আনে দিন খায় (hand to mouth) অবস্থায় বাস করেন।"
+  },
+  {
+    "id": 489,
+    "question": "His income, (d) _____ (use an appositive), is very small.",
+    "options": {
+      "a": "a meager amount",
+      "b": "is meager",
+      "c": "which is meager",
+      "d": "meager"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a meager amount' (খুবই অল্প পরিমাণ)। Meager মানে নগণ্য বা অতি সামান্য।"
+  },
+  {
+    "id": 490,
+    "question": "He cannot buy (e) _____ (pre-modify the noun) food.",
+    "options": {
+      "a": "sufficient",
+      "b": "sufficiently",
+      "c": "sufficiency",
+      "d": "sufficed"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'sufficient' (পর্যাপ্ত)। তিনি পর্যাপ্ত খাবার কিনতে পারেন না।"
+  },
+  {
+    "id": 491,
+    "question": "His life is (f) _____ (pre-modify the adjective with an intensifier) miserable.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)। তার জীবন খুবই শোচনীয় (miserable)।"
+  },
+  {
+    "id": 492,
+    "question": "We should help (g) _____ (use a demonstrative to pre-modify the noun) people.",
+    "options": {
+      "a": "these",
+      "b": "this",
+      "c": "that",
+      "d": "those"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'these' (এই)। আমাদের এই ধরনের মানুষদের সাহায্য করা উচিত।"
+  },
+  {
+    "id": 493,
+    "question": "Kindness is (a) _____ (use an article) noble quality.",
+    "options": {
+      "a": "a",
+      "b": "an",
+      "c": "the",
+      "d": "no article"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a' (একটি)। দয়া একটি মহৎ গুণ।"
+  },
+  {
+    "id": 494,
+    "question": "We should be kind (b) _____ (post-modify the adjective with a prepositional phrase).",
+    "options": {
+      "a": "to animals",
+      "b": "by animals",
+      "c": "for animals",
+      "d": "in animals"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'to animals' (প্রাণীদের প্রতি)।"
+  },
+  {
+    "id": 495,
+    "question": "A (c) _____ (pre-modify the noun) person helps others.",
+    "options": {
+      "a": "kind",
+      "b": "kindly",
+      "c": "kindness",
+      "d": "kinder"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'kind' (দয়ালু)।"
+  },
+  {
+    "id": 496,
+    "question": "Haji Mohammad Mohsin, (d) _____ (use an appositive), was very kind.",
+    "options": {
+      "a": "a great philanthropist",
+      "b": "is a philanthropist",
+      "c": "who is kind",
+      "d": "kind man"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'a great philanthropist' (একজন মহান জনহিতৈষী)। Philanthropist মানে মানবপ্রেমিক।"
+  },
+  {
+    "id": 497,
+    "question": "He gave (e) _____ (use a possessive to pre-modify the noun) wealth to the poor.",
+    "options": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "himself"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'his' (তার)।"
+  },
+  {
+    "id": 498,
+    "question": "Kindness makes one (f) _____ (post-modify the noun with an adjective).",
+    "options": {
+      "a": "great",
+      "b": "greatly",
+      "c": "greatness",
+      "d": "greater"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'great' (মহান)।"
+  },
+  {
+    "id": 499,
+    "question": "It is (g) _____ (pre-modify the adjective with an intensifier) important for peace.",
+    "options": {
+      "a": "very",
+      "b": "enough",
+      "c": "too",
+      "d": "much"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'very' (খুবই)।"
+  },
+  {
+    "id": 500,
+    "question": "We should show kindness (h) _____ (post-modify the verb with an adverb).",
+    "options": {
+      "a": "always",
+      "b": "never",
+      "c": "seldom",
+      "d": "rarely"
+    },
+    "correct_answer": "a",
+    "explanation": "Correct answer is 'always' (সর্বদা)।"
+  }
+]

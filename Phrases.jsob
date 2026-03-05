@@ -4802,1201 +4802,696 @@
   {
     "id": 401,
     "question": "The exam is knocking at the door. I ______ study harder than ever.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "as if",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "as if", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "পরীক্ষা খুব কাছে হওয়ায় কঠোর পড়াশোনা করা এখন একটি আবশ্যিক বাধ্যবাধকতা (have to)।"
+    "explanation": "লজিক: পরীক্ষা সামনে (knocking at the door), তাই পড়া ছাড়া আর কোনো উপায় নেই। যখন বাইরের কোনো চাপের কারণে কোনো কাজ করা 'আবশ্যক' হয়ে যায়, তখন 'have to' বসে।"
   },
   {
     "id": 402,
     "question": "He is very poor. He cannot buy a bicycle, ______ a car.",
-    "options": {
-      "a": "let alone",
-      "b": "as soon as",
-      "c": "would rather",
-      "d": "what if"
-    },
+    "options": { "a": "let alone", "b": "as soon as", "c": "would rather", "d": "what if" },
     "correct_answer": "a",
-    "explanation": "সাইকেলই কিনতে পারে না, গাড়ি তো অনেক বড় ব্যাপার (let alone)।"
+    "explanation": "লজিক: যে মানুষ সাইকেলই কিনতে পারে না, তার পক্ষে গাড়ি কেনা তো আকাশকুসুম কল্পনা। ছোট জিনিসের তুলনায় বড় জিনিসের অসম্ভবতা বোঝাতে 'let alone' বসে।"
   },
   {
     "id": 403,
     "question": "______ walking in the rain for an hour? It was a unique experience.",
-    "options": {
-      "a": "What's it like",
-      "b": "What does it look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's it like", "b": "What does it look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "বৃষ্টিতে হাঁটার অনুভূতি বা অভিজ্ঞতা কেমন ছিল তা জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: বৃষ্টির মধ্যে হাঁটার 'অভিভূতি' কেমন ছিল তা জানতে চাওয়া হচ্ছে। বাক্যের শেষে (?) এবং শুরুতে শূন্যস্থানের পর Verb+ing (walking) থাকলে চোখ বন্ধ করে 'What's it like' বসবে।"
   },
   {
     "id": 404,
     "question": "I ______ die than beg for money from my relatives.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as though"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "ভিক্ষা করার চেয়ে মৃত্যুকে শ্রেয় মনে করা হচ্ছে (preference)। 'than' থাকায় 'would rather' বসেছে।"
+    "explanation": "লজিক: ভিক্ষা করার চেয়ে মৃত্যু ভালো। এখানে দুটি অপশনের মধ্যে একটিকে পছন্দ (Preference) করা হচ্ছে। চেনার উপায়: বাক্যে 'than' থাকলে এবং দুই কাজের মধ্যে তুলনা বুঝালে 'would rather' বসে।"
   },
   {
     "id": 405,
     "question": "Rabindranath Tagore ______ in 1861 at Jorasanko in Kolkata.",
-    "options": {
-      "a": "was born",
-      "b": "is born",
-      "c": "born",
-      "d": "has born"
-    },
+    "options": { "a": "was born", "b": "is born", "c": "born", "d": "has born" },
     "correct_answer": "a",
-    "explanation": "বিশ্বকবির জন্ম পরিচয় দিতে 'was born' ব্যবহৃত হয়েছে।"
+    "explanation": "লজিক: রবীন্দ্রনাথ ঠাকুর অতীতে জন্মেছেন। জন্ম নেওয়ার ক্ষেত্রে প্যাসিভ ভয়েস হিসেবে সবসময় 'was born' বসে।"
   },
   {
     "id": 406,
     "question": "______ is no secret that he is a very honest man.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "As if"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "As if" },
     "correct_answer": "a",
-    "explanation": "'It is no secret' একটি প্রচলিত গঠন, যেখানে 'It' সাবজেক্ট হিসেবে কাজ করে।"
+    "explanation": "লজিক: এখানে একটি সত্য কথা বলা হচ্ছে। 'It is no secret' একটি ফিক্সড ফ্রেজ। কোনো কিছুর অবস্থা বা তথ্য শুরু করতে 'Introductory It' ব্যবহৃত হয়।"
   },
   {
     "id": 407,
     "question": "The bell rang ______ the teacher entered the classroom.",
-    "options": {
-      "a": "as soon as",
-      "b": "let alone",
-      "c": "would rather",
-      "d": "had better"
-    },
+    "options": { "a": "as soon as", "b": "let alone", "c": "would rather", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "শিক্ষক ঢোকা মাত্রই ঘণ্টা বাজল।"
+    "explanation": "লজিক: শিক্ষক ঢুকলেন আর অমনি ঘণ্টা বাজল। অর্থাৎ এক সেকেন্ডও দেরি হয়নি। এক কাজের পরপরই আরেক কাজ ঘটা বোঝাতে 'as soon as' বসে।"
   },
   {
     "id": 408,
-    "question": "A: ______ a satellite ______?\nB: It looks like a high-tech machine with solar panels, orbiting the earth.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How is",
-      "d": "What if"
-    },
+    "question": "A: ______ a satellite ______?\nB: It looks like a high-tech machine with solar panels.",
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How is", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "স্যাটেলাইটের চেহারার বর্ণনা জানতে প্রশ্নটি করা হয়েছে।"
+    "explanation": "লজিক: স্যাটেলাইট দেখতে কেমন (শারীরিক গঠন)? প্রশ্নকর্তা এর রূপ সম্পর্কে জানতে চাচ্ছেন। শুরুতে 'What does' এবং শেষে 'look like' বসে রূপ বর্ণনার ক্ষেত্রে।"
   },
   {
     "id": 409,
     "question": "______ if the world runs out of fresh water in the future?",
-    "options": {
-      "a": "What if",
-      "b": "What's it like",
-      "c": "Lest",
-      "d": "As if"
-    },
+    "options": { "a": "What if", "b": "What's it like", "c": "Lest", "d": "As if" },
     "correct_answer": "a",
-    "explanation": "ভবিষ্যতে পানি ফুরিয়ে গেলে কী হবে? (আশঙ্কা/What if)।"
+    "explanation": "লজিক: পানি ফুরিয়ে গেলে কী হবে—একটি কাল্পনিক ভয় বা সমস্যা নিয়ে প্রশ্ন করা হচ্ছে। বাক্যের শুরুতে শূন্যস্থান এবং শেষে (?) থাকলে 'What if' বসে।"
   },
   {
     "id": 410,
     "question": "We ______ save water for the next generation.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "as though",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "as though", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "পরবর্তী প্রজন্মের জন্য পানি বাঁচানো আমাদের নৈতিক বাধ্যবাধকতা।"
+    "explanation": "লজিক: পরবর্তী প্রজন্মের জন্য পানি বাঁচানো আমাদের নৈতিক দায়িত্ব বা 'জরুরি কাজ'। এই গুরুত্ব বোঝাতে 'have to' ব্যবহৃত হয়।"
   },
   {
     "id": 411,
     "question": "The man behaves ______ he were a multimillionaire.",
-    "options": {
-      "a": "as if",
-      "b": "let alone",
-      "c": "as soon as",
-      "d": "lest"
-    },
+    "options": { "a": "as if", "b": "let alone", "c": "as soon as", "d": "lest" },
     "correct_answer": "a",
-    "explanation": "মিলিওনিয়ার না হয়েও তেমন ভাব করা (as if)। 'were' ক্লুটি লক্ষ্য করো।"
+    "explanation": "লজিক: লোকটি বড়লোক না, কিন্তু বড়লোকি ভাব করছে। চেনার শর্ট টেকনিক: শূন্যস্থানের পরে 'were' থাকলে এবং অবাস্তব ভান করা বোঝালে 'as if' বা 'as though' বসে।"
   },
   {
     "id": 412,
     "question": "______ lived a brave king in a far land long ago.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Since",
-      "d": "What if"
-    },
+    "options": { "a": "There", "b": "It", "c": "Since", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "অতীতের কোনো রাজার অস্তিত্ব বা কাহিনীর সূচনা করতে 'There' বসে।"
+    "explanation": "লজিক: কোনো গল্প শুরু করার সময় বা কোনো কিছুর অবস্থান (রাজা থাকতেন) বোঝাতে 'Introductory There' ব্যবহৃত হয়।"
   },
   {
     "id": 413,
     "question": "You look tired. You ______ take some rest before starting again.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "was born",
-      "d": "what if"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "was born", "d": "what if" },
     "correct_answer": "a",
-    "explanation": "ক্লান্ত ব্যক্তিকে বিশ্রামের পরামর্শ দিতে 'had better' ব্যবহৃত হয়।"
+    "explanation": "লজিক: কাউকে কোনো 'পরামর্শ' দেওয়া হচ্ছে যা তার জন্য ভালো। যখন আমরা বলি 'তোমার বরং এটা করা ভালো হবে', তখন 'had better' বসে।"
   },
   {
     "id": 414,
     "question": "______ is impossible to satisfy everyone in this world.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "অসম্ভব কোনো পরিস্থিতি বা ধ্রুব সত্য প্রকাশে 'Introductory It' ব্যবহৃত হয়।"
+    "explanation": "লজিক: সবাইকে সন্তুষ্ট করা অসম্ভব—এই সাধারণ সত্যটি শুরু করার জন্য একটি dummy subject দরকার। এখানে 'It' সেই ভূমিকা পালন করছে।"
   },
   {
     "id": 415,
     "question": "I ______ quit the job than tolerate this insult every day.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as though"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "অপমান সহ্য করার চেয়ে চাকরি ছেড়ে দেওয়াকে সে বেশি পছন্দ করছে।"
+    "explanation": "লজিক: প্রতিদিন অপমানিত হওয়ার চেয়ে চাকরি ছাড়াকে বেছে নেওয়া হচ্ছে। 'Than' আছে মানেই এখানে 'would rather' বসবে।"
   },
   {
     "id": 416,
-    "question": "A: ______ the village fair ______?\nB: It was very colorful and crowded with people from all walks of life.",
-    "options": {
-      "a": "What's...like",
-      "b": "What does...look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "question": "A: ______ the village fair ______?\nB: It was very colorful and crowded.",
+    "options": { "a": "What's...like", "b": "What does...look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "মেলার প্রকৃতি বা অভিজ্ঞতা জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: মেলার অভিজ্ঞতা বা প্রকৃতি কেমন ছিল? উত্তরদাতা রূপ নয়, বরং পরিবেশ নিয়ে বলছেন। তাই 'What's it like' কাঠামোটি সঠিক।"
   },
   {
     "id": 417,
     "question": "Fasten your seatbelt ______ you should get injured in a sudden brake.",
-    "options": {
-      "a": "lest",
-      "b": "as soon as",
-      "c": "unless",
-      "d": "if"
-    },
+    "options": { "a": "lest", "b": "as soon as", "c": "unless", "d": "if" },
     "correct_answer": "a",
-    "explanation": "বেল্ট বাঁধো পাছে (lest) চোট পাও। 'should' দেখে এটি নিশ্চিত।"
+    "explanation": "লজিক: বেল্ট বাঁধো পাছে (পাছে ভয় হয় যে) ইনজুরি হয়। ক্লু: বাক্যে 'should' বা 'might' থাকলে তার আগে 'lest' বসে।"
   },
   {
     "id": 418,
     "question": "He left the house ______ he heard the news of his father's illness.",
-    "options": {
-      "a": "as soon as",
-      "b": "let alone",
-      "c": "would rather",
-      "d": "had better"
-    },
+    "options": { "a": "as soon as", "b": "let alone", "c": "would rather", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "খবর পাওয়া মাত্রই সে বাড়ি থেকে বের হয়ে গেল।"
+    "explanation": "লজিক: বাবার অসুস্থতার খবর শোনামাত্রই দেরি না করে সে বাড়ি ছাড়ল। তাৎক্ষণিক কাজের সংযোগে 'as soon as' বসে।"
   },
   {
     "id": 419,
-    "question": "A: ______ a kangaroo ______?\nB: It has a pouch to carry its young and hops on its powerful hind legs.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "question": "A: ______ a kangaroo ______?\nB: It has a pouch to carry its young.",
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "ক্যাঙ্গারুর বাহ্যিক বৈশিষ্ট্যের বর্ণনা জানতে প্রশ্ন করা হয়েছে।"
+    "explanation": "লজিক: ক্যাঙ্গারু দেখতে কেমন? তার শরীরের বর্ণনা দেওয়া হচ্ছে। তাই 'What does...look like' ব্যবহার করা হয়েছে।"
   },
   {
     "id": 420,
     "question": "Citizens ______ follow the traffic rules for their own safety.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "as though",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "as though", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "ট্রাফিক নিয়ম মানা একটি বাধ্যতামূলক আইনি দায়িত্ব।"
+    "explanation": "লজিক: ট্রাফিক রুল মানা ঐচ্ছিক নয়, এটি বাধ্যতামূলক আইন। তাই 'have to' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 421,
     "question": "She cannot speak her mother tongue correctly, ______ English.",
-    "options": {
-      "a": "let alone",
-      "b": "as soon as",
-      "c": "would rather",
-      "d": "what if"
-    },
+    "options": { "a": "let alone", "b": "as soon as", "c": "would rather", "d": "what if" },
     "correct_answer": "a",
-    "explanation": "মাতৃভাষাই ঠিকমতো বলতে পারে না, ইংরেজি তো আরও দূরের কথা (let alone)।"
+    "explanation": "লজিক: যে নিজের ভাষাই পারে না, সে বিদেশি ভাষা পারবে কি করে? অসম্ভব তুলনা প্রকাশে 'let alone' বসবে।"
   },
   {
     "id": 422,
     "question": "______ is a primary school in every village of Bangladesh.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Since",
-      "d": "Lest"
-    },
+    "options": { "a": "There", "b": "It", "c": "Since", "d": "Lest" },
     "correct_answer": "a",
-    "explanation": "স্কুল থাকার অস্তিত্ব বোঝাচ্ছে (Introductory There)।"
+    "explanation": "লজিক: কোনো কিছুর 'অস্তিত্ব' বা 'আছে' বোঝালে বাক্যের শুরুতে 'There' বসে।"
   },
   {
     "id": 423,
     "question": "Kazi Nazrul Islam ______ in 1899 at Churulia in Burdwan.",
-    "options": {
-      "a": "was born",
-      "b": "born",
-      "c": "is born",
-      "d": "has born"
-    },
+    "options": { "a": "was born", "b": "born", "c": "is born", "d": "has born" },
     "correct_answer": "a",
-    "explanation": "বিদ্রোহী কবির জন্ম ইতিহাস।"
+    "explanation": "লজিক: নজরুল ইসলাম জন্মেছিলেন। কোনো ব্যক্তির অতীতে জন্ম নেওয়া বোঝাতে 'was born' বসে।"
   },
   {
     "id": 424,
     "question": "______ is high time we worked together to build a prosperous nation.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "What if"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "'It is high time' কোনো কাজ করার এখনই উপযুক্ত সময় নির্দেশ করে।"
+    "explanation": "লজিক: এখনই উপযুক্ত সময় কাজ করার। ক্লু: 'High time' এর আগে সাবজেক্ট হিসেবে 'It' বসে।"
   },
   {
     "id": 425,
     "question": "I have to catch the 8 AM train. I ______ leave early.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "as though",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "as though", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "ট্রেন ধরার জন্য আগে বের হওয়া একটি জরুরি কাজ।"
+    "explanation": "লজিক: ট্রেন ধরার প্রয়োজনে আমার আগে বের হওয়া 'আবশ্যক'। বাধ্যবাধকতা বোঝাতে 'have to' বসে।"
   },
   {
     "id": 426,
     "question": "______ spending a night in a high-tech smart house?",
-    "options": {
-      "a": "What's it like",
-      "b": "What does it look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's it like", "b": "What does it look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "স্মার্ট হাউসে থাকার আধুনিক অভিজ্ঞতার কথা জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: স্মার্ট হাউসে থাকার অভিজ্ঞতা জানতে চাওয়া হচ্ছে। বাক্যের শেষে (?) এবং Verb+ing (spending) দেখে 'What's it like' বসানো হয়েছে।"
   },
   {
     "id": 427,
     "question": "I ______ lose my wealth than lose my dignity.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as if"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as if" },
     "correct_answer": "a",
-    "explanation": "মর্যাদা হারানোর চেয়ে সম্পদ হারানোকে সে শ্রেয় মনে করছে।"
+    "explanation": "লজিক: সম্মান হারানোর চেয়ে সম্পদ হারানো তার কাছে শ্রেয়। 'Than' যুক্ত পছন্দ প্রকাশে 'would rather' বসে।"
   },
   {
     "id": 428,
     "question": "The road is slippery. You ______ drive very carefully.",
-    "options": {
-      "a": "had better",
-      "b": "as if",
-      "c": "what if",
-      "d": "let alone"
-    },
+    "options": { "a": "had better", "b": "as if", "c": "what if", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "রাস্তা পিচ্ছিল হওয়ায় সাবধানে চালানো একটি জরুরি পরামর্শ।"
+    "explanation": "লজিক: রাস্তা পিচ্ছিল, তাই সাবধানে চালানোই হবে এখনকার জন্য সবথেকে ভালো কাজ। এই 'সঠিক কাজ' বোঝাতে 'had better' বসে।"
   },
   {
     "id": 429,
     "question": "______ if the bridge breaks when the heavy truck crosses it?",
-    "options": {
-      "a": "What if",
-      "b": "What's it like",
-      "c": "Lest",
-      "d": "As though"
-    },
+    "options": { "a": "What if", "b": "What's it like", "c": "Lest", "d": "As though" },
     "correct_answer": "a",
-    "explanation": "ট্রাক পার হওয়ার সময় ব্রিজ ভাঙলে কী হবে? (ভীতি/What if)।"
+    "explanation": "লজিক: ব্রিজ ভাঙলে কী সর্বনাশ হবে—এমন আশঙ্কায় প্রশ্ন করা হচ্ছে। এটি 'What if' এর পারফেক্ট উদাহরণ।"
   },
   {
     "id": 430,
     "question": "The boy started crying ______ he lost his favorite toy.",
-    "options": {
-      "a": "as soon as",
-      "b": "let alone",
-      "c": "would rather",
-      "d": "had better"
-    },
+    "options": { "a": "as soon as", "b": "let alone", "c": "would rather", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "খেলনা হারানো মাত্রই সে কান্না শুরু করল।"
+    "explanation": "লজিক: খেলনা হারানোর সাথে সাথে কান্না শুরু হলো। দ্রুত প্রতিক্রিয়া বা এক কাজের পরপরই অন্যটি হওয়া বোঝাতে 'as soon as' বসে।"
   },
   {
     "id": 431,
     "question": "______ is a large field in front of our school where we play.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Since",
-      "d": "Lest"
-    },
+    "options": { "a": "There", "b": "It", "c": "Since", "d": "Lest" },
     "correct_answer": "a",
-    "explanation": "মাঠ থাকার অস্তিত্ব বোঝাচ্ছে।"
+    "explanation": "লজিক: স্কুলের সামনে মাঠের 'অস্তিত্ব' আছে বোঝাতে 'Introductory There' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 432,
     "question": "She acts ______ she knew everything about the secret project.",
-    "options": {
-      "a": "as though",
-      "b": "let alone",
-      "c": "as soon as",
-      "d": "had better"
-    },
+    "options": { "a": "as though", "b": "let alone", "c": "as soon as", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "সবকিছু জানার ভান করা (as though)।"
+    "explanation": "লজিক: সে জানে না, কিন্তু ভাব করছে যেন সব জানে। 'As though' এবং 'As if' একই অর্থে ব্যবহৃত হয়।"
   },
   {
     "id": 433,
     "question": "The match had ended ______ the crowd reached the stadium.",
-    "options": {
-      "a": "before",
-      "b": "after",
-      "c": "since",
-      "d": "until"
-    },
+    "options": { "a": "before", "b": "after", "c": "since", "d": "until" },
     "correct_answer": "a",
-    "explanation": "ভিড় পৌঁছানোর আগেই খেলা শেষ হয়েছিল।"
+    "explanation": "লজিক: একটি কাজ অন্যটির আগে শেষ হয়েছে। ভিড় পৌঁছানোর আগেই খেলা শেষ। অতীতে দুই কাজের ব্যবধানে 'before' বসে।"
   },
   {
     "id": 434,
-    "question": "A: ______ a giant panda ______?\nB: It has a chubby body with black and white fur and looks very cute.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "question": "A: ______ a giant panda ______?\nB: It has a chubby body with black and white fur.",
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "পাণ্ডার চেহারার বর্ণনা।"
+    "explanation": "লজিক: পাণ্ডার চেহারা কেমন? বর্ণনা থেকে স্পষ্ট এটি রূপ বা আকার জানতে চাইছে, তাই 'What does...look like'।"
   },
   {
     "id": 435,
     "question": "You ______ check the weather forecast before going on a trek.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "was born",
-      "d": "as if"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "was born", "d": "as if" },
     "correct_answer": "a",
-    "explanation": "ট্রেকিংয়ে যাওয়ার আগে আবহাওয়ার খবর নেওয়া একটি ভালো পরামর্শ।"
+    "explanation": "লজিক: পাহাড়ে যাওয়ার আগে আবহাওয়া দেখে নেওয়াটা তোমার জন্য মঙ্গলজনক। এই হিতৈষী পরামর্শের জন্য 'had better' সঠিক।"
   },
   {
     "id": 436,
     "question": "He can't remember his phone number, ______ his bank account number.",
-    "options": {
-      "a": "let alone",
-      "b": "as soon as",
-      "c": "would rather",
-      "d": "what if"
-    },
+    "options": { "a": "let alone", "b": "as soon as", "c": "would rather", "d": "what if" },
     "correct_answer": "a",
-    "explanation": "ফোন নম্বরই মনে নেই, ব্যাংক অ্যাকাউন্ট নম্বর তো আরও কঠিন (let alone)।"
+    "explanation": "লজিক: ছোট নম্বরই মনে নেই, বড় অ্যাকাউন্ট নম্বর তো দূরের কথা (let alone)।"
   },
   {
     "id": 437,
     "question": "______ is a strong belief that the soul is immortal.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Since",
-      "d": "Lest"
-    },
+    "options": { "a": "There", "b": "It", "c": "Since", "d": "Lest" },
     "correct_answer": "a",
-    "explanation": "বিশ্বাসের অস্তিত্ব প্রকাশ করতে 'There' বসে।"
+    "explanation": "লজিক: একটি বিশ্বাস 'আছে'। অস্তিত্ব প্রকাশে 'There is' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 438,
     "question": "The great scientist Thomas Edison ______ in 1847 in Ohio.",
-    "options": {
-      "a": "was born",
-      "b": "born",
-      "c": "is born",
-      "d": "has born"
-    },
+    "options": { "a": "was born", "b": "born", "c": "is born", "d": "has born" },
     "correct_answer": "a",
-    "explanation": "এডিসনের জন্ম পরিচয়।"
+    "explanation": "লজিক: থমাস এডিসনের জন্ম পরিচয় দিতে 'was born' বসেছে।"
   },
   {
     "id": 439,
     "question": "I ______ face the truth than live in a world of fantasy.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as though"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "কল্পনার চেয়ে বাস্তবকে প্রাধান্য দেওয়া (would rather...than)।"
+    "explanation": "লজিক: সত্যকে স্বীকার করে নেওয়া তার কাছে কল্পনার চেয়ে ভালো। 'Than' থাকায় উত্তর 'would rather'।"
   },
   {
     "id": 440,
     "question": "______ is getting darker. We should light the candles.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "What if"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "আলোর অবস্থা বা অন্ধকারের বর্ণনা দিতে 'It' বসে।"
+    "explanation": "লজিক: অন্ধকার হওয়ার মতো আবহাওয়ার অবস্থা বোঝাতে 'It' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 441,
     "question": "Keep your voice down ______ you should disturb the sleeping baby.",
-    "options": {
-      "a": "lest",
-      "b": "as soon as",
-      "c": "unless",
-      "d": "if"
-    },
+    "options": { "a": "lest", "b": "as soon as", "c": "unless", "d": "if" },
     "correct_answer": "a",
-    "explanation": "আস্তে কথা বলো পাছে (lest) বাচ্চাটির ঘুম ভেঙে যায়।"
+    "explanation": "লজিক: আস্তে কথা বলো পাছে (পাছে ভয় হয় যে) বাচ্চার ঘুম ভেঙে যায়। 'should' আছে মানেই তার আগে 'lest' বসবে।"
   },
   {
     "id": 442,
     "question": "A: ______ the city life ______?\nB: It's very busy, noisy but full of opportunities.",
-    "options": {
-      "a": "What's...like",
-      "b": "What does...look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's...like", "b": "What does...look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "শহরের জীবনের বৈশিষ্ট্য বা প্রকৃতি জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: শহরের জীবনধারা কেমন? উত্তরদাতা পরিবেশ ও বৈশিষ্ট্য নিয়ে বলছেন, তাই 'What's it like'।"
   },
   {
     "id": 443,
     "question": "We ______ finish the report before the deadline.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "let alone",
-      "d": "as soon as"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "let alone", "d": "as soon as" },
     "correct_answer": "a",
-    "explanation": "ডেডলাইনের আগে রিপোর্ট জমা দেওয়া একটি আবশ্যিক কাজ।"
+    "explanation": "লজিক: ডেডলাইন পার হওয়ার আগে কাজ করা আমাদের জন্য আবশ্যিক কর্তব্য।"
   },
   {
     "id": 444,
     "question": "He screamed ______ he had seen a huge cockroach.",
-    "options": {
-      "a": "as if",
-      "b": "as soon as",
-      "c": "let alone",
-      "d": "had better"
-    },
+    "options": { "a": "as if", "b": "as soon as", "c": "let alone", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "সে এমনভাবে চিৎকার করল যেন সে আরশোলা দেখেছে।"
+    "explanation": "লজিক: চিৎকার দিল যেন সে আরশোলা দেখেছে। ভান বা কোনো কিছুর উপমা হিসেবে 'as if' বসেছে।"
   },
   {
     "id": 445,
     "question": "______ is no point in arguing with a fool.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "There", "b": "It", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "তর্ক করে কোনো লাভ নেই বোঝাতে 'There is no point' ব্যবহৃত হয়।"
+    "explanation": "লজিক: মূর্খের সাথে তর্ক করে কোনো ফায়দা নেই। 'There is no point' একটি কমন ফ্রেজ।"
   },
   {
     "id": 446,
     "question": "Many years have passed ______ he left the village.",
-    "options": {
-      "a": "since",
-      "b": "until",
-      "c": "before",
-      "d": "after"
-    },
+    "options": { "a": "since", "b": "until", "c": "before", "d": "after" },
     "correct_answer": "a",
-    "explanation": "সময়ের অতিবাহিত হওয়া।"
+    "explanation": "লজিক: 'অনেক বছর হয়ে গেছে গ্রাম ছাড়ার পর থেকে'। সময়ের অতিবাহিত হওয়া বোঝাতে 'since' ব্যবহৃত হয়।"
   },
   {
     "id": 447,
     "question": "______ bungee jumping from a high bridge?",
-    "options": {
-      "a": "What's it like",
-      "b": "What does it look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's it like", "b": "What does it look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "বাঞ্জি জাম্পিংয়ের রোমাঞ্চকর অনুভূতির কথা জিজ্ঞেস করা হচ্ছে।"
+    "explanation": "লজিক: বাঞ্জি জাম্পিং করার রোমাঞ্চকর অভিজ্ঞতা কেমন? বাক্যের শেষে (?) এবং Verb+ing আছে, তাই 'What's it like'।"
   },
   {
     "id": 448,
-    "question": "A: ______ a futuristic car ______?\nB: It has a streamlined body, no steering wheel, and runs on electricity.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "question": "A: ______ a futuristic car ______?\nB: It has a streamlined body and no steering wheel.",
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "ভবিষ্যতের গাড়ির চেহারার বর্ণনা চাওয়া হয়েছে।"
+    "explanation": "লজিক: ভবিষ্যতের গাড়ি দেখতে কেমন? রূপ ও কাঠামোর বর্ণনা চাওয়া হচ্ছে, তাই 'What does...look like'।"
   },
   {
     "id": 449,
     "question": "You ______ start exercising regularly to keep your heart healthy.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "was born",
-      "d": "as if"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "was born", "d": "as if" },
     "correct_answer": "a",
-    "explanation": "সুস্থ থাকতে ব্যায়াম শুরু করা একটি চমৎকার পরামর্শ (had better)।"
+    "explanation": "লজিক: হৃদপিণ্ড ভালো রাখতে ব্যায়াম করা তোমার জন্য শ্রেয়। এই সাধারণ উপদেশের জন্য 'had better' বসে।"
   },
   {
     "id": 450,
     "question": "I ______ reach the office by 9 AM to attend the meeting.",
-    "options": {
-      "a": "have to",
-      "b": "as soon as",
-      "c": "what if",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "as soon as", "c": "what if", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "অফিসে সময়মতো পৌঁছানো একটি বাধ্যবাধকতা (have to)।"
+    "explanation": "লজিক: মিটিংয়ে থাকার প্রয়োজনে সময়মতো পৌঁছানো একটি 'অপরিহার্য কাজ'। তাই 'have to' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 451,
     "question": "The sky is very cloudy. You ______ carry an umbrella with you.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "as if",
-      "d": "let alone"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "as if", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "মেঘলা আকাশ দেখে ছাতা সাথে নেওয়ার পরামর্শ দেওয়া হচ্ছে।"
+    "explanation": "লজিক: আকাশ মেঘলা, তাই বৃষ্টিতে ভেজা এড়াতে ছাতা নেওয়াটা তোমার জন্য সবথেকে বুদ্ধিমানের কাজ হবে। এমন 'হিতৈষী পরামর্শ' বা 'ভালো উপায়' বোঝাতে 'had better' বসে।"
   },
   {
     "id": 452,
     "question": "He can't afford a meal, ______ a feast.",
-    "options": {
-      "a": "let alone",
-      "b": "as if",
-      "c": "would rather",
-      "d": "had better"
-    },
+    "options": { "a": "let alone", "b": "as if", "c": "would rather", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "সাধারণ খাবারই জোটাতে পারে না, রাজকীয় ভোজ (feast) তো ভাবাই যায় না।"
+    "explanation": "লজিক: যে একবেলার খাবারই জোগাড় করতে পারে না, তার পক্ষে রাজকীয় ভোজ (feast) তো অকল্পনীয়। নেতিবাচক তুলনায় বড় বিষয়টিকে অসম্ভব বোঝাতে 'let alone' বসে।"
   },
   {
     "id": 453,
     "question": "______ living in a houseboat on a calm lake?",
-    "options": {
-      "a": "What's it like",
-      "b": "What does it look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's it like", "b": "What does it look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "হাউসবোটে থাকার শান্ত অভিজ্ঞতার কথা জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: হাউসবোটে থাকার অনুভূতি বা এক্সপেরিয়েন্স কেমন? বাক্যের শেষে (?) এবং শুরুতে শূন্যস্থানের পর Verb+ing (living) থাকায় এখানে 'What's it like' বসবে।"
   },
   {
     "id": 454,
     "question": "I ______ fail than adopt unfair means in the examination.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "was born"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "was born" },
     "correct_answer": "a",
-    "explanation": "অসৎ উপায়ের চেয়ে ফেল করাকে সে শ্রেয় মনে করছে।"
+    "explanation": "লজিক: পরীক্ষায় নকল করার চেয়ে ফেল করা ভালো—অর্থাৎ এখানে একটি অপশনকে প্রাধান্য (Preference) দেওয়া হচ্ছে। বাক্যে 'than' থাকলে এবং তুলনা বুঝালে 'would rather' বসে।"
   },
   {
     "id": 455,
     "question": "The national poet Kazi Nazrul Islam ______ in 1899.",
-    "options": {
-      "a": "was born",
-      "b": "is born",
-      "c": "born",
-      "d": "has born"
-    },
+    "options": { "a": "was born", "b": "is born", "c": "born", "d": "has born" },
     "correct_answer": "a",
-    "explanation": "নজরুলের জন্ম পরিচয়।"
+    "explanation": "লজিক: কাজী নজরুল ইসলামের জন্ম পরিচয় দেওয়া হচ্ছে। জন্মগ্রহণের ক্ষেত্রে প্যাসিভ হিসেবে সবসময় 'was born' ব্যবহৃত হয়।"
   },
   {
     "id": 456,
     "question": "______ is a popular saying that slow and steady wins the race.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Since",
-      "d": "Lest"
-    },
+    "options": { "a": "There", "b": "It", "c": "Since", "d": "Lest" },
     "correct_answer": "a",
-    "explanation": "প্রবাদের অস্তিত্ব বা প্রচলিত হওয়া বোঝাতে 'There' বসে।"
+    "explanation": "লজিক: একটি প্রবাদ 'আছে'। কোনো কিছুর অস্তিত্ব বা কোনো কথা প্রচলিত আছে এমন ক্ষেত্রে 'Introductory There' বসে।"
   },
   {
     "id": 457,
     "question": "The train left the station ______ I reached there.",
-    "options": {
-      "a": "as soon as",
-      "b": "before",
-      "c": "after",
-      "d": "since"
-    },
+    "options": { "a": "as soon as", "b": "before", "c": "after", "d": "since" },
     "correct_answer": "a",
-    "explanation": "এখানে 'as soon as' বসলে অর্থ হয় আমি পৌঁছানো মাত্রই ট্রেনটি ছাড়ল।"
+    "explanation": "লজিক: আমি স্টেশনে পৌঁছানো মাত্রই ট্রেনটি ছেড়ে দিল। এক কাজের সাথে সাথেই অন্য কাজ ঘটা বোঝাতে 'as soon as' বসে।"
   },
   {
     "id": 458,
-    "question": "A: ______ a robot ______?\nB: It looks like a machine with human-like features and can perform tasks.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How is",
-      "d": "What if"
-    },
+    "question": "A: ______ a robot ______?\nB: It looks like a machine with human-like features.",
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How is", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "রোবটের চেহারার বর্ণনা।"
+    "explanation": "লজিক: রোবট দেখতে কেমন (শারীরিক রূপ)? গঠন বা চেহারা সম্পর্কে জানতে চাওয়া হলে 'What does...look like' কাঠামো ব্যবহৃত হয়।"
   },
   {
     "id": 459,
     "question": "______ if the internet shuts down worldwide for a day?",
-    "options": {
-      "a": "What if",
-      "b": "What's it like",
-      "c": "Lest",
-      "d": "As if"
-    },
+    "options": { "a": "What if", "b": "What's it like", "c": "Lest", "d": "As if" },
     "correct_answer": "a",
-    "explanation": "ইন্টারনেট বন্ধ হয়ে গেলে কী হবে? (আশঙ্কা/What if)।"
+    "explanation": "লজিক: একদিন পুরো বিশ্বে ইন্টারনেট বন্ধ থাকলে কী হবে? একটি সম্ভাব্য সমস্যা বা ভীতি নিয়ে প্রশ্ন করতে 'What if' ব্যবহৃত হয়।"
   },
   {
     "id": 460,
     "question": "Students ______ be disciplined to succeed in life.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "let alone",
-      "d": "as though"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "let alone", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "জীবনে সফল হতে সুশৃঙ্খল হওয়া ছাত্রদের জন্য একটি আবশ্যিক শর্ত (have to)।"
+    "explanation": "লজিক: জীবনে সফল হতে চাইলে সুশৃঙ্খল হওয়া ছাড়া উপায় নেই। এমন বাধ্যবাধকতা বা অবশ্যই পালনীয় দায়িত্ব বোঝাতে 'have to' বসে।"
   },
   {
     "id": 461,
     "question": "He ordered me ______ I were his personal servant.",
-    "options": {
-      "a": "as though",
-      "b": "let alone",
-      "c": "as soon as",
-      "d": "lest"
-    },
+    "options": { "a": "as though", "b": "let alone", "c": "as soon as", "d": "lest" },
     "correct_answer": "a",
-    "explanation": "সে এমনভাবে আদেশ করল যেন আমি তার ব্যক্তিগত চাকর (as though)।"
+    "explanation": "লজিক: সে আমার মনিব না, কিন্তু এমনভাবে অর্ডার দিল যেন আমি তার কেনা গোলাম। চেনার শর্টকাট: শূন্যস্থানের পরে 'were' থাকলে এবং অবাস্তব তুলনা বোঝালে 'as though' বা 'as if' বসে।"
   },
   {
     "id": 462,
     "question": "______ is no point in crying over spilt milk.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "There", "b": "It", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "আক্ষেপ করে লাভ নেই বোঝাতে 'There is no point' বসে।"
+    "explanation": "লজিক: গত হয়ে যাওয়া বিষয় নিয়ে আক্ষেপ করে লাভ নেই। 'There is no point' একটি বাঁধাধরা নিয়ম বা ফ্রেজ।"
   },
   {
     "id": 463,
     "question": "The situation is critical. We ______ call the ambulance.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "was born",
-      "d": "what if"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "was born", "d": "what if" },
     "correct_answer": "a",
-    "explanation": "পরিস্থিতি জটিল হওয়ায় অ্যাম্বুলেন্স ডাকাই এখন সবথেকে ভালো কাজ (had better)।"
+    "explanation": "লজিক: অবস্থা গুরুতর, এখনই অ্যাম্বুলেন্স ডাকা উচিত। বর্তমানে কোনো জরুরি কাজ করার সুপরামর্শ দিতে 'had better' বসে।"
   },
   {
     "id": 464,
     "question": "______ is a long way from Dhaka to Chittagong.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "দূরত্ব বোঝাতে 'Introductory It' ব্যবহৃত হয়।"
+    "explanation": "লজিক: ঢাকা থেকে চট্টগ্রামের দূরত্ব বোঝাচ্ছে। আবহাওয়া, সময় বা দূরত্বের ক্ষেত্রে সাবজেক্ট হিসেবে 'Introductory It' ব্যবহৃত হয়।"
   },
   {
     "id": 465,
     "question": "I ______ lose my life than betray my country.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as though"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "দেশের সাথে বেইমানি করার চেয়ে জীবন দেওয়াকে সে শ্রেয় মনে করছে।"
+    "explanation": "লজিক: দেশের সাথে বেইমানি করার চেয়ে মরে যাওয়া ভালো। 'Than' আছে মানেই এখানে পছন্দের তুলনা হিসেবে 'would rather' বসবে।"
   },
   {
     "id": 466,
-    "question": "A: ______ your trip to Nepal ______?\nB: It was adventurous and the mountain views were breathtaking.",
-    "options": {
-      "a": "What's...like",
-      "b": "What does...look like",
-      "c": "How is",
-      "d": "What if"
-    },
+    "question": "A: ______ your trip to Nepal ______?\nB: It was adventurous and the views were breathtaking.",
+    "options": { "a": "What's...like", "b": "What does...look like", "c": "How is", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "ভ্রমণের অভিজ্ঞতা বা প্রকৃতি জানতে 'What's it like' সঠিক।"
+    "explanation": "লজিক: নেপাল ভ্রমণের অভিজ্ঞতা কেমন ছিল? পরিবেশ বা ভালো লাগা জানতে 'What's it like' বা 'What is it like' সঠিক।"
   },
   {
     "id": 467,
     "question": "Work hard ______ you should fail to achieve your goal.",
-    "options": {
-      "a": "lest",
-      "b": "as soon as",
-      "c": "if",
-      "d": "unless"
-    },
+    "options": { "a": "lest", "b": "as soon as", "c": "if", "d": "unless" },
     "correct_answer": "a",
-    "explanation": "কঠোর পরিশ্রম করো পাছে (lest) লক্ষ্য অর্জনে ব্যর্থ হও।"
+    "explanation": "লজিক: কঠোর পরিশ্রম করো পাছে (পাছে ভয় হয় যে) লক্ষ্য অর্জনে ব্যর্থ হও। শর্ট টেকনিক: বাক্যে 'should' থাকলে তার আগে সবসময় 'lest' বসে।"
   },
   {
     "id": 468,
     "question": "The bird flew away ______ I tried to catch it.",
-    "options": {
-      "a": "as soon as",
-      "b": "let alone",
-      "c": "would rather",
-      "d": "had better"
-    },
+    "options": { "a": "as soon as", "b": "let alone", "c": "would rather", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "ধরা মাত্রই পাখিটি উড়ে গেল।"
+    "explanation": "লজিক: আমি পাখিটি ধরতে গেলাম আর অমনি সেটি উড়ে গেল। অতি দ্রুত ঘটা দুটি কাজের সংযোগে 'as soon as' বসে।"
   },
   {
     "id": 469,
     "question": "A: ______ a rainbow ______?\nB: It looks like a giant multicolored arc across the sky.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "রংধনুর রূপের বর্ণনা।"
+    "explanation": "লজিক: রংধনু দেখতে কেমন (গঠন)? উত্তরদাতা এর রূপ বর্ণনা করছেন, তাই 'What does...look like'।"
   },
   {
     "id": 470,
     "question": "You ______ show your admit card to enter the exam hall.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "as though",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "as though", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "এডমিট কার্ড দেখানো একটি আবশ্যিক নিয়ম (have to)।"
+    "explanation": "লজিক: এডমিট কার্ড দেখানো একটি অফিশিয়াল নিয়ম যা মানতে তুমি বাধ্য। এই বাধ্যবাধকতায় 'have to' বসে।"
   },
   {
     "id": 471,
     "question": "He can't remember the year, ______ the exact date.",
-    "options": {
-      "a": "let alone",
-      "b": "as soon as",
-      "c": "would rather",
-      "d": "what if"
-    },
+    "options": { "a": "let alone", "b": "as soon as", "c": "would rather", "d": "what if" },
     "correct_answer": "a",
-    "explanation": "বছরই মনে নেই, সঠিক তারিখ তো আরও দূরের কথা (let alone)।"
+    "explanation": "লজিক: যে বছরই মনে রাখতে পারে না, তার পক্ষে তারিখ মনে রাখা তো আরও অসম্ভব (let alone)।"
   },
   {
     "id": 472,
     "question": "______ is a large pond in our village which is full of fish.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "There", "b": "It", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "পুকুর থাকার অস্তিত্ব বোঝাচ্ছে।"
+    "explanation": "লজিক: গ্রামে একটি বড় পুকুর 'আছে' বা পুকুরের অবস্থান আছে বোঝাতে 'Introductory There' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 473,
     "question": "Begum Rokeya ______ in 1880. She worked for women's education.",
-    "options": {
-      "a": "was born",
-      "b": "is born",
-      "c": "born",
-      "d": "has born"
-    },
+    "options": { "a": "was born", "b": "is born", "c": "born", "d": "has born" },
     "correct_answer": "a",
-    "explanation": "বেগম রোকেয়ার জন্ম পরিচয়।"
+    "explanation": "লজিক: বেগম রোকেয়ার জন্ম সাল বলা হচ্ছে, তাই এখানে 'was born' সঠিক।"
   },
   {
     "id": 474,
     "question": "______ is high time we stopped environment pollution.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "What if"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "'It is high time' কোনো কাজ করার এখনই উপযুক্ত সময়।"
+    "explanation": "লজিক: দূষণ বন্ধ করার এখনই সঠিক সময়। 'High time' এর আগে সাবজেক্ট হিসেবে 'It' বসে।"
   },
   {
     "id": 475,
     "question": "I have an important project. I ______ work overnight to finish it.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "as though",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "as though", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "প্রজেক্ট শেষ করতে রাত জেগে কাজ করা একটি আবশ্যিক কাজ।"
+    "explanation": "লজিক: প্রজেক্টটি গুরুত্বপূর্ণ হওয়ায় রাত জেগে কাজ করা ছাড়া উপায় নেই। এই কাজের বাধ্যবাধকতায় 'have to' ব্যবহৃত হয়।"
   },
   {
     "id": 476,
     "question": "______ scuba diving in the deep blue sea?",
-    "options": {
-      "a": "What's it like",
-      "b": "What does it look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's it like", "b": "What does it look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "স্কুবা ডাইভিংয়ের রোমাঞ্চকর অনুভূতির কথা জানতে চাওয়া হয়েছে।"
+    "explanation": "লজিক: গভীর সমুদ্রে স্কুবা ডাইভিং করার অনুভূতি কেমন? Verb+ing (scuba diving) এবং শেষে (?) দেখে 'What's it like' বসবে।"
   },
   {
     "id": 477,
     "question": "I ______ starve than take food from a thief.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as if"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as if" },
     "correct_answer": "a",
-    "explanation": "চোরের কাছে খাবার নেওয়ার চেয়ে না খেয়ে থাকাকে সে শ্রেয় মনে করছে।"
+    "explanation": "লজিক: চোরের কাছ থেকে খাবার নেওয়ার চেয়ে না খেয়ে থাকাকে বেছে নেওয়া হচ্ছে। 'Than' দেখে আমরা 'would rather' বসালাম।"
   },
   {
     "id": 478,
     "question": "You ______ check the expiration date before buying any food.",
-    "options": {
-      "a": "had better",
-      "b": "as if",
-      "c": "what if",
-      "d": "let alone"
-    },
+    "options": { "a": "had better", "b": "as if", "c": "what if", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "খাবার কেনার আগে মেয়াদ দেখে নেওয়া একটি জরুরি ও ভালো পরামর্শ।"
+    "explanation": "লজিক: খাবার কেনার আগে মেয়াদ পরীক্ষা করা একটি বুদ্ধিমানের কাজ। কাউকে এমন ভালো পরামর্শ দিলে 'had better' বসে।"
   },
   {
     "id": 479,
     "question": "______ if the global pandemic returns in a more dangerous form?",
-    "options": {
-      "a": "What if",
-      "b": "What's it like",
-      "c": "Lest",
-      "d": "As though"
-    },
+    "options": { "a": "What if", "b": "What's it like", "c": "Lest", "d": "As though" },
     "correct_answer": "a",
-    "explanation": "মহামারী ভয়াবহ আকারে ফিরলে কী হবে? (আশঙ্কা/What if)।"
+    "explanation": "লজিক: মহামারী আবার ফিরলে কী সর্বনাশ হবে—এমন বিপদের সম্ভাবনা নিয়ে প্রশ্ন করতে 'What if' বসে।"
   },
   {
     "id": 480,
     "question": "The boy shouted ______ he saw a snake in the garden.",
-    "options": {
-      "a": "as soon as",
-      "b": "let alone",
-      "c": "would rather",
-      "d": "had better"
-    },
+    "options": { "a": "as soon as", "b": "let alone", "c": "would rather", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "সাপ দেখা মাত্রই ছেলেটি চিৎকার করল।"
+    "explanation": "লজিক: সাপ দেখা মাত্রই বা সাথে সাথেই ছেলেটি চিৎকার দিল। কাজের দ্রুততায় 'as soon as' সঠিক।"
   },
   {
     "id": 481,
     "question": "______ is a popular belief that hard work is the key to success.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Since",
-      "d": "Lest"
-    },
+    "options": { "a": "There", "b": "It", "c": "Since", "d": "Lest" },
     "correct_answer": "a",
-    "explanation": "বিশ্বাসের অস্তিত্ব বা প্রচলন প্রকাশে 'There' ব্যবহৃত হয়।"
+    "explanation": "লজিক: একটি বিশ্বাস মানুষের মাঝে 'আছে'। অস্তিত্ব প্রকাশে 'There is' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 482,
     "question": "He talks ______ he knew all the world's secrets.",
-    "options": {
-      "a": "as if",
-      "b": "let alone",
-      "c": "as soon as",
-      "d": "had better"
-    },
+    "options": { "a": "as if", "b": "let alone", "c": "as soon as", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "সে এমনভাবে কথা বলে যেন সে সব জানে (as if)।"
+    "explanation": "লজিক: সে জানে না, কিন্তু ভাব করছে যেন সব জানে। অবাস্তব ভান বোঝাতে 'as if' বা 'as though' বসে।"
   },
   {
     "id": 483,
     "question": "I had reached the station ______ the train whistle blew.",
-    "options": {
-      "a": "before",
-      "b": "after",
-      "c": "since",
-      "d": "until"
-    },
+    "options": { "a": "before", "b": "after", "c": "since", "d": "until" },
     "correct_answer": "a",
-    "explanation": "হুইসেল বাজার আগেই আমি স্টেশনে পৌঁছেছিলাম।"
+    "explanation": "লজিক: ট্রেনের হুইসেল বাজার 'আগে' আমি স্টেশনে পৌঁছেছিলাম। পাস্ট পারফেক্ট টেন্স থাকায় এখানে 'before' সঠিক।"
   },
   {
     "id": 484,
     "question": "A: ______ an alien ______?\nB: It is often depicted as a green creature with large eyes.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "এলিয়েনের চেহারার বর্ণনা চাওয়া হয়েছে।"
+    "explanation": "লজিক: এলিয়েন দেখতে কেমন? রূপের বর্ণনা দেওয়া হচ্ছে, তাই 'What does...look like' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 485,
     "question": "You ______ start saving money for your future studies.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "was born",
-      "d": "as though"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "was born", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "ভবিষ্যতের জন্য টাকা জমানো একটি ভালো পরামর্শ (had better)।"
+    "explanation": "লজিক: ভবিষ্যতের জন্য টাকা জমানো তোমার জন্য ভালো বা মঙ্গলজনক। এই হিতৈষী উপদেশে 'had better' বসে।"
   },
   {
     "id": 486,
     "question": "She cannot buy a simple dress, ______ a diamond necklace.",
-    "options": {
-      "a": "let alone",
-      "b": "as soon as",
-      "c": "what if",
-      "d": "as though"
-    },
+    "options": { "a": "let alone", "b": "as soon as", "c": "what if", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "সাধারণ পোশাকই পারে না, হীরা তো ভাবাই যায় না (let alone)।"
+    "explanation": "লজিক: যে ড্রেস কিনতে পারে না, হীরা তো তার জন্য অসম্ভব। নেতিবাচক তুলনায় বড় বিষয়টিকে উড়িয়ে দিতে 'let alone' বসে।"
   },
   {
     "id": 487,
     "question": "______ is no point in waiting here anymore.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "There", "b": "It", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "এখানে অপেক্ষা করে আর লাভ নেই।"
+    "explanation": "লজিক: এখানে অপেক্ষা করে আর লাভ নেই। 'There is no point' একটি কমন ইংরেজি এক্সপ্রেশন।"
   },
   {
-    "id": 488,
-    "question": "Shakespeare ______ in 1564 in Stratford-upon-Avon.",
-    "options": {
-      "a": "was born",
-      "b": "born",
-      "c": "is born",
-      "d": "has born"
-    },
-    "correct_answer": "a",
-    "explanation": "শেক্সপিয়রের জন্ম পরিচয়।"
-  },
+    "id": 488, "question": "Shakespeare ______ in 1564 in Stratford-upon-Avon.", "options": { "a": "was born", "b": "born", "c": "is born", "d": "has born" }, "correct_answer": "a", "explanation": "লজিক: শেক্সপিয়রের জন্ম পরিচয় দিতে 'was born' সঠিক।" },
   {
     "id": 489,
     "question": "I ______ face the consequences than hide like a coward.",
-    "options": {
-      "a": "would rather",
-      "b": "had better",
-      "c": "have to",
-      "d": "as though"
-    },
+    "options": { "a": "would rather", "b": "had better", "c": "have to", "d": "as though" },
     "correct_answer": "a",
-    "explanation": "কাপুরুষের মতো লুকিয়ে থাকার চেয়ে পরিস্থিতির মুখোমুখি হওয়াকে সে প্রাধান্য দিচ্ছে।"
+    "explanation": "লজিক: লুকিয়ে থাকার চেয়ে পরিণতির মোকাবিলা করাকে সে পছন্দ করছে। 'Than' আছে মানেই উত্তর 'would rather'।"
   },
   {
     "id": 490,
     "question": "______ is very cold today. We should wear warm clothes.",
-    "options": {
-      "a": "It",
-      "b": "There",
-      "c": "Lest",
-      "d": "As though"
-    },
+    "options": { "a": "It", "b": "There", "c": "Lest", "d": "As though" },
     "correct_answer": "a",
-    "explanation": "আবহাওয়ার বর্ণনায় 'It' বসে।"
+    "explanation": "লজিক: আজকের আবহাওয়া কেমন? শীত বা গরম—এমন আবহাওয়ার বর্ণনায় 'Introductory It' ব্যবহৃত হয়।"
   },
   {
     "id": 491,
     "question": "Study attentively ______ you should fail to get good marks.",
-    "options": {
-      "a": "lest",
-      "b": "as soon as",
-      "c": "unless",
-      "d": "if"
-    },
+    "options": { "a": "lest", "b": "as soon as", "c": "unless", "d": "if" },
     "correct_answer": "a",
-    "explanation": "মনোযোগ দিয়ে পড়ো পাছে (lest) ভালো নম্বর না পাও।"
+    "explanation": "লজিক: মনোযোগ দিয়ে পড়ো পাছে (পাছে ভয় হয় যে) মার্কস কম পাও। ক্লু: বাক্যে 'should' থাকায় 'lest' বসবে।"
   },
   {
     "id": 492,
     "question": "A: ______ the mountain trekking ______?\nB: It was exhausting but very exciting.",
-    "options": {
-      "a": "What's...like",
-      "b": "What does...look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's...like", "b": "What does...look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "ট্রেকিংয়ের অভিজ্ঞতা সম্পর্কে জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: পাহাড়ে ট্রেকিং করার অভিজ্ঞতা কেমন ছিল? ভালো লাগা বা প্রকৃতি জানতে 'What's it like' সঠিক।"
   },
   {
     "id": 493,
     "question": "We ______ obey our teachers and elders.",
-    "options": {
-      "a": "have to",
-      "b": "was born",
-      "c": "let alone",
-      "d": "as soon as"
-    },
+    "options": { "a": "have to", "b": "was born", "c": "let alone", "d": "as soon as" },
     "correct_answer": "a",
-    "explanation": "শিক্ষক ও বড়দের মান্য করা আমাদের একটি নৈতিক দায়িত্ব।"
+    "explanation": "লজিক: বড়দের কথা মানা আমাদের নৈতিক দায়িত্ব ও অবশ্যই পালনীয় কাজ। তাই 'have to' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 494,
     "question": "He looked pale ______ he had seen a nightmare.",
-    "options": {
-      "a": "as if",
-      "b": "as soon as",
-      "c": "let alone",
-      "d": "had better"
-    },
+    "options": { "a": "as if", "b": "as soon as", "c": "let alone", "d": "had better" },
     "correct_answer": "a",
-    "explanation": "তাকে ফ্যাকাসে দেখাচ্ছিল যেন সে দুঃস্বপ্ন দেখেছে।"
+    "explanation": "লজিক: ফ্যাকাসে দেখাচ্ছে যেন সে দুঃস্বপ্ন দেখেছে। অবাস্তব ভান বা উপমায় 'as if' বসে।"
   },
   {
     "id": 495,
     "question": "______ is a large banyan tree in our locality.",
-    "options": {
-      "a": "There",
-      "b": "It",
-      "c": "Lest",
-      "d": "Since"
-    },
+    "options": { "a": "There", "b": "It", "c": "Lest", "d": "Since" },
     "correct_answer": "a",
-    "explanation": "বটগাছ থাকার অস্তিত্ব বোঝাচ্ছে।"
+    "explanation": "লজিক: আমাদের এলাকায় একটি বটগাছ 'আছে' বা গাছটির অস্তিত্ব আছে বোঝাতে 'Introductory There' ব্যবহৃত হয়েছে।"
   },
   {
     "id": 496,
     "question": "Five years have passed ______ he left the country.",
-    "options": {
-      "a": "since",
-      "b": "until",
-      "c": "before",
-      "d": "after"
-    },
+    "options": { "a": "since", "b": "until", "c": "before", "d": "after" },
     "correct_answer": "a",
-    "explanation": "সময়ের অতিবাহিত হওয়া।"
+    "explanation": "লজিক: সে দেশ ছাড়ার পর থেকে ৫ বছর কেটে গেছে। সময়ের ব্যাপ্তি বোঝাতে 'since' বসে।"
   },
   {
     "id": 497,
     "question": "______ traveling to Mars for the first time?",
-    "options": {
-      "a": "What's it like",
-      "b": "What does it look like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "options": { "a": "What's it like", "b": "What does it look like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "মঙ্গলে ভ্রমণের কাল্পনিক অভিজ্ঞতার কথা জানতে চাওয়া হচ্ছে।"
+    "explanation": "লজিক: মঙ্গলে ভ্রমণের অভিজ্ঞতা বা অনুভূতি কেমন হবে? Verb+ing (traveling) এবং প্রশ্নবোধক চিহ্ন দেখে 'What's it like' সঠিক।"
   },
   {
     "id": 498,
-    "question": "A: ______ a futuristic city ______?\nB: It looks like a high-tech hub with flying cars and green spaces.",
-    "options": {
-      "a": "What does...look like",
-      "b": "What's...like",
-      "c": "How about",
-      "d": "What if"
-    },
+    "question": "A: ______ a futuristic city ______?\nB: It looks like a high-tech hub with flying cars.",
+    "options": { "a": "What does...look like", "b": "What's...like", "c": "How about", "d": "What if" },
     "correct_answer": "a",
-    "explanation": "ভবিষ্যতের শহরের রূপের বর্ণনা।"
+    "explanation": "লজিক: ভবিষ্যতের শহর দেখতে কেমন? রূপের বর্ণনা চাওয়া হয়েছে, তাই 'What does...look like'।"
   },
   {
     "id": 499,
     "question": "You ______ follow the doctor's instructions for a fast recovery.",
-    "options": {
-      "a": "had better",
-      "b": "would rather",
-      "c": "as if",
-      "d": "was born"
-    },
+    "options": { "a": "had better", "b": "would rather", "c": "as if", "d": "was born" },
     "correct_answer": "a",
-    "explanation": "দ্রুত সুস্থ হতে ডাক্তারের পরামর্শ মানা একটি জরুরি বিষয়।"
+    "explanation": "লজিক: দ্রুত সুস্থ হওয়ার জন্য ডাক্তারের পরামর্শ মানা তোমার জন্য মঙ্গলজনক। এই পরামর্শের জন্য 'had better' বসে।"
   },
   {
     "id": 500,
     "question": "I ______ finish the assignment tonight to submit it tomorrow.",
-    "options": {
-      "a": "have to",
-      "b": "as soon as",
-      "c": "what if",
-      "d": "let alone"
-    },
+    "options": { "a": "have to", "b": "as soon as", "c": "what if", "d": "let alone" },
     "correct_answer": "a",
-    "explanation": "এসাইনমেন্ট জমা দেওয়ার জন্য আজই শেষ করা একটি আবশ্যিক কাজ।"
+    "explanation": "লজিক: আগামীকাল জমা দেওয়ার জন্য আজই কাজ শেষ করা আমার জন্য আবশ্যিক। এই জরুরি কাজের জন্য 'have to' ব্যবহৃত হয়েছে।"
   }
 ]

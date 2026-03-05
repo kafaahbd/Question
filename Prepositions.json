@@ -598,5 +598,605 @@
     },
     "correct_answer": "b",
     "explanation": "In memory of (স্মরণে)। এটি একটি প্রিপজিশনাল ফ্রেজ যা কারো স্মৃতির উদ্দেশ্যে কিছু করা বোঝায়।"
+  },
+  {
+    "id": 51,
+    "question": "The Englishman was very proud (b) ______ himself.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Proud of (গর্বিত)। এটি একটি খুবই কমন Appropriate Preposition। নিজের ওপর গর্ব করা অর্থে 'of' বসে।"
+  },
+  {
+    "id": 52,
+    "question": "He looked (c) ______ upon the Bengalee gentleman.",
+    "options": {
+      "a": "at",
+      "b": "down",
+      "c": "up",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Look down upon (ঘৃণা করা বা তুচ্ছতাচ্ছিল্য করা)। ইংরেজ লোকটি বাঙালি লোকটিকে নিচু চোখে দেখছিল, তাই 'down' সঠিক।"
+  },
+  {
+    "id": 53,
+    "question": "He took no notice (d) ______ it.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Notice of (লক্ষ্য করা)। 'Take notice of' মানে হলো কোনো কিছুর দিকে খেয়াল করা। নেতিবাচক বাক্যে 'no notice of' বসে।"
+  },
+  {
+    "id": 54,
+    "question": "The Englishman picked (f) ______ the gentleman's shoes.",
+    "options": {
+      "a": "up",
+      "b": "at",
+      "c": "off",
+      "d": "on"
+    },
+    "correct_answer": "a",
+    "explanation": "Pick up (তুলে নেওয়া)। নিচ থেকে কোনো কিছু তোলা বোঝাতে 'pick up' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 55,
+    "question": "He threw them (g) ______ the window.",
+    "options": {
+      "a": "at",
+      "b": "through",
+      "c": "out of",
+      "d": "by"
+    },
+    "correct_answer": "c",
+    "explanation": "Throw out of (বাইরে ছুড়ে ফেলা)। জানালার বাইরে কোনো কিছু ফেলে দেওয়া বোঝাতে 'out of' ব্যবহার করা শ্রেয়।"
+  },
+  {
+    "id": 56,
+    "question": "He returned (i) ______ bed laughingly.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "in",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Return to (ফিরে আসা)। গন্তব্য বা নির্দিষ্ট স্থানে ফিরে আসা বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 57,
+    "question": "Greenhouse effect is exemplified (c) ______ the destruction of forests.",
+    "options": {
+      "a": "with",
+      "b": "by",
+      "c": "at",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Exemplify (উদাহরণ দেওয়া) সাধারণত Passive voice-এ 'by' গ্রহণ করে। বন উজাড়ের মাধ্যমে এটি উদাহৃত হয়।"
+  },
+  {
+    "id": 58,
+    "question": "Traffic that clogs (f) ______ city streets is a problem.",
+    "options": {
+      "a": "up",
+      "b": "at",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Clog up (বন্ধ হয়ে যাওয়া বা জট লেগে যাওয়া)। রাস্তা জ্যামে বন্ধ হয়ে যাওয়া অর্থে 'clog up' একটি উপযুক্ত গ্রুপ ভার্ব।"
+  },
+  {
+    "id": 59,
+    "question": "He does not hunt (d) ______ traditional guidebooks.",
+    "options": {
+      "a": "for",
+      "b": "after",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Hunt after (খোঁজা বা পিছু ছোটা)। গাইড বইয়ের পেছনে না ছোটা অর্থে এখানে 'after' ব্যবহার করা হয়েছে।"
+  },
+  {
+    "id": 60,
+    "question": "He has great thirst (e) ______ knowledge.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Thirst for (তৃষ্ণা বা প্রবল আকাঙ্ক্ষা)। জ্ঞানের জন্য তৃষ্ণা বোঝাতে 'thirst for' বসে।"
+  },
+  {
+    "id": 61,
+    "question": "He does not confine himself (f) ______ the traditional studies.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Confine to (সীমাবদ্ধ রাখা)। নিজেকে শুধু প্রচলিত পড়াশোনার মধ্যে সীমাবদ্ধ না রাখা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 62,
+    "question": "He abides (i) ______ his teachers' advice.",
+    "options": {
+      "a": "with",
+      "b": "by",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Abide by (মেনে চলা)। নিয়ম বা উপদেশ মেনে চলা অর্থে 'abide by' বসে।"
+  },
+  {
+    "id": 63,
+    "question": "Flowers have been treated (c) ______ the symbol of beauty.",
+    "options": {
+      "a": "like",
+      "b": "as",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Treat as (হিসেবে গণ্য করা)। ফুলকে সৌন্দর্যের প্রতীক হিসেবে গণ্য করা হয়।"
+  },
+  {
+    "id": 64,
+    "question": "Flowers are used (d) ______ various spheres (e) ______ our life.",
+    "options": {
+      "a": "in, of",
+      "b": "at, in",
+      "c": "for, to",
+      "d": "with, of"
+    },
+    "correct_answer": "a",
+    "explanation": "Use in (কোনো ক্ষেত্রে ব্যবহার করা) এবং Spheres of life (জীবনের ক্ষেত্রসমূহ)। তাই 'in' এবং 'of' সঠিক।"
+  },
+  {
+    "id": 65,
+    "question": "People (g) ______ all walks of life use flowers.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "From all walks of life (সমাজের সর্বস্তরের মানুষ)। এটি একটি ফিক্সড ফ্রেজ।"
+  },
+  {
+    "id": 66,
+    "question": "Everyone prefers flowers (j) ______ the core of their heart.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "by",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "From the core of heart (হৃদয়ের অন্তঃস্থল থেকে)। গভীর থেকে কোনো কিছু অনুভব করা অর্থে 'from' বসে।"
+  },
+  {
+    "id": 67,
+    "question": "Most of the projects were made (c) ______ consistency (f) ______ the prevailing world situation.",
+    "options": {
+      "a": "in, with",
+      "b": "with, to",
+      "c": "at, by",
+      "d": "by, for"
+    },
+    "correct_answer": "a",
+    "explanation": "In consistency with (সামঞ্জস্য রেখে)। বিশ্ব পরিস্থিতির সাথে সামঞ্জস্য রেখে প্রকল্পগুলো তৈরি করা হয়েছিল।"
+  },
+  {
+    "id": 68,
+    "question": "They were intended (g) ______ acquaint us (h) ______ the solutions.",
+    "options": {
+      "a": "to, with",
+      "b": "for, to",
+      "c": "at, by",
+      "d": "to, at"
+    },
+    "correct_answer": "a",
+    "explanation": "Intend to (উদ্দেশ্য করা) এবং Acquaint with (পরিচিত করা)। তাই 'to' এবং 'with' সঠিক উত্তর।"
+  },
+  {
+    "id": 69,
+    "question": "We were sanguine (j) ______ our success.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "about"
+    },
+    "correct_answer": "b",
+    "explanation": "Sanguine of (নিশ্চিত বা আশাবাদী)। সাফল্যের ব্যাপারে নিশ্চিত হওয়া অর্থে 'sanguine of' বসে।"
+  },
+  {
+    "id": 70,
+    "question": "I watched how the trains passed (b) ______ innumerable unknown facts.",
+    "options": {
+      "a": "by",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Pass by (পাশ দিয়ে চলে যাওয়া)। ট্রেনগুলো অজানা তথ্যকে পেছনে ফেলে চলে যাচ্ছিল এমন অর্থে 'by' বসে।"
+  },
+  {
+    "id": 71,
+    "question": "My father got an appointment (c) ______ a town school.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো প্রতিষ্ঠানের পদে নিয়োগ পাওয়া অর্থে 'appointment in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 72,
+    "question": "I was admitted (e) ______ my father's school.",
+    "options": {
+      "a": "in",
+      "b": "to",
+      "c": "at",
+      "d": "into"
+    },
+    "correct_answer": "b",
+    "explanation": "Admit to (ভর্তি হওয়া)। স্কুলে বা কলেজে ভর্তি হওয়া বোঝাতে 'admit to' বসে।"
+  },
+  {
+    "id": 73,
+    "question": "I have gradually adjusted myself (g) ______ town life.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Adjust to (মানিয়ে নেওয়া)। নতুন কোনো পরিবেশের সাথে নিজেকে খাপ খাওয়ানো বোঝাতে 'adjust to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 74,
+    "question": "The sailors stayed (c) ______ that silent sea.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "in",
+      "d": "over"
+    },
+    "correct_answer": "b",
+    "explanation": "সমুদ্রের ওপর বা সমুদ্রে অবস্থান করা অর্থে 'on the sea' বসে।"
+  },
+  {
+    "id": 75,
+    "question": "They blamed him (g) ______ their sufferings.",
+    "options": {
+      "a": "with",
+      "b": "for",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Blame someone for something (কোনো কিছুর জন্য কাউকে দায়ী করা)।"
+  },
+  {
+    "id": 76,
+    "question": "They hung the dead Albatross (h) ______ his neck.",
+    "options": {
+      "a": "on",
+      "b": "around",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "কারো ঘাড়ের চারপাশে কিছু ঝুলিয়ে দেওয়া অর্থে 'around' সবচেয়ে উপযুক্ত।"
+  },
+  {
+    "id": 77,
+    "question": "Graffiti is created (a) ______ public places.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Public places বা জনাকীর্ণ স্থানের ভেতরে কিছু করা অর্থে 'in' বসে।"
+  },
+  {
+    "id": 78,
+    "question": "Graffiti is created (b) ______ walls or other surfaces.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "in",
+      "d": "over"
+    },
+    "correct_answer": "b",
+    "explanation": "দেয়াল বা কোনো তলের ওপরে আঁকা বা লেখা অর্থে 'on' বসে।"
+  },
+  {
+    "id": 79,
+    "question": "Graffiti was used (f) ______ various groups to voice dissent.",
+    "options": {
+      "a": "for",
+      "b": "by",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Passive voice-এ কারক বা কর্তা বোঝাতে 'by' বসে। বিভিন্ন গ্রুপ গ্রাফিতি ব্যবহার করত।"
+  },
+  {
+    "id": 80,
+    "question": "The walls of cities were splashed (j) ______ colours.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Splash with (ছিটিয়ে দেওয়া বা মাখিয়ে দেওয়া)। রঙ দিয়ে দেয়াল মাখানো অর্থে 'with' সঠিক।"
+  },
+  {
+    "id": 81,
+    "question": "A good stock (a) ______ words is necessary.",
+    "options": {
+      "a": "for",
+      "b": "of",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Stock of words (শব্দভাণ্ডার)। কোনো কিছুর সংগ্রহ বোঝাতে 'stock of' বসে।"
+  },
+  {
+    "id": 82,
+    "question": "Vocabulary is necessary (b) ______ anybody.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Necessary for (কারো জন্য প্রয়োজনীয়)। কারো কল্যাণে বা প্রয়োজনে 'for' বসে।"
+  },
+  {
+    "id": 83,
+    "question": "Vocabulary knowledge occurs (i) ______ time.",
+    "options": {
+      "a": "at",
+      "b": "over",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Over time (সময়ের সাথে সাথে)। সময়ের ব্যবধানে কোনো কিছু ঘটা বা হওয়া বোঝাতে 'over' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 84,
+    "question": "Connections (j) ______ other words.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "between",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Connection with (কারো সাথে বা কোনো কিছুর সাথে সম্পর্ক)। অন্য শব্দের সাথে সংযোগ অর্থে 'with' বসে।"
+  },
+  {
+    "id": 85,
+    "question": "He looked (c) ______ the Bengalee gentleman.",
+    "options": {
+      "a": "at",
+      "b": "for",
+      "c": "after",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Look at (তাকানো)। কারো দিকে সরাসরি তাকানো বোঝাতে 'at' বসে।"
+  },
+  {
+    "id": 86,
+    "question": "The gentleman went (j) ______ a smile.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "With a smile (হাসিমুখে)। কোনো ভঙ্গি বা অবস্থা সাথে নিয়ে চলা অর্থে 'with' বসে।"
+  },
+  {
+    "id": 87,
+    "question": "Rapid growth (g) ______ industry is responsible.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Growth of industry (শিল্পের প্রবৃদ্ধি)। কোনো খাতের বৃদ্ধি বোঝাতে 'of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 88,
+    "question": "Greenhouse effect is a result (j) ______ environment pollution.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Result of (কোনো কিছুর ফলাফল)। পরিবেশ দূষণের ফল হলো গ্রিনহাউস ইফেক্ট।"
+  },
+  {
+    "id": 89,
+    "question": "A good student does not hunt (d) ______ guidebooks.",
+    "options": {
+      "a": "for",
+      "b": "after",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Hunt after (পিছু ছোটা)। অতিরিক্ত গাইড বইয়ের পেছনে ছোটা বা খোঁজা অর্থে 'after' বসে।"
+  },
+  {
+    "id": 90,
+    "question": "He is always aware (g) ______ the current affairs.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Aware of (সচেতন)। এটি একটি বহুল ব্যবহৃত Appropriate Preposition।"
+  },
+  {
+    "id": 91,
+    "question": "Aware (g) ______ the current affairs (h) ______ the world.",
+    "options": {
+      "a": "of, in",
+      "b": "of, of",
+      "c": "at, in",
+      "d": "with, to"
+    },
+    "correct_answer": "b",
+    "explanation": "Aware of (সচেতন) এবং Affairs of the world (বিশ্বের ঘটনাবলী)। তাই উভয় ক্ষেত্রে 'of' বসবে।"
+  },
+  {
+    "id": 92,
+    "question": "People (g) ______ all walks of life.",
+    "options": {
+      "a": "in",
+      "b": "from",
+      "c": "at",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "সমাজের বিভিন্ন স্তরের মানুষ বোঝাতে 'from all walks of life' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 93,
+    "question": "National occasions and (i) ______ wedding.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "বিবাহ বা কোনো ছোট অনুষ্ঠানে উপস্থিত থাকা অর্থে 'at' ব্যবহৃত হতে পারে।"
+  },
+  {
+    "id": 94,
+    "question": "Many of our friends took part (b) ______ the fair.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Take part in (অংশগ্রহণ করা)। মেলায় অংশ নেওয়া অর্থে 'in' বসে।"
+  },
+  {
+    "id": 95,
+    "question": "Problems we are facing (i) ______ some common problems.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Face with (কোনো কিছুর সম্মুখীন হওয়া)। সাধারণ সমস্যার সম্মুখীন হওয়া অর্থে 'with' বসে।"
+  },
+  {
+    "id": 96,
+    "question": "My father got an appointment (c) ______ a town school.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "নিয়োগ পাওয়া বা কাজ করা অর্থে নির্দিষ্ট প্রতিষ্ঠানের পূর্বে 'in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 97,
+    "question": "I was admitted (e) ______ my father's school.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "to",
+      "d": "into"
+    },
+    "correct_answer": "c",
+    "explanation": "Admit to (ভর্তি হওয়া)। শিক্ষা প্রতিষ্ঠানে ভর্তি হওয়ার ক্ষেত্রে 'to' বসে।"
+  },
+  {
+    "id": 98,
+    "question": "Childhood is free (i) ______ worries.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Free from (মুক্ত)। দুশ্চিন্তা থেকে মুক্ত শৈশব।"
+  },
+  {
+    "id": 99,
+    "question": "They were filled (i) ______ fear.",
+    "options": {
+      "a": "of",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Fill with (পূর্ণ হওয়া)। ভয়ে বুক ভরে যাওয়া বা পূর্ণ হওয়া অর্থে 'with' বসে।"
+  },
+  {
+    "id": 100,
+    "question": "Graffiti as a form (a) ______ visual communication.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Form of (ধরন)। যোগাযোগের একটি মাধ্যম বা ধরন হিসেবে 'of' বসে।"
   }
 ]

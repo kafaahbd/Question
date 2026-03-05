@@ -1198,5 +1198,4805 @@
     },
     "correct_answer": "b",
     "explanation": "Form of (ধরন)। যোগাযোগের একটি মাধ্যম বা ধরন হিসেবে 'of' বসে।"
+  },
+  {
+    "id": 101,
+    "question": "Graffiti as a form of protest is not new (c) ______ Bangladesh.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "বাংলাদেশে (in Bangladesh) কোনো কিছু নতুন নয় বোঝাতে 'in' ব্যবহৃত হয়। দেশ বা বড় স্থানের আগে 'in' বসে।"
+  },
+  {
+    "id": 102,
+    "question": "During our struggle leading (d) ______ the Liberation War in 1971.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Lead to (কোনো কিছুর দিকে নিয়ে যাওয়া)। মুক্তিযুদ্ধ পর্যন্ত বা মুক্তিযুদ্ধের দিকে ধাবিত হওয়া অর্থে 'leading to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 103,
+    "question": "Graffiti was used (f) ______ various groups to voice dissent.",
+    "options": {
+      "a": "with",
+      "b": "by",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি Passive Voice-এ আছে। কারো দ্বারা কোনো কাজ করা হলে 'by' বসে। এখানে বিভিন্ন গ্রুপ গ্রাফিতি ব্যবহার করেছে।"
+  },
+  {
+    "id": 104,
+    "question": "This new generation's graffiti not only expressed grievances (h) ______ specific political issues.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো বিষয়ের ওপর অভিযোগ বা ক্ষোভ প্রকাশ করতে 'grievances on/about' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 105,
+    "question": "It also raised concerns (i) ______ social justice and human rights.",
+    "options": {
+      "a": "for",
+      "b": "about",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Concerns about/over (কোনো বিষয়ে উদ্বেগ)। সামাজিক ন্যায়বিচার নিয়ে উদ্বেগ প্রকাশ করা অর্থে 'about' সঠিক।"
+  },
+  {
+    "id": 106,
+    "question": "The walls of cities were splashed (j) ______ colours.",
+    "options": {
+      "a": "by",
+      "b": "in",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "c",
+    "explanation": "Splash with (রঙ বা পানি দিয়ে ছিটিয়ে দেওয়া)। কোনো কিছু দিয়ে মাখানো অর্থে 'with' বসে।"
+  },
+  {
+    "id": 107,
+    "question": "Trees protect the rich top soil (c) ______ getting washed away.",
+    "options": {
+      "a": "to",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Protect from (রক্ষা করা)। মাটি ধুয়ে যাওয়া থেকে রক্ষা করা অর্থে 'protect from' বসে।"
+  },
+  {
+    "id": 108,
+    "question": "Trees are grown along the mountain slopes (e) ______ the roadsides.",
+    "options": {
+      "a": "at",
+      "b": "and",
+      "c": "with",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "এখানে দুটি জায়গাকে যুক্ত করতে কনজাংশন 'and' প্রয়োজন হয়, তবে প্রিপজিশন হিসেবে 'on' বা 'along' এর ব্যবহারও দেখা যায়। এখানে সমান্তরাল অবস্থান বোঝাতে 'and' ই প্রাসঙ্গিক।"
+  },
+  {
+    "id": 109,
+    "question": "They add beauty (g) ______ our lives.",
+    "options": {
+      "a": "to",
+      "b": "in",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Add something to (কোনো কিছুতে যোগ করা)। জীবনে সৌন্দর্য যোগ করা অর্থে 'to our lives' সঠিক।"
+  },
+  {
+    "id": 110,
+    "question": "They provide us (h) ______ food, wood, and shade.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Provide someone with something (কাউকে কোনো কিছু দেওয়া/সরবরাহ করা)। এটি একটি Appropriate Preposition।"
+  },
+  {
+    "id": 111,
+    "question": "They take (i) ______ carbon dioxide and produce oxygen.",
+    "options": {
+      "a": "off",
+      "b": "in",
+      "c": "at",
+      "d": "up"
+    },
+    "correct_answer": "b",
+    "explanation": "Take in (গ্রহণ করা)। গাছ কার্বন ডাই অক্সাইড গ্রহণ করে, তাই 'take in' সঠিক।"
+  },
+  {
+    "id": 112,
+    "question": "So, we should take care (j) ______ trees.",
+    "options": {
+      "a": "for",
+      "b": "of",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Take care of (যত্ন নেওয়া)। এটি একটি কমন ফ্রেজ।"
+  },
+  {
+    "id": 113,
+    "question": "Do you have any idea (a) ______ a cybercafe?",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "about",
+      "d": "at"
+    },
+    "correct_answer": "c",
+    "explanation": "Idea about/of (কোনো বিষয়ে ধারণা)। সাইবার ক্যাফে সম্পর্কে ধারণা বোঝাতে 'about' বেশি মানানসই।"
+  },
+  {
+    "id": 114,
+    "question": "It is a place teeming (b) ______ information.",
+    "options": {
+      "a": "in",
+      "b": "with",
+      "c": "at",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "Teem with (পরিপূর্ণ হওয়া)। তথ্যে পরিপূর্ণ অর্থে 'teem with' বসে।"
+  },
+  {
+    "id": 115,
+    "question": "It is a network (c) ______ all networks.",
+    "options": {
+      "a": "of",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Network of networks (নেটওয়ার্কের নেটওয়ার্ক)। সম্বন্ধ বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 116,
+    "question": "A cybercafe is closely associated (f) ______ internet communication.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Associate with (সম্পৃক্ত হওয়া)। ইন্টারনেটের সাথে যুক্ত থাকা অর্থে 'with' সঠিক।"
+  },
+  {
+    "id": 117,
+    "question": "A customer sitting (g) ______ the cafe can communicate.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Sit in (ভেতরে বসা)। ক্যাফের ভেতরে বসা অর্থে 'in' বসে।"
+  },
+  {
+    "id": 118,
+    "question": "Communicate (h) ______ people (i) ______ the world.",
+    "options": {
+      "a": "with, around",
+      "b": "to, in",
+      "c": "with, across",
+      "d": "at, over"
+    },
+    "correct_answer": "a",
+    "explanation": "Communicate with (কারো সাথে যোগাযোগ করা) এবং around the world (সারা পৃথিবী জুড়ে)।"
+  },
+  {
+    "id": 119,
+    "question": "A cybercafe is not prejudicial (j) ______ our development.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Prejudicial to (ক্ষতিকর)। এটি একটি Appropriate Preposition।"
+  },
+  {
+    "id": 120,
+    "question": "Environment plays an important role (a) ______ our life.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Role in (ভূমিকা রাখা)। আমাদের জীবনে পরিবেশের ভূমিকার কথা বলা হয়েছে।"
+  },
+  {
+    "id": 121,
+    "question": "(b) ______ short, what we have (c) ______ us.",
+    "options": {
+      "a": "In, around",
+      "b": "At, with",
+      "c": "For, to",
+      "d": "By, at"
+    },
+    "correct_answer": "a",
+    "explanation": "In short (সংক্ষেপে) এবং around us (আমাদের চারপাশে)।"
+  },
+  {
+    "id": 122,
+    "question": "These are the main elements (d) ______ our environment.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Elements of (উপাদানসমূহ)। পরিবেশের উপাদান বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 123,
+    "question": "Ensuring sound life the balance (f) ______ natural elements.",
+    "options": {
+      "a": "of",
+      "b": "between",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Balance of (ভারসাম্য)। প্রাকৃতিক উপাদানগুলোর ভারসাম্য অর্থে 'of' সঠিক।"
+  },
+  {
+    "id": 124,
+    "question": "Sometimes (g) ______ lack of knowledge, we don't realize.",
+    "options": {
+      "a": "for",
+      "b": "due to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Due to (কারণে)। জ্ঞানের অভাবে আমরা বুঝতে পারি না, তাই 'due to' বা 'for' বসে। এখানে 'due to' বেশি ফরমাল।"
+  },
+  {
+    "id": 125,
+    "question": "Living (i) ______ a polluted environment is undoubtedly a matter.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Live in (বসবাস করা)। দূষিত পরিবেশে বাস করা অর্থে 'in' বসে।"
+  },
+  {
+    "id": 126,
+    "question": "It is undoubtedly a matter (j) ______ great regret.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Matter of (বিষয়)। পরিতাপের বিষয় অর্থে 'matter of regret' বসে।"
+  },
+  {
+    "id": 127,
+    "question": "Ours is a riverine country. Rivers are everywhere (a) ______ our life.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "আমাদের জীবনের (in our life) সব জায়গায় নদী মিশে আছে।"
+  },
+  {
+    "id": 128,
+    "question": "But are the rivers (b) ______ good shape?",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "In shape (অবস্থায় থাকা)। নদীগুলো কি ভালো অবস্থায় আছে?"
+  },
+  {
+    "id": 129,
+    "question": "Several rivers are going (c) ______ the pangs of death.",
+    "options": {
+      "a": "at",
+      "b": "through",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Go through (মধ্য দিয়ে যাওয়া)। মৃত্যুর যন্ত্রণার মধ্য দিয়ে যাচ্ছে—এমনটি বোঝাতে 'through' বসে।"
+  },
+  {
+    "id": 130,
+    "question": "The river Buriganga is an example (d) ______ a dying river.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Example of (উদাহরণ)। মৃতপ্রায় নদীর উদাহরণ হিসেবে 'of' বসে।"
+  },
+  {
+    "id": 131,
+    "question": "Its water is polluted and a perpetual stench fills the air (f) ______ it.",
+    "options": {
+      "a": "around",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Around (চারপাশে)। নদীর চারপাশের বাতাস দুর্গন্ধে ভরে গেছে।"
+  },
+  {
+    "id": 132,
+    "question": "Once it was a tributary (g) ______ the Ganges.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Tributary of (উপনদী)। গঙ্গার একটি উপনদী ছিল বুড়িগঙ্গা।"
+  },
+  {
+    "id": 133,
+    "question": "Gradually, it lost its link (j) ______ the Ganges.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Link with (সংযোগ)। গঙ্গার সাথে এর সংযোগ হারিয়েছে।"
+  },
+  {
+    "id": 134,
+    "question": "Badal lived (a) ______ a village of Bangladesh.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "গ্রামের নামের আগে 'at' বসলেও 'a village' থাকলে সাধারণত 'in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 135,
+    "question": "There was a canal (b) ______ his way (c) ______ school.",
+    "options": {
+      "a": "on, to",
+      "b": "at, in",
+      "c": "by, with",
+      "d": "to, at"
+    },
+    "correct_answer": "a",
+    "explanation": "On the way to (গন্তব্যে যাওয়ার পথে)। এটি একটি স্ট্যান্ডার্ড ফ্রেজ।"
+  },
+  {
+    "id": 136,
+    "question": "An old bridge was (d) ______ that canal.",
+    "options": {
+      "a": "on",
+      "b": "over",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Over (উপরে)। খালের উপরে ব্রিজ থাকা অর্থে 'over' বসে।"
+  },
+  {
+    "id": 137,
+    "question": "None cared (e) ______ its repair.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Care for (ভ্রুক্ষেপ করা বা যত্ন নেওয়া)। কেউ এটার মেরামতের তোয়াক্কা করেনি।"
+  },
+  {
+    "id": 138,
+    "question": "They were (h) ______ difficulty.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "In difficulty (অসুবিধার মধ্যে)। কোনো অবস্থার মধ্যে থাকা বোঝাতে 'in' সঠিক।"
+  },
+  {
+    "id": 139,
+    "question": "They could not go to the town (i) ______ the other side.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "a",
+    "explanation": "On the other side (অন্য পাশে)। অন্য পাশের শহরে তারা যেতে পারছিল না।"
+  },
+  {
+    "id": 140,
+    "question": "Fate had (b) ______ store for us.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "In store for (কারো ভাগ্যে কিছু জমা থাকা)। এটি একটি প্রবাদপ্রতিম ফ্রেজ।"
+  },
+  {
+    "id": 141,
+    "question": "He hides from the animals what men know, and He hides from men what the angels know.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Hide from (কারো কাছ থেকে লুকানো)।"
+  },
+  {
+    "id": 142,
+    "question": "If a lamb had reason (d) ______ a man.",
+    "options": {
+      "a": "as",
+      "b": "like",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Like a man (মানুষের মতো)। তুলনা অর্থে 'like' বসে।"
+  },
+  {
+    "id": 143,
+    "question": "Destined to be killed (e) ______ human food.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "For food (খাবারের জন্য)। মানুষের খাবারের জন্য জীবন দেওয়া অর্থে 'for' সঠিক।"
+  },
+  {
+    "id": 144,
+    "question": "Contentedly grazing (g) ______ the flowery meadow.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Grazing in (তৃণভূমিতে চড়ে বেড়ানো)। খোলা মাঠে কিছু করা অর্থে 'in' বসে।"
+  },
+  {
+    "id": 145,
+    "question": "We are ignorant (i) ______ the future.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Ignorant of (অজ্ঞ)। ভবিষ্যৎ সম্পর্কে আমাদের ধারণা নেই।"
+  },
+  {
+    "id": 146,
+    "question": "Fulfil our duty in the sphere (j) ______ which He has appointed us.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Appoint to (নিয়োগ দেওয়া)। যে কাজের জন্য নিযুক্ত করা হয়েছে তার গন্তব্য বা দিক বোঝাতে 'to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 147,
+    "question": "The patriots fought (d) ______ the oppression of rulers.",
+    "options": {
+      "a": "with",
+      "b": "against",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Fight against (কারো বিরুদ্ধে যুদ্ধ করা)। অন্যায়ের বিরুদ্ধে লড়াই অর্থে 'against' বসে।"
+  },
+  {
+    "id": 148,
+    "question": "Syed Shamsul Haq was born (a) ______ 1935.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "সালের আগে 'in' বসে।"
+  },
+  {
+    "id": 149,
+    "question": "The Swadhinata Padak (d) ______ his contributions.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "পুরস্কার পাওয়ার কারণ বোঝাতে 'for his contributions' (তার অবদানের জন্য) সঠিক।"
+  },
+  {
+    "id": 150,
+    "question": "The intellectuals passed away (j) ______ 27 September in 2016.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "নির্দিষ্ট তারিখের আগে 'on' বসে।"
+  },
+  {
+    "id": 151,
+    "question": "A good student is never indifferent (a) ______ his studies.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Indifferent to (উদাসীন)। এটি একটি Appropriate Preposition. পড়াশোনার প্রতি উদাসীন না হওয়া বুঝাতে 'to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 152,
+    "question": "He always adheres (b) ______ his studies.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "in",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Adhere to (লেগে থাকা)। মনোযোগ দিয়ে পড়াশোনায় লেগে থাকা বুঝাতে 'adhere to' বসে।"
+  },
+  {
+    "id": 153,
+    "question": "He does not learn things (c) ______ rote.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "a",
+    "explanation": "Learn by rote (মুখস্থ করা)। বুঝে না পড়ে শুধু মুখস্থ করাকে 'by rote' বলা হয়।"
+  },
+  {
+    "id": 154,
+    "question": "He is always alert (d) ______ his duties.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Alert to (সতর্ক)। নিজের কর্তব্যের প্রতি সজাগ বা সতর্ক থাকা বুঝাতে 'alert to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 155,
+    "question": "He does not hunt (e) ______ guidebooks.",
+    "options": {
+      "a": "for",
+      "b": "after",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Hunt after (খোঁজা বা পিছু ছোটা)। গাইড বইয়ের পেছনে হন্যে হয়ে ছোটা বুঝাতে 'after' বসে।"
+  },
+  {
+    "id": 156,
+    "question": "He has a great thirst (f) ______ knowledge.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Thirst for (তৃষ্ণা বা প্রবল আকাঙ্ক্ষা)। জ্ঞানের প্রতি তীব্র আকাঙ্ক্ষা বুঝাতে 'thirst for' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 157,
+    "question": "He does not confine himself (g) ______ the traditional studies.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "a",
+    "explanation": "Confine to (সীমাবদ্ধ রাখা)। নিজেকে শুধু পাঠ্যবইয়ের মধ্যে সীমাবদ্ধ না রাখা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 158,
+    "question": "He is always aware (h) ______ current affairs.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "of",
+      "d": "about"
+    },
+    "correct_answer": "c",
+    "explanation": "Aware of (সচেতন)। সাম্প্রতিক ঘটনাবলী সম্পর্কে সচেতন থাকা বুঝাতে 'of' বসে।"
+  },
+  {
+    "id": 159,
+    "question": "He abides (i) ______ his teachers' advice.",
+    "options": {
+      "a": "with",
+      "b": "by",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Abide by (মেনে চলা)। শিক্ষকদের উপদেশ মেনে চলা অর্থে 'abide by' সঠিক।"
+  },
+  {
+    "id": 160,
+    "question": "He makes the best use (j) ______ his time.",
+    "options": {
+      "a": "of",
+      "b": "for",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Use of (ব্যবহার)। সময়ের সঠিক ব্যবহার বুঝাতে 'use of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 161,
+    "question": "The world is teeming (a) ______ many people.",
+    "options": {
+      "a": "in",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Teem with (পরিপূর্ণ হওয়া)। পৃথিবী মানুষে পরিপূর্ণ, এমন অর্থে 'with' সঠিক।"
+  },
+  {
+    "id": 162,
+    "question": "Most of them are unconscious (b) ______ their health.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Unconscious of (অসচেতন)। স্বাস্থ্য নিয়ে অসচেতন থাকা বুঝাতে 'of' বসে।"
+  },
+  {
+    "id": 163,
+    "question": "They are not aware (c) ______ the importance of physical exercise.",
+    "options": {
+      "a": "of",
+      "b": "at",
+      "c": "with",
+      "d": "about"
+    },
+    "correct_answer": "a",
+    "explanation": "Aware of (সচেতন)। ব্যায়ামের গুরুত্ব সম্পর্কে সচেতনতা বুঝাতে 'aware of' বসে।"
+  },
+  {
+    "id": 164,
+    "question": "Exercise is essential (d) ______ physical fitness.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Essential for (প্রয়োজনীয় বা অপরিহার্য)। শারীরিক সক্ষমতার জন্য ব্যায়াম প্রয়োজন।"
+  },
+  {
+    "id": 165,
+    "question": "It results (e) ______ good health.",
+    "options": {
+      "a": "in",
+      "b": "from",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Result in (ফলে পর্যবসিত হওয়া)। ব্যায়ামের ফল হলো সুস্বাস্থ্য, তাই 'result in' বসে।"
+  },
+  {
+    "id": 166,
+    "question": "One should be accustomed (f) ______ regular exercise.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Accustomed to (অভ্যস্ত)। নিয়মিত ব্যায়ামে অভ্যস্ত হওয়া বুঝাতে 'to' বসে।"
+  },
+  {
+    "id": 167,
+    "question": "Physical exercise is a must (g) ______ students.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Must for (কারো জন্য বাধ্যতামূলক)। ছাত্রদের জন্য ব্যায়াম অপরিহার্য বুঝাতে 'for' সঠিক।"
+  },
+  {
+    "id": 168,
+    "question": "They should spend some time (h) ______ exercise.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Spend time on (কোনো কিছুর পেছনে সময় ব্যয় করা)। ব্যায়ামে সময় দেওয়া বুঝাতে 'on' সঠিক।"
+  },
+  {
+    "id": 169,
+    "question": "Exercise protects us (i) ______ diseases.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Protect from (রক্ষা করা)। রোগবালাই থেকে রক্ষা করা অর্থে 'protect from' বসে।"
+  },
+  {
+    "id": 170,
+    "question": "We must not be negligent (j) ______ it.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Negligent of (অবহেলার)। ব্যায়ামে অবহেলা করা উচিত নয় অর্থে 'of' সঠিক।"
+  },
+  {
+    "id": 171,
+    "question": "I am glad to receive your letter. You have wanted to know (a) ______ my study.",
+    "options": {
+      "a": "about",
+      "b": "of",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Know about (কোনো বিষয় সম্পর্কে জানা)। পড়াশোনা সম্পর্কে জানতে চাওয়া অর্থে 'about' বসে।"
+  },
+  {
+    "id": 172,
+    "question": "I am working (b) ______ my examination.",
+    "options": {
+      "a": "for",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Work for (কোনো কিছুর উদ্দেশ্যে কাজ করা)। পরীক্ষার জন্য প্রস্তুতি নেওয়া বুঝাতে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 173,
+    "question": "I have to attend (c) ______ my classes regularly.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Attend at (উপস্থিত থাকা)। ক্লাসে উপস্থিত থাকা বুঝাতে 'at' বসে (যদিও আধুনিক ইংলিশে attend এর পর সরাসরি অবজেক্ট বসে, বোর্ড প্রশ্নে 'at' বা 'to' অপশন থাকে)।"
+  },
+  {
+    "id": 174,
+    "question": "I don't waste my time (d) ______ vain.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "In vain (বৃথা)। সময় বৃথা নষ্ট না করা বুঝাতে এই ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 175,
+    "question": "I have a great passion (e) ______ reading books.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Passion for (তীব্র অনুরাগ)। বই পড়ার প্রতি গভীর ভালোবাসা বুঝাতে 'for' বসে।"
+  },
+  {
+    "id": 176,
+    "question": "I am confident (f) ______ my success.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Confident of (নিশ্চিত বা আত্মবিশ্বাসী)। সাফল্যের ব্যাপারে আত্মবিশ্বাস বুঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 177,
+    "question": "I hope you are also doing well (g) ______ your studies.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "in",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Do well with (ভালো করা)। পড়াশোনার সাথে মানিয়ে নিয়ে ভালো করা বুঝাতে 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 178,
+    "question": "Please convey my regards (h) ______ your parents.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Regards to (সালাম বা শ্রদ্ধা জানানো)। কারো প্রতি শ্রদ্ধা পৌঁছানো বুঝাতে 'to' বসে।"
+  },
+  {
+    "id": 179,
+    "question": "No more (i) ______ today.",
+    "options": {
+      "a": "for",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "No more for today (আজকের মতো আর নয়)। এটি একটি কমন চিঠিপত্রের ক্লোজিং ফ্রেজ।"
+  },
+  {
+    "id": 180,
+    "question": "I look forward (j) ______ hearing from you.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Look forward to (প্রতীক্ষা করা)। উত্তর পাওয়ার আশায় থাকা বুঝাতে 'to' বসে।"
+  },
+  {
+    "id": 181,
+    "question": "Success depends (a) ______ hard work.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Depend on (নির্ভর করা)। কঠোর পরিশ্রমের ওপর সাফল্য নির্ভর করে।"
+  },
+  {
+    "id": 182,
+    "question": "An idle man lags (b) ______ in life.",
+    "options": {
+      "a": "at",
+      "b": "behind",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Lag behind (পিছিয়ে পড়া)। অলস মানুষ জীবনে পিছিয়ে পড়ে।"
+  },
+  {
+    "id": 183,
+    "question": "He cannot cope (c) ______ the world.",
+    "options": {
+      "a": "with",
+      "b": "at",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Cope with (মানিয়ে চলা বা তাল মেলানো)। জগতের সাথে তাল মেলাতে না পারা বুঝাতে 'with' বসে।"
+  },
+  {
+    "id": 184,
+    "question": "We must yield (d) ______ no pressure.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Yield to (নতি স্বীকার করা)। কোনো চাপের কাছে মাথা নত করা উচিত নয়।"
+  },
+  {
+    "id": 185,
+    "question": "Hard work is the key (e) ______ success.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Key to (চাবিকাঠি বা সমাধান)। সাফল্যের চাবিকাঠি বুঝাতে 'to' বসে।"
+  },
+  {
+    "id": 186,
+    "question": "We should be devoted (f) ______ our duties.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Devoted to (নিষ্ঠাবান বা অনুগত)। কর্তব্যের প্রতি একনিষ্ঠ হওয়া বুঝাতে 'to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 187,
+    "question": "One should not hunger (g) ______ money.",
+    "options": {
+      "a": "for",
+      "b": "after",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Hunger after (লোভ বা লালসা করা)। টাকার পেছনে ছোটা বা লালসা করা অর্থে 'after' বসে।"
+  },
+  {
+    "id": 188,
+    "question": "Happiness consists (h) ______ contentment.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Consist in (নিহিত থাকা)। সুখ তৃপ্তির মাঝে নিহিত থাকে।"
+  },
+  {
+    "id": 189,
+    "question": "We should refrain (i) ______ evil deeds.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Refrain from (বিরত থাকা)। খারাপ কাজ থেকে দূরে থাকা বুঝাতে 'from' বসে।"
+  },
+  {
+    "id": 190,
+    "question": "We must have faith (j) ______ Allah.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Faith in (বিশ্বাস)। আল্লাহর ওপর বিশ্বাস থাকা বুঝাতে 'in' সঠিক।"
+  },
+  {
+    "id": 191,
+    "question": "Smoking is harmful (a) ______ health.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Harmful to (ক্ষতিকর)। এটি একটি Appropriate Preposition. স্বাস্থ্যের জন্য ক্ষতিকর অর্থে 'to' বসে।"
+  },
+  {
+    "id": 192,
+    "question": "It causes many fatal diseases (b) ______ us.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "in",
+      "d": "for"
+    },
+    "correct_answer": "c",
+    "explanation": "Diseases in (শরীরের ভেতরে রোগ)। আমাদের মধ্যে রোগ সৃষ্টি করে বুঝাতে 'in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 193,
+    "question": "People are addicted (c) ______ smoking.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Addicted to (আসক্ত)। কোনো খারাপ নেশায় আসক্ত হওয়া বুঝাতে 'to' বসে।"
+  },
+  {
+    "id": 194,
+    "question": "We should give (d) ______ smoking.",
+    "options": {
+      "a": "up",
+      "b": "off",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Give up (ত্যাগ করা)। ধূমপান ছেড়ে দেওয়া বুঝাতে এই গ্রুপ ভার্বটি বসে।"
+  },
+  {
+    "id": 195,
+    "question": "Smoking leads (e) ______ death.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Lead to (পরিণতির দিকে নিয়ে যাওয়া)। ধূমপান মৃত্যুর দিকে ধাবিত করে।"
+  },
+  {
+    "id": 196,
+    "question": "We should warn people (f) ______ its danger.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "about",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Warn of (সতর্ক করা)। বিপদের কথা বলে সতর্ক করা বুঝাতে 'of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 197,
+    "question": "Government has banned smoking (g) ______ public places.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "In public places (জনাকীর্ণ স্থানে)। বড় এলাকা বা জনবহুল স্থানের ভেতরে বুঝাতে 'in' বসে।"
+  },
+  {
+    "id": 198,
+    "question": "It is a violation (h) ______ law.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Violation of (লঙ্ঘন)। আইনের লঙ্ঘন বুঝাতে 'of' বসে।"
+  },
+  {
+    "id": 199,
+    "question": "We should abstain (i) ______ smoking.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Abstain from (বিরত থাকা)। ধূমপান থেকে বিরত থাকা বুঝাতে 'from' বসে।"
+  },
+  {
+    "id": 200,
+    "question": "We must be conscious (j) ______ its bad effects.",
+    "options": {
+      "a": "of",
+      "b": "at",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Conscious of (সচেতন)। কুফল সম্পর্কে সচেতনতা বুঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 201,
+    "question": "The man died (a) ______ overeating.",
+    "options": {
+      "a": "by",
+      "b": "of",
+      "c": "from",
+      "d": "for"
+    },
+    "correct_answer": "c",
+    "explanation": "অতিরিক্ত খেয়ে মারা যাওয়া বা কোনো বিশেষ কারণে মারা যাওয়া বোঝালে 'die from' বসে। রোগে মারা গেলে 'die of' হয়।"
+  },
+  {
+    "id": 202,
+    "question": "We should not hanker (b) ______ money.",
+    "options": {
+      "a": "for",
+      "b": "after",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Hanker after (টাকা বা খ্যাতির পেছনে ছোটা)। এটি একটি বহুল ব্যবহৃত Appropriate Preposition।"
+  },
+  {
+    "id": 203,
+    "question": "He is blind (c) ______ his son's fault.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Blind to (দেখেও না দেখা বা দোষের প্রতি অন্ধ থাকা)। চোখে অন্ধ হলে 'blind of' হতো, কিন্তু দোষের ক্ষেত্রে 'to' বসে।"
+  },
+  {
+    "id": 204,
+    "question": "Man is the architect (d) ______ his own fortune.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "of",
+      "d": "at"
+    },
+    "correct_answer": "c",
+    "explanation": "Architect of (ভাগ্য নির্মাতা)। কারো ভাগ্যের নির্মাতা বা কারিগর বোঝাতে 'of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 205,
+    "question": "He has no taste (e) ______ music.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "in",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Taste for (রুচি বা পছন্দ)। সঙ্গীতের প্রতি রুচি না থাকা অর্থে 'taste for' সঠিক।"
+  },
+  {
+    "id": 206,
+    "question": "The boy is proficient (f) ______ English.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Proficient in (দক্ষ)। কোনো বিষয় বা ভাষায় দক্ষ হওয়া বোঝাতে 'in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 207,
+    "question": "We should be kind (g) ______ the poor.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Kind to (কারো প্রতি দয়ালু হওয়া)। এটি একটি Appropriate Preposition।"
+  },
+  {
+    "id": 208,
+    "question": "The teacher was angry (h) ______ me.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Angry with (কারো ওপর রাগ করা)। কোনো ব্যক্তির ওপর রাগান্বিত হলে 'with' বসে, কিন্তু কোনো বিষয়ে হলে 'at' বসত।"
+  },
+  {
+    "id": 209,
+    "question": "He is tired (i) ______ hard work.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "of",
+      "d": "by"
+    },
+    "correct_answer": "c",
+    "explanation": "Tired of (ক্লান্ত বা বিরক্ত)। কাজের ফলে ক্লান্ত হওয়া অর্থে 'of' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 210,
+    "question": "He is superior (j) ______ me.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Superior, Junior, Senior—এই ল্যাটিন অ্যাডজেক্টিভগুলোর পর তুলনায় 'than' না বসে 'to' বসে।"
+  },
+  {
+    "id": 211,
+    "question": "Do not look down (a) ______ the poor.",
+    "options": {
+      "a": "at",
+      "b": "upon",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Look down upon (ঘৃণা করা)। গরিবদের অবজ্ঞা না করার উপদেশ দিতে এই ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 212,
+    "question": "He is absent (b) ______ the meeting.",
+    "options": {
+      "a": "from",
+      "b": "to",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "a",
+    "explanation": "Absent from (অনুপস্থিত)। সভা বা ক্লাস থেকে অনুপস্থিত থাকা অর্থে 'from' বসে।"
+  },
+  {
+    "id": 213,
+    "question": "The container is full (c) ______ water.",
+    "options": {
+      "a": "with",
+      "b": "of",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Full of (পূর্ণ)। কোনো কিছু দিয়ে কোনো পাত্র ভর্তি থাকা বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 214,
+    "question": "We should rely (d) ______ our own efforts.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Rely on (নির্ভর করা)। নিজের চেষ্টার ওপর নির্ভর করা অর্থে 'on' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 215,
+    "question": "I am not satisfied (e) ______ your performance.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Satisfied with (সন্তুষ্ট)। কোনো কাজ বা আচরণের সাথে সন্তুষ্ট হওয়া বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 216,
+    "question": "He is fond (f) ______ sweets.",
+    "options": {
+      "a": "for",
+      "b": "of",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Fond of (প্রিয় বা অনুরাগী)। মিষ্টি পছন্দ করা অর্থে 'fond of' বসে।"
+  },
+  {
+    "id": 217,
+    "question": "He is devoid (g) ______ common sense.",
+    "options": {
+      "a": "of",
+      "b": "at",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Devoid of (বর্জিত বা হীন)। কারো মধ্যে কাণ্ডজ্ঞানের অভাব থাকলে 'devoid of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 218,
+    "question": "The boy takes (h) ______ his father.",
+    "options": {
+      "a": "after",
+      "b": "to",
+      "c": "of",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Take after (একই রকম হওয়া বা সদৃশ হওয়া)। ছেলেটি তার বাবার মতো দেখতে, এমন অর্থে 'take after' বসে।"
+  },
+  {
+    "id": 219,
+    "question": "Prevention is better (i) ______ cure.",
+    "options": {
+      "a": "to",
+      "b": "than",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Better than (তুলনায় ভালো)। এটি একটি প্রচলিত প্রবাদ বাক্য।"
+  },
+  {
+    "id": 220,
+    "question": "He is worthy (j) ______ praise.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "of",
+      "d": "at"
+    },
+    "correct_answer": "c",
+    "explanation": "Worthy of (যোগ্য)। প্রশংসার যোগ্য হওয়া বোঝাতে 'worthy of' বসে।"
+  },
+  {
+    "id": 221,
+    "question": "Corruption is a curse (a) ______ a nation.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "on",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Curse for (অভিশাপ)। জাতির জন্য অভিশাপ অর্থে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 222,
+    "question": "We should fight (b) ______ corruption.",
+    "options": {
+      "a": "with",
+      "b": "against",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Fight against (কোনো অশুভ শক্তির বিরুদ্ধে লড়াই করা)।"
+  },
+  {
+    "id": 223,
+    "question": "No one is immune (c) ______ corruption.",
+    "options": {
+      "a": "from",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Immune from (মুক্ত)। কোনো কিছু থেকে রক্ষা পাওয়া বা মুক্ত থাকা অর্থে 'from' বসে।"
+  },
+  {
+    "id": 224,
+    "question": "It is harmful (d) ______ our society.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Harmful to (ক্ষতিকর)। সমাজের জন্য ক্ষতিকর অর্থে 'to' সঠিক।"
+  },
+  {
+    "id": 225,
+    "question": "It leads (e) ______ mass poverty.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "into",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Lead to (পরিণতি হিসেবে ঘটা)। দারিদ্র্যের দিকে ধাবিত করা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 226,
+    "question": "We should stand (f) ______ the truth.",
+    "options": {
+      "a": "by",
+      "b": "for",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Stand by (পাশে দাঁড়ানো বা সমর্থন করা)। সত্যের পক্ষে থাকা অর্থে 'stand by' বসে।"
+  },
+  {
+    "id": 227,
+    "question": "Be honest (g) ______ your dealings.",
+    "options": {
+      "a": "to",
+      "b": "in",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Honest in (সৎ)। লেনদেন বা আচরণের ক্ষেত্রে সততা বোঝাতে 'in' সঠিক।"
+  },
+  {
+    "id": 228,
+    "question": "Abstain (h) ______ bad company.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Abstain from (বিরত থাকা)। অসৎ সঙ্গ থেকে দূরে থাকা অর্থে 'from' বসে।"
+  },
+  {
+    "id": 229,
+    "question": "He is popular (i) ______ his students.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Popular with (জনপ্রিয়)। কোনো বিশেষ গ্রুপের কাছে জনপ্রিয় হওয়া বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 230,
+    "question": "He is gifted (j) ______ great talent.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Gifted with (প্রতিভাধর)। জন্মগত কোনো গুণ থাকা অর্থে 'gifted with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 231,
+    "question": "Digital Bangladesh is a dream (a) ______ the people.",
+    "options": {
+      "a": "for",
+      "b": "of",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Dream of (স্বপ্ন)। মানুষের স্বপ্ন অর্থে 'of' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 232,
+    "question": "It aim (b) ______ a technology-based nation.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Aim at (লক্ষ্য স্থির করা)। কোনো লক্ষ্য অর্জনের চেষ্টা অর্থে 'at' বসে।"
+  },
+  {
+    "id": 233,
+    "question": "We should work (c) ______ heart and soul.",
+    "options": {
+      "a": "with",
+      "b": "no preposition",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "'Heart and soul' একটি অ্যাডভার্বিয়াল ফ্রেজ, এর আগে সাধারণত কোনো প্রিপজিশন বসে না।"
+  },
+  {
+    "id": 234,
+    "question": "ICT is essential (d) ______ every sector.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Essential in (অপরিহার্য)। কোনো ক্ষেত্রের ভেতরে কিছু প্রয়োজনীয় হওয়া অর্থে 'in' বসে।"
+  },
+  {
+    "id": 235,
+    "question": "It will connect us (e) ______ the whole world.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Connect with (সংযুক্ত করা)। সারাবিশ্বের সাথে সংযোগ বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 236,
+    "question": "He died (a) ______ an accident.",
+    "options": {
+      "a": "at",
+      "b": "by",
+      "c": "in",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "আকস্মিক কোনো দুর্ঘটনায় মারা গেলে 'die by accident' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 237,
+    "question": "He is indifferent (b) ______ his health.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Indifferent to (উদাসীন)। স্বাস্থ্যের প্রতি অবহেলা করা বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 238,
+    "question": "I am looking (c) ______ a job.",
+    "options": {
+      "a": "at",
+      "b": "for",
+      "c": "after",
+      "d": "into"
+    },
+    "correct_answer": "b",
+    "explanation": "Look for (খোঁজা)। চাকরির সন্ধান করা অর্থে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 239,
+    "question": "The police are looking (d) ______ the case.",
+    "options": {
+      "a": "at",
+      "b": "into",
+      "c": "for",
+      "d": "over"
+    },
+    "correct_answer": "b",
+    "explanation": "Look into (তদন্ত করা)। কোনো বিষয়ের তদন্ত করা অর্থে 'into' সঠিক।"
+  },
+  {
+    "id": 240,
+    "question": "Look (e) ______ the word in the dictionary.",
+    "options": {
+      "a": "at",
+      "b": "up",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Look up (ডিকশনারিতে কোনো শব্দ খোঁজা)। এটি একটি ফিক্সড গ্রুপ ভার্ব।"
+  },
+  {
+    "id": 241,
+    "question": "He is expert (a) ______ drawing.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Expert at (দক্ষ)। কোনো কাজে পারদর্শিতা বোঝাতে 'at' এবং বিষয়ে দক্ষতা বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 242,
+    "question": "Water consists (b) ______ hydrogen and oxygen.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Consist of (গঠিত হওয়া)। কোনো উপাদান দিয়ে গঠিত হওয়া অর্থে 'of' বসে।"
+  },
+  {
+    "id": 243,
+    "question": "He is guilty (c) ______ theft.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Guilty of (দোষী)। চুরির অপরাধে দোষী হওয়া বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 244,
+    "question": "Smoking is injurious (d) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Injurious to (ক্ষতিকর)। এটি একটি খুবই পরিচিত Appropriate Preposition।"
+  },
+  {
+    "id": 245,
+    "question": "The student should be attentive (e) ______ his lessons.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Attentive to (মনোযোগী)। পড়াশোনায় মনোযোগ দেওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 246,
+    "question": "He is slow (f) ______ accounts.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "of",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Slow at (কাঁচা বা ধীর)। কোনো কাজ বা গণনায় ধীরগতি হওয়া অর্থে 'at' বসে।"
+  },
+  {
+    "id": 247,
+    "question": "I am senior (g) ______ him.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Senior-এর পর তুলনায় 'than' না বসে প্রিপজিশন 'to' বসে।"
+  },
+  {
+    "id": 248,
+    "question": "The cat lives (h) ______ mice.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Live on (খেয়ে বেঁচে থাকা)। ইঁদুর খেয়ে বেঁচে থাকা অর্থে 'on' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 249,
+    "question": "He is known (i) ______ me.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "by",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Known to (কারো কাছে পরিচিত)। প্যাসিভ ভয়েস হলেও 'know' ভার্বের পর 'by' না বসে 'to' বসে।"
+  },
+  {
+    "id": 250,
+    "question": "Happiness lies (j) ______ contentment.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Lie in (নিহিত থাকা)। সুখ সন্তুষ্টির মাঝে থাকে অর্থে 'in' সঠিক।"
+  },
+  {
+    "id": 251,
+    "question": "A pious man is absorbed (a) ______ meditation.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Absorbed in (মগ্ন থাকা)। কোনো গভীর ধ্যানে বা কাজে মগ্ন থাকা বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 252,
+    "question": "He is not ambitious (b) ______ worldly life.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "c",
+    "explanation": "Ambitious of (উচ্চাকাঙ্ক্ষী)। পার্থিব জীবনের প্রতি উচ্চাকাঙ্ক্ষী না হওয়া অর্থে 'of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 253,
+    "question": "He is always clinging (c) ______ his faith.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "a",
+    "explanation": "Cling to (লেগে থাকা বা আঁকড়ে ধরা)। নিজের বিশ্বাসের ওপর অটল থাকা বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 254,
+    "question": "He complies (d) ______ the rules of religion.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Comply with (মেনে চলা)। ধর্মীয় নিয়মাবলি মেনে চলা অর্থে 'with' বসে।"
+  },
+  {
+    "id": 255,
+    "question": "He does not desire (e) ______ anything harmful.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "of"
+    },
+    "correct_answer": "a",
+    "explanation": "Desire for (আকাঙ্ক্ষা)। ক্ষতিকর কিছুর প্রতি আকাঙ্ক্ষা না করা অর্থে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 256,
+    "question": "We should be grateful (f) ______ Allah.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Grateful to (কারো প্রতি কৃতজ্ঞ হওয়া)। আল্লাহর প্রতি কৃতজ্ঞতা বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 257,
+    "question": "Allah has control (g) ______ everything.",
+    "options": {
+      "a": "at",
+      "b": "over",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Control over (কোনো কিছুর ওপর নিয়ন্ত্রণ)। সবকিছুর ওপর নিয়ন্ত্রণ বোঝাতে 'over' সঠিক।"
+  },
+  {
+    "id": 258,
+    "question": "A good citizen is devoted (h) ______ his country.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Devoted to (নিষ্ঠাবান বা নিবেদিত)। দেশের প্রতি নিবেদিতপ্রাণ হওয়া বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 259,
+    "question": "He is never averse (i) ______ hard work.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "from"
+    },
+    "correct_answer": "a",
+    "explanation": "Averse to (বিমুখ)। কঠোর পরিশ্রমের প্রতি অনিচ্ছুক বা বিমুখ না হওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 260,
+    "question": "One should be content (j) ______ what one has.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Content with (সন্তুষ্ট)। যা আছে তা নিয়ে সন্তুষ্ট থাকা বোঝাতে 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 261,
+    "question": "The boy is ashamed (a) ______ his conduct.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Ashamed of (লজ্জিত)। নিজের আচরণের জন্য লজ্জিত হওয়া বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 262,
+    "question": "Do not boast (b) ______ your wealth.",
+    "options": {
+      "a": "of",
+      "b": "at",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Boast of/about (অহংকার করা)। সম্পদ নিয়ে বড়াই করা অর্থে 'of' বসে।"
+  },
+  {
+    "id": 263,
+    "question": "He is gifted (c) ______ an extraordinary memory.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Gifted with (জন্মগত প্রতিভাধর)। অসাধারণ স্মৃতির অধিকারী হওয়া বোঝাতে 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 264,
+    "question": "We should be kind (d) ______ the animals.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Kind to (কারো প্রতি দয়ালু)। প্রাণীদের প্রতি সদয় হওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 265,
+    "question": "He is capable (e) ______ doing the work.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Capable of (সক্ষম)। কাজটির করার সামর্থ্য থাকা বোঝাতে 'of' বসে এবং এরপর ভার্বের সাথে ing হয়।"
+  },
+  {
+    "id": 266,
+    "question": "Trees are very beneficial (f) ______ us.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Beneficial to (উপকারী)। আমাদের জন্য গাছ উপকারী বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 267,
+    "question": "They provide us (g) ______ oxygen.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Provide with (সরবরাহ করা)। অক্সিজেন সরবরাহ করা বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 268,
+    "question": "Water is vital (h) ______ our survival.",
+    "options": {
+      "a": "at",
+      "b": "for",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Vital for (অপরিহার্য)। টিকে থাকার জন্য পানির গুরুত্ব বোঝাতে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 269,
+    "question": "Smoking is detrimental (i) ______ health.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Detrimental to (ক্ষতিকর)। স্বাস্থ্যের ক্ষতির দিকটি বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 270,
+    "question": "He is very popular (j) ______ his friends.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Popular with (জনপ্রিয়)। বন্ধুদের কাছে জনপ্রিয় হওয়া অর্থে 'with' সঠিক।"
+  },
+  {
+    "id": 271,
+    "question": "He is indifferent (a) ______ my proposal.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Indifferent to (উদাসীন)। প্রস্তাবের প্রতি আগ্রহহীনতা বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 272,
+    "question": "The table is made (b) ______ wood.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Made of (তৈরি)। উপাদান যদি দৃশ্যমান থাকে (যেমন কাঠ থেকে টেবিল), তবে 'of' বসে।"
+  },
+  {
+    "id": 273,
+    "question": "Paper is made (c) ______ wood.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Made from (তৈরি)। উপাদান যদি পুরোপুরি বদলে যায় (যেমন কাঠ থেকে কাগজ), তবে 'from' বসে।"
+  },
+  {
+    "id": 274,
+    "question": "She is weak (d) ______ Mathematics.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Weak in (কাঁচা বা দুর্বল)। কোনো নির্দিষ্ট বিষয়ে দুর্বলতা বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 275,
+    "question": "He is quick (e) ______ understanding.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Quick at (চটপটে বা দ্রুত)। বোঝার ক্ষেত্রে দ্রুততা বোঝাতে 'at' সঠিক।"
+  },
+  {
+    "id": 276,
+    "question": "He is busy (f) ______ his lessons.",
+    "options": {
+      "a": "with",
+      "b": "at",
+      "c": "in",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Busy with (ব্যস্ত)। কোনো কাজ বা পড়াশোনা নিয়ে ব্যস্ত থাকা অর্থে 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 277,
+    "question": "I am short (g) ______ money.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Short of (অভাব বা ঘাটতি)। টাকার টান বা অভাব বোঝাতে 'short of' বসে।"
+  },
+  {
+    "id": 278,
+    "question": "He is equivalent (h) ______ his brother.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Equivalent to (সমমান)। ভাইয়ের সমান হওয়া বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 279,
+    "question": "The teacher is satisfied (i) ______ his student.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Satisfied with (সন্তুষ্ট)। ছাত্রের কাজে শিক্ষক সন্তুষ্ট বুঝাতে 'with' বসে।"
+  },
+  {
+    "id": 280,
+    "question": "He is loyal (j) ______ his master.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Loyal to (বিশ্বস্ত)। মালিকের প্রতি বিশ্বস্ততা বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 281,
+    "question": "Do not look (a) ______ upon the poor.",
+    "options": {
+      "a": "down",
+      "b": "at",
+      "c": "to",
+      "d": "up"
+    },
+    "correct_answer": "a",
+    "explanation": "Look down upon (ঘৃণা করা)। গরিবদের নিচু চোখে দেখা অর্থে 'down' বসে।"
+  },
+  {
+    "id": 282,
+    "question": "He looked (b) ______ the matter.",
+    "options": {
+      "a": "at",
+      "b": "into",
+      "c": "for",
+      "d": "after"
+    },
+    "correct_answer": "b",
+    "explanation": "Look into (তদন্ত করা)। কোনো বিষয় গভীরভাবে খতিয়ে দেখা অর্থে 'into' বসে।"
+  },
+  {
+    "id": 283,
+    "question": "I am looking (c) ______ my lost pen.",
+    "options": {
+      "a": "at",
+      "b": "for",
+      "c": "into",
+      "d": "after"
+    },
+    "correct_answer": "b",
+    "explanation": "Look for (খোঁজা)। হারিয়ে যাওয়া কলম খোঁজা অর্থে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 284,
+    "question": "She looks (d) ______ her old parents.",
+    "options": {
+      "a": "after",
+      "b": "at",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Look after (দেখালোনা করা)। বৃদ্ধ বাবা-মায়ের সেবা বা যত্ন নেওয়া অর্থে 'after' বসে।"
+  },
+  {
+    "id": 285,
+    "question": "I look (e) ______ hearing from you soon.",
+    "options": {
+      "a": "at",
+      "b": "forward to",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Look forward to (প্রতীক্ষা করা)। চিঠির উত্তরের অপেক্ষায় থাকা অর্থে 'forward to' বসে।"
+  },
+  {
+    "id": 286,
+    "question": "The plane took (f) ______ on time.",
+    "options": {
+      "a": "up",
+      "b": "off",
+      "c": "in",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Take off (উড্ডয়ন করা)। বিমানটি সময়মতো মাটি ছাড়ল বোঝাতে 'off' সঠিক।"
+  },
+  {
+    "id": 287,
+    "question": "He takes (g) ______ his grandfather.",
+    "options": {
+      "a": "to",
+      "b": "after",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Take after (একই রকম হওয়া)। সে দেখতে তার দাদার মতো, তাই 'after' সঠিক।"
+  },
+  {
+    "id": 288,
+    "question": "The match was put (h) ______ due to rain.",
+    "options": {
+      "a": "off",
+      "b": "out",
+      "c": "up",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Put off (স্থগিত করা)। বৃষ্টির জন্য খেলা স্থগিত হওয়া অর্থে 'off' বসে।"
+  },
+  {
+    "id": 289,
+    "question": "Please put (i) ______ the lamp.",
+    "options": {
+      "a": "off",
+      "b": "out",
+      "c": "up",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Put out (নেভানো)। বাতি বা আগুন নেভানোর অনুরোধ অর্থে 'out' সঠিক।"
+  },
+  {
+    "id": 290,
+    "question": "He gave (j) ______ smoking.",
+    "options": {
+      "a": "up",
+      "b": "away",
+      "c": "off",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Give up (পরিত্যাগ করা)। নেশা বা অভ্যাস ছেড়ে দেওয়া অর্থে 'up' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 291,
+    "question": "We were surprised (a) ______ his behavior.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "a",
+    "explanation": "Surprised at (বিস্মিত)। কারো আচরণে অবাক হওয়া অর্থে 'at' সঠিক।"
+  },
+  {
+    "id": 292,
+    "question": "He is angry (b) ______ me.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Angry with (কারো ওপর রাগান্বিত)। কোনো ব্যক্তির ওপর রাগ করা অর্থে 'with' বসে।"
+  },
+  {
+    "id": 293,
+    "question": "I was angry (c) ______ his words.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "a",
+    "explanation": "Angry at (কোনো বিষয়ে রাগান্বিত)। কারো কথায় বা কাজে রাগ হলে 'at' বসে।"
+  },
+  {
+    "id": 294,
+    "question": "He died (d) ______ cholera.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Die of (রোগে মারা যাওয়া)। কলেরা বা অন্য রোগে মারা যাওয়া অর্থে 'of' বসে।"
+  },
+  {
+    "id": 295,
+    "question": "He died (e) ______ starvation.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Die from (কোনো কারণে মারা যাওয়া)। অনাহার বা অতিরিক্ত পরিশ্রমে মারা গেলে 'from' বসে।"
+  },
+  {
+    "id": 296,
+    "question": "The hero died (f) ______ his country.",
+    "options": {
+      "a": "for",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Die for (কোনো মহৎ উদ্দেশ্যে মারা যাওয়া)। দেশের জন্য প্রাণ দেওয়া অর্থে 'for' বসে।"
+  },
+  {
+    "id": 297,
+    "question": "The man was accused (g) ______ murder.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Accused of (অভিযুক্ত)। খুনের দায়ে অভিযুক্ত হওয়া বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 298,
+    "question": "She is gifted (h) ______ a sweet voice.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Gifted with (অধিকারী)। সুন্দর কণ্ঠস্বরের অধিকারী হওয়া অর্থে 'with' সঠিক।"
+  },
+  {
+    "id": 299,
+    "question": "We should yield (i) ______ none.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Yield to (নতি স্বীকার করা)। কারো কাছে নতি স্বীকার না করা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 300,
+    "question": "The boy takes pride (j) ______ his success.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Take pride in (গর্ব করা)। এটি একটি ফিক্সড ফ্রেজ। তবে 'Proud of' হয়।"
+  },
+  {
+    "id": 301,
+    "question": "A student should be careful (a) ______ his health.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Careful of (সতর্ক বা যত্নবান)। স্বাস্থ্যের যত্ন নেওয়া বা সতর্ক থাকা অর্থে 'of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 302,
+    "question": "He should abstain (b) ______ smoking.",
+    "options": {
+      "a": "from",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Abstain from (বিরত থাকা)। কোনো খারাপ অভ্যাস থেকে দূরে থাকা বোঝাতে 'from' বসে।"
+  },
+  {
+    "id": 303,
+    "question": "He must be attentive (c) ______ his studies.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Attentive to (মনোযোগী)। পড়াশোনায় মন দেওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 304,
+    "question": "He should not be indifferent (d) ______ his duties.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Indifferent to (উদাসীন)। কর্তব্যের প্রতি অবহেলা বা অনিহা প্রকাশ করা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 305,
+    "question": "He should abide (e) ______ the rules of the college.",
+    "options": {
+      "a": "by",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Abide by (মেনে চলা)। প্রতিষ্ঠানের নিয়ম-কানুন মেনে চলা বোঝাতে 'by' সঠিক।"
+  },
+  {
+    "id": 306,
+    "question": "Success depends (f) ______ industry.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Depend on (নির্ভর করা)। পরিশ্রমের ওপর সাফল্য নির্ভর করে।"
+  },
+  {
+    "id": 307,
+    "question": "One should not hunger (g) ______ fame.",
+    "options": {
+      "a": "for",
+      "b": "after",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Hunger after (খ্যাতির পেছনে ছোটা বা লালসা করা)।"
+  },
+  {
+    "id": 308,
+    "question": "He is confident (h) ______ his success.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Confident of (নিশ্চিত)। নিজের সাফল্যের ব্যাপারে আত্মবিশ্বাসী হওয়া অর্থে 'of' বসে।"
+  },
+  {
+    "id": 309,
+    "question": "The man is blind (i) ______ one eye.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Blind of (এক চোখে অন্ধ)। শারীরিকভাবে অন্ধ হওয়া বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 310,
+    "question": "He is blind (j) ______ his son's fault.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Blind to (দোষ দেখেও না দেখা)। কার্পণ্য বা স্নেহের কারণে দোষ এড়িয়ে যাওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 311,
+    "question": "The house is infested (a) ______ rats.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Infested with (উপদ্রুত বা কোনো ক্ষতিকর কিছুতে ভরা)। ইঁদুরের উপদ্রব বোঝাতে 'with' সঠিক।"
+  },
+  {
+    "id": 312,
+    "question": "He is eligible (b) ______ the post.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Eligible for (যোগ্য)। কোনো পদের জন্য উপযুক্ত হওয়া বোঝাতে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 313,
+    "question": "The sky is (c) ______ our head.",
+    "options": {
+      "a": "above",
+      "b": "on",
+      "c": "over",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Above (উপরে)। আকাশ আমাদের মাথার অনেক উপরে স্থির অবস্থায় আছে, তাই 'above' সঠিক।"
+  },
+  {
+    "id": 314,
+    "question": "The bird flew (d) ______ my head.",
+    "options": {
+      "a": "above",
+      "b": "over",
+      "c": "at",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Over (উপরে)। কোনো কিছু মাথার ওপর দিয়ে গতিশীল অবস্থায় চলে গেলে 'over' বসে।"
+  },
+  {
+    "id": 315,
+    "question": "He divided the money (e) ______ the two boys.",
+    "options": {
+      "a": "among",
+      "b": "between",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Between (দুইয়ের মধ্যে)। দুইজনের মধ্যে ভাগ করে দেওয়া বোঝাতে 'between' বসে।"
+  },
+  {
+    "id": 316,
+    "question": "He divided the mangoes (f) ______ the five children.",
+    "options": {
+      "a": "between",
+      "b": "among",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Among (অনেকের মধ্যে)। দুইয়ের অধিক ব্যক্তির মধ্যে ভাগ করা বোঝালে 'among' বসে।"
+  },
+  {
+    "id": 317,
+    "question": "I am not (g) ______ good terms with him.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "On good terms (সুসম্পর্ক থাকা)। এটি একটি ফিক্সড ইডিওম্যাটিক এক্সপ্রেশন।"
+  },
+  {
+    "id": 318,
+    "question": "The hunter aimed (h) ______ the tiger.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Aim at (লক্ষ্য করা)। কোনো নির্দিষ্ট লক্ষ্যবস্তুকে নিশানা করা অর্থে 'at' বসে।"
+  },
+  {
+    "id": 319,
+    "question": "He is superior (i) ______ you.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Superior to (অপেক্ষাকৃত উন্নত বা বড়)। ল্যাটিন অ্যাডজেক্টিভগুলোর পর 'to' বসে।"
+  },
+  {
+    "id": 320,
+    "question": "I prefer tea (j) ______ coffee.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "over",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Prefer to (অধিকতর পছন্দ করা)। দুই জিনিসের মধ্যে একটিকে বেছে নিতে 'to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 321,
+    "question": "The man is accused (a) ______ theft.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Accused of (অভিযুক্ত)। কোনো অপরাধের দায়ে অভিযুক্ত হওয়া বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 322,
+    "question": "He is very close (b) ______ my house.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "with",
+      "d": "near"
+    },
+    "correct_answer": "a",
+    "explanation": "Close to (নিকটবর্তী)। কোনো স্থানের খুব কাছে থাকা বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 323,
+    "question": "I am looking (c) ______ my lost watch.",
+    "options": {
+      "a": "at",
+      "b": "for",
+      "c": "after",
+      "d": "into"
+    },
+    "correct_answer": "b",
+    "explanation": "Look for (খোঁজা)। হারিয়ে যাওয়া জিনিস সন্ধান করা অর্থে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 324,
+    "question": "She looks (d) ______ her sick mother.",
+    "options": {
+      "a": "at",
+      "b": "after",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Look after (সেবা বা যত্ন নেওয়া)। কারো দেখাশোনা করা অর্থে 'after' সঠিক।"
+  },
+  {
+    "id": 325,
+    "question": "Please look (e) ______ the word in the dictionary.",
+    "options": {
+      "a": "at",
+      "b": "up",
+      "c": "for",
+      "d": "into"
+    },
+    "correct_answer": "b",
+    "explanation": "Look up (ডিকশনারিতে শব্দ খোঁজা)। এটি একটি ফিক্সড গ্রুপ ভার্ব।"
+  },
+  {
+    "id": 326,
+    "question": "He died (f) ______ overeating.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Die from (কোনো কারণে মারা যাওয়া)। অতিরিক্ত খাওয়ার ফলে মৃত্যু বোঝাতে 'from' বসে।"
+  },
+  {
+    "id": 327,
+    "question": "He died (g) ______ cancer.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Die of (রোগে মারা যাওয়া)। ক্যানসার বা অন্য রোগে মারা গেলে 'of' বসে।"
+  },
+  {
+    "id": 328,
+    "question": "The train arrived (h) ______ the station.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "a",
+    "explanation": "Arrive at (পৌঁছানো)। কোনো ছোট বা নির্দিষ্ট স্থানে পৌঁছানো বোঝাতে 'at' বসে।"
+  },
+  {
+    "id": 329,
+    "question": "I am fed (i) ______ with his talk.",
+    "options": {
+      "a": "of",
+      "b": "up",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Fed up with (বিরক্ত বা অতিষ্ঠ)। কারো কথায় অতিষ্ঠ হওয়া বোঝাতে 'up' বসে।"
+  },
+  {
+    "id": 330,
+    "question": "He is proficient (j) ______ English.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Proficient in (দক্ষ)। ভাষা বা কোনো বিষয়ে দক্ষতা বোঝাতে 'in' সঠিক।"
+  },
+  {
+    "id": 331,
+    "question": "Water is vital (a) ______ our existence.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Vital for (অপরিহার্য)। অস্তিত্ব রক্ষায় পানির গুরুত্ব বোঝাতে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 332,
+    "question": "He is absent (b) ______ the class.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "to",
+      "d": "in"
+    },
+    "correct_answer": "a",
+    "explanation": "Absent from (অনুপস্থিত)। কোনো নির্দিষ্ট জায়গা থেকে অনুপস্থিত থাকা বোঝাতে 'from' বসে।"
+  },
+  {
+    "id": 333,
+    "question": "He is devoid (c) ______ common sense.",
+    "options": {
+      "a": "with",
+      "b": "of",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Devoid of (বর্জিত বা হীন)। কারো মধ্যে বুদ্ধির অভাব থাকলে 'of' বসে।"
+  },
+  {
+    "id": 334,
+    "question": "We must be aware (d) ______ air pollution.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Aware of (সচেতন)। পরিবেশ দূষণ নিয়ে সচেতনতা বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 335,
+    "question": "A student must be attentive (e) ______ his lessons.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Attentive to (মনোযোগী)। পড়াশোনায় মন দেওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 336,
+    "question": "He is popular (f) ______ his classmates.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Popular with (জনপ্রিয়)। সহপাঠীদের কাছে জনপ্রিয় হওয়া বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 337,
+    "question": "One should refrain (g) ______ evil company.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Refrain from (বিরত থাকা)। খারাপ সঙ্গ ত্যাগ করা বা বিরত থাকা অর্থে 'from' সঠিক।"
+  },
+  {
+    "id": 338,
+    "question": "Trees protect us (h) ______ natural disasters.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Protect from (রক্ষা করা)। দুর্যোগ থেকে রক্ষা করা অর্থে 'from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 339,
+    "question": "We are proud (i) ______ our country.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Proud of (গর্বিত)। দেশের জন্য গর্ব করা অর্থে 'of' সঠিক।"
+  },
+  {
+    "id": 340,
+    "question": "He is worthy (j) ______ praise.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Worthy of (যোগ্য)। প্রশংসার যোগ্য হওয়া বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 341,
+    "question": "The teacher was annoyed (a) ______ me.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Annoyed with (কারো ওপর বিরক্ত)। ব্যক্তির ওপর বিরক্তি বোঝালে 'with' বসে।"
+  },
+  {
+    "id": 342,
+    "question": "I was annoyed (b) ______ his conduct.",
+    "options": {
+      "a": "with",
+      "b": "at",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Annoyed at (কোনো বিষয়ে বিরক্ত)। আচরণ বা কাজের ওপর বিরক্তি বোঝালে 'at' বসে।"
+  },
+  {
+    "id": 343,
+    "question": "He is senior (c) ______ me by two years.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "of",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Senior to (অপেক্ষাকৃত বড়)। বয়সে বড় বোঝাতে ল্যাটিন অ্যাডজেক্টিভ হিসেবে 'to' বসে।"
+  },
+  {
+    "id": 344,
+    "question": "I prefer reading (d) ______ writing.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "over",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Prefer to (পছন্দ করা)। দুটি কাজের মধ্যে তুলনা করে একটিকে বেছে নিতে 'to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 345,
+    "question": "The basket is full (e) ______ flowers.",
+    "options": {
+      "a": "with",
+      "b": "of",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Full of (পূর্ণ)। ফুলে ভরা ঝুড়ি বোঝাতে 'of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 346,
+    "question": "He has no ambition (f) ______ fame.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Ambition for (উচ্চাকাঙ্ক্ষা)। খ্যাতির প্রতি আকাঙ্ক্ষা না থাকা অর্থে 'for' সঠিক।"
+  },
+  {
+    "id": 347,
+    "question": "Allah is kind (g) ______ all.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Kind to (দয়ালু)। সবার প্রতি দয়া প্রকাশ করা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 348,
+    "question": "Health is the key (h) ______ happiness.",
+    "options": {
+      "a": "of",
+      "b": "to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Key to (চাবিকাঠি বা প্রধান মাধ্যম)। সুখের চাবিকাঠি অর্থে 'to' বসে।"
+  },
+  {
+    "id": 349,
+    "question": "He is gifted (i) ______ great intelligence.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Gifted with (জন্মগতভাবে পাওয়া)। বুদ্ধিমত্তার অধিকারী হওয়া বোঝাতে 'with' সঠিক।"
+  },
+  {
+    "id": 350,
+    "question": "One should be content (j) ______ one's lot.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Content with (সন্তুষ্ট)। নিজের ভাগ্য নিয়ে সন্তুষ্ট থাকা বোঝাতে 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 351,
+    "question": "He will come back (a) ______ an hour.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "within",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "ভবিষ্যৎ সময়ের এক ঘণ্টা পূর্ণ হলে 'in' বসে। তবে এক ঘণ্টার মধ্যে বোঝালে 'within' হতো। এখানে 'in' সবচেয়ে বেশি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 352,
+    "question": "The class starts (b) ______ 10 AM.",
+    "options": {
+      "a": "in",
+      "b": "on",
+      "c": "at",
+      "d": "from"
+    },
+    "correct_answer": "c",
+    "explanation": "ঘড়ির কাঁটার নির্দিষ্ট সময়ের আগে 'at' বসে।"
+  },
+  {
+    "id": 353,
+    "question": "He was born (c) ______ 1998.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "since"
+    },
+    "correct_answer": "b",
+    "explanation": "সাল বা মাসের আগে প্রিপজিশন হিসেবে 'in' বসে।"
+  },
+  {
+    "id": 354,
+    "question": "We celebrate Victory Day (d) ______ 16 December.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "on",
+      "d": "within"
+    },
+    "correct_answer": "c",
+    "explanation": "নির্দিষ্ট তারিখ বা বারের আগে 'on' বসে।"
+  },
+  {
+    "id": 355,
+    "question": "It has been raining (e) ______ morning.",
+    "options": {
+      "a": "for",
+      "b": "since",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সময় থেকে কাজ শুরু হয়ে বর্তমানেও চলছে বোঝালে (Point of time) 'since' বসে।"
+  },
+  {
+    "id": 356,
+    "question": "They have been living here (f) ______ five years.",
+    "options": {
+      "a": "since",
+      "b": "for",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "সময়ের ব্যপ্তি বা মোট সময় বোঝালে (Period of time) 'for' বসে।"
+  },
+  {
+    "id": 357,
+    "question": "The train leaves (g) ______ five minutes.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "within",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "ভবিষ্যৎ সময়ের ক্ষেত্রে কোনো কিছু শুরু হতে বাকি থাকলে 'in' বসে।"
+  },
+  {
+    "id": 358,
+    "question": "Please finish the work (h) ______ tomorrow.",
+    "options": {
+      "a": "to",
+      "b": "by",
+      "c": "at",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো কাজ নির্দিষ্ট সময়ের মধ্যে বা সর্বশেষ ওই সময়ের মধ্যে শেষ করতে হলে 'by' বসে।"
+  },
+  {
+    "id": 359,
+    "question": "He lives (i) ______ Dhanmondi (j) ______ Dhaka.",
+    "options": {
+      "a": "in, at",
+      "b": "at, in",
+      "c": "at, at",
+      "d": "in, in"
+    },
+    "correct_answer": "b",
+    "explanation": "তুলনামূলক ছোট জায়গার আগে 'at' এবং বড় জায়গার আগে 'in' বসে।"
+  },
+  {
+    "id": 360,
+    "question": "The sun rises (a) ______ the east.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "in",
+      "d": "from"
+    },
+    "correct_answer": "c",
+    "explanation": "দিকের আগে বা দিকের ভেতরে অবস্থান বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 361,
+    "question": "He sits (b) ______ me in the class.",
+    "options": {
+      "a": "beside",
+      "b": "besides",
+      "c": "behind",
+      "d": "between"
+    },
+    "correct_answer": "a",
+    "explanation": "পার্শ্বে বা পাশে বোঝাতে 'beside' বসে। 'besides' মানে হলো 'অধিকন্তু'।"
+  },
+  {
+    "id": 362,
+    "question": "The cat jumped (c) ______ the table.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "upon",
+      "d": "to"
+    },
+    "correct_answer": "c",
+    "explanation": "কোনো কিছুর ওপর গতিশীল অবস্থায় লাফিয়ে পড়লে 'upon' বা 'onto' বসে।"
+  },
+  {
+    "id": 363,
+    "question": "The ball rolled (d) ______ the hole.",
+    "options": {
+      "a": "in",
+      "b": "into",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "বাইরে থেকে ভেতরে গতিশীল অবস্থায় প্রবেশ করলে 'into' বসে।"
+  },
+  {
+    "id": 364,
+    "question": "There is a bridge (e) ______ the river.",
+    "options": {
+      "a": "on",
+      "b": "above",
+      "c": "over",
+      "d": "at"
+    },
+    "correct_answer": "c",
+    "explanation": "এক প্রান্ত থেকে অন্য প্রান্ত পর্যন্ত কোনো কিছুর ওপর দিয়ে বিস্তৃত থাকলে 'over' বসে।"
+  },
+  {
+    "id": 365,
+    "question": "Divide the bread (f) ______ the four brothers.",
+    "options": {
+      "a": "between",
+      "b": "among",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "দুইয়ের অধিক ব্যক্তির মধ্যে কিছু ভাগ করা বোঝালে 'among' বসে।"
+  },
+  {
+    "id": 366,
+    "question": "I prefer reading (g) ______ writing.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "over",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Prefer-এর পর তুলনায় 'than' না বসে 'to' বসে।"
+  },
+  {
+    "id": 367,
+    "question": "Smoking is injurious (h) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Injurious-এর পর প্রিপজিশন হিসেবে 'to' বসে।"
+  },
+  {
+    "id": 368,
+    "question": "The boy is clever (i) ______ mathematics.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "দক্ষতা (Good at, Clever at) বোঝাতে 'at' বসে। কোনো বিষয়ের ভেতরে দুর্বল বা সবল বোঝাতে 'in'ও বসে, তবে 'at' বেশি এপ্রোপ্রিয়েট।"
+  },
+  {
+    "id": 369,
+    "question": "I am not acquainted (j) ______ him.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Acquainted with (পরিচিত)। কারো সাথে পরিচিত হওয়া অর্থে 'with' বসে।"
+  },
+  {
+    "id": 370,
+    "question": "He failed (a) ______ shortage of time.",
+    "options": {
+      "a": "by",
+      "b": "due to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো কারণে ব্যর্থ হওয়া বোঝাতে 'due to' বা 'owing to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 371,
+    "question": "Our results depend (b) ______ our hard work.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Depend-এর পর প্রিপজিশন 'on' বা 'upon' বসে।"
+  },
+  {
+    "id": 372,
+    "question": "He has no appetite (c) ______ food.",
+    "options": {
+      "a": "of",
+      "b": "for",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Appetite for (ক্ষুধা বা রুচি)। খাবারের প্রতি আগ্রহ বোঝাতে 'for' বসে।"
+  },
+  {
+    "id": 373,
+    "question": "The teacher is satisfied (d) ______ the student's progress.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Satisfied with (সন্তুষ্ট)। কারো কাজ বা অগ্রগতির সাথে সন্তুষ্ট হওয়া বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 374,
+    "question": "He is absent (e) ______ the meeting.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "in",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Absent from (অনুপস্থিত)। কোনো অনুষ্ঠান বা জায়গা থেকে অনুপস্থিত থাকা বোঝাতে 'from' বসে।"
+  },
+  {
+    "id": 375,
+    "question": "Rice sells (f) ______ sixty taka a kg.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "দর বা দাম বোঝাতে প্রিপজিশন 'at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 376,
+    "question": "Translate the passage (g) ______ Bengali.",
+    "options": {
+      "a": "to",
+      "b": "into",
+      "c": "in",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "এক ভাষা থেকে অন্য ভাষায় রূপান্তর বোঝাতে 'into' বসে।"
+  },
+  {
+    "id": 377,
+    "question": "The table is made (h) ______ wood.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "উপাদান যদি চেনা যায় (কাঠ থেকে টেবিল), তবে 'made of' বসে।"
+  },
+  {
+    "id": 378,
+    "question": "Bread is made (i) ______ flour.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "উপাদান যদি আমূল বদলে যায় (আটা থেকে রুটি), তবে 'made from' বসে।"
+  },
+  {
+    "id": 379,
+    "question": "He is very popular (j) ______ the villagers.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Popular with (জনপ্রিয়)। কোনো নির্দিষ্ট গোষ্ঠীর কাছে জনপ্রিয় হওয়া বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 380,
+    "question": "He died (a) ______ his country.",
+    "options": {
+      "a": "of",
+      "b": "for",
+      "c": "by",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "দেশের জন্য আত্মত্যাগ করা বোঝালে 'die for' বসে।"
+  },
+  {
+    "id": 381,
+    "question": "He died (b) ______ a train accident.",
+    "options": {
+      "a": "in",
+      "b": "by",
+      "c": "at",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "দুর্ঘটনায় মারা যাওয়া বোঝালে সাধারণত 'die by (accident)' বসে।"
+  },
+  {
+    "id": 382,
+    "question": "The criminal was charged (c) ______ murder.",
+    "options": {
+      "a": "of",
+      "b": "with",
+      "c": "for",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Charge with (অভিযুক্ত হওয়া)। খুনের দায়ে অভিযুক্ত করা অর্থে 'with' বসে।"
+  },
+  {
+    "id": 383,
+    "question": "He is blind (d) ______ one eye.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "শারীরিকভাবে কোনো এক চোখে অন্ধ হওয়া বোঝালে 'blind of' বা 'blind in' বসে।"
+  },
+  {
+    "id": 384,
+    "question": "He is blind (e) ______ his own faults.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "of",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "নিজের দোষ দেখেও না দেখা অর্থে 'blind to' বসে।"
+  },
+  {
+    "id": 385,
+    "question": "The boy takes (f) ______ his father.",
+    "options": {
+      "a": "after",
+      "b": "to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Take after (একই রকম হওয়া)। চেহারায় বা স্বভাবে কারো মতো হওয়া বোঝালে 'take after' বসে।"
+  },
+  {
+    "id": 386,
+    "question": "The meeting was put (g) ______ due to the strike.",
+    "options": {
+      "a": "out",
+      "b": "off",
+      "c": "up",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Put off (স্থগিত করা)। সভা পিছিয়ে দেওয়া অর্থে 'off' বসে।"
+  },
+  {
+    "id": 387,
+    "question": "Please put (h) ______ the lamp.",
+    "options": {
+      "a": "off",
+      "b": "out",
+      "c": "up",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Put out (নেভানো)। আগুন বা বাতি নেভানো অর্থে 'out' বসে।"
+  },
+  {
+    "id": 388,
+    "question": "We should look (i) ______ the word in the dictionary.",
+    "options": {
+      "a": "at",
+      "b": "up",
+      "c": "for",
+      "d": "after"
+    },
+    "correct_answer": "b",
+    "explanation": "Look up (ডিকশনারিতে শব্দ খোঁজা)।"
+  },
+  {
+    "id": 389,
+    "question": "She looks (j) ______ her old parents.",
+    "options": {
+      "a": "at",
+      "b": "after",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Look after (সেবা করা বা দেখাশোনা করা)।"
+  },
+  {
+    "id": 390,
+    "question": "He has no control (a) ______ his temper.",
+    "options": {
+      "a": "at",
+      "b": "over",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Control over (নিয়ন্ত্রণ)। মেজাজের ওপর নিয়ন্ত্রণ না থাকা অর্থে 'over' বসে।"
+  },
+  {
+    "id": 391,
+    "question": "I am not (b) ______ good terms (c) ______ my neighbors.",
+    "options": {
+      "a": "at, with",
+      "b": "on, with",
+      "c": "in, with",
+      "d": "on, to"
+    },
+    "correct_answer": "b",
+    "explanation": "On good terms (সুসম্পর্ক থাকা)। কারো সাথে ভালো সম্পর্ক থাকা অর্থে 'on' এবং 'with' বসে।"
+  },
+  {
+    "id": 392,
+    "question": "The hunter aimed (d) ______ the bird.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Aim at (লক্ষ্য করা)। নিশানাকে লক্ষ্য করা অর্থে 'at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 393,
+    "question": "He died (e) ______ cholera.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "রোগে মারা গেলে 'die of' বসে।"
+  },
+  {
+    "id": 394,
+    "question": "Success lies (f) ______ hard work.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Lie in (নিহিত থাকা)। কোনো কিছুর মধ্যে নিহিত থাকা অর্থে 'in' সঠিক।"
+  },
+  {
+    "id": 395,
+    "question": "He is superior (g) ______ me in position.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Superior-এর পর তুলনায় 'to' বসে।"
+  },
+  {
+    "id": 396,
+    "question": "The table is made (h) ______ wood.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "উপাদান বোঝা গেলে 'made of' বসে।"
+  },
+  {
+    "id": 397,
+    "question": "He came (i) ______ a noble family.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Come of (জন্মগ্রহণ করা)। উচ্চবংশে জন্ম নেওয়া অর্থে 'come of' বসে।"
+  },
+  {
+    "id": 398,
+    "question": "He is good (j) ______ cricket.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "with",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Good at (দক্ষ)। কোনো খেলা বা কাজে দক্ষ হওয়া বোঝাতে 'at' বসে।"
+  },
+  {
+    "id": 399,
+    "question": "Prevention is better (a) ______ cure.",
+    "options": {
+      "a": "to",
+      "b": "than",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "তুলনা বোঝালে Comparative Degree-তে 'than' বসে।"
+  },
+  {
+    "id": 400,
+    "question": "He is guilty (b) ______ theft.",
+    "options": {
+      "a": "of",
+      "b": "to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Guilty of (দোষী)। চুরির দায়ে অপরাধী হওয়া অর্থে 'of' বসে।"
+  },
+  {
+    "id": 401,
+    "question": "The boy takes (a) ______ his mother.",
+    "options": {
+      "a": "after",
+      "b": "to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Take after (সদৃশ হওয়া)। দেখতে একই রকম হওয়া বোঝাতে এটি বসে।"
+  },
+  {
+    "id": 402,
+    "question": "He gave (b) ______ his bad habits.",
+    "options": {
+      "a": "up",
+      "b": "away",
+      "c": "off",
+      "d": "in"
+    },
+    "correct_answer": "a",
+    "explanation": "Give up (ত্যাগ করা)। কুঅভ্যাস ছেড়ে দেওয়া অর্থে 'up' বসে।"
+  },
+  {
+    "id": 403,
+    "question": "The fire was put (c) ______ quickly.",
+    "options": {
+      "a": "off",
+      "b": "out",
+      "c": "up",
+      "d": "down"
+    },
+    "correct_answer": "b",
+    "explanation": "Put out (নেভানো)। আগুন নেভানো অর্থে 'out' সঠিক।"
+  },
+  {
+    "id": 404,
+    "question": "The meeting was put (d) ______.",
+    "options": {
+      "a": "off",
+      "b": "out",
+      "c": "up",
+      "d": "down"
+    },
+    "correct_answer": "a",
+    "explanation": "Put off (স্থগিত করা)। কোনো কাজ পিছিয়ে দেওয়া অর্থে 'off' বসে।"
+  },
+  {
+    "id": 405,
+    "question": "I cannot make (e) ______ what he says.",
+    "options": {
+      "a": "up",
+      "b": "out",
+      "c": "off",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Make out (বুঝতে পারা)। কারো কথা বুঝতে পারা অর্থে 'out' সঠিক।"
+  },
+  {
+    "id": 406,
+    "question": "He has no taste (f) ______ music.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "of",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Taste for (রুচি)। সঙ্গীতের প্রতি অনুরাগের অভাব অর্থে 'for' বসে।"
+  },
+  {
+    "id": 407,
+    "question": "The girl is proficient (g) ______ English.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Proficient in (দক্ষ)। কোনো বিষয়ে দক্ষতা বোঝাতে 'in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 408,
+    "question": "He abides (h) ______ his teachers' advice.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Abide by (মেনে চলা)। উপদেশ মেনে চলা অর্থে 'by' বসে।"
+  },
+  {
+    "id": 409,
+    "question": "Fortune smiles (i) ______ the brave.",
+    "options": {
+      "a": "at",
+      "b": "upon",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Smile upon (প্রসন্ন হওয়া)। ভাগ্য সাহসীদের সহায় হয়।"
+  },
+  {
+    "id": 410,
+    "question": "He is superior (j) ______ me.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "Superior, Junior, Senior-এর পর তুলনায় 'to' বসে।"
+  },
+  {
+    "id": 411,
+    "question": "He is blind (a) ______ his son's fault.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Blind to (দেখেও না দেখা)। দোষের প্রতি অন্ধ থাকা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 412,
+    "question": "The boy is blind (b) ______ one eye.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Blind of (এক চোখে অন্ধ)। শারীরিকভাবে অন্ধ হওয়া বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 413,
+    "question": "He is expert (c) ______ painting.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Expert at (কাজে দক্ষ)। কোনো কর্মে পারদর্শিতা বোঝাতে 'at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 414,
+    "question": "We should be kind (d) ______ animals.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Kind to (সদয়)। প্রাণীদের প্রতি দয়া প্রদর্শন করা অর্থে 'to' বসে।"
+  },
+  {
+    "id": 415,
+    "question": "The man is guilty (e) ______ murder.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Guilty of (দোষী)। কোনো অপরাধে অপরাধী হওয়া বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 416,
+    "question": "The house is made (f) ______ brick.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Made of (তৈরি)। উপাদান দৃশ্যমান থাকলে 'of' বসে।"
+  },
+  {
+    "id": 417,
+    "question": "Paper is made (g) ______ bamboo.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Made from (তৈরি)। উপাদান পুরোপুরি পরিবর্তিত হলে 'from' বসে।"
+  },
+  {
+    "id": 418,
+    "question": "He lives (h) ______ hand to mouth.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "from",
+      "d": "with"
+    },
+    "correct_answer": "c",
+    "explanation": "From hand to mouth (দিন এনে দিন খাওয়া)। এটি একটি প্রবাদ।"
+  },
+  {
+    "id": 419,
+    "question": "He is worthy (i) ______ praise.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Worthy of (যোগ্য)। প্রশংসার যোগ্য হওয়া বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 420,
+    "question": "Smoking is harmful (j) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Harmful to (ক্ষতিকর)। স্বাস্থ্যর জন্য ক্ষতিকর অর্থে 'to' সঠিক।"
+  },
+  {
+    "id": 421,
+    "question": "I am not satisfied (a) ______ your result.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Satisfied with (সন্তুষ্ট)। কারো ফলের সাথে সন্তুষ্ট হওয়া অর্থে 'with' বসে।"
+  },
+  {
+    "id": 422,
+    "question": "He has no appetite (b) ______ food.",
+    "options": {
+      "a": "of",
+      "b": "for",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Appetite for (ক্ষুধা)। খাবারের প্রতি রুচি অর্থে 'for' বসে।"
+  },
+  {
+    "id": 423,
+    "question": "Success depends (c) ______ hard work.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Depend on (নির্ভর করা)। এটি একটি বহুল প্রচলিত প্রিপজিশন।"
+  },
+  {
+    "id": 424,
+    "question": "He is senior (d) ______ me by three years.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "of",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Senior to (বড়)। বয়সে বড় বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 425,
+    "question": "Happiness lies (e) ______ contentment.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Lie in (নিহিত থাকা)। সুখ সন্তুষ্টির ওপর নির্ভর করে বা মাঝে থাকে।"
+  },
+  {
+    "id": 426,
+    "question": "The moon shines (f) ______ night.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "At night (রাতে)। দিনের নির্দিষ্ট সময়ের আগে 'at' বসে।"
+  },
+  {
+    "id": 427,
+    "question": "I prefer tea (g) ______ coffee.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "over",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Prefer to (অধিকতর পছন্দ করা)।"
+  },
+  {
+    "id": 428,
+    "question": "We should refrain (h) ______ smoking.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Refrain from (বিরত থাকা)। কোনো অভ্যাস থেকে দূরে থাকা বোঝাতে 'from' বসে।"
+  },
+  {
+    "id": 429,
+    "question": "He is devoid (i) ______ common sense.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Devoid of (বর্জিত)। কারো কাণ্ডজ্ঞান না থাকা বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 430,
+    "question": "He died (j) ______ cholera.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Die of (রোগে মারা যাওয়া)। ক্যালেরা একটি রোগ।"
+  },
+  {
+    "id": 431,
+    "question": "The hunter aimed (a) ______ the tiger.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Aim at (লক্ষ্য করা)। নিশানাকে লক্ষ্য করা অর্থে 'at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 432,
+    "question": "He is absent (b) ______ the class.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Absent from (অনুপস্থিত)।"
+  },
+  {
+    "id": 433,
+    "question": "He is very popular (c) ______ the people.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Popular with (জনপ্রিয়)। মানুষের কাছে জনপ্রিয় হওয়া অর্থে 'with' সঠিক।"
+  },
+  {
+    "id": 434,
+    "question": "We are proud (d) ______ our country.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Proud of (গর্বিত)। দেশের প্রতি গর্বিত হওয়া বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 435,
+    "question": "Smoking is injurious (e) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Injurious to (ক্ষতিকর)।"
+  },
+  {
+    "id": 436,
+    "question": "He is proficient (f) ______ Mathematics.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Proficient in (দক্ষ)। কোনো বিষয়ে পারদর্শিতা।"
+  },
+  {
+    "id": 437,
+    "question": "He sits (g) ______ me in the class.",
+    "options": {
+      "a": "beside",
+      "b": "besides",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Beside (পার্শ্বে)। পাশে বসা অর্থে 'beside' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 438,
+    "question": "The container is full (h) ______ water.",
+    "options": {
+      "a": "with",
+      "b": "of",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Full of (পূর্ণ)। পানিতে পূর্ণ হওয়া অর্থে 'of' সঠিক।"
+  },
+  {
+    "id": 439,
+    "question": "Trees protect us (i) ______ disasters.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Protect from (রক্ষা করা)। দুর্যোগ থেকে রক্ষা করা বোঝাতে 'from' সঠিক।"
+  },
+  {
+    "id": 440,
+    "question": "Health is the key (j) ______ success.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Key to (চাবিকাঠি বা প্রধান উপায়)।"
+  },
+  {
+    "id": 441,
+    "question": "He is indifferent (a) ______ my proposal.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Indifferent to (উদাসীন)। অনিহা প্রকাশ করা বোঝাতে 'to' বসে।"
+  },
+  {
+    "id": 442,
+    "question": "He is good (b) ______ Cricket.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Good at (দক্ষ)। কোনো খেলা বা কাজে দক্ষ হওয়া।"
+  },
+  {
+    "id": 443,
+    "question": "He is guilty (c) ______ theft.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Guilty of (অপরাধী)। চুরির দায়ে অভিযুক্ত বা দোষী।"
+  },
+  {
+    "id": 444,
+    "question": "We should be attentive (d) ______ our study.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Attentive to (মনোযোগী)। পড়াশোনায় মন দেওয়া অর্থে 'to' সঠিক।"
+  },
+  {
+    "id": 445,
+    "question": "Allah is kind (e) ______ us.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Kind to (দয়ালু)। কারো প্রতি সদয় হওয়া অর্থে 'to' বসে।"
+  },
+  {
+    "id": 446,
+    "question": "He died (f) ______ starvation.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Die from (কোনো কারণে মারা যাওয়া)। অনাহারে মৃত্যু বোঝাতে 'from' সঠিক।"
+  },
+  {
+    "id": 447,
+    "question": "The match was put (g) ______.",
+    "options": {
+      "a": "off",
+      "b": "out",
+      "c": "up",
+      "d": "in"
+    },
+    "correct_answer": "a",
+    "explanation": "Put off (স্থগিত করা)। খেলা পিছিয়ে দেওয়া বোঝাতে 'off' বসে।"
+  },
+  {
+    "id": 448,
+    "question": "Look (h) ______ the word in the dictionary.",
+    "options": {
+      "a": "at",
+      "b": "up",
+      "c": "for",
+      "d": "into"
+    },
+    "correct_answer": "b",
+    "explanation": "Look up (শব্দ খোঁজা)।"
+  },
+  {
+    "id": 449,
+    "question": "She takes (i) ______ her mother.",
+    "options": {
+      "a": "after",
+      "b": "to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Take after (সদৃশ হওয়া)।"
+  },
+  {
+    "id": 450,
+    "question": "The boy takes pride (j) ______ his wealth.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Take pride in (গর্ব করা)। এটি একটি ফিক্সড ফ্রেজ।"
+  },
+  {
+    "id": 451,
+    "question": "Smoking is detrimental (a) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Detrimental to (ক্ষতিকর)। স্বাস্থ্যের জন্য অপকারী অর্থে বসে।"
+  },
+  {
+    "id": 452,
+    "question": "He failed (b) ______ lack of money.",
+    "options": {
+      "a": "for",
+      "b": "due to",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Due to (কারণে)। কোনো কিছুর কারণে বিফল হওয়া অর্থে 'due to' সঠিক।"
+  },
+  {
+    "id": 453,
+    "question": "I am looking (c) ______ my pen.",
+    "options": {
+      "a": "at",
+      "b": "for",
+      "c": "into",
+      "d": "after"
+    },
+    "correct_answer": "b",
+    "explanation": "Look for (খোঁজা)। হারিয়ে যাওয়া কলম খোঁজা অর্থে বসে।"
+  },
+  {
+    "id": 454,
+    "question": "The teacher is annoyed (d) ______ me.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Annoyed with (কারো ওপর বিরক্ত)। ব্যক্তির ওপর বিরক্তি প্রকাশ।"
+  },
+  {
+    "id": 455,
+    "question": "Success consists (e) ______ industry.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Consist in (নিহিত থাকা)। সাফল্য কঠোর পরিশ্রমের মধ্যে থাকে।"
+  },
+  {
+    "id": 456,
+    "question": "He is confident (f) ______ success.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Confident of (নিশ্চিত)। নিজের সাফল্যের ব্যাপারে নিশ্চিত হওয়া।"
+  },
+  {
+    "id": 457,
+    "question": "I am senior (g) ______ him.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Senior to (অপেক্ষাকৃত বড়)।"
+  },
+  {
+    "id": 458,
+    "question": "He sits (h) ______ me.",
+    "options": {
+      "a": "beside",
+      "b": "besides",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Beside (পাশে)।"
+  },
+  {
+    "id": 459,
+    "question": "Water consists (i) ______ hydrogen and oxygen.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Consist of (গঠিত হওয়া)। উপাদানসমূহ বোঝাতে 'of' সঠিক।"
+  },
+  {
+    "id": 460,
+    "question": "He abides (j) ______ his promise.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Abide by (মেনে চলা)। প্রতিজ্ঞা রক্ষা করা অর্থে 'by' সঠিক।"
+  },
+  {
+    "id": 461,
+    "question": "He is worthy (a) ______ our respect.",
+    "options": {
+      "a": "for",
+      "b": "of",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Worthy of (যোগ্য)। শ্রদ্ধার যোগ্য হওয়া অর্থে 'of' সঠিক।"
+  },
+  {
+    "id": 462,
+    "question": "I am tired (b) ______ hard work.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Tired of (পরিশ্রান্ত)। কাজের ফলে ক্লান্ত হওয়া।"
+  },
+  {
+    "id": 463,
+    "question": "Smoking leads (c) ______ death.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Lead to (ধাবিত করা)। পরিণতির দিকে নিয়ে যাওয়া।"
+  },
+  {
+    "id": 464,
+    "question": "He is gifted (d) ______ a sweet voice.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Gifted with (জন্মগতভাবে পাওয়া)। অধিকারী হওয়া অর্থে বসে।"
+  },
+  {
+    "id": 465,
+    "question": "Trees are vital (e) ______ us.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Vital for (অপরিহার্য)। অস্তিত্বের জন্য অত্যন্ত প্রয়োজনীয়।"
+  },
+  {
+    "id": 466,
+    "question": "He is absent (f) ______ the meeting.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "in",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Absent from (অনুপস্থিত)।"
+  },
+  {
+    "id": 467,
+    "question": "Look (g) ______ the matter.",
+    "options": {
+      "a": "at",
+      "b": "into",
+      "c": "for",
+      "d": "after"
+    },
+    "correct_answer": "b",
+    "explanation": "Look into (তদন্ত করা)। কোনো বিষয় খতিয়ে দেখা অর্থে বসে।"
+  },
+  {
+    "id": 468,
+    "question": "He is very close (h) ______ me.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Close to (নিকটবর্তী/ঘনিষ্ঠ)। কারো খুব কাছে বা ঘনিষ্ঠ বোঝাতে 'to' সঠিক।"
+  },
+  {
+    "id": 469,
+    "question": "He is devoid (i) ______ common sense.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Devoid of (বর্জিত)। জ্ঞানহীন হওয়া অর্থে বসে।"
+  },
+  {
+    "id": 470,
+    "question": "Happiness lies (j) ______ contentment.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "Lie in (নিহিত থাকা)।"
+  },
+  {
+    "id": 471,
+    "question": "He is senior (a) ______ me.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Senior to (বড়)।"
+  },
+  {
+    "id": 472,
+    "question": "Success depends (b) ______ hard work.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Depend on (নির্ভর করা)।"
+  },
+  {
+    "id": 473,
+    "question": "I am not satisfied (c) ______ his result.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Satisfied with (সন্তুষ্ট)।"
+  },
+  {
+    "id": 474,
+    "question": "I prefer tea (d) ______ coffee.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "over",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Prefer to (পছন্দ করা)।"
+  },
+  {
+    "id": 475,
+    "question": "Allah is kind (e) ______ us.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Kind to (দয়ালু)।"
+  },
+  {
+    "id": 476,
+    "question": "He failed (f) ______ shortage of time.",
+    "options": {
+      "a": "by",
+      "b": "due to",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Due to (কারণে)।"
+  },
+  {
+    "id": 477,
+    "question": "Smoking is injurious (g) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Injurious to (ক্ষতিকর)।"
+  },
+  {
+    "id": 478,
+    "question": "Health is the key (h) ______ happiness.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Key to (চাবিকাঠি)।"
+  },
+  {
+    "id": 479,
+    "question": "He abides (i) ______ his parents.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Abide by (মেনে চলা)।"
+  },
+  {
+    "id": 480,
+    "question": "Prevention is better (j) ______ cure.",
+    "options": {
+      "a": "to",
+      "b": "than",
+      "c": "from",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Better than (তুলনায় ভালো)।"
+  },
+  {
+    "id": 481,
+    "question": "Look (a) ______ the bird in the sky.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "for",
+      "d": "up"
+    },
+    "correct_answer": "a",
+    "explanation": "Look at (তাকানো)। কোনো নির্দিষ্ট কিছুর দিকে তাকানো অর্থে বসে।"
+  },
+  {
+    "id": 482,
+    "question": "He died (b) ______ overeating.",
+    "options": {
+      "a": "of",
+      "b": "from",
+      "c": "by",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Die from (কারণে মারা যাওয়া)। বেশি খাওয়ার কারণে মৃত্যু।"
+  },
+  {
+    "id": 483,
+    "question": "I am fed (c) ______ with his talk.",
+    "options": {
+      "a": "of",
+      "b": "up",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Fed up with (বিরক্ত)। অতিষ্ঠ হওয়া অর্থে বসে।"
+  },
+  {
+    "id": 484,
+    "question": "He is good (d) ______ Mathematics.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Good at (দক্ষ)।"
+  },
+  {
+    "id": 485,
+    "question": "Success consists (e) ______ industry.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Consist in (নিহিত থাকা)।"
+  },
+  {
+    "id": 486,
+    "question": "He is confident (f) ______ success.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Confident of (নিশ্চিত)।"
+  },
+  {
+    "id": 487,
+    "question": "He sits (g) ______ me.",
+    "options": {
+      "a": "beside",
+      "b": "besides",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "a",
+    "explanation": "Beside (পাশে)।"
+  },
+  {
+    "id": 488,
+    "question": "I prefer tea (h) ______ coffee.",
+    "options": {
+      "a": "than",
+      "b": "to",
+      "c": "over",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "Prefer to (পছন্দ করা)।"
+  },
+  {
+    "id": 489,
+    "question": "He is guilty (i) ______ theft.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Guilty of (অপরাধী)।"
+  },
+  {
+    "id": 490,
+    "question": "The boy is blind (j) ______ his son's fault.",
+    "options": {
+      "a": "to",
+      "b": "at",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Blind to (দেখেও না দেখা)।"
+  },
+  {
+    "id": 491,
+    "question": "Allah is kind (a) ______ us.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Kind to (দয়ালু)।"
+  },
+  {
+    "id": 492,
+    "question": "He is absent (b) ______ the meeting.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "in",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Absent from (অনুপস্থিত)।"
+  },
+  {
+    "id": 493,
+    "question": "He abides (c) ______ his promise.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Abide by (মেনে চলা)।"
+  },
+  {
+    "id": 494,
+    "question": "The container is full (d) ______ water.",
+    "options": {
+      "a": "with",
+      "b": "of",
+      "c": "at",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Full of (পূর্ণ)।"
+  },
+  {
+    "id": 495,
+    "question": "Success depends (e) ______ hard work.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "Depend on (নির্ভর করা)।"
+  },
+  {
+    "id": 496,
+    "question": "He is very popular (f) ______ the villagers.",
+    "options": {
+      "a": "to",
+      "b": "with",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Popular with (জনপ্রিয়)।"
+  },
+  {
+    "id": 497,
+    "question": "We should refrain (g) ______ smoking.",
+    "options": {
+      "a": "from",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Refrain from (বিরত থাকা)।"
+  },
+  {
+    "id": 498,
+    "question": "The teacher is satisfied (h) ______ me.",
+    "options": {
+      "a": "at",
+      "b": "with",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Satisfied with (সন্তুষ্ট)।"
+  },
+  {
+    "id": 499,
+    "question": "Smoking is injurious (i) ______ health.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "at",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Injurious to (ক্ষতিকর)।"
+  },
+  {
+    "id": 500,
+    "question": "Health is the key (j) ______ success.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Key to (চাবিকাঠি)।"
   }
 ]

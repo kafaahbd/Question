@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Trees are very useful (a) ______ man.",
+    "options": {
+      "a": "for",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Useful-এর পর সাধারণত 'to' বসে যখন কোনো ব্যক্তি বা প্রাণীর জন্য উপকারী বোঝায়। তাই এখানে 'useful to man' সঠিক।"
+  },
+  {
+    "id": 2,
+    "question": "They are highly essential (b) ______ our existence.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Essential for (কোনো কিছুর জন্য অপরিহার্য)। আমাদের অস্তিত্বের জন্য গাছ প্রয়োজন, তাই এখানে 'for' হবে।"
+  },
+  {
+    "id": 3,
+    "question": "Trees protect the rich top soil (c) ______ getting washed away.",
+    "options": {
+      "a": "from",
+      "b": "by",
+      "c": "to",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Protect (রক্ষা করা) এর সাথে 'from' বসে। কোনো কিছু থেকে রক্ষা করা অর্থে 'protect from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 4,
+    "question": "The old grey bearded sailor sat (a) ______ a stone.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "on",
+      "d": "by"
+    },
+    "correct_answer": "c",
+    "explanation": "কোনো কিছুর উপরে বসে থাকা বোঝালে 'on' বসে। এখানে নাভিক পাথরের ওপর বসেছিলেন, তাই 'on' সঠিক।"
+  },
+  {
+    "id": 5,
+    "question": "The sailor watched the people walking (c) ______ him.",
+    "options": {
+      "a": "past",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "কাউকে অতিক্রম করে চলে যাওয়া অর্থে 'walk past' ব্যবহৃত হয়। নাবিক তার পাশ দিয়ে লোকজনকে হেঁটে যেতে দেখছিলেন।"
+  },
+  {
+    "id": 6,
+    "question": "The marriage guest listened (d) ______ him.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "by",
+      "d": "on"
+    },
+    "correct_answer": "b",
+    "explanation": "মনযোগ দিয়ে শোনা অর্থে 'listen' এর পর সবসময় 'to' বসে। এটি একটি Appropriate Preposition।"
+  },
+  {
+    "id": 7,
+    "question": "Vocabulary is an essential component (c) ______ successful communication.",
+    "options": {
+      "a": "to",
+      "b": "of",
+      "c": "for",
+      "d": "in"
+    },
+    "correct_answer": "b",
+    "explanation": "Component of (কোনো কিছুর উপাদান)। সফল যোগাযোগের একটি উপাদান হলো শব্দভাণ্ডার, তাই 'of' বসবে।"
+  },
+  {
+    "id": 8,
+    "question": "A lack (e) ______ vocabulary may result in failure.",
+    "options": {
+      "a": "for",
+      "b": "in",
+      "c": "of",
+      "d": "at"
+    },
+    "correct_answer": "c",
+    "explanation": "Lack of (অভাব)। শব্দভাণ্ডারের অভাব বোঝাতে 'lack of' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 9,
+    "question": "Environment plays an important role (a) ______ our life.",
+    "options": {
+      "a": "to",
+      "b": "in",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Role in (কোনো ক্ষেত্রে ভূমিকা রাখা)। আমাদের জীবনে পরিবেশের ভূমিকার কথা বলা হয়েছে, তাই 'in' সঠিক।"
+  },
+  {
+    "id": 10,
+    "question": "The elements (d) ______ our environment are many.",
+    "options": {
+      "a": "of",
+      "b": "to",
+      "c": "with",
+      "d": "by"
+    },
+    "correct_answer": "a",
+    "explanation": "পরিবেশের উপাদান (Elements of environment)। কোনো কিছুর অংশ বা মালিকানা বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 11,
+    "question": "Greenhouse effect is the warming (a) ______ the air.",
+    "options": {
+      "a": "by",
+      "b": "of",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "বাতাসের উষ্ণায়ন বা বায়ুর গরম হওয়া বোঝাতে 'warming of the air' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 12,
+    "question": "Heat is being trapped (b) ______ environment pollution.",
+    "options": {
+      "a": "by",
+      "b": "for",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Passive voice-এ সাধারণত কারক বা কারণের আগে 'by' বসে। এখানে দূষণের মাধ্যমে তাপ আটকে যাচ্ছে।"
+  },
+  {
+    "id": 13,
+    "question": "A good student is never indifferent (a) ______ his studies.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Indifferent to (উদাসীন)। এটি একটি Appropriate Preposition, যার অর্থ পাঠে উদাসীন না হওয়া।"
+  },
+  {
+    "id": 14,
+    "question": "He always adheres (b) ______ his studies.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "in",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Adhere to (লেগে থাকা বা মেনে চলা)। পড়াশোনায় মনোযোগী বা লেগে থাকা অর্থে 'adhere to' বসে।"
+  },
+  {
+    "id": 15,
+    "question": "He does not learn things (c) ______ rote.",
+    "options": {
+      "a": "by",
+      "b": "to",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "a",
+    "explanation": "Learn by rote (মুখস্থ করা)। মুখস্থ করার ইংরেজি ফ্রেজ হলো 'by rote'।"
+  },
+  {
+    "id": 16,
+    "question": "Flowers are the excellent gift (a) ______ nature.",
+    "options": {
+      "a": "by",
+      "b": "of",
+      "c": "from",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Gift of nature (প্রকৃতির দান)। প্রকৃতির মালিকানা বা উৎস বোঝাতে 'of' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 17,
+    "question": "They have existed (a) ______ earth since prehistoric time.",
+    "options": {
+      "a": "in",
+      "b": "on",
+      "c": "at",
+      "d": "over"
+    },
+    "correct_answer": "b",
+    "explanation": "পৃথিবীতে কোনো কিছুর অস্তিত্ব থাকা বোঝাতে 'on earth' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 18,
+    "question": "The science fair held (a) ______ our college.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো প্রতিষ্ঠানের ভেতরে কিছু অনুষ্ঠিত হওয়া বোঝাতে 'in' ব্যবহৃত হয়। বড় জায়গার ক্ষেত্রেও 'in' বসে।"
+  },
+  {
+    "id": 19,
+    "question": "Many of our friends took part (b) ______ the fair.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Take part in (অংশগ্রহণ করা)। এটি একটি গ্রুপ ভার্ব, যার অর্থ অংশগ্রহণ করা।"
+  },
+  {
+    "id": 20,
+    "question": "I am happy with my new friends but my heart aches (h) ______ the happy childhood days.",
+    "options": {
+      "a": "for",
+      "b": "at",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "a",
+    "explanation": "Ache for (তীব্র আকাঙ্ক্ষা বা ব্যাকুলতা)। শৈশবের দিনগুলোর জন্য মন খারাপ বা টান অনুভব করা অর্থে 'ache for' বসে।"
+  },
+  {
+    "id": 21,
+    "question": "Childhood is free (i) ______ worries.",
+    "options": {
+      "a": "at",
+      "b": "from",
+      "c": "of",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Free from (মুক্ত)। দুশ্চিন্তা থেকে মুক্ত বোঝাতে 'free from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 22,
+    "question": "The ship sailed out (a) ______ the icy waters.",
+    "options": {
+      "a": "at",
+      "b": "to",
+      "c": "into",
+      "d": "on"
+    },
+    "correct_answer": "c",
+    "explanation": "গভির বা নতুন কোনো কিছুর ভেতরে প্রবেশ করা বা যাত্রা শুরু করা অর্থে 'into' বসে।"
+  },
+  {
+    "id": 23,
+    "question": "They were filled (i) ______ fear.",
+    "options": {
+      "a": "by",
+      "b": "with",
+      "c": "at",
+      "d": "of"
+    },
+    "correct_answer": "b",
+    "explanation": "Filled with (পূর্ণ)। ভয়ে আচ্ছন্ন বা পূর্ণ হওয়া বোঝাতে 'filled with' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 24,
+    "question": "Graffiti is a form (a) ______ visual communication.",
+    "options": {
+      "a": "for",
+      "b": "of",
+      "c": "in",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Form of (কোনো কিছুর রূপ)। এটি যোগাযোগের একটি মাধ্যম বা রূপ, তাই 'of' বসবে।"
+  },
+  {
+    "id": 25,
+    "question": "Graffiti as a form of protest is not new (c) ______ Bangladesh.",
+    "options": {
+      "a": "to",
+      "b": "in",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "নির্দিষ্ট কোনো স্থানে কিছু পরিচিত হওয়া বা থাকা বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 26,
+    "question": "I am glad to receive your letter. You have wanted to know (a) ______ the picnic.",
+    "options": {
+      "a": "of",
+      "b": "about",
+      "c": "to",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Know about (কোনো কিছু সম্পর্কে জানা)। পিকনিক সম্পর্কে জানতে চাওয়া হয়েছে, তাই 'about' হবে।"
+  },
+  {
+    "id": 27,
+    "question": "We got (e) ______ the bus (f) ______ about 9 am.",
+    "options": {
+      "a": "into, at",
+      "b": "on, at",
+      "c": "to, on",
+      "d": "at, in"
+    },
+    "correct_answer": "b",
+    "explanation": "বাসে চড়া অর্থে 'get on' এবং সময়ের আগে 'at' বসে। তাই 'on' এবং 'at' সঠিক।"
+  },
+  {
+    "id": 28,
+    "question": "Syed Shamsul Haq was born (a) ______ 1935.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "সালের আগে প্রিপজিশন হিসেবে 'in' বসে।"
+  },
+  {
+    "id": 29,
+    "question": "He was awarded the Swadhinata Padak (d) ______ his contributions.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "in",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো অবদানের জন্য (Awarded for) পুরস্কার পাওয়া বোঝাতে 'for' বসে।"
+  },
+  {
+    "id": 30,
+    "question": "His literary works are included (f) ______ the curricula.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Include in (অন্তর্ভুক্ত করা)। পাঠ্যবই বা পাঠ্যসূচিতে অন্তর্ভুক্ত অর্থে 'in' বসে।"
+  },
+  {
+    "id": 31,
+    "question": "He was married (h) ______ Anwara Syed Haq.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Married to (বিবাহিত)। কারো সাথে বিবাহিত হওয়া বোঝালে passive sense-এ 'to' বসে।"
+  },
+  {
+    "id": 32,
+    "question": "I caught sight (a) ______ him while crossing the road.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Catch sight of (দেখতে পাওয়া/দৃষ্টিগোচর হওয়া)। এটি একটি ফ্রেজ, যেখানে 'of' বসে।"
+  },
+  {
+    "id": 33,
+    "question": "I tried to talk (b) ______ him.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "at",
+      "d": "about"
+    },
+    "correct_answer": "b",
+    "explanation": "Talk to (কারো সাথে কথা বলা)। যদিও 'talk with' হয়, কিন্তু এইচএসসি লেভেলে কারো সাথে কথা বলা শুরু করা অর্থে 'talk to' বেশি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 34,
+    "question": "He was (c) ______ a hurry.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "In a hurry (তাড়াহুড়োর মধ্যে থাকা)। এটি একটি প্রিপজিশনাল ফ্রেজ।"
+  },
+  {
+    "id": 35,
+    "question": "We got separated (g) ______ each other.",
+    "options": {
+      "a": "with",
+      "b": "from",
+      "c": "to",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Separate from (বিচ্ছিন্ন হওয়া)। একে অপরের থেকে আলাদা হওয়া বোঝাতে 'from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 36,
+    "question": "Ours is a riverine country. Rivers are everywhere (a) ______ our life.",
+    "options": {
+      "a": "in",
+      "b": "at",
+      "c": "to",
+      "d": "on"
+    },
+    "correct_answer": "a",
+    "explanation": "আমাদের জীবনের প্রতিটি ক্ষেত্রে বা ভেতরে নদী আছে, তাই 'in our life' সঠিক।"
+  },
+  {
+    "id": 37,
+    "question": "Several rivers are going (c) ______ the pangs of death.",
+    "options": {
+      "a": "at",
+      "b": "through",
+      "c": "by",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Go through (কোনো অভিজ্ঞতার মধ্য দিয়ে যাওয়া)। মৃত্যু যন্ত্রণার মধ্য দিয়ে যাওয়া অর্থে 'through' সঠিক।"
+  },
+  {
+    "id": 38,
+    "question": "It was a tributary (g) ______ the Ganges.",
+    "options": {
+      "a": "at",
+      "b": "of",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো বড় নদীর শাখা বা উপনদী বোঝাতে 'tributary of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 39,
+    "question": "Badal lived (a) ______ a village of Bangladesh.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "on",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "গ্রামের নামের আগে বা গ্রামে বাস করা অর্থে 'in a village' বসে।"
+  },
+  {
+    "id": 40,
+    "question": "There was a canal (b) ______ his way (c) ______ school.",
+    "options": {
+      "a": "on, to",
+      "b": "at, for",
+      "c": "by, in",
+      "d": "on, for"
+    },
+    "correct_answer": "a",
+    "explanation": "On the way to (কোনো গন্তব্যে যাওয়ার পথে)। এটি একটি স্ট্যান্ডার্ড ফ্রেজ।"
+  },
+  {
+    "id": 41,
+    "question": "None cared (e) ______ its repair.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "about",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Care for (ভ্রুক্ষেপ করা বা যত্ন নেওয়া)। কেউ সংস্কারের তোয়াক্কা করেনি অর্থে 'care for' বসে।"
+  },
+  {
+    "id": 42,
+    "question": "They were (h) ______ difficulty.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "with",
+      "d": "under"
+    },
+    "correct_answer": "b",
+    "explanation": "In difficulty (অসুবিধার মধ্যে)। কোনো অবস্থার মধ্যে থাকা বোঝালে 'in' বসে।"
+  },
+  {
+    "id": 43,
+    "question": "It would be impossible (a) ______ us to continue living.",
+    "options": {
+      "a": "to",
+      "b": "for",
+      "c": "with",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Impossible for someone (কারো জন্য অসম্ভব)। তাই এখানে 'for' সঠিক।"
+  },
+  {
+    "id": 44,
+    "question": "Allah in His mercy conceals the future (c) ______ all His creatures.",
+    "options": {
+      "a": "to",
+      "b": "from",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Conceal from (কারো কাছ থেকে লুকিয়ে রাখা)। আল্লাহ সৃষ্টিজীবের কাছ থেকে ভবিষ্যৎ গোপন রাখেন।"
+  },
+  {
+    "id": 45,
+    "question": "If a lamb had reason (d) ______ a man.",
+    "options": {
+      "a": "as",
+      "b": "like",
+      "c": "to",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "Like a man (মানুষের মতো)। তুলনা করার ক্ষেত্রে এখানে 'like' প্রিপজিশন হিসেবে বসেছে।"
+  },
+  {
+    "id": 46,
+    "question": "We got our freedom (a) ______ the sacrifice of hundreds and thousands.",
+    "options": {
+      "a": "by",
+      "b": "through",
+      "c": "at",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "Through (কিছুর মাধ্যমে)। ত্যাগের বিনিময়ে বা ত্যাগের মাধ্যমে স্বাধীনতা অর্জন বোঝাতে 'through' উপযুক্ত।"
+  },
+  {
+    "id": 47,
+    "question": "The patriots fought (d) ______ the oppression of West Pakistani rulers.",
+    "options": {
+      "a": "with",
+      "b": "against",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "Fight against (কারো বা কোনো অন্যায়ের বিরুদ্ধে লড়াই করা)।"
+  },
+  {
+    "id": 48,
+    "question": "The oppressors were bound to surrender (e) ______ our freedom fighters.",
+    "options": {
+      "a": "with",
+      "b": "to",
+      "c": "at",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "Surrender to (কারো কাছে নতি স্বীকার করা)। এটি একটি Appropriate Preposition।"
+  },
+  {
+    "id": 49,
+    "question": "The government (i) ______ Bangladesh founded the National Memorial.",
+    "options": {
+      "a": "in",
+      "b": "of",
+      "c": "for",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "Government of Bangladesh (বাংলাদেশের সরকার)। মালিকানা বা সম্বন্ধ বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 50,
+    "question": "The Memorial was founded (j) ______ memory of the martyrs.",
+    "options": {
+      "a": "at",
+      "b": "in",
+      "c": "for",
+      "d": "to"
+    },
+    "correct_answer": "b",
+    "explanation": "In memory of (স্মরণে)। এটি একটি প্রিপজিশনাল ফ্রেজ যা কারো স্মৃতির উদ্দেশ্যে কিছু করা বোঝায়।"
+  }
+]

@@ -1,0 +1,5403 @@
+[
+  {
+    "id": 1,
+    "question": "Rokeya is a Bangladeshi girl (a) ___ is about to finish school.",
+    "options": {
+      "a": "who",
+      "b": "which",
+      "c": "that",
+      "d": "what"
+    },
+    "correct_answer": "a",
+    "explanation": "ব্যক্তিবাচক (girl) বুঝাতে relative pronoun হিসেবে 'who' বসে।"
+  },
+  {
+    "id": 2,
+    "question": "But she has no hopes of (b) ___ on to college.",
+    "options": {
+      "a": "go",
+      "b": "going",
+      "c": "goes",
+      "d": "gone"
+    },
+    "correct_answer": "b",
+    "explanation": "Preposition 'of' এর পরে verb এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 3,
+    "question": "Educating a daughter is a (c) ___ of time and money.",
+    "options": {
+      "a": "waste",
+      "b": "wasting",
+      "c": "wasted",
+      "d": "wastes"
+    },
+    "correct_answer": "a",
+    "explanation": "Article 'a' এর পরে noun 'waste' (অপচয়) বসেছে।"
+  },
+  {
+    "id": 4,
+    "question": "They have (d) ___ that they will now marry her off.",
+    "options": {
+      "a": "decide",
+      "b": "decided",
+      "c": "deciding",
+      "d": "decision"
+    },
+    "correct_answer": "b",
+    "explanation": "Present perfect tense এ 'have' এর পরে verb এর V3 (decided) হয়।"
+  },
+  {
+    "id": 5,
+    "question": "Rokeya used to (f) ___ about lessons and tests.",
+    "options": {
+      "a": "worry",
+      "b": "worried",
+      "c": "worrying",
+      "d": "worries"
+    },
+    "correct_answer": "a",
+    "explanation": "'Used to' এর পরে verb এর base form 'worry' বসে।"
+  },
+  {
+    "id": 6,
+    "question": "She now faces a life of household chores and (h) ___ up children.",
+    "options": {
+      "a": "bring",
+      "b": "bringing",
+      "c": "brought",
+      "d": "brings"
+    },
+    "correct_answer": "b",
+    "explanation": "'And' দ্বারা যুক্ত হওয়ার কারণে পূর্ববর্তী nouns এর সাথে মিল রেখে gerund 'bringing' বসেছে।"
+  },
+  {
+    "id": 7,
+    "question": "Mohima lives in an (a) ___ family.",
+    "options": {
+      "a": "extend",
+      "b": "extended",
+      "c": "extending",
+      "d": "extension"
+    },
+    "correct_answer": "b",
+    "explanation": "Family (noun) এর পূর্বে 'extended' (যৌথ) adjective হিসেবে বসেছে।"
+  },
+  {
+    "id": 8,
+    "question": "Annual exams are knocking (c) ___ the door.",
+    "options": {
+      "a": "at",
+      "b": "on",
+      "c": "in",
+      "d": "over"
+    },
+    "correct_answer": "a",
+    "explanation": "'Knocking at the door' একটি প্রচলিত phrase যার অর্থ সন্নিকটে।"
+  },
+  {
+    "id": 9,
+    "question": "The family in which she lives is an extended family, she does not (f) ___ a room.",
+    "options": {
+      "a": "has",
+      "b": "have",
+      "c": "had",
+      "d": "having"
+    },
+    "correct_answer": "b",
+    "explanation": "Negative sentence এ 'does not' এর পরে verb এর base form 'have' বসে।"
+  },
+  {
+    "id": 10,
+    "question": "She is to (g) ___ her room with her younger brother.",
+    "options": {
+      "a": "share",
+      "b": "shared",
+      "c": "sharing",
+      "d": "shares"
+    },
+    "correct_answer": "a",
+    "explanation": "'Is to' (semi-modal) এর পরে verb এর base form 'share' বসে।"
+  },
+  {
+    "id": 11,
+    "question": "There is so much noise and (h) ___ it.",
+    "options": {
+      "a": "confuse",
+      "b": "confused",
+      "c": "confusing",
+      "d": "confusion"
+    },
+    "correct_answer": "d",
+    "explanation": "'And' এর পূর্বে noise (noun) থাকায় পরবর্তীটি 'confusion' (noun) হবে।"
+  },
+  {
+    "id": 12,
+    "question": "She can hardly concentrate (i) ___ her studies.",
+    "options": {
+      "a": "on",
+      "b": "at",
+      "c": "in",
+      "d": "for"
+    },
+    "correct_answer": "a",
+    "explanation": "'Concentrate on' (মনোযোগ দেওয়া) একটি appropriate preposition।"
+  },
+  {
+    "id": 13,
+    "question": "Communicative competence refers to the (a) ___ to use language.",
+    "options": {
+      "a": "able",
+      "b": "ability",
+      "c": "ably",
+      "d": "abilities"
+    },
+    "correct_answer": "b",
+    "explanation": "Article 'the' এর পরে noun 'ability' (দক্ষতা) বসেছে।"
+  },
+  {
+    "id": 14,
+    "question": "There are two ways of (b) ___ communicative competence.",
+    "options": {
+      "a": "develop",
+      "b": "developing",
+      "c": "developed",
+      "d": "development"
+    },
+    "correct_answer": "b",
+    "explanation": "Preposition 'of' এর পরে verb এর সাথে 'ing' যুক্ত হয়ে gerund হয়েছে।"
+  },
+  {
+    "id": 15,
+    "explanation": "Tongue (noun) এর পূর্বে 'mother' বসে compound noun (মাতৃভাষা) গঠন করেছে।",
+    "question": "Develop ability in their (d) ___ tongue.",
+    "options": {
+      "a": "mother",
+      "b": "motherly",
+      "c": "motherhood",
+      "d": "mothering"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 16,
+    "question": "Acquisition is a (h) ___ subconscious process.",
+    "options": {
+      "a": "nature",
+      "b": "natural",
+      "c": "naturally",
+      "d": "naturist"
+    },
+    "correct_answer": "b",
+    "explanation": "Process (noun) এর পূর্বে 'natural' (স্বাভাবিক) adjective হিসেবে বসেছে।"
+  },
+  {
+    "id": 17,
+    "question": "Acquisition is picking up a language (j) ___.",
+    "options": {
+      "a": "spontaneous",
+      "b": "spontaneously",
+      "c": "spontaneity",
+      "d": "spontaneousness"
+    },
+    "correct_answer": "b",
+    "explanation": "Verb phrase 'picking up' কে modify করার জন্য adverb 'spontaneously' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 18,
+    "question": "The destruction of forests is causing the (b) ___ of various plants.",
+    "options": {
+      "a": "extinct",
+      "b": "extinction",
+      "c": "extinctive",
+      "d": "extincting"
+    },
+    "correct_answer": "b",
+    "explanation": "'The' এবং 'of' এর মাঝে noun 'extinction' (বিলুপ্তি) বসে।"
+  },
+  {
+    "id": 19,
+    "question": "The world has lost one-third of its natural (c) ___.",
+    "options": {
+      "a": "wealth",
+      "b": "wealthy",
+      "c": "wealthier",
+      "d": "wealthily"
+    },
+    "correct_answer": "a",
+    "explanation": "Possessive pronoun 'its' এর পরে noun 'wealth' (সম্পদ) বসেছে।"
+  },
+  {
+    "id": 20,
+    "question": "Forests are being cut (d) ___.",
+    "options": {
+      "a": "up",
+      "b": "down",
+      "c": "off",
+      "d": "out"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cut down' (গাছ কেটে ফেলা) একটি phrasal verb।"
+  },
+  {
+    "id": 21,
+    "question": "They are being burnt (e) ___.",
+    "options": {
+      "a": "reckless",
+      "b": "recklessly",
+      "c": "recklessness",
+      "d": "reckon"
+    },
+    "correct_answer": "b",
+    "explanation": "Verb 'burnt' কে বর্ণনা করতে adverb 'recklessly' (বেপরোয়াভাবে) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 22,
+    "question": "Resulting in an (e) ___ in carbon dioxide.",
+    "options": {
+      "a": "increase",
+      "b": "increasing",
+      "c": "increased",
+      "d": "increases"
+    },
+    "correct_answer": "a",
+    "explanation": "Article 'an' এর পরে noun 'increase' (বৃদ্ধি) বসেছে।"
+  },
+  {
+    "id": 23,
+    "question": "And ultimately the water level (f) ___.",
+    "options": {
+      "a": "rise",
+      "b": "will rise",
+      "c": "rising",
+      "d": "risen"
+    },
+    "correct_answer": "b",
+    "explanation": "ভবিষ্যৎ সম্ভাবনা বুঝাতে future indefinite 'will rise' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 24,
+    "question": "As a consequence of global (g) ___.",
+    "options": {
+      "a": "warm",
+      "b": "warmth",
+      "c": "warming",
+      "d": "warmed"
+    },
+    "correct_answer": "c",
+    "explanation": "'Global warming' (বৈশ্বিক উষ্ণায়ন) একটি স্থায়ী phrase।"
+  },
+  {
+    "id": 25,
+    "question": "New century will face an overwhelming environmental (i) ___.",
+    "options": {
+      "a": "catastrophe",
+      "b": "catastrophic",
+      "c": "catastrophically",
+      "d": "catastrophes"
+    },
+    "correct_answer": "a",
+    "explanation": "Environmental (adjective) এর পরে noun 'catastrophe' (বিপর্যয়) বসেছে।"
+  },
+  {
+    "id": 26,
+    "question": "It is, therefore, (j) ___ to check the reckless pollution.",
+    "options": {
+      "a": "imperative",
+      "b": "imperatively",
+      "c": "imperateness",
+      "d": "imperate"
+    },
+    "correct_answer": "a",
+    "explanation": "Be verb (is) এর পরে adjective 'imperative' (অপরিহার্য) বসেছে।"
+  },
+  {
+    "id": 27,
+    "question": "The way in which people, animals and plants are related to each other is (b) ___ as ecology.",
+    "options": {
+      "a": "know",
+      "b": "known",
+      "c": "knowing",
+      "d": "knows"
+    },
+    "correct_answer": "b",
+    "explanation": "Passive voice বুঝাতে 'is known' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 28,
+    "question": "The (c) ___ is a complex web.",
+    "options": {
+      "a": "ecosystem",
+      "b": "ecosystematic",
+      "c": "ecologist",
+      "d": "ecologists"
+    },
+    "correct_answer": "a",
+    "explanation": "Article 'the' এর পরে noun 'ecosystem' (বাস্তুতন্ত্র) বসেছে।"
+  },
+  {
+    "id": 29,
+    "question": "Web that (d) ___ animals, plants and others.",
+    "options": {
+      "a": "link",
+      "b": "links",
+      "c": "linked",
+      "d": "linking"
+    },
+    "correct_answer": "b",
+    "explanation": "Relative pronoun 'that' এর antecedent 'web' (singular), তাই verb 'links' হবে।"
+  },
+  {
+    "id": 30,
+    "question": "The system is in a steady state of dynamic (f) ___.",
+    "options": {
+      "a": "balance",
+      "b": "balanced",
+      "c": "balancing",
+      "d": "balances"
+    },
+    "correct_answer": "a",
+    "explanation": "Dynamic (adjective) এর পরে noun 'balance' (ভারসাম্য) বসেছে।"
+  },
+  {
+    "id": 31,
+    "question": "For (h) ___ , the destruction of forests.",
+    "options": {
+      "a": "example",
+      "b": "examples",
+      "c": "exemplify",
+      "d": "exemplified"
+    },
+    "correct_answer": "a",
+    "explanation": "'For example' (উদাহরণস্বরূপ) একটি প্রচলিত phrase।"
+  },
+  {
+    "id": 32,
+    "question": "May have serious (i) ___ consequences.",
+    "options": {
+      "a": "ecology",
+      "b": "ecological",
+      "c": "ecologically",
+      "d": "ecologists"
+    },
+    "correct_answer": "b",
+    "explanation": "Consequences (noun) এর পূর্বে adjective 'ecological' বসেছে।"
+  },
+  {
+    "id": 33,
+    "question": "It is the (j) ___ of human beings to prevent.",
+    "options": {
+      "a": "responsible",
+      "b": "responsibility",
+      "c": "responsibly",
+      "d": "responsibilities"
+    },
+    "correct_answer": "b",
+    "explanation": "'The' এবং 'of' এর মাঝে noun 'responsibility' (দায়িত্ব) বসে।"
+  },
+  {
+    "id": 34,
+    "question": "Educating a daughter is a (c) ___ of time and money.",
+    "options": {
+      "a": "waste",
+      "b": "loss",
+      "c": "use",
+      "d": "spend"
+    },
+    "correct_answer": "a",
+    "explanation": "প্যাসেজের প্রেক্ষাপট অনুযায়ী মেয়েদের পড়াশোনাকে 'waste' (অপচয়) মনে করা হতো।"
+  },
+  {
+    "id": 35,
+    "question": "They have (d) ___ that they will now marry her off.",
+    "options": {
+      "a": "thinking",
+      "b": "thought",
+      "c": "think",
+      "d": "thinks"
+    },
+    "correct_answer": "b",
+    "explanation": "'Have' এর পরে V3 'thought' বসেছে।"
+  },
+  {
+    "id": 36,
+    "question": "Rokeya used to (f) ___ about lessons.",
+    "options": {
+      "a": "worry",
+      "b": "study",
+      "c": "learn",
+      "d": "read"
+    },
+    "correct_answer": "a",
+    "explanation": "প্যাসেজ অনুযায়ী রোকেয়া পড়াশোনা নিয়ে 'worry' (চিন্তিত) থাকতো।"
+  },
+  {
+    "id": 37,
+    "question": "She now wishes she (i) ___ a boy.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "were",
+      "d": "been"
+    },
+    "correct_answer": "c",
+    "explanation": "অবাস্তব ইচ্ছা বুঝাতে 'wish' এর পরে 'were' বসে।"
+  },
+  {
+    "id": 38,
+    "question": "Mohima (b) ___ a first-year college student.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "am",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "Mohima (singular subject) এর সাথে 'is' বসে।"
+  },
+  {
+    "id": 39,
+    "question": "Condition in her family are not (e) ___ for her study.",
+    "options": {
+      "a": "suitable",
+      "b": "suitably",
+      "c": "suit",
+      "d": "suiting"
+    },
+    "correct_answer": "a",
+    "explanation": "Be verb (are) এর পরে adjective 'suitable' (উপযুক্ত) বসেছে।"
+  },
+  {
+    "id": 40,
+    "question": "She wishes she (j) ___ in a nuclear family.",
+    "options": {
+      "a": "live",
+      "b": "lived",
+      "c": "lives",
+      "d": "living"
+    },
+    "correct_answer": "b",
+    "explanation": "ইচ্ছা প্রকাশ করতে 'wish' এর পরে past indefinite 'lived' বসে।"
+  },
+  {
+    "id": 41,
+    "question": "Language appropriately in various (a) ___.",
+    "options": {
+      "a": "circumstance",
+      "b": "circumstances",
+      "c": "circumstantial",
+      "d": "circumstanced"
+    },
+    "correct_answer": "b",
+    "explanation": "Various (adjective) এর পরে plural noun 'circumstances' বসে।"
+  },
+  {
+    "id": 42,
+    "question": "Communicative (b) ___ in a language.",
+    "options": {
+      "a": "competence",
+      "b": "competent",
+      "c": "competently",
+      "d": "compete"
+    },
+    "correct_answer": "a",
+    "explanation": "Communicative (adjective) এর পরে noun 'competence' বসে।"
+  },
+  {
+    "id": 43,
+    "question": "They are only (e) ___ of the fact.",
+    "options": {
+      "a": "aware",
+      "b": "awareness",
+      "c": "awaring",
+      "d": "awared"
+    },
+    "correct_answer": "a",
+    "explanation": "Be verb (are) এর পরে adjective 'aware' (সচেতন) বসেছে।"
+  },
+  {
+    "id": 44,
+    "question": "Which users not (i) ___ of acquiring a language.",
+    "options": {
+      "a": "conscious",
+      "b": "aware",
+      "c": "thinking",
+      "d": "using"
+    },
+    "correct_answer": "a",
+    "explanation": "Clue এর প্রেক্ষাপটে 'conscious' (সচেতন) অধিক উপযুক্ত।"
+  },
+  {
+    "id": 45,
+    "question": "Destruction of forests and other (a) ___.",
+    "options": {
+      "a": "habit",
+      "b": "habitats",
+      "c": "habits",
+      "d": "habitation"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রাকৃতিক আবাসস্থল বুঝাতে plural noun 'habitats' বসে।"
+  },
+  {
+    "id": 46,
+    "question": "Loss of one-third of its natural (c) ___.",
+    "options": {
+      "a": "wealth",
+      "b": "wealthy",
+      "c": "wealths",
+      "d": "rich"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রাকৃতিক সম্পদ বুঝাতে 'natural wealth' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 47,
+    "question": "Forests are being (e) ___ recklessly.",
+    "options": {
+      "a": "burn",
+      "b": "burnt",
+      "c": "burning",
+      "d": "burns"
+    },
+    "correct_answer": "b",
+    "explanation": "Passive (are being) এর পরে V3 'burnt' বসে।"
+  },
+  {
+    "id": 48,
+    "question": "Environmental (i) ___ catastrophe.",
+    "options": {
+      "a": "environment",
+      "b": "environmental",
+      "c": "environmentally",
+      "d": "environments"
+    },
+    "correct_answer": "b",
+    "explanation": "Catastrophe (noun) এর পূর্বে adjective 'environmental' বসে।"
+  },
+  {
+    "id": 49,
+    "question": "All things that make up the (a) ___.",
+    "options": {
+      "a": "environment",
+      "b": "environmental",
+      "c": "environmentally",
+      "d": "environments"
+    },
+    "correct_answer": "a",
+    "explanation": "'The' এর পরে noun 'environment' (পরিবেশ) বসেছে।"
+  },
+  {
+    "id": 50,
+    "question": "The destruction of forests may have serious (i) ___.",
+    "options": {
+      "a": "ecology",
+      "b": "ecological",
+      "c": "ecologists",
+      "d": "ecologies"
+    },
+    "correct_answer": "b",
+    "explanation": "Consequences (noun) এর পূর্বে adjective 'ecological' বসে।"
+  },
+  {
+    "id": 51,
+    "question": "In the last 25 years, the world has (a) ___ one-third of its natural wealth.",
+    "options": {
+      "a": "lost",
+      "b": "loose",
+      "c": "loss",
+      "d": "loosed"
+    },
+    "correct_answer": "a",
+    "explanation": "Present perfect tense-এ 'has' এর পর verb-এর past participle 'lost' বসে। 'loose' মানে আলগা এবং 'loss' একটি noun।"
+  },
+  {
+    "id": 52,
+    "question": "The earth's forests, (b) ___ , seas and coasts are in a worse state.",
+    "options": {
+      "a": "wetland",
+      "b": "wetlands",
+      "c": "wetly",
+      "d": "wetted"
+    },
+    "correct_answer": "b",
+    "explanation": "বাকি সব noun (forests, seas) বহুবচনে থাকায় এখানেও plural noun 'wetlands' (জলাভূমি) হবে।"
+  },
+  {
+    "id": 53,
+    "question": "Forests are being cut (d) ___ indiscriminately.",
+    "options": {
+      "a": "up",
+      "b": "off",
+      "c": "down",
+      "d": "out"
+    },
+    "correct_answer": "c",
+    "explanation": "গাছ কেটে ফেলা বুঝাতে appropriate phrasal verb হলো 'cut down'।"
+  },
+  {
+    "id": 54,
+    "question": "Resulting in an increase in carbon-dioxide, and (e) ___ , sea levels rising.",
+    "options": {
+      "a": "ultimacy",
+      "b": "ultimately",
+      "c": "ultimate",
+      "d": "ultimatum"
+    },
+    "correct_answer": "b",
+    "explanation": "পুরো ঘটনাপ্রবাহের শেষ পরিণতি বুঝাতে sentence-এর মাঝে adverb 'ultimately' (পরিশেষে) বসেছে।"
+  },
+  {
+    "id": 55,
+    "question": "It is (g) ___ that the new century will face an overwhelming catastrophe.",
+    "options": {
+      "a": "anticipate",
+      "b": "anticipated",
+      "c": "anticipation",
+      "d": "anticipating"
+    },
+    "correct_answer": "b",
+    "explanation": "Passive structure 'It is anticipated' (আশা বা আশঙ্কা করা হচ্ছে) হিসেবে বসেছে।"
+  },
+  {
+    "id": 56,
+    "question": "It is, therefore, (i) ___ to check the pollution.",
+    "options": {
+      "a": "imperative",
+      "b": "imperial",
+      "c": "imperiously",
+      "d": "imperiousness"
+    },
+    "correct_answer": "a",
+    "explanation": "অপরিহার্য বুঝাতে adjective 'imperative' বসে। 'imperial' মানে রাজকীয়, যা এখানে অপ্রাসঙ্গিক।"
+  },
+  {
+    "id": 57,
+    "question": "Television has (a) ___ the most common source of entertainment.",
+    "options": {
+      "a": "become",
+      "b": "became",
+      "c": "becoming",
+      "d": "becomes"
+    },
+    "correct_answer": "a",
+    "explanation": "'Has' এর পর V3 হিসেবে 'become' বসে (become-became-become)।"
+  },
+  {
+    "id": 58,
+    "question": "A wide range of programmes of (c) ___ interest is telecast.",
+    "options": {
+      "a": "vary",
+      "b": "various",
+      "c": "varied",
+      "d": "variety"
+    },
+    "correct_answer": "c",
+    "explanation": "বিভিন্ন প্রকারের আগ্রহ বুঝাতে adjective হিসেবে 'varied' (বিচিত্র) বেশি নিখুঁত।"
+  },
+  {
+    "id": 59,
+    "question": "Almost every middle class and (e) ___ working-class families have a TV.",
+    "options": {
+      "a": "even",
+      "b": "ever",
+      "c": "eventual",
+      "d": "every"
+    },
+    "correct_answer": "a",
+    "explanation": "জোর দেওয়ার জন্য 'even' (এমনকি) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 60,
+    "question": "Television (f) ___ are not only enjoyable but also educational.",
+    "options": {
+      "a": "program",
+      "b": "programmes",
+      "c": "programming",
+      "d": "programmed"
+    },
+    "correct_answer": "b",
+    "explanation": "Verb 'are' বহুবচন হওয়ায় subject হিসেবে plural noun 'programmes' হবে।"
+  },
+  {
+    "id": 61,
+    "question": "Television is used for (g) ___ learning.",
+    "options": {
+      "a": "distant",
+      "b": "distantly",
+      "c": "distance",
+      "d": "distancing"
+    },
+    "correct_answer": "c",
+    "explanation": "'Distance learning' (দূরশিক্ষণ) একটি compound noun। 'distant' একটি সাধারণ adjective।"
+  },
+  {
+    "id": 62,
+    "question": "Several channels like the Discovery and the National Geographic channels telecast highly (j) ___ programmes.",
+    "options": {
+      "a": "inform",
+      "b": "informative",
+      "c": "information",
+      "d": "informatively"
+    },
+    "correct_answer": "b",
+    "explanation": "Programmes (noun) এর গুণ বুঝাতে adjective 'informative' (তথ্যবহুল) বসেছে।"
+  },
+  {
+    "id": 63,
+    "question": "Good citizens are (a) ___ people who are possessing the (b) ___ attitude.",
+    "options": {
+      "a": "positive",
+      "b": "positively",
+      "c": "positivity",
+      "d": "positive-ness"
+    },
+    "correct_answer": "a",
+    "explanation": "People (noun) এর আগে adjective হিসেবে 'positive' বসে।"
+  },
+  {
+    "id": 64,
+    "question": "Possessing the (b) ___ attitude about their society.",
+    "options": {
+      "a": "right",
+      "b": "rightly",
+      "c": "rightness",
+      "d": "righteous"
+    },
+    "correct_answer": "a",
+    "explanation": "সঠিক দৃষ্টিভঙ্গি বুঝাতে 'right attitude' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 65,
+    "question": "They never possess the quality of (d) ___ .",
+    "options": {
+      "a": "material",
+      "b": "materially",
+      "c": "materialism",
+      "d": "materialize"
+    },
+    "correct_answer": "c",
+    "explanation": "Preposition 'of' এর পরে noun 'materialism' (বস্তুবাদ) বসেছে।"
+  },
+  {
+    "id": 66,
+    "question": "They have all the good (f) ___ that lead them to path of (g) ___ .",
+    "options": {
+      "a": "quality",
+      "b": "qualities",
+      "c": "qualitative",
+      "d": "qualified"
+    },
+    "correct_answer": "b",
+    "explanation": "মানুষের গুণাবলি বুঝাতে plural noun 'qualities' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 67,
+    "question": "Path of (g) ___ others.",
+    "options": {
+      "a": "welfare",
+      "b": "welfaring",
+      "c": "well",
+      "d": "wealthy"
+    },
+    "correct_answer": "a",
+    "explanation": "অন্যের কল্যাণ বুঝাতে noun 'welfare' বসে।"
+  },
+  {
+    "id": 68,
+    "question": "They are not thinking of their (h) ___ prosperity.",
+    "options": {
+      "a": "person",
+      "b": "personal",
+      "c": "personally",
+      "d": "personality"
+    },
+    "correct_answer": "b",
+    "explanation": "Prosperity (noun) এর আগে adjective 'personal' (ব্যক্তিগত) বসেছে।"
+  },
+  {
+    "id": 69,
+    "question": "They (i) ___ dedicate their lives for others.",
+    "options": {
+      "a": "spontaneous",
+      "b": "spontaneously",
+      "c": "spontaneity",
+      "d": "spontaneous-ness"
+    },
+    "correct_answer": "b",
+    "explanation": "Verb 'dedicate' কে modify করতে adverb 'spontaneously' (স্বতঃস্ফূর্তভাবে) বসেছে।"
+  },
+  {
+    "id": 70,
+    "question": "Population (a) ___ is considered as one of the greatest (b) ___ in our country.",
+    "options": {
+      "a": "explode",
+      "b": "exploding",
+      "c": "explosion",
+      "d": "explosive"
+    },
+    "correct_answer": "c",
+    "explanation": "জনসংখ্যা বিস্ফোরণ বুঝাতে compound noun 'population explosion' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 71,
+    "question": "Is considered as one of the greatest (b) ___ in our country.",
+    "options": {
+      "a": "burden",
+      "b": "burdens",
+      "c": "burdening",
+      "d": "burdened"
+    },
+    "correct_answer": "b",
+    "explanation": "'One of the' এর পরে plural noun (burdens) বসে।"
+  },
+  {
+    "id": 72,
+    "question": "Many people (c) ___ that overpopulation is a (d) ___ .",
+    "options": {
+      "a": "think",
+      "b": "thinks",
+      "c": "thought",
+      "d": "thinking"
+    },
+    "correct_answer": "a",
+    "explanation": "People (plural subject) এর সাথে verb-এর base form 'think' বসে।"
+  },
+  {
+    "id": 73,
+    "question": "Overpopulation is a (d) ___ and it causes (e) ___ .",
+    "options": {
+      "a": "liable",
+      "b": "liability",
+      "c": "liabilities",
+      "d": "liably"
+    },
+    "correct_answer": "b",
+    "explanation": "Article 'a' এর পরে noun 'liability' (দায়ভার) বসেছে।"
+  },
+  {
+    "id": 74,
+    "question": "And it causes (e) ___ .",
+    "options": {
+      "a": "poverty",
+      "b": "poor",
+      "c": "poorness",
+      "d": "poorest"
+    },
+    "correct_answer": "a",
+    "explanation": "Verb 'causes' এর object হিসেবে noun 'poverty' (দারিদ্র্য) বসে।"
+  },
+  {
+    "id": 75,
+    "question": "Proper (f) ___ and management can turn this (g) ___ into an asset.",
+    "options": {
+      "a": "plan",
+      "b": "planning",
+      "c": "planned",
+      "d": "planner"
+    },
+    "correct_answer": "b",
+    "explanation": "Noun হিসেবে 'planning' (পরিকল্পনা) বসেছে।"
+  },
+  {
+    "id": 76,
+    "question": "Can turn this (g) ___ into an asset.",
+    "options": {
+      "a": "burden",
+      "b": "burdens",
+      "c": "burdened",
+      "d": "burdening"
+    },
+    "correct_answer": "a",
+    "explanation": "প্যাসেজ অনুযায়ী পূর্বের 'burden' (বোঝা) কে নির্দেশ করছে।"
+  },
+  {
+    "id": 77,
+    "question": "Develop our human (h) ___ properly.",
+    "options": {
+      "a": "source",
+      "b": "resource",
+      "c": "resources",
+      "d": "resourcing"
+    },
+    "correct_answer": "c",
+    "explanation": "'Human resources' (মানবসম্পদ) একটি বহুল ব্যবহৃত plural term।"
+  },
+  {
+    "id": 78,
+    "question": "It can be a (i) ___ way for poverty (j) ___ .",
+    "options": {
+      "a": "possible",
+      "b": "possibly",
+      "c": "possibility",
+      "d": "posited"
+    },
+    "correct_answer": "a",
+    "explanation": "Way (noun) এর আগে adjective 'possible' (সম্ভাব্য) বসেছে।"
+  },
+  {
+    "id": 79,
+    "question": "Poverty (j) ___ .",
+    "options": {
+      "a": "alleviate",
+      "b": "alleviation",
+      "c": "alleviating",
+      "d": "alleviated"
+    },
+    "correct_answer": "b",
+    "explanation": "দারিদ্র্য বিমোচন বুঝাতে 'poverty alleviation' (noun-noun compound) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 80,
+    "question": "Seas and coasts are in a (c) ___ state today.",
+    "options": {
+      "a": "bad",
+      "b": "worse",
+      "c": "worst",
+      "d": "badly"
+    },
+    "correct_answer": "b",
+    "explanation": "আগের তুলনায় খারাপ বুঝাতে comparative degree 'worse' বসে।"
+  },
+  {
+    "id": 81,
+    "question": "According to the international conservation (b) ___ .",
+    "options": {
+      "a": "organize",
+      "b": "organized",
+      "c": "organization",
+      "d": "organizing"
+    },
+    "correct_answer": "c",
+    "explanation": "সংস্থা বুঝাতে noun 'organization' বসে।"
+  },
+  {
+    "id": 82,
+    "question": "Forests are being cut (d) ___ resulting in an increase in carbon-dioxide.",
+    "options": {
+      "a": "up",
+      "b": "off",
+      "c": "down",
+      "d": "out"
+    },
+    "correct_answer": "c",
+    "explanation": "বৃক্ষনিধন বুঝাতে 'cut down' appropriate।"
+  },
+  {
+    "id": 83,
+    "question": "Television has (a) ___ the most common and widespread (b) ___ of entertainment.",
+    "options": {
+      "a": "source",
+      "b": "sources",
+      "c": "sourcing",
+      "d": "sourced"
+    },
+    "correct_answer": "a",
+    "explanation": "Singular article 'the' এর কারণে noun 'source' হবে।"
+  },
+  {
+    "id": 84,
+    "question": "Programmes of (c) ___ interest is telecast on numerous (d) ___ .",
+    "options": {
+      "a": "channel",
+      "b": "channels",
+      "c": "channeled",
+      "d": "channeling"
+    },
+    "correct_answer": "b",
+    "explanation": "Numerous (অনেক) এর পর plural noun 'channels' বসে।"
+  },
+  {
+    "id": 85,
+    "question": "Courses (h) ___ by the Open University.",
+    "options": {
+      "a": "run",
+      "b": "ran",
+      "c": "running",
+      "d": "runs"
+    },
+    "correct_answer": "a",
+    "explanation": "Passive sense-এ V3 হিসেবে 'run' বসেছে (run-ran-run)।"
+  },
+  {
+    "id": 86,
+    "question": "They never possess the quality of (d) ___ .",
+    "options": {
+      "a": "ideal",
+      "b": "idealism",
+      "c": "idealize",
+      "d": "ideally"
+    },
+    "correct_answer": "b",
+    "explanation": "আদর্শবাদ বুঝাতে noun হিসেবে 'idealism' বসে।"
+  },
+  {
+    "id": 87,
+    "question": "They are always thinking about the (e) ___ of their surroundings.",
+    "options": {
+      "a": "welfare",
+      "b": "well",
+      "c": "welfaring",
+      "d": "wealth"
+    },
+    "correct_answer": "a",
+    "explanation": "পরিবেশের 'কল্যাণ' বুঝাতে 'welfare' বসে।"
+  },
+  {
+    "id": 88,
+    "question": "That lead them to the path of (g) ___ others.",
+    "options": {
+      "a": "help",
+      "b": "helping",
+      "c": "helpful",
+      "d": "helped"
+    },
+    "correct_answer": "b",
+    "explanation": "Preposition 'of' এর পরে gerund 'helping' বসেছে।"
+  },
+  {
+    "id": 89,
+    "question": "They are not thinking of their (h) ___ prosperity.",
+    "options": {
+      "a": "material",
+      "b": "materially",
+      "c": "materialism",
+      "d": "materialistic"
+    },
+    "correct_answer": "a",
+    "explanation": "পার্থিব উন্নতি বুঝাতে 'material prosperity' (compound concept) বসে।"
+  },
+  {
+    "id": 90,
+    "question": "Population (a) ___ is considered as one of the greatest (b) ___ .",
+    "options": {
+      "a": "curse",
+      "b": "curses",
+      "c": "cursed",
+      "d": "cursing"
+    },
+    "correct_answer": "b",
+    "explanation": "'One of the' এর পর plural noun 'curses' (অভিশাপসমূহ) হবে।"
+  },
+  {
+    "id": 91,
+    "question": "Overpopulation is a (d) ___ and it causes (e) ___ .",
+    "options": {
+      "a": "burden",
+      "b": "burdened",
+      "c": "burdening",
+      "d": "burdens"
+    },
+    "correct_answer": "a",
+    "explanation": "Article 'a' এর পর singular noun 'burden' বসে।"
+  },
+  {
+    "id": 92,
+    "question": "Proper (f) ___ and management can turn this burden into an (i) ___ .",
+    "options": {
+      "a": "asset",
+      "b": "assets",
+      "c": "assisting",
+      "d": "assisted"
+    },
+    "correct_answer": "a",
+    "explanation": "বোঝাকে সম্পদে পরিণত করা বুঝাতে 'asset' বসে।"
+  },
+  {
+    "id": 93,
+    "question": "If we can develop our human (h) ___ properly.",
+    "options": {
+      "a": "resource",
+      "b": "resourceful",
+      "c": "resourcing",
+      "d": "resources"
+    },
+    "correct_answer": "d",
+    "explanation": "মানবসম্পদ বুঝাতে plural 'resources' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 94,
+    "question": "A possible way for poverty (j) ___ .",
+    "options": {
+      "a": "alleviate",
+      "b": "alleviation",
+      "c": "alleviated",
+      "d": "alleviating"
+    },
+    "correct_answer": "b",
+    "explanation": "Poverty alleviation (দারিদ্র্য বিমোচন) একটি standard noun phrase।"
+  },
+  {
+    "id": 95,
+    "question": "Television (b) ___ of entertainment are many.",
+    "options": {
+      "a": "source",
+      "b": "sources",
+      "c": "sourcing",
+      "d": "sourced"
+    },
+    "correct_answer": "b",
+    "explanation": "Verb 'are' বহুবচন হওয়ায় subject 'sources' হবে।"
+  },
+  {
+    "id": 96,
+    "question": "Programmes are telecast on (d) ___ channels.",
+    "options": {
+      "a": "numerous",
+      "b": "number",
+      "c": "numbered",
+      "d": "numerically"
+    },
+    "correct_answer": "a",
+    "explanation": "অজস্র বুঝাতে adjective 'numerous' বসে।"
+  },
+  {
+    "id": 97,
+    "question": "Courses run by the Open University are (i) ___ on BTV.",
+    "options": {
+      "a": "show",
+      "b": "shown",
+      "c": "showed",
+      "d": "showing"
+    },
+    "correct_answer": "b",
+    "explanation": "Passive sense-এ 'are shown' (দেখানো হয়) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 98,
+    "question": "They possess the (b) ___ attitude.",
+    "options": {
+      "a": "rightly",
+      "b": "right",
+      "c": "righteous",
+      "d": "rightful"
+    },
+    "correct_answer": "b",
+    "explanation": "সঠিক বুঝাতে simple adjective 'right' উপযুক্ত।"
+  },
+  {
+    "id": 99,
+    "question": "They never (c) ___ from the right path.",
+    "options": {
+      "a": "deviate",
+      "b": "deviated",
+      "c": "deviation",
+      "d": "deviates"
+    },
+    "correct_answer": "a",
+    "explanation": "Subject plural (they) হওয়ায় verb-এর base form 'deviate' (বিচ্যুত হওয়া) বসেছে।"
+  },
+  {
+    "id": 100,
+    "question": "They (j) ___ others.",
+    "options": {
+      "a": "help",
+      "b": "helps",
+      "c": "helped",
+      "d": "helping"
+    },
+    "correct_answer": "a",
+    "explanation": "সাধারণ অভ্যাস বুঝাতে Present Indefinite tense-এ 'help' বসেছে।"
+  },
+  {
+    "id": 101,
+    "question": "Almost (e) ___ working-class families have a TV.",
+    "options": {
+      "a": "every",
+      "b": "certain",
+      "c": "numerous",
+      "d": "total"
+    },
+    "correct_answer": "a",
+    "explanation": "সাধারণভাবে প্রতিটি পরিবার বুঝাতে 'every' বসে। 'certain' (নিশ্চিত) বা 'total' (মোট) এখানে অর্থহীন।"
+  },
+  {
+    "id": 102,
+    "question": "Television is used for (g) ___ learning.",
+    "options": {
+      "a": "remote",
+      "b": "distance",
+      "c": "faraway",
+      "d": "removed"
+    },
+    "correct_answer": "b",
+    "explanation": "'Distance learning' (দূরশিক্ষণ) একটি নির্দিষ্ট টার্ম। 'remote' অর্থ দূরবর্তী হলেও এই বিশেষ ক্ষেত্রে 'distance' সঠিক।"
+  },
+  {
+    "id": 103,
+    "question": "Good citizens are (a) ___ people.",
+    "options": {
+      "a": "optimistic",
+      "b": "wealthy",
+      "c": "positive",
+      "d": "famous"
+    },
+    "correct_answer": "c",
+    "explanation": "প্যাসেজ অনুযায়ী সুনাগরিকরা 'positive' (ইতিবাচক) মানুষ। 'optimistic' মানে আশাবাদী হলেও প্যাসেজের Clue-তে positive আছে।"
+  },
+  {
+    "id": 104,
+    "question": "They (c) ___ also help the community.",
+    "options": {
+      "a": "further",
+      "b": "likewise",
+      "c": "too",
+      "d": "so"
+    },
+    "correct_answer": "d",
+    "explanation": "প্যাসেজে 'so' অর্থ 'এছাড়া' বা 'তুলে ধরা' অর্থে ব্যবহৃত হয়েছে। অপশন 'too' বাক্যের শেষে বসলে সঠিক হতো।"
+  },
+  {
+    "id": 105,
+    "question": "They never possess the quality of (d) ___.",
+    "options": {
+      "a": "greed",
+      "b": "materialism",
+      "c": "selfishness",
+      "d": "ego"
+    },
+    "correct_answer": "b",
+    "explanation": "সুনাগরিকরা বস্তুবাদ বা 'materialism' থেকে দূরে থাকেন। লোভ (greed) বা স্বার্থপরতা (selfishness) কাছাকাছি হলেও প্যাসেজ অনুযায়ী 'materialism' সঠিক।"
+  },
+  {
+    "id": 106,
+    "question": "Good citizens (f) ___ that lead them to path of welfare.",
+    "options": {
+      "a": "traits",
+      "b": "virtues",
+      "c": "qualities",
+      "d": "merits"
+    },
+    "correct_answer": "c",
+    "explanation": "মানুষের ভেতরের চারিত্রিক গুণ বুঝাতে 'qualities' শব্দটি Clue-তে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 107,
+    "question": "They dedicate their lives for others (j) ___ them.",
+    "options": {
+      "a": "saving",
+      "b": "helping",
+      "c": "assisting",
+      "d": "serving"
+    },
+    "correct_answer": "b",
+    "explanation": "অন্যকে সাহায্য করা অর্থে 'helping' Clue-তে সরাসরি দেওয়া আছে।"
+  },
+  {
+    "id": 108,
+    "question": "Population (a) ___ is a great burden.",
+    "options": {
+      "a": "growth",
+      "b": "boom",
+      "c": "explosion",
+      "d": "excess"
+    },
+    "correct_answer": "c",
+    "explanation": "জনসংখ্যা অস্বাভাবিক বেড়ে যাওয়া বুঝাতে 'explosion' (বিস্ফোরণ) একটি টেকনিক্যাল শব্দ।"
+  },
+  {
+    "id": 109,
+    "question": "Overpopulation causes (e) ___ in many ways.",
+    "options": {
+      "a": "distress",
+      "b": "poverty",
+      "c": "famine",
+      "d": "misery"
+    },
+    "correct_answer": "b",
+    "explanation": "অধিক জনসংখ্যার প্রত্যক্ষ ফল হলো 'poverty' (দারিদ্র্য)।"
+  },
+  {
+    "id": 110,
+    "question": "We can turn human (h) ___ into an asset.",
+    "options": {
+      "a": "capital",
+      "b": "resource",
+      "c": "potential",
+      "d": "wealth"
+    },
+    "correct_answer": "b",
+    "explanation": "মানুষকে যখন অর্থনীতিতে ব্যবহার করা হয় তখন তাকে 'resource' (সম্পদ) বলা হয়।"
+  },
+  {
+    "id": 111,
+    "question": "Education (f) ___ both knowledge and skill.",
+    "options": {
+      "a": "signifies",
+      "b": "means",
+      "c": "denotes",
+      "d": "includes"
+    },
+    "correct_answer": "b",
+    "explanation": "শিক্ষা বলতে জ্ঞান ও দক্ষতা উভয়কেই বুঝায় (means)।"
+  },
+  {
+    "id": 112,
+    "question": "Without (h) ___ a good man, no one is fully educated.",
+    "options": {
+      "a": "becoming",
+      "b": "being",
+      "c": "making",
+      "d": "staying"
+    },
+    "correct_answer": "b",
+    "explanation": "ভাল মানুষ 'হওয়া' অর্থে 'being' উপযুক্ত gerund।"
+  },
+  {
+    "id": 113,
+    "question": "Other achievements are (i) ___ without proper education.",
+    "options": {
+      "a": "futile",
+      "b": "pointless",
+      "c": "frustrating",
+      "d": "useless"
+    },
+    "correct_answer": "c",
+    "explanation": "শিক্ষা ছাড়া অন্য অর্জনগুলো মানুষকে হতাশ করে (frustrating)।"
+  },
+  {
+    "id": 114,
+    "question": "One should (j) ___ on attaining positive aspects.",
+    "options": {
+      "a": "focus",
+      "b": "aim",
+      "c": "concentrate",
+      "d": "look"
+    },
+    "correct_answer": "c",
+    "explanation": "গভীর মনোযোগ দেওয়া অর্থে 'concentrate' সঠিক। এর পর 'on' বসে।"
+  },
+  {
+    "id": 115,
+    "question": "Facebook is a (a) ___ social networking service.",
+    "options": {
+      "a": "famous",
+      "b": "popular",
+      "c": "vast",
+      "d": "trendy"
+    },
+    "correct_answer": "b",
+    "explanation": "জনপ্রিয় বুঝাতে 'popular' শব্দটি Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 116,
+    "question": "It gained popularity (e) ___ a very short time.",
+    "options": {
+      "a": "within",
+      "b": "during",
+      "c": "inside",
+      "d": "along"
+    },
+    "correct_answer": "a",
+    "explanation": "সময়ের নির্দিষ্ট সীমার মধ্যে বুঝাতে 'within' বসে।"
+  },
+  {
+    "id": 117,
+    "question": "Facebook (f) ___ love and shares sorrows.",
+    "options": {
+      "a": "broadens",
+      "b": "spreads",
+      "c": "scatters",
+      "d": "divides"
+    },
+    "correct_answer": "b",
+    "explanation": "ভালোবাসা ছড়িয়ে দেওয়া অর্থে 'spreads' সঠিক।"
+  },
+  {
+    "id": 118,
+    "question": "It is causing many problems in their (j) ___ life.",
+    "options": {
+      "a": "daily",
+      "b": "personal",
+      "c": "family",
+      "d": "inner"
+    },
+    "correct_answer": "c",
+    "explanation": "পারিবারিক জীবন বুঝাতে 'family life' একটি compound noun।"
+  },
+  {
+    "id": 119,
+    "question": "The world has lost (a) ___ of its natural wealth.",
+    "options": {
+      "a": "part",
+      "b": "portion",
+      "c": "one-third",
+      "d": "half"
+    },
+    "correct_answer": "c",
+    "explanation": "প্যাসেজে নির্দিষ্ট পরিসংখ্যান 'one-third' (এক-তৃতীয়াংশ) উল্লেখ করা হয়েছে।"
+  },
+  {
+    "id": 120,
+    "question": "Seas and coasts are in a (c) ___ state today.",
+    "options": {
+      "a": "critical",
+      "b": "worse",
+      "c": "dangerous",
+      "d": "poor"
+    },
+    "correct_answer": "b",
+    "explanation": "আগের চেয়ে খারাপ বুঝাতে comparative adjective 'worse' বসেছে।"
+  },
+  {
+    "id": 121,
+    "question": "Carbon-dioxide (e) ___ results in global warming.",
+    "options": {
+      "a": "addition",
+      "b": "increase",
+      "c": "gathering",
+      "d": "growth"
+    },
+    "correct_answer": "b",
+    "explanation": "কার্বন-ডাই-অক্সাইডের পরিমাণ বৃদ্ধি বুঝাতে 'increase' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 122,
+    "question": "Television (c) ___ varied interest is telecast.",
+    "options": {
+      "a": "exhibits",
+      "b": "shows",
+      "c": "displays",
+      "d": "presents"
+    },
+    "correct_answer": "b",
+    "explanation": "অনুষ্ঠান দেখানো অর্থে 'shows' Clue-তে আছে।"
+  },
+  {
+    "id": 123,
+    "question": "Several channels (i) ___ on BTV.",
+    "options": {
+      "a": "operate",
+      "b": "run",
+      "c": "stay",
+      "d": "act"
+    },
+    "correct_answer": "b",
+    "explanation": "চ্যানেল বা প্রোগ্রাম চলা বুঝাতে 'run' verb-টি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 124,
+    "question": "They are always thinking about the (e) ___ of surroundings.",
+    "options": {
+      "a": "welfare",
+      "b": "benefit",
+      "c": "safety",
+      "d": "comfort"
+    },
+    "correct_answer": "a",
+    "explanation": "চারপাশের মানুষের মঙ্গল বা কল্যাণ বুঝাতে 'welfare' সঠিক।"
+  },
+  {
+    "id": 125,
+    "question": "They (i) ___ dedicate their lives.",
+    "options": {
+      "a": "willingly",
+      "b": "spontaneously",
+      "c": "happily",
+      "d": "bravely"
+    },
+    "correct_answer": "b",
+    "explanation": "নিজে থেকে বা স্বতঃস্ফূর্তভাবে কাজ করা বুঝাতে 'spontaneously' বসে।"
+  },
+  {
+    "id": 126,
+    "question": "Overpopulation is a (d) ___ in our country.",
+    "options": {
+      "a": "menace",
+      "b": "curse",
+      "c": "danger",
+      "d": "evil"
+    },
+    "correct_answer": "b",
+    "explanation": "অভিশাপ অর্থে 'curse' Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 127,
+    "question": "Proper planning can turn this (g) ___ into an asset.",
+    "options": {
+      "a": "load",
+      "b": "burden",
+      "c": "trouble",
+      "d": "problem"
+    },
+    "correct_answer": "b",
+    "explanation": "বোঝা বা দায় বুঝাতে 'burden' শব্দটি প্যাসেজের সাথে সামঞ্জস্যপূর্ণ।"
+  },
+  {
+    "id": 128,
+    "question": "Education (a) ___ at two things.",
+    "options": {
+      "a": "goals",
+      "b": "aims",
+      "c": "targets",
+      "d": "points"
+    },
+    "correct_answer": "b",
+    "explanation": "লক্ষ্য নির্ধারণ করা অর্থে 'aims at' একটি phrase।"
+  },
+  {
+    "id": 129,
+    "question": "Knowledge provides us with (e) ___.",
+    "options": {
+      "a": "wisdom",
+      "b": "enlightenment",
+      "c": "insight",
+      "d": "intellect"
+    },
+    "correct_answer": "b",
+    "explanation": "জ্ঞানের মাধ্যমে মনের অন্ধকার দূর হওয়াকে 'enlightenment' বলে।"
+  },
+  {
+    "id": 130,
+    "question": "Education should (g) ___ a good man.",
+    "options": {
+      "a": "build",
+      "b": "make",
+      "c": "create",
+      "d": "form"
+    },
+    "correct_answer": "b",
+    "explanation": "মানুষ হিসেবে গড়ে তোলা অর্থে 'make' Clue-তে আছে।"
+  },
+  {
+    "id": 131,
+    "question": "Facebook is a (a) ___ social networking service.",
+    "options": {
+      "a": "famous",
+      "b": "popular",
+      "c": "vast",
+      "d": "known"
+    },
+    "correct_answer": "b",
+    "explanation": "জনপ্রিয় বুঝাতে 'popular' সবচেয়ে সঠিক বিশেষণ।"
+  },
+  {
+    "id": 132,
+    "question": "Mark Zuckerberg first (d) ___ Facebook.",
+    "options": {
+      "a": "created",
+      "b": "invented",
+      "c": "founded",
+      "d": "discovered"
+    },
+    "correct_answer": "b",
+    "explanation": "নতুন কিছু উদ্ভাবন করা অর্থে 'invented' সঠিক।"
+  },
+  {
+    "id": 133,
+    "question": "It gained much (e) ___ in short time.",
+    "options": {
+      "a": "fame",
+      "b": "popularity",
+      "c": "repute",
+      "d": "glory"
+    },
+    "correct_answer": "b",
+    "explanation": "জনপ্রিয়তা অর্থে noun 'popularity' হবে।"
+  },
+  {
+    "id": 134,
+    "question": "Adults are also getting (i) ___ to it.",
+    "options": {
+      "a": "habituated",
+      "b": "addicted",
+      "c": "accustomed",
+      "d": "attached"
+    },
+    "correct_answer": "b",
+    "explanation": "নেতিবাচকভাবে আসক্ত হওয়া বুঝাতে 'addicted' বসে।"
+  },
+  {
+    "id": 135,
+    "question": "It is (i) ___ to check the pollution.",
+    "options": {
+      "a": "urgent",
+      "b": "imperative",
+      "c": "vital",
+      "d": "main"
+    },
+    "correct_answer": "b",
+    "explanation": "অত্যন্ত প্রয়োজনীয় বা আদেশসূচক অর্থে 'imperative' সঠিক।"
+  },
+  {
+    "id": 136,
+    "question": "The world has (a) ___ its natural wealth.",
+    "options": {
+      "a": "missed",
+      "b": "lost",
+      "c": "spent",
+      "d": "wasted"
+    },
+    "correct_answer": "b",
+    "explanation": "হারিয়ে ফেলা অর্থে 'lost' Clue-তে আছে।"
+  },
+  {
+    "id": 137,
+    "question": "Television (a) ___ the most common source.",
+    "options": {
+      "a": "turns",
+      "b": "becomes",
+      "c": "stays",
+      "d": "grows"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিণত হওয়া বা হওয়া বুঝাতে 'becomes' সঠিক।"
+  },
+  {
+    "id": 138,
+    "question": "Good citizens (i) ___ dedicate their lives.",
+    "options": {
+      "a": "willingly",
+      "b": "spontaneously",
+      "c": "openly",
+      "d": "readily"
+    },
+    "correct_answer": "b",
+    "explanation": "স্বতঃস্ফূর্ততা বুঝাতে 'spontaneously' Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 139,
+    "question": "Proper (f) ___ can turn burden into asset.",
+    "options": {
+      "a": "scheme",
+      "b": "planning",
+      "c": "method",
+      "d": "way"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিকল্পনা অর্থে 'planning' শব্দটি উপযুক্ত।"
+  },
+  {
+    "id": 140,
+    "question": "One should (j) ___ on attaining positive aspects.",
+    "options": {
+      "a": "look",
+      "b": "concentrate",
+      "c": "dwell",
+      "d": "rely"
+    },
+    "correct_answer": "b",
+    "explanation": "মনোযোগ নিবদ্ধ করা বুঝাতে 'concentrate' সঠিক।"
+  },
+  {
+    "id": 141,
+    "question": "The Padma Bridge is no longer a dream now, it's a (a) ___.",
+    "options": {
+      "a": "fact",
+      "b": "reality",
+      "c": "truth",
+      "d": "event"
+    },
+    "correct_answer": "b",
+    "explanation": "স্বপ্ন যখন সত্যি হয় তখন তাকে 'reality' (বাস্তবতা) বলে।"
+  },
+  {
+    "id": 142,
+    "question": "This multipurpose bridge is going to be a (b) ___ boon.",
+    "options": {
+      "a": "huge",
+      "b": "great",
+      "c": "big",
+      "d": "large"
+    },
+    "correct_answer": "b",
+    "explanation": "আশীর্বাদ বা আশীর্বাণী বুঝাতে 'great boon' একটি প্রচলিত জোড়া শব্দ।"
+  },
+  {
+    "id": 143,
+    "question": "Crossing the river has always been (e) ___ to unreliable ferry connections.",
+    "options": {
+      "a": "due",
+      "b": "owing",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "কারণে বুঝাতে 'owing to' একটি prepositional phrase।"
+  },
+  {
+    "id": 144,
+    "question": "The Padma Bridge (f) ___ Dhaka with 21 southern districts.",
+    "options": {
+      "a": "joins",
+      "b": "connects",
+      "c": "links",
+      "d": "unites"
+    },
+    "correct_answer": "b",
+    "explanation": "ভৌগোলিক সংযোগ বুঝাতে 'connects' সবচেয়ে যুতসই।"
+  },
+  {
+    "id": 145,
+    "question": "It is a potential catalyst for major economic (g) ___.",
+    "options": {
+      "a": "shifts",
+      "b": "changes",
+      "c": "growth",
+      "d": "impact"
+    },
+    "correct_answer": "b",
+    "explanation": "অর্থনৈতিক পরিবর্তন বুঝাতে 'economic changes' Clue-তে আছে।"
+  },
+  {
+    "id": 146,
+    "question": "The computer is a fairly (a) ___ invention.",
+    "options": {
+      "a": "modern",
+      "b": "recent",
+      "c": "new",
+      "d": "latest"
+    },
+    "correct_answer": "b",
+    "explanation": "সাম্প্রতিককালের উদ্ভাবন বুঝাতে 'recent' শব্দটি Clue-তে আছে।"
+  },
+  {
+    "id": 147,
+    "question": "It has now become an (b) ___ part of modern life.",
+    "options": {
+      "a": "main",
+      "b": "essential",
+      "c": "vital",
+      "d": "key"
+    },
+    "correct_answer": "b",
+    "explanation": "অপরিহার্য অংশ বুঝাতে 'essential part' সঠিক।"
+  },
+  {
+    "id": 148,
+    "question": "Any (d) ___ that helps people perform calculation.",
+    "options": {
+      "a": "tool",
+      "b": "device",
+      "c": "machine",
+      "d": "engine"
+    },
+    "correct_answer": "b",
+    "explanation": "বৈদ্যুতিক যন্ত্র বুঝাতে 'device' শব্দটি Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 149,
+    "question": "Abacus is a (f) ___ simple computer.",
+    "options": {
+      "a": "named",
+      "b": "called",
+      "c": "known",
+      "d": "termed"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো কিছুকে সম্বোধন করা বুঝাতে 'called' বসে।"
+  },
+  {
+    "id": 150,
+    "question": "Computers process (h) ___ masses of information.",
+    "options": {
+      "a": "vast",
+      "b": "large",
+      "c": "great",
+      "d": "heavy"
+    },
+    "correct_answer": "b",
+    "explanation": "বিশাল পরিমাণ তথ্য বুঝাতে 'large masses' Clue-তে আছে।"
+  },
+  {
+    "id": 151,
+    "question": "A computer is an (i) ___ part of modern life.",
+    "options": {
+      "a": "essential",
+      "b": "external",
+      "c": "optional",
+      "d": "extra"
+    },
+    "correct_answer": "a",
+    "explanation": "আধুনিক জীবনের 'অপরিহার্য' অংশ বুঝাতে 'essential' সবচেয়ে সঠিক শব্দ।"
+  },
+  {
+    "id": 152,
+    "question": "It can perform (j) ___ in a few seconds.",
+    "options": {
+      "a": "tasks",
+      "b": "problems",
+      "c": "calculations",
+      "d": "numbers"
+    },
+    "correct_answer": "c",
+    "explanation": "গণনা করা বুঝাতে 'calculations' শব্দটি প্যাসেজের প্রেক্ষাপটে সঠিক।"
+  },
+  {
+    "id": 153,
+    "question": "Truthfulness is a (a) ___ virtue.",
+    "options": {
+      "a": "noble",
+      "b": "common",
+      "c": "simple",
+      "d": "famous"
+    },
+    "correct_answer": "a",
+    "explanation": "সত্যবাদিতা একটি 'মহৎ' গুণ, তাই 'noble' শব্দটি উপযুক্ত।"
+  },
+  {
+    "id": 154,
+    "question": "It makes a man (b) ___ and gives him mental peace.",
+    "options": {
+      "a": "strong",
+      "b": "confident",
+      "c": "trustworthy",
+      "d": "worthy"
+    },
+    "correct_answer": "c",
+    "explanation": "সত্যবাদিতা মানুষকে 'নির্ভরযোগ্য' বা 'trustworthy' করে তোলে।"
+  },
+  {
+    "id": 155,
+    "question": "It means the (c) ___ of speaking the truth.",
+    "options": {
+      "a": "habit",
+      "b": "nature",
+      "c": "action",
+      "d": "style"
+    },
+    "correct_answer": "a",
+    "explanation": "সত্য বলার 'অভ্যাস' বুঝাতে 'habit' শব্দটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 156,
+    "question": "A truthful person is (d) ___ by all.",
+    "options": {
+      "a": "loved",
+      "b": "respected",
+      "c": "helped",
+      "d": "praised"
+    },
+    "correct_answer": "b",
+    "explanation": "সত্যবাদী ব্যক্তিকে সবাই 'শ্রদ্ধা' করে, তাই 'respected' সঠিক।"
+  },
+  {
+    "id": 157,
+    "question": "Truthfulness is the (f) ___ of all other virtues.",
+    "options": {
+      "a": "foundation",
+      "b": "result",
+      "c": "source",
+      "d": "symbol"
+    },
+    "correct_answer": "a",
+    "explanation": "সকল গুণের 'ভিত্তি' বুঝাতে 'foundation' শব্দটি নিখুঁত।"
+  },
+  {
+    "id": 158,
+    "question": "Truthfulness (h) ___ our mind and soul.",
+    "options": {
+      "a": "cleans",
+      "b": "purifies",
+      "c": "saves",
+      "d": "brightens"
+    },
+    "correct_answer": "b",
+    "explanation": "মন ও আত্মাকে 'পবিত্র' করা বুঝাতে 'purifies' উপযুক্ত শব্দ।"
+  },
+  {
+    "id": 159,
+    "question": "A man who does not (i) ___ the habit of truthfulness cannot be a great man.",
+    "options": {
+      "a": "keep",
+      "b": "cultivate",
+      "c": "take",
+      "d": "learn"
+    },
+    "correct_answer": "b",
+    "explanation": "কোনো গুণ বা অভ্যাস 'চর্চা' করা বা বাড়ানো বুঝাতে 'cultivate' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 160,
+    "question": "We should (j) ___ this habit from our childhood.",
+    "options": {
+      "a": "start",
+      "b": "practice",
+      "c": "adopt",
+      "d": "follow"
+    },
+    "correct_answer": "b",
+    "explanation": "অভ্যাস 'অনুশীলন' করা বুঝাতে 'practice' সঠিক।"
+  },
+  {
+    "id": 161,
+    "question": "The freedom fighters are the (a) ___ sons of the soil.",
+    "options": {
+      "a": "brave",
+      "b": "heroic",
+      "c": "noble",
+      "d": "bold"
+    },
+    "correct_answer": "b",
+    "explanation": "মুক্তিযোদ্ধাদের 'বীর' সন্তান বুঝাতে 'heroic' শব্দটি সবচেয়ে যুতসই।"
+  },
+  {
+    "id": 162,
+    "question": "They fought (b) ___ to save the country.",
+    "options": {
+      "a": "boldly",
+      "b": "bravely",
+      "c": "hardly",
+      "d": "loudly"
+    },
+    "correct_answer": "b",
+    "explanation": "সাহসীকতার সাথে লড়াই করা বুঝাতে 'bravely' (সাহস ভরে) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 163,
+    "question": "They did not (c) ___ their own lives.",
+    "options": {
+      "a": "care",
+      "b": "fear",
+      "c": "value",
+      "d": "miss"
+    },
+    "correct_answer": "a",
+    "explanation": "নিজের জীবনের 'পরোয়া' না করা বুঝাতে 'care for' অর্থে 'care' সঠিক।"
+  },
+  {
+    "id": 164,
+    "question": "They (d) ___ the enemy with great courage.",
+    "options": {
+      "a": "attacked",
+      "b": "faced",
+      "c": "killed",
+      "d": "stopped"
+    },
+    "correct_answer": "b",
+    "explanation": "শত্রুর 'মুখোমুখি' হওয়া বুঝাতে 'faced' শব্দটি প্যাসেজে আছে।"
+  },
+  {
+    "id": 165,
+    "question": "Their (e) ___ was to make the country free.",
+    "options": {
+      "a": "dream",
+      "b": "mission",
+      "c": "target",
+      "d": "aim"
+    },
+    "correct_answer": "d",
+    "explanation": "তাদের 'লক্ষ্য' ছিল দেশ স্বাধীন করা, তাই 'aim' সঠিক।"
+  },
+  {
+    "id": 166,
+    "question": "They (f) ___ a great contribution for our independence.",
+    "options": {
+      "a": "gave",
+      "b": "made",
+      "c": "showed",
+      "d": "did"
+    },
+    "correct_answer": "b",
+    "explanation": "অবদান রাখা বুঝাতে 'made a contribution' একটি standard phrase।"
+  },
+  {
+    "id": 167,
+    "question": "People will (h) ___ them forever.",
+    "options": {
+      "a": "know",
+      "b": "remember",
+      "c": "praise",
+      "d": "follow"
+    },
+    "correct_answer": "b",
+    "explanation": "মানুষ তাদের চিরকাল 'স্মরণ' রাখবে, তাই 'remember' উপযুক্ত।"
+  },
+  {
+    "id": 168,
+    "question": "They are the (i) ___ of our nation.",
+    "options": {
+      "a": "pride",
+      "b": "glory",
+      "c": "asset",
+      "d": "leaders"
+    },
+    "correct_answer": "a",
+    "explanation": "জাতির 'অহংকার' বুঝাতে 'pride' শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 169,
+    "question": "We should (j) ___ our deep respect to them.",
+    "options": {
+      "a": "give",
+      "b": "show",
+      "c": "pay",
+      "d": "tell"
+    },
+    "correct_answer": "c",
+    "explanation": "শ্রদ্ধা নিবেদন করা বুঝাতে 'pay respect' সঠিক colocation।"
+  },
+  {
+    "id": 170,
+    "question": "Truthfulness (h) ___ the mind and soul.",
+    "options": {
+      "a": "guides",
+      "b": "purifies",
+      "c": "changes",
+      "d": "builds"
+    },
+    "correct_answer": "b",
+    "explanation": "মন ও আত্মাকে পরিশুদ্ধ করা বুঝাতে 'purifies' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 171,
+    "question": "A truthful person is (d) ___ by everyone.",
+    "options": {
+      "a": "known",
+      "b": "esteemed",
+      "c": "respected",
+      "d": "accepted"
+    },
+    "correct_answer": "c",
+    "explanation": "সম্মান পাওয়া অর্থে 'respected' সবচেয়ে সাধারণ ও সঠিক শব্দ।"
+  },
+  {
+    "id": 172,
+    "question": "Computer has (a) ___ the most useful invention.",
+    "options": {
+      "a": "turned",
+      "b": "proved",
+      "c": "become",
+      "d": "grown"
+    },
+    "correct_answer": "c",
+    "explanation": "কোনো কিছুতে পরিণত হওয়া বুঝাতে 'become' উপযুক্ত।"
+  },
+  {
+    "id": 173,
+    "question": "It is fairly a (a) ___ invention.",
+    "options": {
+      "a": "recent",
+      "b": "new",
+      "c": "latest",
+      "d": "modern"
+    },
+    "correct_answer": "a",
+    "explanation": "সাম্প্রতিক বুঝাতে 'recent' শব্দটি Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 174,
+    "question": "It has (b) ___ part of modern life.",
+    "options": {
+      "a": "made",
+      "b": "become",
+      "c": "formed",
+      "d": "built"
+    },
+    "correct_answer": "b",
+    "explanation": "জীবনের অংশ হয়ে ওঠা বুঝাতে 'become' সঠিক।"
+  },
+  {
+    "id": 175,
+    "question": "Any (d) ___ that helps perform calculation.",
+    "options": {
+      "a": "tool",
+      "b": "machine",
+      "c": "device",
+      "d": "object"
+    },
+    "correct_answer": "c",
+    "explanation": "কম্পিউটার একটি ইলেকট্রনিক 'device'।"
+  },
+  {
+    "id": 176,
+    "question": "Abacus is a (f) ___ simple computer.",
+    "options": {
+      "a": "called",
+      "b": "known",
+      "c": "named",
+      "d": "said"
+    },
+    "correct_answer": "a",
+    "explanation": "কোনো নামে ডাকা বুঝাতে 'called' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 177,
+    "question": "Computers process (h) ___ masses of information.",
+    "options": {
+      "a": "large",
+      "b": "huge",
+      "c": "vast",
+      "d": "great"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপুল পরিমাণ বুঝাতে 'large masses' Clue-তে আছে।"
+  },
+  {
+    "id": 178,
+    "question": "Computer is an (i) ___ part of life.",
+    "options": {
+      "a": "essential",
+      "b": "main",
+      "c": "vital",
+      "d": "key"
+    },
+    "correct_answer": "a",
+    "explanation": "অপরিহার্য বুঝাতে 'essential' সবচেয়ে সঠিক।"
+  },
+  {
+    "id": 179,
+    "question": "It performs (j) ___ in seconds.",
+    "options": {
+      "a": "sums",
+      "b": "calculations",
+      "c": "tasks",
+      "d": "works"
+    },
+    "correct_answer": "b",
+    "explanation": "গণনার কাজ বুঝাতে 'calculations' সঠিক শব্দ।"
+  },
+  {
+    "id": 180,
+    "question": "Truthfulness is a (a) ___ virtue.",
+    "options": {
+      "a": "noble",
+      "b": "great",
+      "c": "high",
+      "d": "good"
+    },
+    "correct_answer": "a",
+    "explanation": "মহৎ গুণ বুঝাতে 'noble' শব্দটি প্যাসেজের সাথে সামঞ্জস্যপূর্ণ।"
+  },
+  {
+    "id": 181,
+    "question": "It gives him mental (b) ___.",
+    "options": {
+      "a": "peace",
+      "b": "calm",
+      "c": "rest",
+      "d": "quiet"
+    },
+    "correct_answer": "a",
+    "explanation": "মানসিক 'শান্তি' বুঝাতে 'peace' সঠিক।"
+  },
+  {
+    "id": 182,
+    "question": "It (c) ___ the habit of speaking truth.",
+    "options": {
+      "a": "means",
+      "b": "shows",
+      "c": "says",
+      "d": "gives"
+    },
+    "correct_answer": "a",
+    "explanation": "অর্থ প্রকাশ করতে 'means' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 183,
+    "question": "A truthful person is (d) ___ by all.",
+    "options": {
+      "a": "respected",
+      "b": "honoured",
+      "c": "liked",
+      "d": "admired"
+    },
+    "correct_answer": "a",
+    "explanation": "সম্মান করা অর্থে 'respected' Clue-তে আছে।"
+  },
+  {
+    "id": 184,
+    "question": "A (e) ___ can never be a truthful person.",
+    "options": {
+      "a": "thief",
+      "b": "liar",
+      "c": "badman",
+      "d": "sinner"
+    },
+    "correct_answer": "b",
+    "explanation": "মিথ্যাবাদী বা 'liar' কখনো সত্যবাদী হতে পারে না।"
+  },
+  {
+    "id": 185,
+    "question": "Truthfulness is (f) ___ of all virtues.",
+    "options": {
+      "a": "base",
+      "b": "foundation",
+      "c": "root",
+      "d": "source"
+    },
+    "correct_answer": "b",
+    "explanation": "ভিত্তি বুঝাতে 'foundation' শব্দটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 186,
+    "question": "Truthfulness (h) ___ the mind.",
+    "options": {
+      "a": "washes",
+      "b": "purifies",
+      "c": "shapes",
+      "d": "builds"
+    },
+    "correct_answer": "b",
+    "explanation": "মনকে শুদ্ধ করা অর্থে 'purifies' সঠিক।"
+  },
+  {
+    "id": 187,
+    "question": "A man must (i) ___ the habit.",
+    "options": {
+      "a": "grow",
+      "b": "cultivate",
+      "c": "learn",
+      "d": "make"
+    },
+    "correct_answer": "b",
+    "explanation": "চর্চা করা অর্থে 'cultivate' উপযুক্ত শব্দ।"
+  },
+  {
+    "id": 188,
+    "question": "We should (j) ___ truthfulness.",
+    "options": {
+      "a": "practice",
+      "b": "follow",
+      "c": "keep",
+      "d": "do"
+    },
+    "correct_answer": "a",
+    "explanation": "অনুশীলন করা অর্থে 'practice' সঠিক।"
+  },
+  {
+    "id": 189,
+    "question": "Freedom fighters are (a) ___ sons.",
+    "options": {
+      "a": "heroic",
+      "b": "brave",
+      "c": "bold",
+      "d": "noble"
+    },
+    "correct_answer": "a",
+    "explanation": "বীর সন্তান বুঝাতে 'heroic sons' Clue-তে আছে।"
+  },
+  {
+    "id": 190,
+    "question": "They fought (b) ___ to save the country.",
+    "options": {
+      "a": "strongly",
+      "b": "bravely",
+      "c": "hard",
+      "d": "wildly"
+    },
+    "correct_answer": "b",
+    "explanation": "সাহসের সাথে যুদ্ধ করা বুঝাতে 'bravely' সঠিক।"
+  },
+  {
+    "id": 191,
+    "question": "They did not (c) ___ for their lives.",
+    "options": {
+      "a": "think",
+      "b": "care",
+      "c": "worry",
+      "d": "fear"
+    },
+    "correct_answer": "b",
+    "explanation": "পরোয়া না করা অর্থে 'care' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 192,
+    "question": "They (d) ___ the enemy.",
+    "options": {
+      "a": "fought",
+      "b": "faced",
+      "c": "beat",
+      "d": "drove"
+    },
+    "correct_answer": "b",
+    "explanation": "মুখোমুখি হওয়া অর্থে 'faced' সঠিক।"
+  },
+  {
+    "id": 193,
+    "question": "Their (e) ___ was to make country free.",
+    "options": {
+      "a": "goal",
+      "b": "aim",
+      "c": "task",
+      "d": "job"
+    },
+    "correct_answer": "b",
+    "explanation": "লক্ষ্য অর্থে 'aim' শব্দটি Clue-তে আছে।"
+  },
+  {
+    "id": 194,
+    "question": "They (f) ___ a great contribution.",
+    "options": {
+      "a": "gave",
+      "b": "made",
+      "c": "did",
+      "d": "showed"
+    },
+    "correct_answer": "b",
+    "explanation": "অবদান রাখা অর্থে 'made' সঠিক।"
+  },
+  {
+    "id": 195,
+    "question": "People will (h) ___ them forever.",
+    "options": {
+      "a": "recall",
+      "b": "remember",
+      "c": "honour",
+      "d": "miss"
+    },
+    "correct_answer": "b",
+    "explanation": "মনে রাখা অর্থে 'remember' সঠিক।"
+  },
+  {
+    "id": 196,
+    "question": "They are (i) ___ of our nation.",
+    "options": {
+      "a": "pride",
+      "b": "glory",
+      "c": "jewel",
+      "d": "assets"
+    },
+    "correct_answer": "a",
+    "explanation": "অহংকার বুঝাতে 'pride' সঠিক শব্দ।"
+  },
+  {
+    "id": 197,
+    "question": "We should (j) ___ deep respect.",
+    "options": {
+      "a": "show",
+      "b": "pay",
+      "c": "give",
+      "d": "offer"
+    },
+    "correct_answer": "b",
+    "explanation": "শ্রদ্ধা জানানো অর্থে 'pay' সঠিক colocation।"
+  },
+  {
+    "id": 198,
+    "question": "Computer can (j) ___ in few seconds.",
+    "options": {
+      "a": "solve",
+      "b": "calculate",
+      "c": "finish",
+      "d": "act"
+    },
+    "correct_answer": "b",
+    "explanation": "হিসাব করা বুঝাতে 'calculate' সঠিক।"
+  },
+  {
+    "id": 199,
+    "question": "A liar (e) ___ person.",
+    "options": {
+      "a": "bad",
+      "b": "mean",
+      "c": "false",
+      "d": "selfish"
+    },
+    "correct_answer": "a",
+    "explanation": "প্যাসেজ অনুযায়ী মিথ্যাবাদী একজন 'bad' মানুষ।"
+  },
+  {
+    "id": 200,
+    "question": "Freedom fighters fought for (g) ___.",
+    "options": {
+      "a": "freedom",
+      "b": "independence",
+      "c": "liberty",
+      "d": "victory"
+    },
+    "correct_answer": "b",
+    "explanation": "স্বাধীনতা বুঝাতে 'independence' শব্দটি Clue-তে আছে।"
+  },
+  {
+    "id": 201,
+    "question": "It is not easy to understand a man by (a) ___ only his face.",
+    "options": {
+      "a": "viewing",
+      "b": "seeing",
+      "c": "noticing",
+      "d": "watching"
+    },
+    "correct_answer": "b",
+    "explanation": "কাউকে দেখা বা চেনার ক্ষেত্রে 'seeing' শব্দটি অধিক প্রচলিত।"
+  },
+  {
+    "id": 202,
+    "question": "Even it is not easy to know about his (b) ___ only his speeches.",
+    "options": {
+      "a": "brain",
+      "b": "mentality",
+      "c": "wisdom",
+      "d": "thought"
+    },
+    "correct_answer": "b",
+    "explanation": "কারো মানসিকতা বা চিন্তাধারা বুঝাতে 'mentality' শব্দটি প্যাসেজের সাথে সামঞ্জস্যপূর্ণ।"
+  },
+  {
+    "id": 203,
+    "question": "It is very difficult to examine a man's (b) ___ by his outer appearances.",
+    "options": {
+      "a": "nature",
+      "b": "behavior",
+      "c": "characteristics",
+      "d": "identity"
+    },
+    "correct_answer": "c",
+    "explanation": "মানুষের স্বভাবজাত বৈশিষ্ট্য বুঝাতে 'characteristics' শব্দটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 204,
+    "question": "So finding a (c) ___ friend is not very easy.",
+    "options": {
+      "a": "good",
+      "b": "true",
+      "c": "real",
+      "d": "actual"
+    },
+    "correct_answer": "c",
+    "explanation": "আসল বা প্রকৃত বন্ধু বুঝাতে 'real friend' শব্দটি Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 205,
+    "question": "A real friend is always (f) ___ in his friend's dangers.",
+    "options": {
+      "a": "kind",
+      "b": "helpful",
+      "c": "useful",
+      "d": "supportive"
+    },
+    "correct_answer": "b",
+    "explanation": "বিপদে সাহায্যকারী বুঝাতে 'helpful' শব্দটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 206,
+    "question": "A friend's secrets are (g) ___ with him.",
+    "options": {
+      "a": "hidden",
+      "b": "safe",
+      "c": "locked",
+      "d": "kept"
+    },
+    "correct_answer": "b",
+    "explanation": "বন্ধুর কাছে গোপন কথা 'নিরাপদ' থাকে বুঝাতে 'safe' সঠিক।"
+  },
+  {
+    "id": 207,
+    "question": "He does not (h) ___ them to anyone.",
+    "options": {
+      "a": "say",
+      "b": "disclose",
+      "c": "tell",
+      "d": "reveal"
+    },
+    "correct_answer": "b",
+    "explanation": "গোপন কিছু প্রকাশ করা বুঝাতে 'disclose' উপযুক্ত শব্দ।"
+  },
+  {
+    "id": 208,
+    "question": "We can have (j) ___ from our elders in this regard.",
+    "options": {
+      "a": "advice",
+      "b": "tips",
+      "c": "suggestions",
+      "d": "opinions"
+    },
+    "correct_answer": "c",
+    "explanation": "পরামর্শ বুঝাতে 'suggestions' শব্দটি প্যাসেজে আছে।"
+  },
+  {
+    "id": 209,
+    "question": "Pollution (b) ___ to be greater in urban areas.",
+    "options": {
+      "a": "looks",
+      "b": "appears",
+      "c": "seems",
+      "d": "shows"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রতীয়মান হওয়া বা মনে হওয়া বুঝাতে 'appears' সঠিক।"
+  },
+  {
+    "id": 210,
+    "question": "Air pollution from factories (b) ___ cause pneumonia.",
+    "options": {
+      "a": "gas",
+      "b": "smoke",
+      "c": "vapor",
+      "d": "fume"
+    },
+    "correct_answer": "d",
+    "explanation": "কলকারখানার বিষাক্ত ধোঁয়া বুঝাতে 'fume' শব্দটি নিখুঁত।"
+  },
+  {
+    "id": 211,
+    "question": "Water pollution from industrial (c) ___ of toxic chemicals.",
+    "options": {
+      "a": "throwing",
+      "b": "disposal",
+      "c": "dumping",
+      "d": "waste"
+    },
+    "correct_answer": "b",
+    "explanation": "রাসায়নিক বর্জ্য নিষ্কাশন বা ফেলা বুঝাতে 'disposal' সঠিক।"
+  },
+  {
+    "id": 212,
+    "question": "Waterborne (e) ___ such as cholera and diarrhoea.",
+    "options": {
+      "a": "illness",
+      "b": "diseases",
+      "c": "sickness",
+      "d": "germs"
+    },
+    "correct_answer": "b",
+    "explanation": "রোগ বুঝাতে 'diseases' শব্দটি বহুবচনে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 213,
+    "question": "Noise pollution from vehicle (f) ___ and microphones.",
+    "options": {
+      "a": "sirens",
+      "b": "horns",
+      "c": "bells",
+      "d": "noises"
+    },
+    "correct_answer": "b",
+    "explanation": "গাড়ির হর্ন বুঝাতে 'horns' সঠিক শব্দ।"
+  },
+  {
+    "id": 214,
+    "question": "Pollution from (g) ___ human waste.",
+    "options": {
+      "a": "thrown",
+      "b": "disposed",
+      "c": "dumped",
+      "d": "left"
+    },
+    "correct_answer": "b",
+    "explanation": "মানুষের বর্জ্য ফেলা বুঝাতে 'disposed' উপযুক্ত।"
+  },
+  {
+    "id": 215,
+    "question": "We should take (i) ___ action to control these problems.",
+    "options": {
+      "a": "strong",
+      "b": "determined",
+      "c": "serious",
+      "d": "quick"
+    },
+    "correct_answer": "b",
+    "explanation": "দৃঢ় পদক্ষেপ বুঝাতে 'determined action' সঠিক।"
+  },
+  {
+    "id": 216,
+    "question": "Hospitality has long been a (a) ___ of our culture.",
+    "options": {
+      "a": "sign",
+      "b": "part",
+      "c": "mark",
+      "d": "role"
+    },
+    "correct_answer": "b",
+    "explanation": "সংস্কৃতির অংশ বুঝাতে 'part' শব্দটি প্যাসেজে আছে।"
+  },
+  {
+    "id": 217,
+    "question": "People are still quite polite and (c) ___ to foreigners.",
+    "options": {
+      "a": "kind",
+      "b": "friendly",
+      "c": "warm",
+      "d": "good"
+    },
+    "correct_answer": "b",
+    "explanation": "বন্ধুত্বপূর্ণ আচরণ বুঝাতে 'friendly' সঠিক বিশেষণ।"
+  },
+  {
+    "id": 218,
+    "question": "Foreigners often (d) ___ questions about family life.",
+    "options": {
+      "a": "make",
+      "b": "ask",
+      "c": "put",
+      "d": "raise"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রশ্ন করা বুঝাতে 'ask' সবচেয়ে সহজ ও সঠিক।"
+  },
+  {
+    "id": 219,
+    "question": "They express a (i) ___ interest in foreigners.",
+    "options": {
+      "a": "real",
+      "b": "genuine",
+      "c": "deep",
+      "d": "true"
+    },
+    "correct_answer": "b",
+    "explanation": "কৃত্রিমতাহীন বা অকৃত্রিম আগ্রহ বুঝাতে 'genuine' সঠিক।"
+  },
+  {
+    "id": 220,
+    "question": "To (a) ___ female education, the government has taken steps.",
+    "options": {
+      "a": "boost",
+      "b": "encourage",
+      "c": "promote",
+      "d": "spread"
+    },
+    "correct_answer": "b",
+    "explanation": "উৎসাহিত করা বুঝাতে 'encourage' শব্দটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 221,
+    "question": "The government has taken some (a) ___ steps.",
+    "options": {
+      "a": "good",
+      "b": "positive",
+      "c": "helpful",
+      "d": "active"
+    },
+    "correct_answer": "b",
+    "explanation": "ইতিবাচক পদক্ষেপ বুঝাতে 'positive steps' সঠিক।"
+  },
+  {
+    "id": 222,
+    "question": "They are often (f) ___ by many structures.",
+    "options": {
+      "a": "stopped",
+      "b": "discouraged",
+      "c": "barred",
+      "d": "blocked"
+    },
+    "correct_answer": "b",
+    "explanation": "নিরুৎসাহিত করা বুঝাতে 'discouraged' প্যাসেজের বিপরীত প্রেক্ষাপট অনুযায়ী সঠিক।"
+  },
+  {
+    "id": 223,
+    "question": "Early marriage and childbirth make women (h) ___ to home.",
+    "options": {
+      "a": "fixed",
+      "b": "tied",
+      "c": "bound",
+      "d": "stuck"
+    },
+    "correct_answer": "b",
+    "explanation": "সংসারের জালে আটকে থাকা বুঝাতে 'tied to home' সঠিক।"
+  },
+  {
+    "id": 224,
+    "question": "Any expenditure for girls is considered a (j) ___.",
+    "options": {
+      "a": "loss",
+      "b": "waste",
+      "c": "misuse",
+      "d": "burden"
+    },
+    "correct_answer": "b",
+    "explanation": "মেয়েদের পেছনে খরচ করাকে অনেকে 'অপচয়' বা 'waste' মনে করে।"
+  },
+  {
+    "id": 225,
+    "question": "Education is the (b) ___ of training.",
+    "options": {
+      "a": "method",
+      "b": "process",
+      "c": "way",
+      "d": "mode"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রক্রিয়া বুঝাতে 'process' সঠিক শব্দ।"
+  },
+  {
+    "id": 226,
+    "question": "It helps to (c) ___ challenges.",
+    "options": {
+      "a": "face",
+      "b": "meet",
+      "c": "solve",
+      "d": "handle"
+    },
+    "correct_answer": "b",
+    "explanation": "চ্যালেঞ্জ মোকাবিলা করা বুঝাতে 'meet challenges' সঠিক colocation।"
+  },
+  {
+    "id": 227,
+    "question": "The purpose of education is to (d) ___ an individual.",
+    "options": {
+      "a": "teach",
+      "b": "enlighten",
+      "c": "train",
+      "d": "guide"
+    },
+    "correct_answer": "b",
+    "explanation": "আলোকিত করা বুঝাতে 'enlighten' সঠিক।"
+  },
+  {
+    "id": 228,
+    "question": "It enables our mind and refines our (f) ___.",
+    "options": {
+      "a": "feelings",
+      "b": "sensibility",
+      "c": "senses",
+      "d": "thoughts"
+    },
+    "correct_answer": "b",
+    "explanation": "বোধশক্তি বা সংবেদনশীলতা বুঝাতে 'sensibility' সঠিক।"
+  },
+  {
+    "id": 229,
+    "question": "Education (g) ___ our outlook.",
+    "options": {
+      "a": "widens",
+      "b": "broadens",
+      "c": "expands",
+      "d": "opens"
+    },
+    "correct_answer": "b",
+    "explanation": "দৃষ্টিভঙ্গি প্রসারিত করা বুঝাতে 'broadens' উপযুক্ত।"
+  },
+  {
+    "id": 230,
+    "question": "It helps us to be (h) ___ of our rights.",
+    "options": {
+      "a": "conscious",
+      "b": "aware",
+      "c": "alert",
+      "d": "known"
+    },
+    "correct_answer": "b",
+    "explanation": "সচেতন বুঝাতে 'aware' এর পর 'of' বসে।"
+  },
+  {
+    "id": 231,
+    "question": "It is compared to light which (i) ___ darkness.",
+    "options": {
+      "a": "removes",
+      "b": "dispels",
+      "c": "drives",
+      "d": "kills"
+    },
+    "correct_answer": "b",
+    "explanation": "অন্ধকার দূর করা বুঝাতে 'dispels' একটি চমৎকার শব্দ।"
+  },
+  {
+    "id": 232,
+    "question": "The darkness of (j) ___ .",
+    "options": {
+      "a": "blindness",
+      "b": "ignorance",
+      "c": "foolishness",
+      "d": "error"
+    },
+    "correct_answer": "b",
+    "explanation": "অজ্ঞতার অন্ধকার বুঝাতে 'ignorance' সঠিক।"
+  },
+  {
+    "id": 233,
+    "question": "Many diseases are rising at an (a) ___ rate.",
+    "options": {
+      "a": "frightening",
+      "b": "alarming",
+      "c": "dangerous",
+      "d": "high"
+    },
+    "correct_answer": "b",
+    "explanation": "উদ্বেগজনক হার বুঝাতে 'alarming rate' সঠিক।"
+  },
+  {
+    "id": 234,
+    "question": "Experts believe that (c) ___ is greater in urban areas.",
+    "options": {
+      "a": "dirt",
+      "b": "pollution",
+      "c": "smoke",
+      "d": "waste"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশ দূষণ বুঝাতে 'pollution' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 235,
+    "question": "Societies are (d) ___ by chemicals.",
+    "options": {
+      "a": "hurt",
+      "b": "afflicted",
+      "c": "troubled",
+      "d": "damaged"
+    },
+    "correct_answer": "b",
+    "explanation": "আক্রান্ত বা জর্জরিত হওয়া বুঝাতে 'afflicted' সঠিক।"
+  },
+  {
+    "id": 236,
+    "question": "Toxic chemicals (e) ___ into water.",
+    "options": {
+      "a": "thrown",
+      "b": "discharged",
+      "c": "poured",
+      "d": "sent"
+    },
+    "correct_answer": "b",
+    "explanation": "বর্জ্য নিঃসরণ করা বুঝাতে 'discharged' উপযুক্ত।"
+  },
+  {
+    "id": 237,
+    "question": "Town people appear to (f) ___ from many diseases.",
+    "options": {
+      "a": "die",
+      "b": "suffer",
+      "c": "face",
+      "d": "fight"
+    },
+    "correct_answer": "b",
+    "explanation": "কষ্ট পাওয়া বা ভোগা বুঝাতে 'suffer from' বসে।"
+  },
+  {
+    "id": 238,
+    "question": "People of our country are still (b) ___ to strangers.",
+    "options": {
+      "a": "good",
+      "b": "hospitable",
+      "c": "kind",
+      "d": "open"
+    },
+    "correct_answer": "b",
+    "explanation": "অতিথিপরায়ণ বুঝাতে 'hospitable' সবচেয়ে যুতসই।"
+  },
+  {
+    "id": 239,
+    "question": "Foreigners are (d) ___ many questions.",
+    "options": {
+      "a": "given",
+      "b": "asked",
+      "c": "told",
+      "d": "shown"
+    },
+    "correct_answer": "b",
+    "explanation": "বিদেশিদের প্রশ্ন করা হয়, তাই passive voice-এ 'asked' সঠিক।"
+  },
+  {
+    "id": 240,
+    "question": "Questions about (e) ___ life.",
+    "options": {
+      "a": "daily",
+      "b": "personal",
+      "c": "private",
+      "d": "own"
+    },
+    "correct_answer": "b",
+    "explanation": "ব্যক্তিগত জীবন বুঝাতে 'personal life' সঠিক।"
+  },
+  {
+    "id": 241,
+    "question": "It is not easy to (a) ___ a man by his face.",
+    "options": {
+      "a": "know",
+      "b": "identify",
+      "c": "understand",
+      "d": "judge"
+    },
+    "correct_answer": "c",
+    "explanation": "কাউকে বুঝতে পারা অর্থে 'understand' Clue-তে আছে।"
+  },
+  {
+    "id": 242,
+    "question": "Character is a (a) ___ virtue.",
+    "options": {
+      "a": "good",
+      "b": "noble",
+      "c": "great",
+      "d": "high"
+    },
+    "correct_answer": "b",
+    "explanation": "মহৎ গুণ বুঝাতে 'noble' শব্দটি উপযুক্ত।"
+  },
+  {
+    "id": 243,
+    "question": "The development of a country (a) ___ on education.",
+    "options": {
+      "a": "stays",
+      "b": "depends",
+      "c": "relies",
+      "d": "rests"
+    },
+    "correct_answer": "b",
+    "explanation": "নির্ভর করা বুঝাতে 'depends' সঠিক।"
+  },
+  {
+    "id": 244,
+    "question": "Every person (a) ___ to be educated.",
+    "options": {
+      "a": "wants",
+      "b": "needs",
+      "c": "must",
+      "d": "should"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রয়োজন বুঝাতে 'needs' সঠিক।"
+  },
+  {
+    "id": 245,
+    "question": "Education is the (a) ___ of success.",
+    "options": {
+      "a": "way",
+      "b": "key",
+      "c": "root",
+      "d": "path"
+    },
+    "correct_answer": "b",
+    "explanation": "সাফল্যের চাবিকাঠি বুঝাতে 'key to success' সঠিক।"
+  },
+  {
+    "id": 246,
+    "question": "Knowledge is (a) ___ .",
+    "options": {
+      "a": "strength",
+      "b": "power",
+      "c": "force",
+      "d": "energy"
+    },
+    "correct_answer": "b",
+    "explanation": "জ্ঞানই শক্তি বুঝাতে 'Knowledge is power' প্রবাদটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 247,
+    "question": "An educated person (a) ___ the society.",
+    "options": {
+      "a": "leads",
+      "b": "guides",
+      "c": "serves",
+      "d": "helps"
+    },
+    "correct_answer": "c",
+    "explanation": "সমাজ সেবা করা বুঝাতে 'serves' সঠিক।"
+  },
+  {
+    "id": 248,
+    "question": "Truthfulness is (a) ___ to all.",
+    "options": {
+      "a": "known",
+      "b": "dear",
+      "c": "liked",
+      "d": "important"
+    },
+    "correct_answer": "b",
+    "explanation": "সবার কাছে প্রিয় বুঝাতে 'dear' সঠিক।"
+  },
+  {
+    "id": 249,
+    "question": "Freedom is our (a) ___ right.",
+    "options": {
+      "a": "birth",
+      "b": "natural",
+      "c": "legal",
+      "d": "basic"
+    },
+    "correct_answer": "a",
+    "explanation": "জন্মগত অধিকার বুঝাতে 'birth right' সঠিক।"
+  },
+  {
+    "id": 250,
+    "question": "We are (a) ___ of our heroes.",
+    "options": {
+      "a": "happy",
+      "b": "proud",
+      "c": "glad",
+      "d": "fond"
+    },
+    "correct_answer": "b",
+    "explanation": "গর্বিত বুঝাতে 'proud of' সঠিক।"
+  },
+  {
+    "id": 251,
+    "question": "Email means (a) ___ mail.",
+    "options": {
+      "a": "quick",
+      "b": "electronic",
+      "c": "digital",
+      "d": "fast"
+    },
+    "correct_answer": "b",
+    "explanation": "Email এর পূর্ণরূপ হলো 'electronic mail', যা প্যাসেজের শুরুতে উল্লেখ আছে।"
+  },
+  {
+    "id": 252,
+    "question": "It is an electronic (b) ___ of communication.",
+    "options": {
+      "a": "way",
+      "b": "mode",
+      "c": "style",
+      "d": "system"
+    },
+    "correct_answer": "b",
+    "explanation": "যোগাযোগের মাধ্যম বা ধরণ বুঝাতে 'mode' শব্দটি Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 253,
+    "question": "Email is (c) ___ to user but telex communication is terminal to terminal.",
+    "options": {
+      "a": "person",
+      "b": "user",
+      "c": "human",
+      "d": "sender"
+    },
+    "correct_answer": "b",
+    "explanation": "ইমেইল সরাসরি একজন ব্যবহারকারী থেকে অন্য ব্যবহারকারীর কাছে যায় (user to user)।"
+  },
+  {
+    "id": 254,
+    "question": "Telephone connection often takes a lot of time to be (d) ___.",
+    "options": {
+      "a": "fixed",
+      "b": "established",
+      "c": "made",
+      "d": "linked"
+    },
+    "correct_answer": "b",
+    "explanation": "যোগাযোগ স্থাপন করা বুঝাতে 'established' শব্দটি ব্যবহার করা হয়।"
+  },
+  {
+    "id": 255,
+    "question": "But email is a computer (f) ___ system.",
+    "options": {
+      "a": "based",
+      "b": "driven",
+      "c": "related",
+      "d": "run"
+    },
+    "correct_answer": "a",
+    "explanation": "কম্পিউটার ভিত্তিক ব্যবস্থা বুঝাতে 'computer based system' সঠিক।"
+  },
+  {
+    "id": 256,
+    "question": "The messages are (g) ___ via the computer become (h) ___ in the mailbox.",
+    "options": {
+      "a": "sent",
+      "b": "transmitted",
+      "c": "passed",
+      "d": "given"
+    },
+    "correct_answer": "b",
+    "explanation": "তথ্য বা মেসেজ পাঠানো বুঝাতে 'transmitted' শব্দটি প্যাসেজে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 257,
+    "question": "Education for girls is essential for the (a) ___ of the society.",
+    "options": {
+      "a": "welfare",
+      "b": "growth",
+      "c": "benefit",
+      "d": "betterment"
+    },
+    "correct_answer": "a",
+    "explanation": "সমাজের মঙ্গল বা কল্যাণের জন্য নারী শিক্ষা প্রয়োজন (welfare)।"
+  },
+  {
+    "id": 258,
+    "question": "Investments in the education of (b) ___ will bring in greater returns.",
+    "options": {
+      "a": "women",
+      "b": "girls",
+      "c": "females",
+      "d": "ladies"
+    },
+    "correct_answer": "a",
+    "explanation": "প্যাসেজ অনুযায়ী 'women' বা নারীদের শিক্ষায় বিনিয়োগ বেশি সুফল আনে।"
+  },
+  {
+    "id": 259,
+    "question": "Educated women can contribute more to the family (e) ___.",
+    "options": {
+      "a": "income",
+      "b": "welfare",
+      "c": "status",
+      "d": "peace"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবারের মঙ্গলের ক্ষেত্রে শিক্ষিত নারীদের অবদান বেশি থাকে।"
+  },
+  {
+    "id": 260,
+    "question": "They are more likely to send their (g) ___ to school.",
+    "options": {
+      "a": "kids",
+      "b": "children",
+      "c": "sons",
+      "d": "daughters"
+    },
+    "correct_answer": "b",
+    "explanation": "সন্তান বুঝাতে 'children' শব্দটি প্যাসেজের সাথে সামঞ্জস্যপূর্ণ।"
+  },
+  {
+    "id": 261,
+    "question": "Educated women can contribute to the (i) ___ development.",
+    "options": {
+      "a": "global",
+      "b": "national",
+      "c": "rural",
+      "d": "urban"
+    },
+    "correct_answer": "b",
+    "explanation": "জাতীয় উন্নয়ন বুঝাতে 'national development' শব্দটি Clue-তে আছে।"
+  },
+  {
+    "id": 262,
+    "question": "Bird-watching has been a favorite (a) ___ for many nature-lovers.",
+    "options": {
+      "a": "hobby",
+      "b": "pastime",
+      "c": "habit",
+      "d": "work"
+    },
+    "correct_answer": "b",
+    "explanation": "অবসর বিনোদন বা শখ বুঝাতে 'pastime' শব্দটি ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 263,
+    "question": "In the past, some birds (a) ___ as messengers of the gods.",
+    "options": {
+      "a": "looked",
+      "b": "acted",
+      "c": "served",
+      "d": "stayed"
+    },
+    "correct_answer": "c",
+    "explanation": "দেবতাদের দূত হিসেবে কাজ করা বুঝাতে 'served' সঠিক।"
+  },
+  {
+    "id": 264,
+    "question": "Birds have become the barometers of (c) ___ changes around us.",
+    "options": {
+      "a": "weather",
+      "b": "environment",
+      "c": "climate",
+      "d": "nature"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশগত পরিবর্তন বুঝাতে 'environment' শব্দটি Clue-তে আছে।"
+  },
+  {
+    "id": 265,
+    "question": "Birds have vanished from which areas or become (f) ___ altogether.",
+    "options": {
+      "a": "gone",
+      "b": "extinct",
+      "c": "dead",
+      "d": "lost"
+    },
+    "correct_answer": "b",
+    "explanation": "বিলুপ্ত হয়ে যাওয়া বুঝাতে 'extinct' শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 266,
+    "question": "Bird-watching (h) ___ a lot of perseverance.",
+    "options": {
+      "a": "needs",
+      "b": "requires",
+      "c": "demands",
+      "d": "wants"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রয়োজন হওয়া বুঝাতে 'requires' শব্দটি Clue-তে দেওয়া আছে।"
+  },
+  {
+    "id": 267,
+    "question": "Ayesha Begum has three sons and two daughters. Her husband was a (a) ___ farmer.",
+    "options": {
+      "a": "poor",
+      "b": "landless",
+      "c": "needy",
+      "d": "small"
+    },
+    "correct_answer": "b",
+    "explanation": "প্যাসেজ অনুযায়ী আয়েশা বেগমের স্বামী ছিলেন একজন 'ভূমিহীন' (landless) কৃষক।"
+  },
+  {
+    "id": 268,
+    "question": "The sons also started (d) ___ with their father.",
+    "options": {
+      "a": "helping",
+      "b": "working",
+      "c": "digging",
+      "d": "farming"
+    },
+    "correct_answer": "b",
+    "explanation": "বাবার সাথে কাজ করা বুঝাতে 'working' সঠিক।"
+  },
+  {
+    "id": 269,
+    "question": "They were old enough to (e) ___.",
+    "options": {
+      "a": "assist",
+      "b": "help",
+      "c": "support",
+      "d": "give"
+    },
+    "correct_answer": "b",
+    "explanation": "সাহায্য করার মতো বয়স বুঝাতে 'help' Clue-তে আছে।"
+  },
+  {
+    "id": 270,
+    "question": "They (f) ___ and her husband are now old.",
+    "options": {
+      "a": "Ayesha",
+      "b": "She",
+      "c": "Her",
+      "d": "Woman"
+    },
+    "correct_answer": "b",
+    "explanation": "আয়েশা বেগমের পরিবর্তে pronoun হিসেবে 'She' বসবে।"
+  },
+  {
+    "id": 271,
+    "question": "Years of (h) ___ and deprivation have made them look older.",
+    "options": {
+      "a": "poverty",
+      "b": "malnutrition",
+      "c": "sickness",
+      "d": "hunger"
+    },
+    "correct_answer": "b",
+    "explanation": "অপুষ্টি বুঝাতে 'malnutrition' শব্দটি প্যাসেজে আছে।"
+  },
+  {
+    "id": 272,
+    "question": "They are left with now is their broken little (i) ___ house.",
+    "options": {
+      "a": "mud",
+      "b": "thatched",
+      "c": "small",
+      "d": "old"
+    },
+    "correct_answer": "b",
+    "explanation": "খড়ের ছাউনি দেওয়া ঘর বুঝাতে 'thatched house' বলা হয়।"
+  },
+  {
+    "id": 273,
+    "question": "Ayesha Begum has started (j) ___.",
+    "options": {
+      "a": "working",
+      "b": "begging",
+      "c": "praying",
+      "d": "crying"
+    },
+    "correct_answer": "b",
+    "explanation": "প্যাসেজ অনুযায়ী চরম দারিদ্র্যে তিনি 'ভিক্ষা' (begging) শুরু করেছেন।"
+  },
+  {
+    "id": 274,
+    "question": "Email is an (b) ___ of communication.",
+    "options": {
+      "a": "tool",
+      "b": "instrument",
+      "c": "appliance",
+      "d": "device"
+    },
+    "correct_answer": "b",
+    "explanation": "যোগাযোগের যন্ত্র বা মাধ্যম বুঝাতে 'instrument' Clue-তে আছে।"
+  },
+  {
+    "id": 275,
+    "question": "Telephone connection often takes a lot of (j) ___ and money.",
+    "options": {
+      "a": "effort",
+      "b": "time",
+      "c": "energy",
+      "d": "space"
+    },
+    "correct_answer": "b",
+    "explanation": "সময় এবং অর্থ উভয়ই লাগে বুঝাতে 'time' সঠিক।"
+  },
+  {
+    "id": 276,
+    "question": "Investing in women education (c) ___ in greater returns.",
+    "options": {
+      "a": "yields",
+      "b": "results",
+      "c": "brings",
+      "d": "gives"
+    },
+    "correct_answer": "b",
+    "explanation": "ফলাফল বয়ে আনা বুঝাতে 'results in' একটি phrase।"
+  },
+  {
+    "id": 277,
+    "question": "Birds are messengers of the (b) ___ .",
+    "options": {
+      "a": "angels",
+      "b": "gods",
+      "c": "spirits",
+      "d": "kings"
+    },
+    "correct_answer": "b",
+    "explanation": "প্যাসেজে পৌরাণিক বিশ্বাসের কথা বলা হয়েছে (gods)।"
+  },
+  {
+    "id": 278,
+    "question": "Birds have (d) ___ contributions towards the environment.",
+    "options": {
+      "a": "made",
+      "b": "given",
+      "c": "shown",
+      "d": "kept"
+    },
+    "correct_answer": "a",
+    "explanation": "অবদান রাখা বুঝাতে 'made' সঠিক।"
+  },
+  {
+    "id": 279,
+    "question": "Ayesha Begum's husband was a (a) ___ farmer.",
+    "options": {
+      "a": "poor",
+      "b": "brave",
+      "c": "strong",
+      "d": "weak"
+    },
+    "correct_answer": "b",
+    "explanation": "প্যাসেজে তাকে 'brave farmer' হিসেবে অভিহিত করা হয়েছে।"
+  },
+  {
+    "id": 280,
+    "question": "They (c) ___ their daughters off by the time they reached teenage.",
+    "options": {
+      "a": "sent",
+      "b": "married",
+      "c": "gave",
+      "d": "left"
+    },
+    "correct_answer": "b",
+    "explanation": "বিয়ে দেওয়া বুঝাতে 'married off' সঠিক।"
+  },
+  {
+    "id": 281,
+    "question": "Email saves both (j) ___ and money.",
+    "options": {
+      "a": "time",
+      "b": "work",
+      "c": "cost",
+      "d": "labor"
+    },
+    "correct_answer": "a",
+    "explanation": "ইমেইল সময় ও টাকা বাঁচায় (time)।"
+  },
+  {
+    "id": 282,
+    "question": "Female education is a (j) ___ of human resource.",
+    "options": {
+      "a": "part",
+      "b": "source",
+      "c": "way",
+      "d": "tool"
+    },
+    "correct_answer": "b",
+    "explanation": "মানব সম্পদের উৎস বুঝাতে 'source' সঠিক।"
+  },
+  {
+    "id": 283,
+    "question": "Bird-watching requires a lot of (h) ___ .",
+    "options": {
+      "a": "energy",
+      "b": "perseverance",
+      "c": "interest",
+      "d": "money"
+    },
+    "correct_answer": "b",
+    "explanation": "অধ্যাবসায় বা ধৈর্য বুঝাতে 'perseverance' শব্দটি প্যাসেজে আছে।"
+  },
+  {
+    "id": 284,
+    "question": "Years of (h) ___ and deprivation.",
+    "options": {
+      "a": "illness",
+      "b": "malnutrition",
+      "c": "pain",
+      "d": "sorrow"
+    },
+    "correct_answer": "b",
+    "explanation": "অপুষ্টি বা 'malnutrition' Clue-তে আছে।"
+  },
+  {
+    "id": 285,
+    "question": "Ayesha Begum's husband was (a) ___.",
+    "options": {
+      "a": "brave",
+      "b": "feeble",
+      "c": "strong",
+      "d": "bold"
+    },
+    "correct_answer": "a",
+    "explanation": "তিনি একজন সাহসী (brave) কৃষক ছিলেন।"
+  },
+  {
+    "id": 286,
+    "question": "Email is an (a) ___ communication.",
+    "options": {
+      "a": "fast",
+      "b": "easy",
+      "c": "electronic",
+      "d": "modern"
+    },
+    "correct_answer": "c",
+    "explanation": "ইমেইল একটি ইলেকট্রনিক যোগাযোগ মাধ্যম।"
+  },
+  {
+    "id": 287,
+    "question": "Educated women can contribute (j) ___ to society.",
+    "options": {
+      "a": "well",
+      "b": "much",
+      "c": "tremendously",
+      "d": "greatly"
+    },
+    "correct_answer": "c",
+    "explanation": "বিরাটভাবে বা ব্যাপকভাবে বুঝাতে 'tremendously' সঠিক।"
+  },
+  {
+    "id": 288,
+    "question": "Birds are barometers of (c) ___ change.",
+    "options": {
+      "a": "nature",
+      "b": "environment",
+      "c": "world",
+      "d": "space"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশের পরিবর্তন বুঝাতে 'environment' সঠিক।"
+  },
+  {
+    "id": 289,
+    "question": "Ayesha Begum's husband died of (g) ___.",
+    "options": {
+      "a": "malaria",
+      "b": "cancer",
+      "c": "fever",
+      "d": "age"
+    },
+    "correct_answer": "d",
+    "explanation": "বার্ধক্যজনিত কারণে বা বয়স হওয়ায় তিনি মারা যান (age)।"
+  },
+  {
+    "id": 290,
+    "question": "The message becomes (h) ___ in the mailbox.",
+    "options": {
+      "a": "stored",
+      "b": "kept",
+      "c": "placed",
+      "d": "saved"
+    },
+    "correct_answer": "a",
+    "explanation": "জমা থাকা বুঝাতে 'stored' সঠিক।"
+  },
+  {
+    "id": 291,
+    "question": "Investment in girls (b) ___ greater returns.",
+    "options": {
+      "a": "gives",
+      "b": "brings",
+      "c": "shows",
+      "d": "takes"
+    },
+    "correct_answer": "b",
+    "explanation": "বয়ে আনা বা দেওয়া অর্থে 'brings' সঠিক।"
+  },
+  {
+    "id": 292,
+    "question": "Birds have (f) ___ from many areas.",
+    "options": {
+      "a": "gone",
+      "b": "vanished",
+      "c": "died",
+      "d": "left"
+    },
+    "correct_answer": "b",
+    "explanation": "অদৃশ্য বা বিলীন হওয়া বুঝাতে 'vanished' সঠিক।"
+  },
+  {
+    "id": 293,
+    "question": "Ayesha's husband died (g) ___ years ago.",
+    "options": {
+      "a": "few",
+      "b": "ten",
+      "c": "some",
+      "d": "many"
+    },
+    "correct_answer": "c",
+    "explanation": "কিছু বছর আগে বুঝাতে 'some' প্যাসেজে আছে।"
+  },
+  {
+    "id": 294,
+    "question": "Email is (b) ___ of communication.",
+    "options": {
+      "a": "system",
+      "b": "medium",
+      "c": "way",
+      "d": "mode"
+    },
+    "correct_answer": "d",
+    "explanation": "যোগাযোগের ধরণ বুঝাতে 'mode' সঠিক।"
+  },
+  {
+    "id": 295,
+    "question": "Educated women (f) ___ to send children to school.",
+    "options": {
+      "a": "try",
+      "b": "like",
+      "c": "tend",
+      "d": "want"
+    },
+    "correct_answer": "c",
+    "explanation": "প্রবণতা থাকা বুঝাতে 'tend to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 296,
+    "question": "Bird-watching is (a) ___ pastime.",
+    "options": {
+      "a": "great",
+      "b": "favorite",
+      "c": "popular",
+      "d": "best"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রিয় অবসর বিনোদন বুঝাতে 'favorite' সঠিক।"
+  },
+  {
+    "id": 297,
+    "question": "Ayesha was a (a) ___ mother.",
+    "options": {
+      "a": "good",
+      "b": "loving",
+      "c": "brave",
+      "d": "noble"
+    },
+    "correct_answer": "c",
+    "explanation": "প্যাসেজে তাকে সাহসী মা হিসেবে দেখানো হয়েছে।"
+  },
+  {
+    "id": 298,
+    "question": "Email (i) ___ in mailbox.",
+    "options": {
+      "a": "stays",
+      "b": "remains",
+      "c": "lies",
+      "d": "sits"
+    },
+    "correct_answer": "c",
+    "explanation": "পড়ে থাকা বা জমা থাকা বুঝাতে 'lies' সঠিক।"
+  },
+  {
+    "id": 299,
+    "question": "Investments (c) ___ in greater results.",
+    "options": {
+      "a": "end",
+      "b": "lead",
+      "c": "result",
+      "d": "act"
+    },
+    "correct_answer": "c",
+    "explanation": "ফলাফল হওয়া বুঝাতে 'result in' সঠিক।"
+  },
+  {
+    "id": 300,
+    "question": "Ayesha's house was (i) ___ house.",
+    "options": {
+      "a": "poor",
+      "b": "small",
+      "c": "thatched",
+      "d": "broken"
+    },
+    "correct_answer": "c",
+    "explanation": "খড়ের তৈরি ঘর বুঝাতে 'thatched' সঠিক।"
+  },
+  {
+    "id": 301,
+    "question": "Education is one of the basic (a) ___ of a human being.",
+    "options": {
+      "a": "needs",
+      "b": "rights",
+      "c": "demands",
+      "d": "parts"
+    },
+    "correct_answer": "a",
+    "explanation": "শিক্ষা মানুষের অন্যতম মৌলিক 'চাহিদা' বা 'needs'।"
+  },
+  {
+    "id": 302,
+    "question": "It is (a) ___ for the (b) ___ of mind.",
+    "options": {
+      "a": "vital",
+      "b": "essential",
+      "c": "helpful",
+      "d": "key"
+    },
+    "correct_answer": "b",
+    "explanation": "মানসিক বিকাশের জন্য এটি 'অপরিহার্য' বা 'essential'।"
+  },
+  {
+    "id": 303,
+    "question": "Many illiterate people do not have any (c) ___ of health.",
+    "options": {
+      "a": "idea",
+      "b": "knowledge",
+      "c": "thought",
+      "d": "sense"
+    },
+    "correct_answer": "b",
+    "explanation": "অশিক্ষিত মানুষের স্বাস্থ্য সম্পর্কে 'জ্ঞান' বা 'knowledge' থাকে না।"
+  },
+  {
+    "id": 304,
+    "question": "If they (d) ___ educated, they could live a (e) ___ and planned life.",
+    "options": {
+      "a": "were",
+      "b": "became",
+      "c": "stayed",
+      "d": "seemed"
+    },
+    "correct_answer": "a",
+    "explanation": "কাল্পনিক শর্ত বুঝাতে 'were' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 305,
+    "question": "Education teaches us how to live (f) ___.",
+    "options": {
+      "a": "well",
+      "b": "properly",
+      "c": "happily",
+      "d": "nicely"
+    },
+    "correct_answer": "a",
+    "explanation": "ভালোভাবে বেঁচে থাকা বুঝাতে 'live well' সঠিক।"
+  },
+  {
+    "id": 306,
+    "question": "It enables us to (h) ___ our duties properly.",
+    "options": {
+      "a": "do",
+      "b": "perform",
+      "c": "make",
+      "d": "show"
+    },
+    "correct_answer": "b",
+    "explanation": "দায়িত্ব 'পালন' করা বুঝাতে 'perform' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 307,
+    "question": "Food adulteration is one of the (a) ___ problems.",
+    "options": {
+      "a": "greatest",
+      "b": "major",
+      "c": "worst",
+      "d": "big"
+    },
+    "correct_answer": "a",
+    "explanation": "খাদ্যে ভেজাল বর্তমান সময়ের অন্যতম 'বড়' সমস্যা।"
+  },
+  {
+    "id": 308,
+    "question": "Different food products are being (b) ___ .",
+    "options": {
+      "a": "mixed",
+      "b": "polluted",
+      "c": "contaminated",
+      "d": "spoiled"
+    },
+    "correct_answer": "c",
+    "explanation": "খাবার দূষিত বা ভেজাল হওয়া বুঝাতে 'contaminated' সঠিক শব্দ।"
+  },
+  {
+    "id": 309,
+    "question": "Unscrupulous businessmen and green grocers (c) ___ the unscrupulous.",
+    "options": {
+      "a": "by",
+      "b": "through",
+      "c": "with",
+      "d": "from"
+    },
+    "correct_answer": "a",
+    "explanation": "কারো দ্বারা কোনো কাজ হওয়া বুঝাতে 'by' বসে।"
+  },
+  {
+    "id": 310,
+    "question": "The general people (d) ___ the victims.",
+    "options": {
+      "a": "become",
+      "b": "are",
+      "c": "remain",
+      "d": "stay"
+    },
+    "correct_answer": "b",
+    "explanation": "সাধারণ মানুষই এর শিকার 'হয়'।"
+  },
+  {
+    "id": 311,
+    "question": "They use (f) ___ chemicals such as DDT, Aldrin.",
+    "options": {
+      "a": "bad",
+      "b": "dangerous",
+      "c": "poisonous",
+      "d": "toxic"
+    },
+    "correct_answer": "c",
+    "explanation": "বিষাক্ত রাসায়নিক বুঝাতে 'poisonous' সঠিক।"
+  },
+  {
+    "id": 312,
+    "question": "These chemicals are (g) ___ attractive to look at.",
+    "options": {
+      "a": "more",
+      "b": "very",
+      "c": "so",
+      "d": "too"
+    },
+    "correct_answer": "a",
+    "explanation": "দেখতে 'অধিকতর' আকর্ষণীয় করার জন্য এগুলো ব্যবহার করা হয়।"
+  },
+  {
+    "id": 313,
+    "question": "The authority concerned took (i) ___ steps to stop such food.",
+    "options": {
+      "a": "quick",
+      "b": "stern",
+      "c": "strong",
+      "d": "active"
+    },
+    "correct_answer": "b",
+    "explanation": "কঠোর পদক্ষেপ বুঝাতে 'stern steps' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 314,
+    "question": "Public awareness should be compulsory from (j) ___ level.",
+    "options": {
+      "a": "high",
+      "b": "mass",
+      "c": "root",
+      "d": "base"
+    },
+    "correct_answer": "c",
+    "explanation": "তৃণমূল পর্যায় থেকে সচেতনতা দরকার, তাই 'root level' সঠিক।"
+  },
+  {
+    "id": 315,
+    "question": "We have got many positive things during the (a) ___ century.",
+    "options": {
+      "a": "last",
+      "b": "past",
+      "c": "modern",
+      "d": "current"
+    },
+    "correct_answer": "a",
+    "explanation": "বিগত শতাব্দী বুঝাতে 'last century' প্যাসেজে আছে।"
+  },
+  {
+    "id": 316,
+    "question": "We have (a) ___ tremendous advancement in science.",
+    "options": {
+      "a": "seen",
+      "b": "witnessed",
+      "c": "had",
+      "d": "found"
+    },
+    "correct_answer": "c",
+    "explanation": "বিজ্ঞানে বড় অগ্রগতি 'পেয়েছি' বা 'অর্জন করেছি' বুঝাতে 'had' সঠিক।"
+  },
+  {
+    "id": 317,
+    "question": "Man has (b) ___ landed on the moon.",
+    "options": {
+      "a": "already",
+      "b": "even",
+      "c": "finally",
+      "d": "just"
+    },
+    "correct_answer": "b",
+    "explanation": "মানুষ 'এমনকি' চাঁদেও পৌঁছেছে বুঝাতে 'even' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 318,
+    "question": "We have achieved (d) ___ success in information technology.",
+    "options": {
+      "a": "great",
+      "b": "noble",
+      "c": "successful",
+      "d": "big"
+    },
+    "correct_answer": "c",
+    "explanation": "সফলতা বুঝাতে 'successful success' (যথাযথ সাফল্য) Clue-তে আছে।"
+  },
+  {
+    "id": 319,
+    "question": "The world has become a (f) ___ village.",
+    "options": {
+      "a": "global",
+      "b": "small",
+      "c": "single",
+      "d": "universal"
+    },
+    "correct_answer": "a",
+    "explanation": "বিশ্বায়ন বুঝাতে 'global village' বহুল প্রচলিত শব্দ।"
+  },
+  {
+    "id": 320,
+    "question": "No nation is (g) ___ from other countries.",
+    "options": {
+      "a": "isolated",
+      "b": "away",
+      "c": "different",
+      "d": "separate"
+    },
+    "correct_answer": "a",
+    "explanation": "বিচ্ছিন্ন থাকা বুঝাতে 'isolated' সঠিক শব্দ।"
+  },
+  {
+    "id": 321,
+    "question": "One country (h) ___ to help other countries.",
+    "options": {
+      "a": "has",
+      "b": "needs",
+      "c": "must",
+      "d": "should"
+    },
+    "correct_answer": "a",
+    "explanation": "বাধ্যবাধকতা বুঝাতে 'has to help' সঠিক।"
+  },
+  {
+    "id": 322,
+    "question": "Science has certainly (j) ___ the process of globalisation.",
+    "options": {
+      "a": "started",
+      "b": "accelerated",
+      "c": "helped",
+      "d": "moved"
+    },
+    "correct_answer": "b",
+    "explanation": "ত্বরান্বিত করা বুঝাতে 'accelerated' শব্দটি নিখুঁত।"
+  },
+  {
+    "id": 323,
+    "question": "Animals must be able to (a) ___ themselves from enemies.",
+    "options": {
+      "a": "save",
+      "b": "protect",
+      "c": "keep",
+      "d": "hide"
+    },
+    "correct_answer": "b",
+    "explanation": "শত্রু থেকে রক্ষা করা বুঝাতে 'protect' সঠিক।"
+  },
+  {
+    "id": 324,
+    "question": "In order to (b) ___ .",
+    "options": {
+      "a": "live",
+      "b": "survive",
+      "c": "stay",
+      "d": "remain"
+    },
+    "correct_answer": "b",
+    "explanation": "টিকে থাকা বুঝাতে 'survive' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 325,
+    "question": "Some animals have protective (c) ___ .",
+    "options": {
+      "a": "style",
+      "b": "colour",
+      "c": "method",
+      "d": "look"
+    },
+    "correct_answer": "b",
+    "explanation": "প্রাকৃতিক সুরক্ষার জন্য 'protective colour' বা রঙ থাকে।"
+  },
+  {
+    "id": 326,
+    "question": "Their (d) ___ changes to match their (e) ___ .",
+    "options": {
+      "a": "skin",
+      "b": "colour",
+      "c": "body",
+      "d": "shape"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশের সাথে রঙ পরিবর্তন করা বুঝাতে 'colour' সঠিক।"
+  },
+  {
+    "id": 327,
+    "question": "Match their (e) ___ .",
+    "options": {
+      "a": "area",
+      "b": "surroundings",
+      "c": "place",
+      "d": "nature"
+    },
+    "correct_answer": "b",
+    "explanation": "চারপাশের পরিবেশ বুঝাতে 'surroundings' সঠিক শব্দ।"
+  },
+  {
+    "id": 328,
+    "question": "The toad changes (f) ___ gray to green.",
+    "options": {
+      "a": "with",
+      "b": "from",
+      "c": "by",
+      "d": "at"
+    },
+    "correct_answer": "b",
+    "explanation": "এক অবস্থা থেকে অন্য অবস্থায় যাওয়া বুঝাতে 'from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 329,
+    "question": "When it (g) ___ from the trunk of a tree to a green (h) ___ .",
+    "options": {
+      "a": "goes",
+      "b": "moves",
+      "c": "jumps",
+      "d": "walks"
+    },
+    "correct_answer": "b",
+    "explanation": "চলাফেরা করা বুঝাতে 'moves' সঠিক।"
+  },
+  {
+    "id": 330,
+    "question": "To a green (h) ___ .",
+    "options": {
+      "a": "branch",
+      "b": "leaf",
+      "c": "grass",
+      "d": "plant"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছের সবুজ 'পাতা' বুঝাতে 'leaf' সঠিক।"
+  },
+  {
+    "id": 331,
+    "question": "The dead-leaf butterfly (i) ___ being seen by its enemies.",
+    "options": {
+      "a": "stops",
+      "b": "escapes",
+      "c": "hides",
+      "d": "saves"
+    },
+    "correct_answer": "b",
+    "explanation": "শত্রুর নজর থেকে 'পালানো' বা রক্ষা পাওয়া বুঝাতে 'escapes' সঠিক।"
+  },
+  {
+    "id": 332,
+    "question": "Because it (j) ___ like a dry leaf.",
+    "options": {
+      "a": "seems",
+      "b": "looks",
+      "c": "shows",
+      "d": "feels"
+    },
+    "correct_answer": "b",
+    "explanation": "দেখতে শুকনো পাতার মতো বুঝাতে 'looks' সঠিক।"
+  },
+  {
+    "id": 333,
+    "question": "Education (f) ___ our mind.",
+    "options": {
+      "a": "brightens",
+      "b": "enlightens",
+      "c": "cleans",
+      "d": "shapes"
+    },
+    "correct_answer": "b",
+    "explanation": "মনকে আলোকিত করা বুঝাতে 'enlightens' সঠিক।"
+  },
+  {
+    "id": 334,
+    "question": "Food products are being (b) ___ by chemicals.",
+    "options": {
+      "a": "damaged",
+      "b": "polluted",
+      "c": "poisoned",
+      "d": "ruined"
+    },
+    "correct_answer": "b",
+    "explanation": "দূষিত করা বুঝাতে 'polluted' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 335,
+    "question": "We have achieved (d) ___ success.",
+    "options": {
+      "a": "great",
+      "b": "big",
+      "c": "remarkable",
+      "d": "huge"
+    },
+    "correct_answer": "c",
+    "explanation": "স্মরণীয় বা উল্লেখযোগ্য সাফল্য বুঝাতে 'remarkable' সঠিক।"
+  },
+  {
+    "id": 336,
+    "question": "Animals (a) ___ themselves.",
+    "options": {
+      "a": "defend",
+      "b": "keep",
+      "c": "hide",
+      "d": "cover"
+    },
+    "correct_answer": "a",
+    "explanation": "আত্মরক্ষা করা বুঝাতে 'defend' প্যাসেজের সমার্থক শব্দ।"
+  },
+  {
+    "id": 337,
+    "question": "Education is the (a) ___ of mind.",
+    "options": {
+      "a": "food",
+      "b": "light",
+      "c": "strength",
+      "d": "power"
+    },
+    "correct_answer": "a",
+    "explanation": "মনের খাদ্য বুঝাতে 'food of mind' সঠিক।"
+  },
+  {
+    "id": 338,
+    "question": "Contaminated food leads to (e) ___ victims.",
+    "options": {
+      "a": "many",
+      "b": "dead",
+      "c": "sick",
+      "d": "weak"
+    },
+    "correct_answer": "a",
+    "explanation": "অনেক মানুষ শিকার হয় বুঝাতে 'many victims' সঠিক।"
+  },
+  {
+    "id": 339,
+    "question": "Globalisation has (j) ___ our life.",
+    "options": {
+      "a": "changed",
+      "b": "made",
+      "c": "helped",
+      "d": "built"
+    },
+    "correct_answer": "a",
+    "explanation": "বিশ্বায়ন জীবনকে বদলে দিয়েছে (changed)।"
+  },
+  {
+    "id": 340,
+    "question": "The butterfly (j) ___ like a leaf.",
+    "options": {
+      "a": "seems",
+      "b": "looks",
+      "c": "feels",
+      "d": "shows"
+    },
+    "correct_answer": "b",
+    "explanation": "দেখতে পাতার মতো বুঝাতে 'looks' সঠিক।"
+  },
+  {
+    "id": 341,
+    "question": "Education helps us (j) ___ positive changes.",
+    "options": {
+      "a": "get",
+      "b": "bring",
+      "c": "show",
+      "d": "make"
+    },
+    "correct_answer": "b",
+    "explanation": "ইতিবাচক পরিবর্তন নিয়ে আসা বুঝাতে 'bring' সঠিক।"
+  },
+  {
+    "id": 342,
+    "question": "Food adulteration is a (a) ___ problem.",
+    "options": {
+      "a": "big",
+      "b": "great",
+      "c": "national",
+      "d": "major"
+    },
+    "correct_answer": "d",
+    "explanation": "এটি একটি 'প্রধান' বা 'major' সমস্যা।"
+  },
+  {
+    "id": 343,
+    "question": "The world is (f) ___ village.",
+    "options": {
+      "a": "one",
+      "b": "single",
+      "c": "global",
+      "d": "small"
+    },
+    "correct_answer": "c",
+    "explanation": "গ্লোবাল ভিলেজ বা বিশ্বগ্রাম বুঝাতে 'global' সঠিক।"
+  },
+  {
+    "id": 344,
+    "question": "Animals protect themselves (a) ___ enemies.",
+    "options": {
+      "a": "by",
+      "b": "from",
+      "c": "with",
+      "d": "for"
+    },
+    "correct_answer": "b",
+    "explanation": "শত্রুর হাত থেকে রক্ষা বুঝাতে 'from' বসে।"
+  },
+  {
+    "id": 345,
+    "question": "Education (i) ___ positive changes.",
+    "options": {
+      "a": "makes",
+      "b": "brings",
+      "c": "gives",
+      "d": "takes"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবর্তন আনা বুঝাতে 'brings' সঠিক।"
+  },
+  {
+    "id": 346,
+    "question": "Green grocers use (f) ___ substances.",
+    "options": {
+      "a": "bad",
+      "b": "poisonous",
+      "c": "harmful",
+      "d": "wrong"
+    },
+    "correct_answer": "b",
+    "explanation": "বিষাক্ত দ্রব্য বুঝাতে 'poisonous' সঠিক।"
+  },
+  {
+    "id": 347,
+    "question": "Science has (j) ___ the world.",
+    "options": {
+      "a": "built",
+      "b": "changed",
+      "c": "made",
+      "d": "ruled"
+    },
+    "correct_answer": "b",
+    "explanation": "বিজ্ঞান পৃথিবীকে বদলে দিয়েছে।"
+  },
+  {
+    "id": 348,
+    "question": "The toad (f) ___ its color.",
+    "options": {
+      "a": "takes",
+      "b": "changes",
+      "c": "gives",
+      "d": "shows"
+    },
+    "correct_answer": "b",
+    "explanation": "রঙ পরিবর্তন করা বুঝাতে 'changes' সঠিক।"
+  },
+  {
+    "id": 349,
+    "question": "Education is a (j) ___ need.",
+    "options": {
+      "a": "basic",
+      "b": "main",
+      "c": "vital",
+      "d": "prime"
+    },
+    "correct_answer": "a",
+    "explanation": "মৌলিক চাহিদা বুঝাতে 'basic' সঠিক।"
+  },
+  {
+    "id": 350,
+    "question": "Public (j) ___ is very important.",
+    "options": {
+      "a": "knowledge",
+      "b": "awareness",
+      "c": "sense",
+      "d": "thought"
+    },
+    "correct_answer": "b",
+    "explanation": "জনসচেতনতা বুঝাতে 'awareness' সঠিক শব্দ।"
+  },
+  {
+    "id": 351,
+    "question": "Trees are very (a) ___ to us.",
+    "options": {
+      "a": "important",
+      "b": "useful",
+      "c": "essential",
+      "d": "helpful"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছ আমাদের জন্য খুবই 'উপকারী' বুঝাতে 'useful' সঠিক।"
+  },
+  {
+    "id": 352,
+    "question": "They (b) ___ us in many ways.",
+    "options": {
+      "a": "give",
+      "b": "serve",
+      "c": "help",
+      "d": "protect"
+    },
+    "correct_answer": "c",
+    "explanation": "গাছ আমাদের বিভিন্নভাবে 'সাহায্য' করে।"
+  },
+  {
+    "id": 353,
+    "question": "They (c) ___ us with food and fruits.",
+    "options": {
+      "a": "provide",
+      "b": "supply",
+      "c": "offer",
+      "d": "bring"
+    },
+    "correct_answer": "a",
+    "explanation": "সরবরাহ করা বা জোগান দেওয়া অর্থে 'provide' সঠিক।"
+  },
+  {
+    "id": 354,
+    "question": "They provide us with (d) ___ to build houses.",
+    "options": {
+      "a": "wood",
+      "b": "timber",
+      "c": "log",
+      "d": "stick"
+    },
+    "correct_answer": "b",
+    "explanation": "ঘর তৈরির জন্য প্রয়োজনীয় কাঠ বুঝাতে 'timber' শব্দটি প্যাসেজে আছে।"
+  },
+  {
+    "id": 355,
+    "question": "They (f) ___ the land from being washed away.",
+    "options": {
+      "a": "stop",
+      "b": "keep",
+      "c": "prevent",
+      "d": "save"
+    },
+    "correct_answer": "c",
+    "explanation": "ভূমি ক্ষয় রোধ করা বুঝাতে 'prevent' সঠিক শব্দ।"
+  },
+  {
+    "id": 356,
+    "question": "They (g) ___ the air clean and fresh.",
+    "options": {
+      "a": "make",
+      "b": "keep",
+      "c": "stay",
+      "d": "hold"
+    },
+    "correct_answer": "b",
+    "explanation": "বাতাস নির্মল 'রাখা' বুঝাতে 'keep' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 357,
+    "question": "Many trees (h) ___ us medicine.",
+    "options": {
+      "a": "give",
+      "b": "show",
+      "c": "send",
+      "d": "tell"
+    },
+    "correct_answer": "a",
+    "explanation": "গাছ আমাদের ঔষধ দেয় (give)।"
+  },
+  {
+    "id": 358,
+    "question": "We should (i) ___ trees more and more.",
+    "options": {
+      "a": "plant",
+      "b": "grow",
+      "c": "keep",
+      "d": "take"
+    },
+    "correct_answer": "a",
+    "explanation": "বেশি বেশি গাছ 'রোপণ' করা উচিত (plant)।"
+  },
+  {
+    "id": 359,
+    "question": "Tree plantation is a (j) ___ to our national economy.",
+    "options": {
+      "a": "help",
+      "b": "benefit",
+      "c": "contribution",
+      "d": "blessing"
+    },
+    "correct_answer": "c",
+    "explanation": "জাতীয় অর্থনীতিতে গাছ লাগানো একটি বড় 'অবদান' (contribution)।"
+  },
+  {
+    "id": 360,
+    "question": "Good manners (a) ___ an important part of our life.",
+    "options": {
+      "a": "make",
+      "b": "form",
+      "c": "build",
+      "d": "create"
+    },
+    "correct_answer": "b",
+    "explanation": "জীবনের অংশ 'গঠন' করা বুঝাতে 'form' সঠিক।"
+  },
+  {
+    "id": 361,
+    "question": "They (b) ___ a man respected and loved.",
+    "options": {
+      "a": "make",
+      "b": "show",
+      "c": "let",
+      "d": "get"
+    },
+    "correct_answer": "a",
+    "explanation": "কাউকে শ্রদ্ধার পাত্র 'তৈরি করা' বা 'পরিণত করা' অর্থে 'make' বসে।"
+  },
+  {
+    "id": 362,
+    "question": "We should (c) ___ good manners from our childhood.",
+    "options": {
+      "a": "learn",
+      "b": "practice",
+      "c": "take",
+      "d": "follow"
+    },
+    "correct_answer": "a",
+    "explanation": "শৈশব থেকে ভালো আচরণ 'শেখা' উচিত।"
+  },
+  {
+    "id": 363,
+    "question": "It is our (d) ___ to behave well with others.",
+    "options": {
+      "a": "job",
+      "b": "work",
+      "c": "duty",
+      "d": "task"
+    },
+    "correct_answer": "c",
+    "explanation": "অন্যের সাথে ভালো ব্যবহার করা আমাদের 'দায়িত্ব' (duty)।"
+  },
+  {
+    "id": 364,
+    "question": "A man of (f) ___ manners is hated by all.",
+    "options": {
+      "a": "ill",
+      "b": "bad",
+      "c": "wrong",
+      "d": "rude"
+    },
+    "correct_answer": "a",
+    "explanation": "খারাপ আচরণ বুঝাতে 'ill manners' শব্দটি Clue-তে আছে।"
+  },
+  {
+    "id": 365,
+    "question": "Nobody (g) ___ him.",
+    "options": {
+      "a": "wants",
+      "b": "likes",
+      "c": "calls",
+      "d": "seeks"
+    },
+    "correct_answer": "b",
+    "explanation": "খারাপ আচরণের মানুষকে কেউ 'পছন্দ' করে না।"
+  },
+  {
+    "id": 366,
+    "question": "Environment (a) ___ is a great threat to us.",
+    "options": {
+      "a": "damage",
+      "b": "pollution",
+      "c": "waste",
+      "d": "dirt"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশ 'দূষণ' আমাদের জন্য বড় হুমকি।"
+  },
+  {
+    "id": 367,
+    "question": "We must (b) ___ our environment to live well.",
+    "options": {
+      "a": "save",
+      "b": "protect",
+      "c": "keep",
+      "d": "clean"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশ 'রক্ষা' করা বুঝাতে 'protect' সঠিক।"
+  },
+  {
+    "id": 368,
+    "question": "Air is (c) ___ in many ways.",
+    "options": {
+      "a": "spoiled",
+      "b": "polluted",
+      "c": "bad",
+      "d": "mixed"
+    },
+    "correct_answer": "b",
+    "explanation": "বাতাস নানাভাবে 'দূষিত' হচ্ছে।"
+  },
+  {
+    "id": 369,
+    "question": "Smoke from (d) ___ pollutes air.",
+    "options": {
+      "a": "mills",
+      "b": "factories",
+      "c": "cars",
+      "d": "engines"
+    },
+    "correct_answer": "b",
+    "explanation": "কলকারখানার ধোঁয়া বাতাস দূষিত করে।"
+  },
+  {
+    "id": 370,
+    "question": "Vehicles (f) ___ the environment by emitting smoke.",
+    "options": {
+      "a": "ruin",
+      "b": "pollute",
+      "c": "harm",
+      "d": "dirt"
+    },
+    "correct_answer": "b",
+    "explanation": "যানবাহন ধোঁয়া ছেড়ে পরিবেশ 'দূষিত' করে।"
+  },
+  {
+    "id": 371,
+    "question": "Trees (g) ___ the environment from pollution.",
+    "options": {
+      "a": "save",
+      "b": "protect",
+      "c": "free",
+      "d": "clean"
+    },
+    "correct_answer": "a",
+    "explanation": "গাছ পরিবেশকে দূষণ থেকে 'রক্ষা' বা 'বাঁচায়' (save)।"
+  },
+  {
+    "id": 372,
+    "question": "Water is also (h) ___ by waste materials.",
+    "options": {
+      "a": "dirty",
+      "b": "polluted",
+      "c": "spoiled",
+      "d": "poisoned"
+    },
+    "correct_answer": "b",
+    "explanation": "বর্জ্য পদার্থের মাধ্যমে পানি 'দূষিত' হয়।"
+  },
+  {
+    "id": 373,
+    "question": "We should be (i) ___ about this problem.",
+    "options": {
+      "a": "active",
+      "b": "conscious",
+      "c": "alert",
+      "d": "careful"
+    },
+    "correct_answer": "b",
+    "explanation": "এই সমস্যা নিয়ে আমাদের 'সচেতন' (conscious) হওয়া দরকার।"
+  },
+  {
+    "id": 374,
+    "question": "Trees (a) ___ carbon dioxide.",
+    "options": {
+      "a": "take",
+      "b": "absorb",
+      "c": "inhale",
+      "d": "receive"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছ কার্বন ডাই অক্সাইড 'শোষণ' (absorb) করে।"
+  },
+  {
+    "id": 375,
+    "question": "They (b) ___ oxygen.",
+    "options": {
+      "a": "give",
+      "b": "release",
+      "c": "provide",
+      "d": "leave"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছ অক্সিজেন 'ত্যাগ' (release) করে।"
+  },
+  {
+    "id": 376,
+    "question": "Good manners (h) ___ the way for success.",
+    "options": {
+      "a": "open",
+      "b": "clear",
+      "c": "pave",
+      "d": "make"
+    },
+    "correct_answer": "c",
+    "explanation": "সাফল্যের পথ 'প্রশস্ত' করা অর্থে 'pave the way' সঠিক।"
+  },
+  {
+    "id": 377,
+    "question": "Environment (j) ___ is a global issue.",
+    "options": {
+      "a": "damage",
+      "b": "pollution",
+      "c": "crisis",
+      "d": "change"
+    },
+    "correct_answer": "b",
+    "explanation": "পরিবেশ দূষণ একটি বৈশ্বিক সমস্যা।"
+  },
+  {
+    "id": 378,
+    "question": "Trees (a) ___ our best friends.",
+    "options": {
+      "a": "become",
+      "b": "are",
+      "c": "stay",
+      "d": "remain"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছ আমাদের প্রকৃত বন্ধু।"
+  },
+  {
+    "id": 379,
+    "question": "Manners (b) ___ a man perfect.",
+    "options": {
+      "a": "build",
+      "b": "make",
+      "c": "show",
+      "d": "turn"
+    },
+    "correct_answer": "b",
+    "explanation": "আচরণ মানুষকে 'পরিপূর্ণ' করে।"
+  },
+  {
+    "id": 380,
+    "question": "We (c) ___ trees for oxygen.",
+    "options": {
+      "a": "want",
+      "b": "need",
+      "c": "seek",
+      "d": "ask"
+    },
+    "correct_answer": "b",
+    "explanation": "অক্সিজেনের জন্য আমাদের গাছের 'প্রয়োজন'।"
+  },
+  {
+    "id": 381,
+    "question": "A student (d) ___ follow good manners.",
+    "options": {
+      "a": "can",
+      "b": "must",
+      "c": "should",
+      "d": "may"
+    },
+    "correct_answer": "c",
+    "explanation": "ছাত্রদের ভালো আচরণ অনুসরণ করা 'উচিত'।"
+  },
+  {
+    "id": 382,
+    "question": "Water (e) ___ life.",
+    "options": {
+      "a": "means",
+      "b": "is",
+      "c": "gives",
+      "d": "calls"
+    },
+    "correct_answer": "a",
+    "explanation": "পানির অপর নাম জীবন।"
+  },
+  {
+    "id": 383,
+    "question": "Trees (f) ___ rain.",
+    "options": {
+      "a": "make",
+      "b": "cause",
+      "c": "bring",
+      "d": "give"
+    },
+    "correct_answer": "c",
+    "explanation": "গাছ বৃষ্টি 'নিয়ে আসে' (bring)।"
+  },
+  {
+    "id": 384,
+    "question": "Character is (g) ___ virtue.",
+    "options": {
+      "a": "noble",
+      "b": "great",
+      "c": "best",
+      "d": "good"
+    },
+    "correct_answer": "a",
+    "explanation": "চরিত্র একটি মহৎ গুণ।"
+  },
+  {
+    "id": 385,
+    "question": "Avoid (h) ___ water.",
+    "options": {
+      "a": "using",
+      "b": "polluting",
+      "c": "wasting",
+      "d": "taking"
+    },
+    "correct_answer": "b",
+    "explanation": "পানি দূষণ পরিহার করা উচিত।"
+  },
+  {
+    "id": 386,
+    "question": "Education (i) ___ darkness.",
+    "options": {
+      "a": "kills",
+      "b": "removes",
+      "c": "drives",
+      "d": "stops"
+    },
+    "correct_answer": "b",
+    "explanation": "শিক্ষা অন্ধকার 'দূর করে'।"
+  },
+  {
+    "id": 387,
+    "question": "Trees (j) ___ shelter.",
+    "options": {
+      "a": "show",
+      "b": "give",
+      "c": "take",
+      "d": "keep"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছ আশ্রয় দেয়।"
+  },
+  {
+    "id": 388,
+    "question": "Manners are (a) ___ to all.",
+    "options": {
+      "a": "good",
+      "b": "important",
+      "c": "known",
+      "d": "liked"
+    },
+    "correct_answer": "b",
+    "explanation": "আচরণ সবার কাছে 'গুরুত্বপূর্ণ'।"
+  },
+  {
+    "id": 389,
+    "question": "Air (b) ___ oxygen.",
+    "options": {
+      "a": "keeps",
+      "b": "contains",
+      "c": "has",
+      "d": "gives"
+    },
+    "correct_answer": "b",
+    "explanation": "বাতাসে অক্সিজেন 'থাকে' (contains)।"
+  },
+  {
+    "id": 390,
+    "question": "Plant (c) ___ saplings.",
+    "options": {
+      "a": "more",
+      "b": "some",
+      "c": "many",
+      "d": "few"
+    },
+    "correct_answer": "a",
+    "explanation": "'অধিক' চারা গাছ লাগানো উচিত।"
+  },
+  {
+    "id": 391,
+    "question": "Truth (d) ___ always.",
+    "options": {
+      "a": "wins",
+      "b": "shines",
+      "c": "lives",
+      "d": "stays"
+    },
+    "correct_answer": "a",
+    "explanation": "সত্যের জয় সব সময়।"
+  },
+  {
+    "id": 392,
+    "question": "Water is (e) ___ .",
+    "options": {
+      "a": "clear",
+      "b": "liquid",
+      "c": "valuable",
+      "d": "tasty"
+    },
+    "correct_answer": "c",
+    "explanation": "পানি অত্যন্ত মূল্যবান (valuable)।"
+  },
+  {
+    "id": 393,
+    "question": "Character is (f) ___ .",
+    "options": {
+      "a": "gold",
+      "b": "power",
+      "c": "wealth",
+      "d": "light"
+    },
+    "correct_answer": "c",
+    "explanation": "চরিত্রই সম্পদ।"
+  },
+  {
+    "id": 394,
+    "question": "Trees (g) ___ soil.",
+    "options": {
+      "a": "hold",
+      "b": "keep",
+      "c": "save",
+      "d": "take"
+    },
+    "correct_answer": "a",
+    "explanation": "গাছ মাটি 'আকড়ে ধরে' (hold)।"
+  },
+  {
+    "id": 395,
+    "question": "Manners (h) ___ respect.",
+    "options": {
+      "a": "get",
+      "b": "bring",
+      "c": "give",
+      "d": "show"
+    },
+    "correct_answer": "b",
+    "explanation": "আচরণ শ্রদ্ধা 'নিয়ে আসে'।"
+  },
+  {
+    "id": 396,
+    "question": "Environment (i) ___ balance.",
+    "options": {
+      "a": "needs",
+      "b": "keeps",
+      "c": "makes",
+      "d": "shows"
+    },
+    "correct_answer": "a",
+    "explanation": "পরিবেশের ভারসাম্য 'প্রয়োজন'।"
+  },
+  {
+    "id": 397,
+    "question": "Oxygen is (j) ___ .",
+    "options": {
+      "a": "gas",
+      "b": "vital",
+      "c": "clean",
+      "d": "free"
+    },
+    "correct_answer": "b",
+    "explanation": "অক্সিজেন জীবনের জন্য 'অপরিহার্য' বা 'vital'।"
+  },
+  {
+    "id": 398,
+    "question": "Planting trees (a) ___ us.",
+    "options": {
+      "a": "helps",
+      "b": "saves",
+      "c": "keeps",
+      "d": "makes"
+    },
+    "correct_answer": "b",
+    "explanation": "গাছ লাগানো আমাদের 'রক্ষা করে' বা 'বাঁচায়' (saves)।"
+  },
+  {
+    "id": 399,
+    "question": "Behave (b) ___ .",
+    "options": {
+      "a": "well",
+      "b": "nicely",
+      "c": "properly",
+      "d": "softly"
+    },
+    "correct_answer": "c",
+    "explanation": "সঠিকভাবে বা 'properly' আচরণ করা উচিত।"
+  },
+  {
+    "id": 400,
+    "question": "Trees (c) ___ beauty.",
+    "options": {
+      "a": "add",
+      "b": "give",
+      "c": "show",
+      "d": "make"
+    },
+    "correct_answer": "a",
+    "explanation": "গাছ সৌন্দর্য 'বৃদ্ধি করে' বা 'যোগ করে' (add)।"
+  },
+  {
+    "id": 401,
+    "question": "Hakaluki Haor has both economic and non-economic (a) ___.",
+    "options": {
+      "a": "value",
+      "b": "importance",
+      "c": "significance",
+      "d": "benefits"
+    },
+    "correct_answer": "b",
+    "explanation": "হাকালুকি হাওরের অর্থনৈতিক এবং অ-অর্থনৈতিক উভয় গুরুত্ব (importance) রয়েছে।"
+  },
+  {
+    "id": 402,
+    "question": "It (b) ___ a wide range of (c) ___ to the local people.",
+    "options": {
+      "a": "gives",
+      "b": "provides",
+      "c": "offers",
+      "d": "brings"
+    },
+    "correct_answer": "b",
+    "explanation": "স্থানীয় মানুষদের বিভিন্ন সুবিধা 'প্রদান' করা বুঝাতে 'provides' সঠিক।"
+  },
+  {
+    "id": 403,
+    "question": "People (d) ___ here can produce fish and rice.",
+    "options": {
+      "a": "living",
+      "b": "residing",
+      "c": "staying",
+      "d": "working"
+    },
+    "correct_answer": "a",
+    "explanation": "সেখানে 'বসবাসরত' (living) মানুষ মাছ ও ধান উৎপাদন করতে পারে।"
+  },
+  {
+    "id": 404,
+    "question": "They (e) ___ buffalo and duck.",
+    "options": {
+      "a": "keep",
+      "b": "rear",
+      "c": "grow",
+      "d": "farm"
+    },
+    "correct_answer": "b",
+    "explanation": "হাঁস ও মহিষ 'পালন' করা বুঝাতে 'rear' শব্দটি প্যাসেজে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 405,
+    "question": "The haor (h) ___ also provides (i) ___ place for the (j) ___ birds.",
+    "options": {
+      "a": "system",
+      "b": "area",
+      "c": "region",
+      "d": "water"
+    },
+    "correct_answer": "a",
+    "explanation": "হাওর 'ব্যবস্থা' বা 'ecosystem' বুঝাতে 'system' Clue-তে আছে।"
+  },
+  {
+    "id": 406,
+    "question": "Provides (i) ___ place for the birds.",
+    "options": {
+      "a": "safe",
+      "b": "resting",
+      "c": "living",
+      "d": "staying"
+    },
+    "correct_answer": "b",
+    "explanation": "পাখিদের জন্য 'বিশ্রামের স্থান' (resting place) প্রদান করে।"
+  },
+  {
+    "id": 407,
+    "question": "Place for the (j) ___ birds.",
+    "options": {
+      "a": "local",
+      "b": "migratory",
+      "c": "flying",
+      "d": "wild"
+    },
+    "correct_answer": "b",
+    "explanation": "অতিথি বা 'পরিযায়ী' পাখিদের বুঝাতে 'migratory' সঠিক।"
+  },
+  {
+    "id": 408,
+    "question": "(a) ___ blind people cannot (b) ___ .",
+    "options": {
+      "a": "If",
+      "b": "As",
+      "c": "Since",
+      "d": "Though"
+    },
+    "correct_answer": "b",
+    "explanation": "যেহেতু (As) অন্ধ ব্যক্তিরা দেখতে পায় না, তাই তাদের অন্য ইন্দ্রিয় প্রখর হয়।"
+  },
+  {
+    "id": 409,
+    "question": "Their sense of (c) ___ becomes far more (d) ___ .",
+    "options": {
+      "a": "touch",
+      "b": "feel",
+      "c": "hearing",
+      "d": "smell"
+    },
+    "correct_answer": "a",
+    "explanation": "অন্ধদের 'স্পর্শ' (touch) অনুভূতি বেশি শক্তিশালী হয়।"
+  },
+  {
+    "id": 410,
+    "question": "Becomes far more (d) ___ than that of sighted people.",
+    "options": {
+      "a": "sharp",
+      "b": "developed",
+      "c": "active",
+      "d": "useful"
+    },
+    "correct_answer": "b",
+    "explanation": "দৃষ্টিশক্তি সম্পন্ন মানুষের চেয়ে তাদের এই শক্তি বেশি 'উন্নত' (developed) হয়।"
+  },
+  {
+    "id": 411,
+    "question": "This ability was put to use by a brilliant man (e) ___ Louis Braille.",
+    "options": {
+      "a": "named",
+      "b": "called",
+      "c": "known",
+      "d": "given"
+    },
+    "correct_answer": "b",
+    "explanation": "লুইস ব্রেইল 'নামক' বা তাকে 'বলা হয়' (called) এমন একজন এই ক্ষমতা কাজে লাগিয়েছেন।"
+  },
+  {
+    "id": 412,
+    "question": "The Braille system reproduces the letters of the alphabet by a series of (h) ___ .",
+    "options": {
+      "a": "marks",
+      "b": "dots",
+      "c": "signs",
+      "d": "holes"
+    },
+    "correct_answer": "b",
+    "explanation": "ব্রেইল পদ্ধতিতে অক্ষরের পরিবর্তে কতগুলো 'বিন্দু' বা 'dots' থাকে।"
+  },
+  {
+    "id": 413,
+    "question": "Dots which are (i) ___ on the paper.",
+    "options": {
+      "a": "kept",
+      "b": "raised",
+      "c": "marked",
+      "d": "shown"
+    },
+    "correct_answer": "b",
+    "explanation": "কাগজের ওপর বিন্দুগুলো 'উঁচু' (raised) করা থাকে যাতে স্পর্শ করা যায়।"
+  },
+  {
+    "id": 414,
+    "question": "The blind person runs the (j) ___ of his fingers across the pages.",
+    "options": {
+      "a": "ends",
+      "b": "tips",
+      "c": "parts",
+      "d": "lines"
+    },
+    "correct_answer": "b",
+    "explanation": "আঙ্গুলের 'মাথা' বা 'tips' দিয়ে তারা কাগজ স্পর্শ করে পড়ে।"
+  },
+  {
+    "id": 415,
+    "question": "It's a matter of great concern that Bangladesh (a) ___ in the active earthquake zone.",
+    "options": {
+      "a": "stays",
+      "b": "lies",
+      "c": "sits",
+      "d": "remains"
+    },
+    "correct_answer": "b",
+    "explanation": "বাংলাদেশ ভূমিকম্প প্রবণ অঞ্চলে 'অবস্থিত' (lies) হওয়া উদ্বেগের বিষয়।"
+  },
+  {
+    "id": 416,
+    "question": "Most of the Bangladeshi are fully (b) ___ of its severity.",
+    "options": {
+      "a": "known",
+      "b": "aware",
+      "c": "informed",
+      "d": "sure"
+    },
+    "correct_answer": "b",
+    "explanation": "এর ভয়াবহতা সম্পর্কে বাংলাদেশিরা পুরোপুরি 'সচেতন' (aware)।"
+  },
+  {
+    "id": 417,
+    "question": "Experts are alarmed by the (c) ___ of quakes during recent years.",
+    "options": {
+      "a": "number",
+      "b": "recur",
+      "c": "count",
+      "d": "rate"
+    },
+    "correct_answer": "b",
+    "explanation": "ভূমিকম্পের 'পুনরাবৃত্তি' (recur) দেখে বিশেষজ্ঞরা শঙ্কিত।"
+  },
+  {
+    "id": 418,
+    "question": "But they give no (d) ___ answer to the question of (e) ___ .",
+    "options": {
+      "a": "clear",
+      "b": "straight",
+      "c": "right",
+      "d": "easy"
+    },
+    "correct_answer": "b",
+    "explanation": "তারা সরাসরি বা 'সোজা' (straight) কোনো উত্তর দিতে পারছে না।"
+  },
+  {
+    "id": 419,
+    "question": "Question of (e) ___ about the buildings of Dhaka city.",
+    "options": {
+      "a": "security",
+      "b": "safety",
+      "c": "risk",
+      "d": "strength"
+    },
+    "correct_answer": "b",
+    "explanation": "ভবনগুলোর 'নিরাপত্তা' (safety) নিয়ে প্রশ্ন থেকে যাচ্ছে।"
+  },
+  {
+    "id": 420,
+    "question": "There is every (f) ___ of earthquakes in Bangladesh.",
+    "options": {
+      "a": "chance",
+      "b": "possibility",
+      "c": "hope",
+      "d": "risk"
+    },
+    "correct_answer": "b",
+    "explanation": "ভূমিকম্প হওয়ার সব ধরনের 'সম্ভাবনা' (possibility) রয়েছে।"
+  },
+  {
+    "id": 421,
+    "explanation": "ক্ষয়ক্ষতি 'কমানোর' (minimize) জন্য বিশেষজ্ঞদের পরামর্শ নেওয়া উচিত।",
+    "correct_answer": "b",
+    "options": {
+      "a": "stop",
+      "b": "minimize",
+      "c": "control",
+      "d": "check"
+    },
+    "question": "Experts call for taking adequate (g) ___ measures to (h) ___ losses.",
+    "id": 421
+  },
+  {
+    "id": 422,
+    "question": "An earthquake resistant building code should be (j) ___ .",
+    "options": {
+      "a": "made",
+      "b": "compulsory",
+      "c": "fixed",
+      "d": "strict"
+    },
+    "correct_answer": "b",
+    "explanation": "ভূমিকম্প সহনীয় বিল্ডিং কোড 'বাধ্যতামূলক' (compulsory) করা উচিত।"
+  },
+  {
+    "id": 423,
+    "question": "Conflict can be (a) ___ as clash of values.",
+    "options": {
+      "a": "called",
+      "b": "defined",
+      "c": "known",
+      "d": "told"
+    },
+    "correct_answer": "b",
+    "explanation": "দ্বন্দ্বকে মূল্যবোধের সংঘাত হিসেবে 'সংজ্ঞায়িত' (defined) করা যায়।"
+  },
+  {
+    "id": 424,
+    "question": "Conflicts occur (b) ___ other things.",
+    "options": {
+      "a": "with",
+      "b": "among",
+      "c": "between",
+      "d": "from"
+    },
+    "correct_answer": "b",
+    "explanation": "বিভিন্ন বিষয়ের 'মধ্যে' দ্বন্দ্ব তৈরি হয় (among)।"
+  },
+  {
+    "id": 425,
+    "question": "The most serious form of conflict is (b) ___ clashes.",
+    "options": {
+      "a": "physical",
+      "b": "armed",
+      "c": "blood",
+      "d": "deadly"
+    },
+    "correct_answer": "b",
+    "explanation": "দ্বন্দ্বের সবচেয়ে ভয়াবহ রূপ হলো 'সশস্ত্র' (armed) সংঘাত।"
+  },
+  {
+    "id": 426,
+    "question": "Conflicts result in lots of (c) ___ and casualties.",
+    "options": {
+      "a": "loss",
+      "b": "deaths",
+      "c": "pain",
+      "d": "war"
+    },
+    "correct_answer": "b",
+    "explanation": "দ্বন্দ্বের ফলে অনেক 'মৃত্যু' (deaths) এবং হতাহত হয়।"
+  },
+  {
+    "id": 427,
+    "question": "Conflict between or (f) ___ persons is called (g) ___ conflict.",
+    "options": {
+      "a": "with",
+      "b": "among",
+      "c": "for",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "ব্যক্তিদের মধ্যে দ্বন্দ্ব বুঝাতে 'among' সঠিক।"
+  },
+  {
+    "id": 428,
+    "question": "Called (g) ___ conflict.",
+    "options": {
+      "a": "personal",
+      "b": "interpersonal",
+      "c": "social",
+      "d": "outer"
+    },
+    "correct_answer": "b",
+    "explanation": "ব্যক্তিদের মধ্যকার দ্বন্দ্বকে 'interpersonal' বলা হয়।"
+  },
+  {
+    "id": 429,
+    "question": "Constraint of resources is also a (h) ___ of conflict.",
+    "options": {
+      "a": "reason",
+      "b": "cause",
+      "c": "way",
+      "d": "part"
+    },
+    "correct_answer": "b",
+    "explanation": "সম্পদের সীমাবদ্ধতা দ্বন্দ্বের একটি 'কারণ' (cause)।"
+  },
+  {
+    "id": 430,
+    "question": "Conflict is a very common phenomenon, but sometimes it takes (j) ___ forms.",
+    "options": {
+      "a": "different",
+      "b": "serious",
+      "c": "deadly",
+      "d": "bad"
+    },
+    "correct_answer": "b",
+    "explanation": "মাঝে মাঝে দ্বন্দ্ব 'ভয়াবহ' (serious) রূপ নেয়।"
+  },
+  {
+    "id": 431,
+    "question": "Local people (d) ___ in Hakaluki Haor.",
+    "options": {
+      "a": "work",
+      "b": "live",
+      "c": "stay",
+      "d": "fish"
+    },
+    "correct_answer": "b",
+    "explanation": "হাওরে মানুষ 'বসবাস' করে।"
+  },
+  {
+    "id": 432,
+    "question": "The sense of touch is (d) ___ in blind people.",
+    "options": {
+      "a": "sharp",
+      "b": "developed",
+      "c": "better",
+      "d": "active"
+    },
+    "correct_answer": "b",
+    "explanation": "অন্ধদের স্পর্শ অনুভূতি অনেক 'উন্নত' হয়।"
+  },
+  {
+    "id": 433,
+    "question": "Experts are (c) ___ by recent earthquakes.",
+    "options": {
+      "a": "scared",
+      "b": "alarmed",
+      "c": "worried",
+      "d": "alert"
+    },
+    "correct_answer": "b",
+    "explanation": "ভূমিকম্পের প্রবণতা দেখে বিশেষজ্ঞরা 'শঙ্কিত' বা 'alarmed'।"
+  },
+  {
+    "id": 434,
+    "question": "Conflict takes (j) ___ forms.",
+    "options": {
+      "a": "many",
+      "b": "various",
+      "c": "serious",
+      "d": "deadly"
+    },
+    "correct_answer": "b",
+    "explanation": "দ্বন্দ্বের 'বিভিন্ন' (various) রূপ হতে পারে।"
+  },
+  {
+    "id": 435,
+    "question": "Hakaluki haor has (a) ___ importance.",
+    "options": {
+      "a": "great",
+      "b": "huge",
+      "c": "economic",
+      "d": "local"
+    },
+    "correct_answer": "c",
+    "explanation": "হাওরের বড় ধরণের 'অর্থনৈতিক' গুরুত্ব আছে।"
+  },
+  {
+    "id": 436,
+    "question": "Braille system uses (h) ___ .",
+    "options": {
+      "a": "holes",
+      "b": "dots",
+      "c": "lines",
+      "d": "marks"
+    },
+    "correct_answer": "b",
+    "explanation": "ব্রেইল সিস্টেমে 'ডট' বা বিন্দু ব্যবহার হয়।"
+  },
+  {
+    "id": 437,
+    "question": "Building code should be (j) ___ .",
+    "options": {
+      "a": "made",
+      "b": "kept",
+      "c": "compulsory",
+      "d": "checked"
+    },
+    "correct_answer": "c",
+    "explanation": "এটি বাধ্যতামূলক বা 'compulsory' হওয়া দরকার।"
+  },
+  {
+    "id": 438,
+    "question": "Conflicts lead to (c) ___ .",
+    "options": {
+      "a": "pain",
+      "b": "death",
+      "c": "deaths",
+      "d": "sorrow"
+    },
+    "correct_answer": "c",
+    "explanation": "দ্বন্দ্বের কারণে অনেক 'মৃত্যু' ঘটে।"
+  },
+  {
+    "id": 439,
+    "question": "Migratory (j) ___ visit the haor.",
+    "options": {
+      "a": "animals",
+      "b": "birds",
+      "c": "guests",
+      "d": "people"
+    },
+    "correct_answer": "b",
+    "explanation": "অতিথি পাখিরা হাওরে আসে।"
+  },
+  {
+    "id": 440,
+    "question": "Blind people use (j) ___ to read.",
+    "options": {
+      "a": "hands",
+      "b": "fingers",
+      "c": "eyes",
+      "d": "mind"
+    },
+    "correct_answer": "b",
+    "explanation": "তারা পড়ার জন্য 'আঙ্গুল' ব্যবহার করে।"
+  },
+  {
+    "id": 441,
+    "question": "Bangladesh is in (a) ___ zone.",
+    "options": {
+      "a": "active",
+      "b": "danger",
+      "c": "safe",
+      "d": "red"
+    },
+    "correct_answer": "a",
+    "explanation": "বাংলাদেশ 'সক্রিয়' বা active জোন-এ আছে।"
+  },
+  {
+    "id": 442,
+    "question": "Constraint of (h) ___ causes conflict.",
+    "options": {
+      "a": "money",
+      "b": "resources",
+      "c": "power",
+      "d": "space"
+    },
+    "correct_answer": "b",
+    "explanation": "'সম্পদ' বা resources এর অভাব দ্বন্দ্ব সৃষ্টি করে।"
+  },
+  {
+    "id": 443,
+    "question": "Hakaluki haor is (b) ___ system.",
+    "options": {
+      "a": "water",
+      "b": "eco",
+      "c": "natural",
+      "d": "large"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি একটি ইকো-সিস্টেম (ecosystem)।"
+  },
+  {
+    "id": 444,
+    "question": "Dots are (i) ___ on paper.",
+    "options": {
+      "a": "shown",
+      "b": "raised",
+      "c": "kept",
+      "d": "put"
+    },
+    "correct_answer": "b",
+    "explanation": "ডটগুলো কাগজের ওপর উঁচু বা 'raised' থাকে।"
+  },
+  {
+    "id": 445,
+    "question": "Experts suggest (g) ___ .",
+    "options": {
+      "a": "ideas",
+      "b": "precautions",
+      "c": "rules",
+      "d": "ways"
+    },
+    "correct_answer": "b",
+    "explanation": "বিশেষজ্ঞরা সতর্কতামূলক ব্যবস্থা বা 'precautions' এর পরামর্শ দেন।"
+  },
+  {
+    "id": 446,
+    "question": "Armed (b) ___ is dangerous.",
+    "options": {
+      "a": "war",
+      "b": "conflict",
+      "c": "fight",
+      "d": "clash"
+    },
+    "correct_answer": "b",
+    "explanation": "সশস্ত্র 'দ্বন্দ্ব' খুব বিপজ্জনক।"
+  },
+  {
+    "id": 447,
+    "question": "Haor provides (i) ___ ground.",
+    "options": {
+      "a": "safe",
+      "b": "resting",
+      "c": "good",
+      "d": "open"
+    },
+    "correct_answer": "b",
+    "explanation": "হাওর বিশ্রামের জায়গা বা 'resting' গ্রাউন্ড প্রদান করে।"
+  },
+  {
+    "id": 448,
+    "question": "Braille was (e) ___ by Louis.",
+    "options": {
+      "a": "made",
+      "b": "invented",
+      "c": "known",
+      "d": "shown"
+    },
+    "correct_answer": "b",
+    "explanation": "ব্রেইল লুইসের দ্বারা 'উদ্ভাবিত' (invented) হয়েছিল।"
+  },
+  {
+    "id": 449,
+    "question": "Earthquake causes (h) ___ .",
+    "options": {
+      "a": "damage",
+      "b": "losses",
+      "c": "fear",
+      "d": "shaking"
+    },
+    "correct_answer": "b",
+    "explanation": "ভূমিকম্প অনেক 'ক্ষয়ক্ষতি' (losses) ঘটায়।"
+  },
+  {
+    "id": 450,
+    "question": "Conflict can be (g) ___ .",
+    "options": {
+      "a": "internal",
+      "b": "interpersonal",
+      "c": "social",
+      "d": "personal"
+    },
+    "correct_answer": "b",
+    "explanation": "দ্বন্দ্ব 'আন্তঃব্যক্তিগত' বা interpersonal হতে পারে।"
+  }
+]

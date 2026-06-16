@@ -173,7 +173,7 @@
     "options": {
       "a": "< em > emphasize < em / >",
       "b": "< b > Bold text < b >",
-      "c": "< i > Italic < / i >",
+      "c": "< i > Italic <  i / >",
       "d": "< u > Underline < / u >"
     },
     "correct_answer": "d",
